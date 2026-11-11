@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Prepare for an Accessible Bathroom Remodeling Consultation",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Before requesting an estimate, measure the bathroom, identify current mobility challenges, and decide which features are essential versus optional. Give the remodeling team photos, dimensions, fixture locations, and household preferences so the proposed layout can address clearances, shower access, support locations, storage, lighting, plumbing, electrical work, and permit needs.",
+  "datePublished": "2026-11-11"
+}

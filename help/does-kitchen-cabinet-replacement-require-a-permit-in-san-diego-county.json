@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "an Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Chula Vista",
+        "@type": "City"
+      },
+      {
+        "name": "Coronado",
+        "@type": "City"
+      },
+      {
+        "name": "National City",
+        "@type": "City"
+      },
+      {
+        "name": "Imperial Beach",
+        "@type": "City"
+      },
+      {
+        "name": "La Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Lemon Grove",
+        "@type": "City"
+      },
+      {
+        "name": "El Cajon",
+        "@type": "City"
+      },
+      {
+        "name": "Santee",
+        "@type": "City"
+      },
+      {
+        "name": "Poway",
+        "@type": "City"
+      },
+      {
+        "name": "Del Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Solana Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Encinitas",
+        "@type": "City"
+      },
+      {
+        "name": "Carlsbad",
+        "@type": "City"
+      },
+      {
+        "name": "San Marcos",
+        "@type": "City"
+      },
+      {
+        "name": "Escondido",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Does Kitchen Cabinet Replacement Require a Permit in San Diego County?",
+    "text": "Does Kitchen Cabinet Replacement Require a Permit in San Diego County?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Kitchen cabinet replacement is often straightforward when new cabinets use the existing footprint and utility connections, but the project becomes more involved when the sink, gas line, electrical circuits, walls, countertops, or flooring must change. A qualified remodeling team should review the layout, cabinet specifications, site conditions, and any required city or county approvals before construction begins.",
+      "@type": "Answer",
+      "author": {
+        "name": "Elite Remodeling & Design",
+        "@type": "Organization"
+      }
+    }
+  }
+}

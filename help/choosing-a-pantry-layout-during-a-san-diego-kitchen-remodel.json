@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing a Pantry Layout During a San Diego Kitchen Remodel",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A well-planned pantry should match your household’s shopping habits, appliance storage needs, available floor area, and kitchen workflow. A cabinet pantry often preserves more kitchen space and keeps ingredients close at hand, while a walk-in pantry can hold bulk goods and countertop appliances. The right choice depends on layout, accessibility, construction scope, and how the space will be used.",
+  "datePublished": "2026-11-11"
+}

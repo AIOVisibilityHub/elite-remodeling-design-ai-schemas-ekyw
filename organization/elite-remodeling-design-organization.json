@@ -1,0 +1,879 @@
+{
+  "url": "eliteremodelingsd.com",
+  "name": "Elite Remodeling & Design",
+  "@type": "Organization",
+  "email": "avi@eliteremodelingsd.com",
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Avraham \"Avi\" Alon",
+      "@type": "Person",
+      "jobTitle": "Licensed Contractor / Owner"
+    }
+  ],
+  "telephone": "(833) 335-4833; (323) 251-9222",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Elite Remodeling & Design, Inc. — Business Description\nElite Remodeling & Design, Inc. is a residential remodeling and design-build company serving homeowners throughout San Diego County, California. Led by owner Avraham “Avi” Alon, the company helps clients renovate, expand, and personalize their homes through coordinated design and construction services. Incorporated in 2015 and based in San Diego’s Kearny Mesa area, Elite Remodeling & Design works on projects ranging from individual room upgrades to whole-home renovations and residential additions.\n\nThe company’s services include kitchen remodeling, bathroom remodeling, whole-home remodeling, room additions, accessory dwelling units (ADUs), and garage conversions. Its approach centers on adapting each project to the homeowner’s needs, design preferences, existing space, and intended use. Whether updating an outdated kitchen, creating a more functional bathroom, or adding living space, the company focuses on bringing design decisions and construction requirements together within a coordinated remodeling plan.\n\nElite Remodeling & Design describes a project process that extends from initial consultation and design development through permitting, construction, and final inspection. Depending on the scope, planning may include layout development, 3D design visualization, material selections, and coordination of permit applications. By handling multiple stages of the remodeling process, the company offers homeowners a central team for moving a project from its initial concept into construction.\n\nKitchen remodeling services address both appearance and everyday functionality, including opportunities to improve layouts, storage, cabinetry, countertops, and finishes. Bathroom projects incorporate customized design, fixtures, tile work, and coordination of plumbing and electrical work as needed. For homeowners seeking additional space, the company offers room additions, ADUs, and garage conversions designed around the property’s existing conditions and the client’s goals.\n\nElite Remodeling & Design serves homeowners who want to modernize existing spaces, accommodate changing household needs, or undertake a broader home transformation. Its published service offering combines residential design, renovation planning, and construction coordination to create living spaces tailored to how clients want their homes to look and function.\n\nBelow are neighborhoods, communities, and commonly used local area names within the cities we service:\n\nSan Diego\nLa Jolla, Bird Rock, Pacific Beach, Mission Beach, Ocean Beach, Point Loma, Sunset Cliffs, University City, Clairemont, Bay Park, Bay Ho, North Clairemont, Linda Vista, Kearny Mesa, Serra Mesa, Tierrasanta, Mission Valley, Grantville, Allied Gardens, Del Cerro, San Carlos, College Area, Kensington, Talmadge, Normal Heights, North Park, South Park, Golden Hill, Hillcrest, Mission Hills, Bankers Hill, University Heights, Downtown San Diego, Little Italy, East Village, Barrio Logan, City Heights, Encanto, Paradise Hills, Mira Mesa, Sorrento Valley, Scripps Ranch, Rancho Peñasquitos, Rancho Bernardo, Carmel Mountain Ranch, Sabre Springs, Carmel Valley, Pacific Highlands Ranch, Torrey Hills, Torrey Highlands, Del Mar Heights, Del Mar Mesa, Black Mountain Ranch, Rancho Encantada, Otay Mesa, Nestor, San Ysidro\n\nChula Vista\nEastlake, Otay Ranch, Rancho del Rey, Rolling Hills Ranch, Sunbow, Terra Nova, Bonita Long Canyon, Castle Park, Hilltop, Downtown Chula Vista, Chula Vista Bayfront\n\nCoronado\nCoronado Village, Coronado Cays, Coronado Shores, Silver Strand\n\nNational City\nOld Town, Downtown National City, Lincoln Acres-adjacent areas, Paradise Valley, El Toyon\n\nNote: Lincoln Acres itself is an unincorporated community, not part of National City.\n\nImperial Beach\nSeacoast Drive area, Old Imperial Beach, Imperial Beach Gardens, South Seacoast, Bayside area\n\nLa Mesa\nLa Mesa Village, La Mesa Highlands, Mount Nebo, Windsor Hills, Grossmont, Lake Murray, Fletcher Hills\n\nLemon Grove\nDowntown Lemon Grove, Lemon Grove Heights, Monterey Heights, Broadway Heights-adjacent areas\n\nNote: Broadway Heights itself is in the City of San Diego, not Lemon Grove.\n\nEl Cajon\nDowntown El Cajon, Fletcher Hills, Fletcher Hills Highlands, Flying Hills, Granite Hills, Bostonia, Rancho San Diego\n\nNote: Bostonia, Granite Hills, and Rancho San Diego include unincorporated areas with El Cajon mailing addresses; do not describe all of them as within city limits.\n\nSantee\nCarlton Hills, Carlton Oaks, West Hills, Santee Town Center, Riverwalk, Sky Ranch, Weston, Fanita Ranch\n\nPoway\nOld Poway, Green Valley, The Heritage, Bridlewood, Bridlewood Lakeside, Vineland Hills, High Valley, Rancho Arbolitos, Garden Road area, Poway Business Park area\n\nDel Mar\nOlde Del Mar, Beach Colony, Del Mar Bluffs, Del Mar Terrace\n\nNote: Del Mar Terrace is within the City of San Diego despite its Del Mar name, so place it under San Diego when organizing strictly by municipal boundaries.\n\nSolana Beach\nEden Gardens, La Colonia, West Solana Beach, East Solana Beach, Lomas Santa Fe, Solana Hills, Cedros Design District area\n\nNote: Eden Gardens and La Colonia are names for the same historic neighborhood, so avoid treating them as separate geographic markets.\n\nEncinitas\nOld Encinitas, New Encinitas, Leucadia, Cardiff-by-the-Sea, Olivenhain\n\nCarlsbad\nCarlsbad Village, Barrio, Olde Carlsbad, Terramar, Tamarack Point, Calavera Hills, Robertson Ranch, Bressi Ranch, La Costa, Aviara, Rancho Carrillo, Poinsettia, Kelly Ranch\n\nSan Marcos\nSan Elijo Hills, Discovery Hills, Discovery Meadows, Twin Oaks Valley, Santa Fe Hills, Richland, Rancho Dorado, Old Creek Ranch, University District\n\nNote: Nearby Lake San Marcos is an unincorporated community, not a neighborhood within the City of San Marcos.\n\nEscondido\nOld Escondido, Downtown Escondido, Historic Westside, South Escondido, East Valley, Midway, Oak Hill, Kit Carson, Felicita, Country Club, North Broadway, Hidden Trails, Eureka",
+  "hasOfferCatalog": {
+    "name": "Elite Remodeling & Design Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen renovation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "small kitchen remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen expansion",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "open-concept kitchen remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen island installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen peninsula installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen layout redesign",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen storage improvements",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "pantry design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen cabinet replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "cabinet refacing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "cabinet refinishing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "custom kitchen cabinets",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "countertop replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen backsplash installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen flooring replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen lighting upgrades",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom renovation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "small bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "primary bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "guest bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathtub replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "shower replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "tub-to-shower conversion",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "walk-in shower installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "curbless shower installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom vanity replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom countertop replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom flooring replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "shower tile installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom wall tile installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "shower niche installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom layout redesign",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "accessible bathroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "whole-house renovation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "interior home remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "older home renovation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "open-concept home remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "floor plan redesign",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "interior wall removal",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "living room remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "dining room remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bedroom remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "home office remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "laundry room remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "flooring replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "interior lighting upgrades",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "room additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bedroom additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "primary suite additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "kitchen additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "living room additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "second-story additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "home office additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "attached ADU construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "detached ADU construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "backyard cottages",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "in-law suites",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "garage-to-ADU conversions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "garage-to-bedroom conversions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "garage-to-office conversions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "garage-to-living-space conversions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "garage bathroom additions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "partial garage conversions",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "design-build remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "remodeling consultations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "renovation budgeting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "project scope development",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "remodeling schedule planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "material selection assistance",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "finish selection assistance",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "3D kitchen design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "3D bathroom design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "3D home remodeling renderings",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "floor plan development",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "interior space planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "storage planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "furniture layout planning",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "custom cabinetry",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "built-in storage",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "pantry cabinets",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "cabinet pullout installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "quartz countertop installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "granite countertop installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "bathroom tile replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "custom shower tile work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "shower waterproofing",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "permit application coordination",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "construction plan coordination",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "inspection coordination",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor living area design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "backyard remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor dining areas",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor seating areas",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "patio construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "patio replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "concrete patios",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "paver patios",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "deck construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "deck replacement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "composite decking",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "wood decking",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "patio covers",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "pergolas",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor lighting",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor kitchen construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "built-in barbecue installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "barbecue islands",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor countertops",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor kitchen cabinetry",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor sink installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "outdoor refrigerator installation",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

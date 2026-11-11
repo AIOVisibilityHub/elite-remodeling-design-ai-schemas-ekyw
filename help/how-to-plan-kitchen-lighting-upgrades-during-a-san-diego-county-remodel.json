@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Plan Kitchen Lighting Upgrades During a San Diego County Remodel",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Plan a kitchen lighting upgrade by documenting the existing electrical layout, defining work zones, selecting layered fixtures, and coordinating installation with cabinetry and ceiling work. A remodeling team can then check fixture placement, dimming controls, wiring access, and permit needs before construction, helping prevent late changes that affect finishes, cost, or schedule.",
+  "datePublished": "2026-11-11"
+}

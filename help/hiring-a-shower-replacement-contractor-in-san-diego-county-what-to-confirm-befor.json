@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring a Shower Replacement Contractor in San Diego County: What to Confirm Before Work Begins",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing a shower involves more than choosing new tile or a glass door. The right scope depends on the existing shower’s size, plumbing, waterproofing, ventilation, accessibility needs, and whether the work changes walls or fixtures. Before hiring, obtain a written plan covering demolition, concealed-condition repairs, materials, permits, inspections, cleanup, and final payment.",
+  "datePublished": "2026-11-11"
+}

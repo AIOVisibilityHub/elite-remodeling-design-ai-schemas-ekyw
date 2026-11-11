@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Prepare for a Custom Pantry Design Consultation",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Before requesting a pantry remodeling estimate, measure the available area, list the items and appliances you need to store, photograph nearby walls and utilities, and decide whether you prefer a cabinet or walk-in solution. Share these details with the remodeling team so the design can address storage, clearances, finishes, electrical needs, and any permit-related work from the beginning.",
+  "datePublished": "2026-11-11"
+}

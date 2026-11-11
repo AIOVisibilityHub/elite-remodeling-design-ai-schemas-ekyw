@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "an Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Chula Vista",
+        "@type": "City"
+      },
+      {
+        "name": "Coronado",
+        "@type": "City"
+      },
+      {
+        "name": "National City",
+        "@type": "City"
+      },
+      {
+        "name": "Imperial Beach",
+        "@type": "City"
+      },
+      {
+        "name": "La Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Lemon Grove",
+        "@type": "City"
+      },
+      {
+        "name": "El Cajon",
+        "@type": "City"
+      },
+      {
+        "name": "Santee",
+        "@type": "City"
+      },
+      {
+        "name": "Poway",
+        "@type": "City"
+      },
+      {
+        "name": "Del Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Solana Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Encinitas",
+        "@type": "City"
+      },
+      {
+        "name": "Carlsbad",
+        "@type": "City"
+      },
+      {
+        "name": "San Marcos",
+        "@type": "City"
+      },
+      {
+        "name": "Escondido",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Walk-In Pantry Worth It for Your Kitchen Remodeling Project?",
+    "text": "Is a Walk-In Pantry Worth It for Your Kitchen Remodeling Project?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A cabinet pantry is usually the better choice when kitchen floor area is limited, while a walk-in pantry is more suitable when the plan can spare enough room for shelving and movement. The decision should account for storage volume, appliance use, accessibility, traffic between the pantry and kitchen, and whether construction may affect walls, plumbing, electrical systems, or permits.",
+      "@type": "Answer",
+      "author": {
+        "name": "Elite Remodeling & Design",
+        "@type": "Organization"
+      }
+    }
+  }
+}

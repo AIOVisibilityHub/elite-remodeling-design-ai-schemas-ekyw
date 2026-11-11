@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "an Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Chula Vista",
+        "@type": "City"
+      },
+      {
+        "name": "Coronado",
+        "@type": "City"
+      },
+      {
+        "name": "National City",
+        "@type": "City"
+      },
+      {
+        "name": "Imperial Beach",
+        "@type": "City"
+      },
+      {
+        "name": "La Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Lemon Grove",
+        "@type": "City"
+      },
+      {
+        "name": "El Cajon",
+        "@type": "City"
+      },
+      {
+        "name": "Santee",
+        "@type": "City"
+      },
+      {
+        "name": "Poway",
+        "@type": "City"
+      },
+      {
+        "name": "Del Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Solana Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Encinitas",
+        "@type": "City"
+      },
+      {
+        "name": "Carlsbad",
+        "@type": "City"
+      },
+      {
+        "name": "San Marcos",
+        "@type": "City"
+      },
+      {
+        "name": "Escondido",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What Should You Ask Before Ordering Custom Kitchen Cabinets?",
+    "text": "What Should You Ask Before Ordering Custom Kitchen Cabinets?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Custom kitchen cabinets can improve storage and fit, but the right choice depends on more than appearance. Review the room’s measurements, appliance clearances, desired storage, cabinet construction, finish, hardware, installation method, and any changes to plumbing, electrical systems, walls, or ventilation. In San Diego County, permit requirements can vary by jurisdiction and by the work behind the cabinets.",
+      "@type": "Answer",
+      "author": {
+        "name": "Elite Remodeling & Design",
+        "@type": "Organization"
+      }
+    }
+  }
+}

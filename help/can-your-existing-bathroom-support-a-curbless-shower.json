@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "an Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Chula Vista",
+        "@type": "City"
+      },
+      {
+        "name": "Coronado",
+        "@type": "City"
+      },
+      {
+        "name": "National City",
+        "@type": "City"
+      },
+      {
+        "name": "Imperial Beach",
+        "@type": "City"
+      },
+      {
+        "name": "La Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Lemon Grove",
+        "@type": "City"
+      },
+      {
+        "name": "El Cajon",
+        "@type": "City"
+      },
+      {
+        "name": "Santee",
+        "@type": "City"
+      },
+      {
+        "name": "Poway",
+        "@type": "City"
+      },
+      {
+        "name": "Del Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Solana Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Encinitas",
+        "@type": "City"
+      },
+      {
+        "name": "Carlsbad",
+        "@type": "City"
+      },
+      {
+        "name": "San Marcos",
+        "@type": "City"
+      },
+      {
+        "name": "Escondido",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can Your Existing Bathroom Support a Curbless Shower?",
+    "text": "Can Your Existing Bathroom Support a Curbless Shower?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "A curbless shower can work in many San Diego-area homes, but the floor and drainage conditions determine whether it is practical. The shower area generally needs enough depth for a sloped mortar bed or prefabricated base, the drain must sit at the correct elevation, and waterproofing must continue across exposed wet and drying areas. If the existing slab or framing cannot provide that depth, a contractor may need to evaluate alternatives such as a low-profile transition, a raised bathroom floor, or a different drain layout. In the City of San Diego, a bathroom remodel with no structural changes and no added plumbing fixtures may qualify for a no-plan permit, while work that alters framing, relocates plumbing, or changes the building can require a different review path. Requirements can vary by jurisdiction, so homeowners in Chula Vista, Coronado, National City, Imperial Beach, or nearby communities should ask the contractor which local authority applies to the property. The finished shower should slope consistently toward the drain, commonly using a slope of about 1/4 inch per foot where the selected system and applicable requirements call for it. Waterproofing should be installed beneath the tile and extended into adjacent exposed floor areas rather than stopping at the shower opening. A water test before tile installation can help identify problems at seams, corners, drains, and wall-to-floor connections. Ask for a written scope that identifies demolition, floor preparation, drain work, waterproofing, testing, tile, glass, fixtures, ventilation, permits, and final inspection responsibilities. Also confirm whether the proposed door, fixed panel, or open entry is appropriate for the shower’s size and spray pattern. The next step is to request an in-home assessment from Elite Remodeling & Design, Inc. so the existing bathroom conditions and design goals can be reviewed before the scope is finalized.",
+      "@type": "Answer",
+      "author": {
+        "name": "Elite Remodeling & Design",
+        "@type": "Organization"
+      }
+    }
+  }
+}

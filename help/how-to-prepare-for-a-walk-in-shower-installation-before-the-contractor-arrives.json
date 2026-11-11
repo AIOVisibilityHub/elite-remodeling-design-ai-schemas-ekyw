@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Walk-In Shower Installation Before the Contractor Arrives",
+  "step": [
+    {
+      "name": "Step 1: Record the Existing Bathroom",
+      "text": "Measure the room, shower or tub footprint, door openings, ceiling height, and approximate locations of the drain, water supplies, electrical outlets, switches, and ventilation. Take clear photos of the shower walls, floor, adjacent rooms, and any visible damage. Mark anything that affects use, such as a narrow entry, outward-swinging door, step, window, low ceiling, or limited space beside the toilet. These details help the contractor identify possible conflicts before design decisions are finalized.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Define How the Shower Must Work",
+      "text": "Decide who will use the shower and what the space needs to support. Consider a fixed or handheld showerhead, control location, shelves or niche, bench, grab bars, wider entry, slip-resistant flooring, and protection from spray reaching the rest of the bathroom. Accessibility features should be planned before walls close. If grab bars may be needed later, ask whether wall reinforcement can be included during construction rather than attempting to add support after tile installation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Choose the Layout and Threshold",
+      "text": "Compare a conventional curb, low threshold, and curbless arrangement with the contractor. A curbless shower may require more floor depth for drainage slope and may affect the bathroom floor, door, baseboards, and nearby fixtures. Confirm the proposed finished dimensions, entry width, drain position, glass location, and door swing on a drawing or 3D design. Do not approve a layout based only on a product photograph; the surrounding room controls how the shower will function.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Select the Waterproofing and Drainage Approach",
+      "text": "Ask for a plain-language explanation of the shower pan, membrane, corners, seams, penetrations, curb, and drain connection. The installer should identify which surfaces are waterproofed and how the system follows the manufacturer’s installation requirements. Clarify how the work will be checked before tile or wall panels are installed. A common mistake is focusing on finish selections while leaving the concealed water-management details unspecified in the proposal.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Confirm Materials and Fixture Responsibilities",
+      "text": "Create a selection list for the shower valve, showerhead, handheld unit, drain, tile or panels, grout, trim, niche, bench, glass, sealants, and accessories. Record model numbers where possible and identify who purchases, receives, stores, and installs each item. Check that selected fixtures match the planned plumbing and wall configuration. A late fixture change can affect rough plumbing, wall openings, trim dimensions, or the project scope.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Review Permits, Inspections, and the Written Estimate",
+      "text": "Ask which agency has jurisdiction, whether the work requires permits, and who will submit applications and schedule inspections. City of San Diego guidance distinguishes between work that requires permits and limited bathroom remodels that may qualify for a no-plan process, so the actual scope should be reviewed rather than assumed. Before signing, compare demolition, disposal, plumbing, electrical, ventilation, framing, waterproofing, finishes, glass, permits, inspections, cleanup, and change-order procedures. The completed proposal should state what happens if concealed damage or unsuitable framing is found.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Schedule the Pre-Construction Review",
+      "text": "Before demolition, review the final layout, material selections, fixture positions, access plan, dust protection, temporary bathroom arrangements, and contact points. Confirm that the contractor has the latest measurements and approved selections. A coordinated design-build process, such as the one described by Elite Remodeling & Design, may combine design development, material decisions, permit coordination, construction, and final inspection. Ask which parts of that process apply to your project and when each decision is needed. Key Takeaways Document the existing bathroom before requesting a final estimate. Decide access, storage, controls, and reinforcement needs before demolition. Treat drainage and waterproofing as core scope items, not afterthoughts. Record fixture models and identify who supplies each material. Contact Elite Remodeling & Design for an on-site consultation and project-specific scope.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the room, shower or tub footprint, door openings, ceiling height, and approximate locations of the drain, water supplies, electrical outlets, switches, and ventilation. Take clear photos of th"
+}

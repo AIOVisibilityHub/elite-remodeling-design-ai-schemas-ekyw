@@ -1,0 +1,14 @@
+{
+  "url": "eliteremodelingsd.com",
+  "name": "Elite Remodeling & Design - Main Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "92111",
+    "addressRegion": "CA",
+    "streetAddress": "4883 Ronson Court, Suite P",
+    "addressLocality": "San Diego"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(833) 335-4833; (323) 251-9222"
+}

@@ -1,0 +1,95 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "an Diego",
+        "@type": "City"
+      },
+      {
+        "name": "Chula Vista",
+        "@type": "City"
+      },
+      {
+        "name": "Coronado",
+        "@type": "City"
+      },
+      {
+        "name": "National City",
+        "@type": "City"
+      },
+      {
+        "name": "Imperial Beach",
+        "@type": "City"
+      },
+      {
+        "name": "La Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Lemon Grove",
+        "@type": "City"
+      },
+      {
+        "name": "El Cajon",
+        "@type": "City"
+      },
+      {
+        "name": "Santee",
+        "@type": "City"
+      },
+      {
+        "name": "Poway",
+        "@type": "City"
+      },
+      {
+        "name": "Del Mar",
+        "@type": "City"
+      },
+      {
+        "name": "Solana Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Encinitas",
+        "@type": "City"
+      },
+      {
+        "name": "Carlsbad",
+        "@type": "City"
+      },
+      {
+        "name": "San Marcos",
+        "@type": "City"
+      },
+      {
+        "name": "Escondido",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "What Affects the Cost of a Kitchen Renovation in San Diego County?",
+    "text": "What Affects the Cost of a Kitchen Renovation in San Diego County?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "The cost of a kitchen renovation depends on the layout, structural changes, plumbing and electrical work, cabinetry, countertops, appliances, finishes, permitting needs, and site conditions. A proposal becomes more useful when it separates design, construction, materials, allowances, and exclusions instead of presenting one unexplained total. Compare scope and assumptions, not just price.",
+      "@type": "Answer",
+      "author": {
+        "name": "Elite Remodeling & Design",
+        "@type": "Organization"
+      }
+    }
+  }
+}

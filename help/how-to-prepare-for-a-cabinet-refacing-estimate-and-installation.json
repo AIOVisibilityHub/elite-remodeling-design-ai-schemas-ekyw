@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Cabinet Refacing Estimate and Installation",
+  "step": [
+    {
+      "name": "Step 1: Inspect the Existing Cabinet Boxes",
+      "text": "Check the sink base, toe kicks, side panels, shelves, face frames, and areas near appliances for swelling, delamination, loose joints, sagging, or water damage. Open and close every door and drawer, and note boxes that are out of square or no longer hold fasteners securely. Done means you know which components can remain and which require repair or replacement. Do not approve refacing solely because the exterior looks dated. New fronts cannot correct a twisted box, hidden moisture damage, or a cabinet layout that does not work for daily use.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Define the Functional Changes",
+      "text": "Write down storage problems, difficult work zones, appliance conflicts, and desired improvements such as pull-outs, waste sorting, drawer storage, or improved lighting. Decide whether the existing footprint is acceptable or whether the project needs relocated cabinets, a new island, or changed appliance positions. This distinction determines whether refacing alone is appropriate. Have current kitchen measurements and clear photos ready for the remodeling consultation. Include cabinet interiors and utility areas so the provider can identify conditions that are not visible from the room entrance.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Choose the Visible Components and Hardware",
+      "text": "Select the door and drawer-front style, surface material or finish, edge treatment, hinges, pulls, knobs, and exposed end-panel treatment. Ask for physical samples when possible because colors and textures can appear different under kitchen lighting. Confirm whether crown molding, light rails, toe kicks, fillers, and side panels are included. Record every selection in the proposal. A vague description such as “new cabinet finish” can leave important visible pieces outside the agreed scope.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Review the Full Project Scope",
+      "text": "Request separate line items for cabinet preparation, doors, drawer fronts, veneers or finishes, hardware, interior accessories, countertops, backsplash work, flooring, lighting, plumbing, and appliance-related work. The proposal should identify what remains in place, what is removed, how adjacent surfaces are protected, and how debris is handled. If the project changes cabinet locations, outlets, lighting, plumbing, or built-in appliances, ask who evaluates permit requirements and coordinates any required applications. Refacing in the original configuration may be treated differently from broader kitchen alterations, but the applicable local department should make the final determination.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Confirm Measurements and Materials Before Ordering",
+      "text": "Review the cabinet elevation drawings or measured layout before fabrication begins. Verify door swings, drawer clearances, appliance openings, filler widths, finished ends, and the direction of grain or pattern where relevant. Confirm that the selected hardware fits the door and drawer thicknesses. Once custom components are ordered, mistakes can affect both cost and schedule. Keep approved drawings, finish samples, and the signed scope together so changes are identified before installation.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Prepare the Kitchen for Installation",
+      "text": "Clear dishes, food, countertop appliances, and valuables from the work area. Establish where installers may stage materials and how the household will access food preparation, refrigeration, and water during the work. Ask how dust control, floor protection, ventilation, and daily cleanup will be handled. A clean, accessible work area reduces avoidable delays. Protect nearby rooms and identify any fragile surfaces before materials arrive.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Inspect the Completed Work",
+      "text": "Check that doors and drawers align, operate smoothly, and maintain consistent reveals. Examine corners, finished ends, toe kicks, fillers, trim, hardware, and transitions to countertops or walls under normal room lighting. Compare the installed work with the approved selections and scope. Make a written punch list for incomplete adjustments, damaged components, or finish concerns. The project is ready to close out when agreed corrections are addressed and any related inspections or documentation are complete. Key Takeaways Begin with cabinet-box condition, not finish selection. Define layout and storage goals before deciding that refacing is enough. Put every visible component and related trade item in the written scope. Verify measurements, clearances, and samples before custom fabrication. Inspect alignment, operation, finishes, and agreed corrections at completion.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Check the sink base, toe kicks, side panels, shelves, face frames, and areas near appliances for swelling, delamination, loose joints, sagging, or water damage. Open and close every door and drawer, a"
+}

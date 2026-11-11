@@ -1,0 +1,90 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "## Step 1: Define the Replacement Scope\nWrite down whether the project includes only the floor or also baseboards, toilet removal, vanity work, shower-area repairs, plumbing, or electrical changes. Photograph visible damage and note soft spots, staining, cracked tiles, loose flooring, or recurring moisture. A clear scope helps the contractor price the same work rather than making assumptions.\n\n## Step 2: Measure the Bathroom and Record Existing Conditions\nMeasure the usable floor area, door swing, niches, closets, and locations of the toilet and vanity. Photograph transitions to adjacent rooms and any floor vents or access panels. Do not rely on room dimensions alone; irregular edges and cutouts affect material quantities and installation details.\n\n## Step 3: Compare Flooring Materials for the Room’s Use\nAsk the contractor to compare porcelain or ceramic tile, sheet vinyl, and suitable luxury vinyl products based on water exposure, maintenance, slip resistance, comfort, and subfloor requirements. Tile typically involves underlayment, mortar, grout, and more surface preparation, while resilient flooring may have fewer installation layers when the substrate is flat and dry. Confirm that the selected product is approved for bathroom use and that the estimate identifies trim, adhesive, underlayment, and transition pieces.\n\n## Step 4: Inspect and Repair the Subfloor Before Installation\nThe existing flooring should be removed as needed so the substrate can be checked for movement, moisture damage, unevenness, and deterioration around plumbing penetrations. A waterproof floor covering does not make a compromised subfloor sound or prevent water from reaching its edges and seams. Stop and resolve the source of moisture before covering soft or damaged material.\n\n## Step 5: Confirm Waterproofing and Floor Preparation\nAsk what substrate preparation the selected assembly requires and where waterproofing is necessary. Tile in a bathroom needs a properly supported, suitably prepared base, while vinyl products still require a clean, dry, sufficiently flat surface and carefully finished perimeter details. Request that the estimate identify leveling, patching, backer materials, waterproofing, and curing time rather than grouping everything into a vague installation line.\n\n## Step 6: Review Permits and Related Work\nFlooring alone may be treated differently from work that changes plumbing, electrical systems, walls, or fixtures, and requirements can vary by jurisdiction and property type. For homes in San Diego County, ask the contractor to confirm the applicable city’s requirements, especially if the flooring replacement accompanies a bathroom remodel. In the City of San Diego, official guidance distinguishes minor flooring work from broader alterations, while code compliance can still apply even when a permit is not required.\n\n## Step 7: Compare Itemized Estimates and Project Terms\nObtain estimates that identify demolition, disposal, substrate repairs, materials, labor, trim, transitions, fixture handling, and cleanup. Ask what could change the price if concealed damage is found and how additional work will be approved. Before signing, confirm who coordinates design choices, construction, permit applications when needed, inspections, and the final walkthrough.\n\n## Step 8: Prepare the Bathroom for the Work\nRemove personal items, medicines, towels, and products from the work area, and ask how the toilet, vanity, or other fixtures will be protected or temporarily removed. Confirm access, parking, dust control, ventilation, and how the bathroom will remain usable during the project. The work is complete when the floor is securely installed, edges and transitions are finished, fixtures are properly reset if included, debris is removed, and the agreed scope has been reviewed with the contractor.\n\n## Key Takeaways\n- Define whether the project is flooring-only or part of a broader bathroom remodel.\n- Inspect and repair moisture damage before installing any finish material.\n- Compare tile and resilient flooring by substrate requirements, maintenance, and water exposure.\n- Request an itemized estimate and confirm how concealed conditions will be handled.\n- Contact Elite Remodeling & Design to discuss the bathroom’s existing conditions, intended use, and replacement scope.",
+  "publisher": {
+    "url": "eliteremodelingsd.com",
+    "name": "Elite Remodeling & Design",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A successful bathroom flooring replacement starts with a measured room, a clear material choice, and an inspection of the existing floor before new work begins. Remove fixtures or trim only when the project plan requires it, address leaks or soft substrate first, confirm the flooring assembly, and request an itemized estimate that identifies preparation, installation, finishing, and any related plumbing or electrical work.",
+  "datePublished": "2026-11-11"
+}

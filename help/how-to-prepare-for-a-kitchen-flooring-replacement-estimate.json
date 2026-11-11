@@ -1,0 +1,131 @@
+{
+  "name": "How to Prepare for a Kitchen Flooring Replacement Estimate",
+  "step": [
+    {
+      "name": "Step 1: Define the Full Kitchen Scope",
+      "text": "Write down whether the project includes only flooring or also cabinets, an island, countertops, plumbing, electrical work, painting, or layout changes. Flooring may need to be coordinated with cabinet removal and replacement, so a room sketch showing appliance and cabinet locations is useful. Done means the provider can describe what is included and what is excluded.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Document the Existing Conditions",
+      "text": "Take clear photos of damaged, loose, stained, cracked, or uneven areas, and note any history of leaks near the sink, dishwasher, refrigerator, or exterior doors. Identify the current floor type and whether adjacent rooms sit higher or lower. Do not assume the visible surface explains the entire problem; the substrate may need evaluation after removal.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Compare Suitable Materials",
+      "text": "Ask for samples of the materials that fit your household’s cleaning habits, traffic, moisture exposure, and design goals. Compare tile, luxury vinyl, engineered wood, and laminate by water response, comfort, scratch resistance, grout or seam maintenance, repairability, and expected finished height. Check product installation instructions and warranty conditions before approving a material.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm Preparation and Sequencing",
+      "text": "Ask how the team will remove the existing floor, inspect the subfloor, address cracks or unevenness, and verify that the base is ready for installation. Confirm whether flooring goes under cabinets, around fixed cabinetry, or after cabinets are set. Also decide how appliances will be protected and how the dishwasher will remain removable after the finished floor is installed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review Transitions and Finish Details",
+      "text": "Walk through every doorway and connection to adjoining flooring with the provider. Confirm the transition profile, baseboard or quarter-round treatment, edge finishing, grout color if applicable, and direction or pattern of installation. A complete plan should account for door clearances and avoid an abrupt height change that creates a trip point or interferes with appliances.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Confirm the Written Proposal",
+      "text": "The proposal should identify material quantities, removal and disposal, preparation allowances, installation areas, trim, transitions, protection of nearby surfaces, and cleanup. If the scope is part of a broader renovation, ask who coordinates design development, permit questions, construction, and inspections. Before signing, resolve assumptions about concealed damage and any work that would require an updated price.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Prepare the Kitchen for Work",
+      "text": "Remove dishes, pantry contents, fragile items, and movable furniture, and arrange how food preparation will work during construction. Ask when appliances must be disconnected and who handles that work. Keep pets and household members away from the work area, and preserve access to any required utilities unless the project plan says otherwise.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Inspect the Completed Installation",
+      "text": "Before final approval, check that the surface is stable, transitions are secure, edges are finished, doors and appliances operate properly, and the floor is free of visible damage or excessive lippage. Confirm cleaning and curing instructions for the selected product, especially where grout, adhesive, or sealant is used. Save product information and care instructions for future maintenance. Key Takeaways Establish the complete kitchen scope before selecting flooring. Inspect the substrate rather than assuming the old surface can remain. Compare materials by moisture response, maintenance, durability, and height. Resolve cabinet, appliance, doorway, and transition details in writing. Contact Elite Remodeling & Design for an on-site consultation and coordinated project scope.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write down whether the project includes only flooring or also cabinets, an island, countertops, plumbing, electrical work, painting, or layout changes. Flooring may need to be coordinated with cabinet"
+}

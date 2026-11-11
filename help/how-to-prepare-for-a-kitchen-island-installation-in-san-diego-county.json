@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Kitchen Island Installation in San Diego County",
+  "step": [
+    {
+      "name": "Step 1: Measure the Existing Kitchen",
+      "text": "Record wall lengths, ceiling height, door and window locations, appliance dimensions, floor transitions, and the finished faces of existing cabinets. Mark the swing of every door and appliance, including the dishwasher and oven. Use painter’s tape to outline the proposed island on the floor. Leave enough space for people to work and pass without relying on a narrow measurement taken from wall to wall.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Choose the Island’s Primary Functions",
+      "text": "Write down whether the island is intended for preparation, storage, seating, cleanup, cooking, or a combination. Decide which functions are essential if the available footprint cannot accommodate everything comfortably. Keep seating, appliance doors, and work surfaces in the same discussion. A seating overhang may affect walking space, while a cooktop or sink can divide the counter and add utility requirements.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Test Clearances and Traffic Paths",
+      "text": "For planning purposes, allow roughly 42 inches for a one-cook work aisle and about 48 inches where multiple cooks, appliance doors, or seating create more activity; a basic walkway is commonly planned at about 36 inches. Treat these as design guidance and confirm applicable local requirements with the project professional. Open the taped-out appliance doors and walk the main routes. The layout is ready for the next stage when cabinet doors, people, and appliance operation do not interfere with one another.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Mark Utility Requirements",
+      "text": "Identify every proposed receptacle, light, appliance, sink, dishwasher, water line, drain, and ventilation component. An island that adds or relocates electrical circuits or plumbing may require permits, particularly within the City of San Diego. Do not finalize the cabinet order until the utility plan is reviewed. Moving an island after rough-in work can require additional floor, electrical, plumbing, and countertop changes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review the Design and Material Scope",
+      "text": "Confirm cabinet dimensions, door style, hardware, countertop thickness, edge profile, seating overhang, lighting, flooring transitions, and paint or finish responsibilities. If the remodeling process includes layout development or 3D visualization, use those materials to check proportions and sightlines before ordering. Ask which selections are included, which are allowances, and which items must be supplied by the homeowner. A complete scope reduces confusion when several trades contribute to one island.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Confirm Permits and Construction Sequencing",
+      "text": "Ask who will prepare permit information, submit applications where required, arrange inspections, and coordinate the work. San Diego’s published guidance identifies mechanical, electrical, and plumbing work as permit-related areas, while permit requirements depend on the work and jurisdiction. A typical sequence may include demolition, rough utility work, floor preparation, cabinet installation, countertop templating and installation, finish work, and final inspection when applicable. The exact order can change with the existing conditions and selected features.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Review the Written Estimate",
+      "text": "The estimate should cover design, demolition, cabinets, countertops, utilities, flooring repairs, permits, inspections, finish work, and cleanup as applicable. It should also identify assumptions about hidden conditions and explain how changes will be handled. Compare proposals by the work included and the coordination provided, not only by the cabinet or countertop line item. Request clarification before signing if a necessary task appears absent or vague. Key Takeaways Tape the proposed footprint and test real appliance and traffic movements. Decide essential island functions before selecting dimensions. Review utility and permit needs before cabinets are ordered. Confirm materials, allowances, sequencing, and exclusions in writing. Homeowners can contact Elite Remodeling & Design to review measurements, goals, and the next planning step for a kitchen island project.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Record wall lengths, ceiling height, door and window locations, appliance dimensions, floor transitions, and the finished faces of existing cabinets. Mark the swing of every door and appliance, includ"
+}
