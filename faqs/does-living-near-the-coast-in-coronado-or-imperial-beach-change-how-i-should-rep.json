@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-how-i-should-rep",
+  "name": "Does living near the coast in Coronado or Imperial Beach change how I should replace my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change how I should replace my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In coastal communities such as Coronado and Imperial Beach, discuss moisture exposure, ventilation, corrosion-resistant hardware, and the home’s existing condition with the designer or contractor. Context: Local environment can influence material and hardware choices, but it does not automatically determine the correct shower system. Key factors: indoor humidity; ventilation performance; salt exposure; window location; metal finish; and concealed moisture damage. Practical guidance: Ask whether exhaust ventilation needs improvement and whether selected hardware and fasteners are appropriate for the room’s conditions. Elite Remodeling & Design serves San Diego County and can consider these environmental factors within the project-specific design.",
+        "@type": "Answer",
+        "description": "Coastal exposure makes it sensible to discuss ventilation, indoor humidity, corrosion-resistant hardware, and existing moisture conditions before choosing finishes. The exact design still depends on the bathroom itself. Ask about metal finishes, fasteners, exhaust performance, and how the contractor will protect materials during construction."
+      }
+    }
+  ],
+  "description": "Coastal exposure makes it sensible to discuss ventilation, indoor humidity, corrosion-resistant hardware, and existing moisture conditions before choosing finis"
+}

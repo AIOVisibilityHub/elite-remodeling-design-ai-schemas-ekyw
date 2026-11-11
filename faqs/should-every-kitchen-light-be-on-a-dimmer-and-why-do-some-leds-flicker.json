@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-every-kitchen-light-be-on-a-dimmer-and-why-do-some-leds-flicker",
+  "name": "Should every kitchen light be on a dimmer, and why do some LEDs flicker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should every kitchen light be on a dimmer, and why do some LEDs flicker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dimmers are useful when the kitchen serves different purposes throughout the day, but compatibility must be checked across the fixtures, drivers, switches, and controls. Flicker, buzzing, limited dimming range, or mismatched color changes can result when components are paired incorrectly. Elite Remodeling & Design can coordinate dimming zones with the kitchen’s ambient, task, and decorative lighting plan. Decide whether under-cabinet, island, and ceiling fixtures should dim independently. Keep product specifications and installation instructions for future replacement decisions. Test the actual fixture-and-dimmer combination before closing walls whenever possible.",
+        "@type": "Answer",
+        "description": "Dimmers are valuable, but every LED fixture and control must be compatible. Flicker or buzzing can come from mismatched drivers, switches, or loads. Plan separate dimming zones for ceiling, under-cabinet, and decorative lights, and test the selected components before walls are closed."
+      }
+    }
+  ],
+  "description": "Dimmers are valuable, but every LED fixture and control must be compatible. Flicker or buzzing can come from mismatched drivers, switches, or loads. Plan separa"
+}

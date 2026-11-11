@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-a-truly-curbless-shower-sometimes-not-possible-in-an-older-san-diego-home",
+  "name": "Why is a truly curbless shower sometimes not possible in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a truly curbless shower sometimes not possible in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower is not automatically the best option for a home with an older slab, limited floor depth, or a tight existing layout. The floor may need careful planning to create drainage slope without creating an abrupt transition elsewhere. Elite Remodeling & Design can evaluate the existing conditions during bathroom design.\n\nA low-profile threshold may offer better water containment and a more predictable construction path when a fully level entry is impractical.\n\nKey factors:\n- Slab or framing depth\n- Drain location and required slope\n- Adjacent finished-floor height\n- Waterproofing continuity at the entry\n\nAsk for the proposed finished-floor elevations, not only a visual rendering. Compare curbless and low-threshold options based on access, water control, and construction complexity.\n\nThe safest-looking concept must also work with the building’s existing structure.",
+        "@type": "Answer",
+        "description": "Limited floor depth, slab conditions, drain location, and the surrounding finished-floor height can make a fully level entry difficult. A low threshold may provide better water control with fewer structural compromises. Request finished elevations and compare both options before deciding."
+      }
+    }
+  ],
+  "description": "Limited floor depth, slab conditions, drain location, and the surrounding finished-floor height can make a fully level entry difficult. A low threshold may prov"
+}

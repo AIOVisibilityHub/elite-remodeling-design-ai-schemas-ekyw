@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-kitchen-flooring-in-san-diego",
+  "name": "Do I need a permit to replace kitchen flooring in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace kitchen flooring in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing flooring without moving plumbing usually has a narrower scope than a kitchen remodel that changes sinks, appliances, walls, or electrical systems. Whether permits or inspections apply depends on the work included and the local jurisdiction, so the full scope should be reviewed before construction. Context: The City of San Diego identifies flooring installation as a minor renovation that generally does not require a permit, while other remodeling work may change that assessment. Key factors: - Flooring-only versus combined remodeling - Plumbing, electrical, or structural changes - Project location - Existing conditions Practical guidance: Describe every planned change—not just the floor—when requesting a scope review. Elite Remodeling & Design can coordinate permitting and construction planning when the flooring is part of a larger San Diego County kitchen project.",
+        "@type": "Answer",
+        "description": "A flooring-only replacement may be treated differently from a kitchen remodel involving plumbing, electrical, structural, or layout changes. In the City of San Diego, flooring installation is listed among minor renovations generally not requiring a permit, but confirm the complete scope and jurisdiction before work starts."
+      }
+    }
+  ],
+  "description": "A flooring-only replacement may be treated differently from a kitchen remodel involving plumbing, electrical, structural, or layout changes. In the City of San"
+}

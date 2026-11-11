@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-we-live-through-a-primary-bathroom-remodel-when-it-is-the-only-bathroom-u",
+  "name": "How do we live through a primary bathroom remodel when it is the only bathroom upstairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do we live through a primary bathroom remodel when it is the only bathroom upstairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan temporary bathroom access before demolition, especially if the primary bath is the only full bathroom on that floor. A remodel can interrupt water, power, privacy, and bedroom access even when the work area is isolated. Context: Elite Remodeling & Design can discuss sequencing and site coordination during planning, but the household must confirm what temporary arrangement is realistic. Key factors: another bathroom’s location, household size, children, mobility needs, work-from-home routines, and expected demolition duration. Practical guidance: remove personal items, identify a protected path for workers, decide where daily necessities will go, and establish how shutoffs will be communicated. Keep replacement fixtures and materials out of the work zone until they are needed. A clear household plan reduces pressure to make rushed construction decisions.",
+        "@type": "Answer",
+        "description": "Arrange backup access before demolition, then plan for interrupted water, power, privacy, and bedroom circulation. Remove personal items, establish a protected work path, and ask about sequencing and shutoff notices. Household size, mobility, and another bathroom’s location should shape the schedule."
+      }
+    }
+  ],
+  "description": "Arrange backup access before demolition, then plan for interrupted water, power, privacy, and bedroom circulation. Remove personal items, establish a protected"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-a-walk-in-shower-make-my-bathroom-safe-for-an-aging-parent",
+  "name": "Will a walk-in shower make my bathroom safe for an aging parent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a walk-in shower make my bathroom safe for an aging parent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower can be designed to improve access, but it cannot by itself guarantee safe use for every person. The layout should match the user’s balance, reach, transfer method, visual needs, and whether assistance is provided.\n\nFeatures such as a low entry, handheld spray, seat, grab-bar reinforcement, contrasting finishes, and reachable controls may help, but each must fit the room and the individual.\n\nKey factors:\n- Current and anticipated mobility\n- Entry width and floor transitions\n- Lighting, controls, and storage reach\n- Water containment and slip resistance\n\nDescribe the user’s routine before design begins, including whether they sit, use a walker, or need help. Ask for a review of the finished clearances before approving the layout.\n\nDesigning around actual daily use produces more useful results than selecting features in isolation.",
+        "@type": "Answer",
+        "description": "It may improve access, but safety depends on the person and the complete layout. Discuss balance, transfers, assistance, seat use, controls, grab bars, lighting, floor transitions, and splash control before design. The shower should be planned around daily routines, not appearance alone."
+      }
+    }
+  ],
+  "description": "It may improve access, but safety depends on the person and the complete layout. Discuss balance, transfers, assistance, seat use, controls, grab bars, lighting"
+}

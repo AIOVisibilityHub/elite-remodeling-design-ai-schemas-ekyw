@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-disruptive-is-a-shower-replacement-if-i-m-living-in-the-house",
+  "name": "How disruptive is a shower replacement if I’m living in the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How disruptive is a shower replacement if I’m living in the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower replacement can be disruptive because it may involve demolition noise, dust, water shutoffs, material deliveries, and workers moving through the home. Context: Design decisions and product availability also affect disruption, especially when custom tile, glass, or plumbing changes are involved. Key factors: bathroom location; household schedule; children or pets; dust containment; parking and access; and whether another bathroom is available. Practical guidance: Ask how the work area will be isolated, where debris will go, when water will be unavailable, and how daily cleanup will occur. Elite Remodeling & Design can address construction coordination during the planning stage.",
+        "@type": "Answer",
+        "description": "Expect demolition noise, dust control, temporary water interruptions, deliveries, and limited bathroom access. Ask about work hours, containment, daily cleanup, debris removal, parking, and the expected shutoff periods. If the home has one bathroom, confirm a practical plan before demolition begins."
+      }
+    }
+  ],
+  "description": "Expect demolition noise, dust control, temporary water interruptions, deliveries, and limited bathroom access. Ask about work hours, containment, daily cleanup,"
+}

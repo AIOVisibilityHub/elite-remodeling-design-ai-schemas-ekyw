@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-a-shower-during-replacement",
+  "name": "How long will I be without a shower during replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without a shower during replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward shower-to-shower replacement can be relatively quick, but a custom tile shower, relocated plumbing, damaged framing, or delayed materials can extend the schedule. Context: Published industry estimates commonly describe prefab installations as faster than custom tile work; tile also requires time for waterproofing, setting, grouting, and curing. Key factors: demolition findings; inspection timing; material availability; glass-door measurement; and whether the bathroom remains usable. Practical guidance: Ask for a stage-by-stage schedule rather than one broad duration, and confirm when the shower will be unavailable. Elite Remodeling & Design’s design-through-construction approach lets layout, selections, permitting needs, and construction sequencing be considered together.",
+        "@type": "Answer",
+        "description": "A simple same-footprint replacement may take much less time than a custom tile project. The schedule can grow when plumbing moves, hidden damage appears, inspections are needed, or custom glass and materials arrive late. Ask for a written schedule with milestones and the expected period without shower access."
+      }
+    }
+  ],
+  "description": "A simple same-footprint replacement may take much less time than a custom tile project. The schedule can grow when plumbing moves, hidden damage appears, inspec"
+}

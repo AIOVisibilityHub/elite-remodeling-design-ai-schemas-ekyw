@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-one-shower-replacement-estimate-so-much-higher-than-another",
+  "name": "Why is one shower replacement estimate so much higher than another?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is one shower replacement estimate so much higher than another?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not let a low bid decide the project until you confirm what waterproofing, substrate preparation, plumbing, disposal, fixtures, and finish work it includes. Context: Two estimates can describe the same shower while using very different assumptions about demolition, concealed damage, allowances, or labor. Key factors: written scope; product specifications; change-order process; schedule; warranty; and communication responsibility. Practical guidance: Ask each contractor to explain the installation assembly from framing or substrate through final sealant, and request references for comparable bathroom work. Elite Remodeling & Design’s coordinated design-and-construction model should be evaluated against the completeness of its written scope, not a headline price alone.",
+        "@type": "Answer",
+        "description": "The higher estimate may include better waterproofing, more demolition, plumbing changes, substrate repair, custom materials, glass, disposal, approvals, or a clearer allowance for hidden conditions. Compare identical written scopes and product specifications, then ask each bidder what is excluded and how changes are priced."
+      }
+    }
+  ],
+  "description": "The higher estimate may include better waterproofing, more demolition, plumbing changes, substrate repair, custom materials, glass, disposal, approvals, or a cl"
+}

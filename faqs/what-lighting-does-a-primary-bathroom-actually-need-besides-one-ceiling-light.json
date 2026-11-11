@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-lighting-does-a-primary-bathroom-actually-need-besides-one-ceiling-light",
+  "name": "What lighting does a primary bathroom actually need besides one ceiling light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What lighting does a primary bathroom actually need besides one ceiling light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best lighting plan combines general illumination, face-level vanity lighting, shower lighting rated for the intended location, and controls that match how the room is used. A single ceiling fixture often leaves faces shadowed and does not adequately light storage or grooming areas. Context: lighting locations should be decided before electrical rough-in, mirrors, cabinets, and tile are finalized. Key factors: mirror width, ceiling height, natural light, wet-area placement, color quality, dimming, and switch layout. Practical guidance: bring your grooming routine and fixture selections to the design meeting, and confirm outlet locations for appliances. Ask how lighting will be separated into useful zones rather than controlled by one switch. Elite Remodeling & Design can coordinate electrical placement with the vanity, mirrors, ventilation, and ceiling finishes.",
+        "@type": "Answer",
+        "description": "Use layered lighting: general room illumination, face-level vanity lighting, suitable wet-area lighting, and practical controls. Decide locations before electrical work, mirrors, cabinets, and tile are finalized. Vanity width, natural light, ceiling height, and grooming habits should drive the plan."
+      }
+    }
+  ],
+  "description": "Use layered lighting: general room illumination, face-level vanity lighting, suitable wet-area lighting, and practical controls. Decide locations before electri"
+}

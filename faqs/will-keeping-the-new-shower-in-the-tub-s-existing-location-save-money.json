@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-keeping-the-new-shower-in-the-tub-s-existing-location-save-money",
+  "name": "Will keeping the new shower in the tub’s existing location save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will keeping the new shower in the tub’s existing location save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping the shower drain and water controls close to their existing locations usually reduces plumbing changes, demolition, and coordination. It does not guarantee a lower total because waterproofing, wall repairs, finishes, enclosure type, ventilation, and accessibility features still affect the work.\\n\\nKey factors:\\n- Confirm whether the existing drain is suitable for the selected shower base.\\n- Check whether the valve height and control position work for the intended users.\\n- Look for access limitations below or behind the bathroom floor.\\n- Price layout alternatives before finalizing the design.\\n\\nAsk Elite Remodeling & Design to show the cost and functional tradeoffs between keeping and moving each fixture. A small layout change may improve daily use enough to justify additional work.",
+        "@type": "Answer",
+        "description": "Usually, keeping the drain and controls near their current locations limits plumbing and demolition, but it does not determine the whole price. Waterproofing, tile, glass, framing repairs, ventilation, and accessibility features still matter."
+      }
+    }
+  ],
+  "description": "Usually, keeping the drain and controls near their current locations limits plumbing and demolition, but it does not determine the whole price. Waterproofing, t"
+}

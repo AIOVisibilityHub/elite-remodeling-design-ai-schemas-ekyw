@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-tub-to-shower-conversion-in-san-diego",
+  "name": "Do I need a permit for a tub-to-shower conversion in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a tub-to-shower conversion in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume that every tub-to-shower conversion is permit-free. The City of San Diego states that some bathroom remodels without structural changes and without added plumbing fixtures may use a no-plan permit path, while plumbing, electrical, mechanical, or fixture changes can affect permit requirements. Other jurisdictions in San Diego County may use different procedures.\\n\\nKey factors:\\n- Identify the property’s actual city or unincorporated jurisdiction.\\n- List drain, valve, supply, electrical, fan, framing, and wall changes.\\n- Ask who will prepare and coordinate permit applications.\\n- Keep inspection requirements in the project schedule.\\n\\nElite Remodeling & Design describes a process that can include permit coordination and final inspection. Ask for written confirmation of the expected permit path before demolition begins.",
+        "@type": "Answer",
+        "description": "Possibly. The City of San Diego has a no-plan path for some bathroom remodels, but plumbing, electrical, mechanical, structural, or fixture changes can affect requirements. Confirm the property jurisdiction and permit scope before work starts."
+      }
+    }
+  ],
+  "description": "Possibly. The City of San Diego has a no-plan path for some bathroom remodels, but plumbing, electrical, mechanical, structural, or fixture changes can affect r"
+}

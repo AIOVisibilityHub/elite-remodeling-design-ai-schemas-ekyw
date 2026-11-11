@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-stop-water-from-running-out-of-an-open-walk-in-shower",
+  "name": "How do I stop water from running out of an open walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I stop water from running out of an open walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower normally needs a reliable water-control strategy, including a properly sloped pan, correctly placed drain, sealed transitions, and an enclosure or curtain that limits spray. The best combination depends on shower size, entry location, spray direction, and the bathroom floor.\n\nAn open design can still work, but water may travel farther if the entry and slope are poorly matched.\n\nKey factors:\n- Pan slope toward the drain\n- Threshold or curbless transition\n- Showerhead and handheld direction\n- Glass, curtain, and floor protection\n\nAsk to see how water movement is addressed in the layout, especially if choosing a wide open entry. Confirm that waterproofing continues at corners, niches, benches, and transitions.\n\nWater management should be settled before decorative selections.",
+        "@type": "Answer",
+        "description": "Control spray with the pan slope, drain position, entry width, threshold, glass or curtain, and showerhead direction. An open entry needs enough length and a suitable layout to contain water. Review the water path on the plan before construction."
+      }
+    }
+  ],
+  "description": "Control spray with the pan slope, drain position, entry width, threshold, glass or curtain, and showerhead direction. An open entry needs enough length and a su"
+}

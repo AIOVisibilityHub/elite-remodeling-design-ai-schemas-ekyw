@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-home-while-my-tub-is-being-converted-into-a-shower",
+  "name": "Can I stay home while my tub is being converted into a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay home while my tub is being converted into a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often remain in the home, but demolition creates noise, dust, debris, and periods when the bathroom is unavailable. The practical impact depends on whether it is the only bathroom, how demolition is contained, and whether water shutoffs affect other fixtures.\\n\\nKey factors:\\n- Confirm the expected water shutoff periods.\\n- Ask how floors, doorways, and nearby rooms will be protected.\\n- Establish daily cleanup and debris-removal expectations.\\n- Plan an alternate bathroom if this is the only usable one.\\n\\nAsk Elite Remodeling & Design to identify disruptive phases and site-protection procedures in the project plan. Clear expectations are especially useful for occupied homes and tight hallways.",
+        "@type": "Answer",
+        "description": "Usually, but expect noise, dust, debris, water shutoffs, and periods without that bathroom. Confirm protection for floors and nearby rooms, cleanup procedures, shutoff periods, and an alternate bathroom plan if needed."
+      }
+    }
+  ],
+  "description": "Usually, but expect noise, dust, debris, water shutoffs, and periods without that bathroom. Confirm protection for floors and nearby rooms, cleanup procedures,"
+}

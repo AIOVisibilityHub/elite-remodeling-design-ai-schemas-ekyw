@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-shower-is-leaking-behind-the-wall",
+  "name": "What should I do if my shower is leaking behind the wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my shower is leaking behind the wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume new tile will solve a leaking shower. The installer should identify whether water is entering through failed seals, plumbing, the pan, wall penetrations, or the waterproofing layer before finishes are selected. Context: Covering damaged materials can hide the source and leave framing or adjacent finishes exposed to continuing moisture. Key factors: where staining appears; whether the leak occurs only during shower use; drain and valve locations; and whether the wall or floor feels soft. Practical guidance: Stop using the shower if water is reaching electrical components or causing rapid damage, document affected areas, and request a moisture and assembly assessment. A replacement scope from Elite Remodeling & Design can account for demolition findings instead of assuming the visible surface tells the whole story.",
+        "@type": "Answer",
+        "description": "Stop using the shower if the leak is active or damaging nearby materials, then have the source identified before installing new finishes. The cause may be plumbing, seals, penetrations, the pan, or failed waterproofing. Ask for a scope that explains what will be opened, repaired, tested, and rebuilt."
+      }
+    }
+  ],
+  "description": "Stop using the shower if the leak is active or damaging nearby materials, then have the source identified before installing new finishes. The cause may be plumb"
+}

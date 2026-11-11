@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-which-shower-base-will-fit-where-my-old-tub-was",
+  "name": "How do I know which shower base will fit where my old tub was?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know which shower base will fit where my old tub was?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower base must work with the drain position, room dimensions, entry direction, finished wall thickness, and chosen enclosure. A base that appears to fit on paper may fail because of framing, door clearance, plumbing access, or the finished tile assembly.\\n\\nKey factors:\\n- Measure from framing and account for finished wall thickness.\\n- Confirm drain center, threshold, curb, and entry dimensions.\\n- Check whether the base is compatible with the planned waterproofing system.\\n- Coordinate the base with the glass or door manufacturer’s requirements.\\n\\nHave Elite Remodeling & Design verify the base and enclosure together before ordering. Early product coordination helps prevent costly substitutions after demolition.",
+        "@type": "Answer",
+        "description": "The base must match the drain, framing, finished wall thickness, entry clearance, waterproofing approach, and enclosure. Verify those dimensions from the existing structure before ordering; a paper measurement alone may not reveal access or framing conflicts."
+      }
+    }
+  ],
+  "description": "The base must match the drain, framing, finished wall thickness, entry clearance, waterproofing approach, and enclosure. Verify those dimensions from the existi"
+}

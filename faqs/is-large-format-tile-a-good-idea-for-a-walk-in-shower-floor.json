@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-large-format-tile-a-good-idea-for-a-walk-in-shower-floor",
+  "name": "Is large-format tile a good idea for a walk-in shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is large-format tile a good idea for a walk-in shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tile can reduce grout lines, but it does not eliminate the need for a properly prepared, sloped, and waterproofed shower assembly. Smaller or mosaic tile may fit slopes and curved details more easily, while larger tile can create a cleaner appearance but may require flatter surfaces and careful cuts.\n\nElite Remodeling & Design can coordinate tile selections with the pan, niches, bench, drain, and existing bathroom style.\n\nKey factors:\n- Tile size versus floor slope\n- Slip resistance and wet-area suitability\n- Drain style and cut complexity\n- Wall flatness and pattern alignment\n\nChoose grout color, edge details, and maintenance expectations together with tile size. Ask where cuts and seams will fall before approving the layout.\n\nA visually simple tile choice may still require more precise preparation.",
+        "@type": "Answer",
+        "description": "It can work on suitable surfaces, but shower floors need accurate slope and a tile layout that manages drainage. Smaller mosaics often follow slopes more easily; large tile may create fewer grout lines but more complex cuts. Confirm the floor plan before ordering materials."
+      }
+    }
+  ],
+  "description": "It can work on suitable surfaces, but shower floors need accurate slope and a tile layout that manages drainage. Smaller mosaics often follow slopes more easily"
+}

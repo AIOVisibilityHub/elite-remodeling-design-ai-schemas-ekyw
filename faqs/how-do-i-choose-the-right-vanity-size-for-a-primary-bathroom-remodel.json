@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-choose-the-right-vanity-size-for-a-primary-bathroom-remodel",
+  "name": "How do I choose the right vanity size for a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right vanity size for a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The vanity should be sized around circulation, storage, plumbing, and the users’ routines rather than maximum width alone. Two sinks may help a busy household, but one larger basin with drawers can provide better usable storage in a tighter room. Context: vanity placement also affects lighting, mirror width, door clearance, and the location of outlets. Key factors: wall length, drawer access, knee clearance, sink count, countertop depth, linen storage, and plumbing position. Practical guidance: inventory what must live in the vanity, measure your current storage, and identify appliances that need outlets. Confirm drawer openings will not collide with doors or toilet clearances. Elite Remodeling & Design can coordinate cabinetry, countertops, lighting, and plumbing in the layout stage.",
+        "@type": "Answer",
+        "description": "Start with storage and clearance, then decide whether two sinks genuinely improve the routine. Measure wall length, door and drawer swings, countertop depth, outlets, and plumbing locations. A single sink with wider drawers may outperform a cramped double vanity in a smaller room."
+      }
+    }
+  ],
+  "description": "Start with storage and clearance, then decide whether two sinks genuinely improve the routine. Measure wall length, door and drawer swings, countertop depth, ou"
+}

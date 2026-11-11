@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-house-has-old-wiring-and-i-want-to-add-under-cabinet-or-recessed-kitc",
+  "name": "What if my house has old wiring and I want to add under-cabinet or recessed kitchen lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my house has old wiring and I want to add under-cabinet or recessed kitchen lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older wiring should be assessed before adding fixtures, circuits, or concealed lighting. Warning signs include warm switches, discoloration, buzzing, damaged insulation, loose connections, repeated breaker trips, or wiring that cannot be identified confidently. Do not cover or reuse questionable wiring simply to avoid opening a wall or ceiling. Elite Remodeling & Design can coordinate an electrical review within a larger remodel, while a qualified electrical professional should address unsafe conditions. Before the consultation, note breaker trips and photograph visible boxes or panels without disturbing wiring. Ask whether the proposed upgrade changes circuit load or requires an additional circuit. Keep the final electrical documentation with the home’s remodeling records.",
+        "@type": "Answer",
+        "description": "Have the existing wiring, boxes, circuit capacity, and connections assessed before adding concealed or new lighting. Stop if you see heat damage, buzzing, repeated breaker trips, or deteriorated insulation. A remodel plan should identify needed circuit changes before walls and cabinets are closed."
+      }
+    }
+  ],
+  "description": "Have the existing wiring, boxes, circuit capacity, and connections assessed before adding concealed or new lighting. Stop if you see heat damage, buzzing, repea"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-kitchen-lighting-be-planned-during-a-remodel-so-i-don-t-have-to-redo",
+  "name": "When should kitchen lighting be planned during a remodel so I don’t have to redo everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should kitchen lighting be planned during a remodel so I don’t have to redo everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A lighting upgrade can be scheduled with a kitchen remodel, but the electrical plan should be settled before drywall, backsplash, and cabinets are installed. The usual sequence includes layout and fixture selection, electrical planning, rough-in, inspections where required, ceiling or wall repairs, cabinet-related wiring, finish installation, and final fixture setup. Elite Remodeling & Design describes a coordinated process that can include design development, material selections, permitting, construction, and final inspection. Timing changes when the project adds circuits, relocates walls, exposes unexpected conditions, or involves custom fixtures. Ask which decisions must be made before construction begins and which can remain flexible. Confirm who supplies fixtures, when they must arrive, and how substitutions are handled if a product is delayed.",
+        "@type": "Answer",
+        "description": "Plan lighting before cabinets, drywall, backsplash, and finishes are finalized. Fixture locations, switch zones, wiring routes, and product availability should be resolved before rough-in. During a coordinated remodel, ask which choices are needed early and whether delayed fixtures could affect construction or final installation."
+      }
+    }
+  ],
+  "description": "Plan lighting before cabinets, drywall, backsplash, and finishes are finalized. Fixture locations, switch zones, wiring routes, and product availability should"
+}

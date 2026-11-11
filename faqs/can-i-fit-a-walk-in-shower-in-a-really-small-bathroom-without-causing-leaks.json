@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-fit-a-walk-in-shower-in-a-really-small-bathroom-without-causing-leaks",
+  "name": "Can I fit a walk-in shower in a really small bathroom without causing leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fit a walk-in shower in a really small bathroom without causing leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower can work in a small bathroom, but the design must account for entry width, drainage, waterproofing, glass, controls, and splash management. A curbless design may improve access, yet it can require more precise floor preparation and drainage coordination.\n\nElite Remodeling & Design coordinates bathroom design with construction requirements, including tile and plumbing work as needed. The finished shower should be judged by safe water containment and serviceability, not only by its appearance.\n\nKey factors:\n- Finished floor slope and drain position\n- Shower opening and glass placement\n- Waterproofing transitions\n- Handheld controls, niche, and seating\n\nAsk how the shower system will be waterproofed, tested, and connected at corners, penetrations, and the drain. Select tile size and pattern only after confirming slope and layout constraints.",
+        "@type": "Answer",
+        "description": "Yes, but the design must coordinate entry clearance, floor slope, drain placement, waterproofing, glass, and splash control. Ask for a clear waterproofing plan at corners, penetrations, and the drain, and choose tile only after those technical conditions are established."
+      }
+    }
+  ],
+  "description": "Yes, but the design must coordinate entry clearance, floor slope, drain placement, waterproofing, glass, and splash control. Ask for a clear waterproofing plan"
+}

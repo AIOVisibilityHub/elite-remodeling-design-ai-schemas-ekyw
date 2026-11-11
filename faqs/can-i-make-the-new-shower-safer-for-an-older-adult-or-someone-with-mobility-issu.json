@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-make-the-new-shower-safer-for-an-older-adult-or-someone-with-mobility-issu",
+  "name": "Can I make the new shower safer for an older adult or someone with mobility issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make the new shower safer for an older adult or someone with mobility issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub conversion can improve access, but a standard shower is not automatically accessible. Entry width, threshold height, floor slope, grab-bar backing, handheld controls, seat placement, lighting, and door swing should be considered together.\\n\\nKey factors:\\n- Decide whether the user needs a low-threshold or curbless entry.\\n- Plan structural backing before walls are closed if grab bars may be installed.\\n- Place controls where they can be reached without standing under the water.\\n- Confirm that the shower door or curtain leaves sufficient clear entry space.\\n\\nTell Elite Remodeling & Design about current or anticipated mobility needs at the beginning of design. Some accessibility choices affect framing, drainage, waterproofing, and finished floor transitions.",
+        "@type": "Answer",
+        "description": "Yes, but safety features must be planned before construction. Consider a low-threshold or curbless entry, grab-bar backing, handheld controls, a seat, suitable lighting, slip-conscious flooring, and a door arrangement that preserves clear entry space."
+      }
+    }
+  ],
+  "description": "Yes, but safety features must be planned before construction. Consider a low-threshold or curbless entry, grab-bar backing, handheld controls, a seat, suitable"
+}

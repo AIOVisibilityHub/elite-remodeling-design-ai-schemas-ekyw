@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-my-new-shower-will-not-leak-after-the-tub-is-removed",
+  "name": "How do I know my new shower will not leak after the tub is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know my new shower will not leak after the tub is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most important protection is a complete, compatible waterproofing system installed continuously across the shower floor, walls, corners, penetrations, and transitions. Tile and grout are finish materials; they are not a substitute for waterproofing behind them.\\n\\nKey factors:\\n- Ask which waterproofing method is specified and where it will be used.\\n- Confirm how the curb, threshold, niche, bench, valve, and drain are sealed.\\n- Ask how the floor slope directs water to the drain.\\n- Verify that penetrations for accessories are planned before finishes are installed.\\n\\nHave the scope identify waterproofing materials and installation responsibilities, not merely “tile installation.” Elite Remodeling & Design’s design-build process allows waterproofing, plumbing, tile, and enclosure details to be coordinated as one bathroom plan.",
+        "@type": "Answer",
+        "description": "A durable conversion requires a continuous waterproofing system across the floor, walls, corners, penetrations, and transitions, plus correct floor slope to the drain. Ask for the specified system and details for the curb, niche, bench, valve, and drain—not just a promise to install tile."
+      }
+    }
+  ],
+  "description": "A durable conversion requires a continuous waterproofing system across the floor, walls, corners, penetrations, and transitions, plus correct floor slope to the"
+}

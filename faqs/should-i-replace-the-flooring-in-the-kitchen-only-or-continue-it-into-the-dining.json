@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-the-flooring-in-the-kitchen-only-or-continue-it-into-the-dining",
+  "name": "Should I replace the flooring in the kitchen only or continue it into the dining and living areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace the flooring in the kitchen only or continue it into the dining and living areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cohesive floor can continue into an adjoining room when the substrate, moisture conditions, finished height, and transition details support it. Stopping at the kitchen may be better when rooms have different use conditions, existing floors are worth preserving, or a clean design boundary is preferred. Context: Extending flooring increases square footage, material needs, and preparation, but it may reduce visual breaks. Key factors: - Existing flooring condition - Doorway and room transitions - Moisture exposure - Future remodeling plans Practical guidance: Mark the proposed boundary on the floor plan and price both the kitchen-only and connected-area scopes. Elite Remodeling & Design can coordinate finish boundaries with the overall residential remodeling design.",
+        "@type": "Answer",
+        "description": "Extend flooring when the adjoining areas, substrates, moisture conditions, and transitions support a cohesive result. Keep the project kitchen-only when existing floors are sound, boundaries are attractive, or extending the work adds unnecessary cost."
+      }
+    }
+  ],
+  "description": "Extend flooring when the adjoining areas, substrates, moisture conditions, and transitions support a cohesive result. Keep the project kitchen-only when existin"
+}

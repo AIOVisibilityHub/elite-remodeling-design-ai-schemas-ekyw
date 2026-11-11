@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-can-show-up-when-a-small-bathroom-is-torn-out",
+  "name": "What hidden problems can show up when a small bathroom is torn out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems can show up when a small bathroom is torn out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume existing walls and floors are sound simply because the tile looks acceptable. Demolition may reveal water damage, outdated plumbing, uneven framing, deteriorated subfloor, or prior work that was not properly waterproofed.\n\nElite Remodeling & Design can assess existing conditions during planning and address discovered requirements within the construction scope. The final plan should distinguish known work from allowances for concealed conditions.\n\nKey factors:\n- Staining, soft spots, or odors\n- Loose tile and failed grout\n- Drain and supply condition\n- Subfloor and framing condition\n\nPhotograph visible problems before demolition and ask how discoveries will be documented and priced. Avoid covering damaged materials merely to preserve the original budget.",
+        "@type": "Answer",
+        "description": "Common discoveries include water damage, uneven framing, deteriorated subfloor, outdated plumbing, poor ventilation, and inadequate prior waterproofing. Photograph existing issues, clarify allowances and change-order procedures, and repair the underlying condition before installing new finishes."
+      }
+    }
+  ],
+  "description": "Common discoveries include water damage, uneven framing, deteriorated subfloor, outdated plumbing, poor ventilation, and inadequate prior waterproofing. Photogr"
+}

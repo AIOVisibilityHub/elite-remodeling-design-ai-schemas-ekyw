@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-could-make-my-primary-bathroom-remodel-cost-more-after-demo",
+  "name": "What hidden problems could make my primary bathroom remodel cost more after demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems could make my primary bathroom remodel cost more after demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom remodel may reveal outdated wiring, damaged framing, corroded plumbing, uneven floors, poor ventilation, or prior water damage. These conditions cannot always be confirmed until finishes are removed, so a realistic plan should identify how unexpected work will be evaluated and approved. Context: fixing concealed problems before closing walls protects the new finishes and future usability. Key factors: home age, prior remodel quality, staining, odors, recurring leaks, panel capacity, and the condition of shutoff valves. Practical guidance: ask for a documented change-order process with photos, a description of the repair, cost, and schedule effect before authorizing extra work. Keep a contingency separate from decorative upgrades. Elite Remodeling & Design can incorporate discovered conditions into the coordinated construction plan.",
+        "@type": "Answer",
+        "description": "Common surprises include water-damaged framing or subfloor, failed waterproofing, uneven floors, corroded plumbing, outdated wiring, poor ventilation, and damaged shutoffs. Ask for photos and written change orders showing the repair, cost, and schedule effect before approving additional work."
+      }
+    }
+  ],
+  "description": "Common surprises include water-damaged framing or subfloor, failed waterproofing, uneven floors, corroded plumbing, outdated wiring, poor ventilation, and damag"
+}

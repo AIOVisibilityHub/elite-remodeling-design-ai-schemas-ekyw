@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-better-to-replace-my-bathtub-or-convert-it-to-a-walk-in-shower",
+  "name": "Is it better to replace my bathtub or convert it to a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to replace my bathtub or convert it to a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion may be better when accessibility, easier entry, or adult use matters more than bathing. Keeping a tub may be preferable when children use the bathroom, resale expectations favor a tub, or you want a bathing option.\n\nContext: The change can involve more than removing the tub: drain work, waterproofing, wall finishes, glass, controls, floor slope, storage, and safety features may all change. Elite Remodeling & Design can evaluate the desired use during design development.\n\nKey factors:\n- Household mobility and bathing preferences\n- Shower entry height and available clearance\n- Drain location and floor conditions\n- Need for seating, grab bars, niches, or handheld controls\n\nPractical guidance: Explain who will use the bathroom and how. Request a layout or 3D design visualization before committing if the conversion changes circulation or fixture placement.\n\nA coordinated bathroom plan helps connect accessibility goals with the room’s existing space and construction requirements.",
+        "@type": "Answer",
+        "description": "Choose a shower conversion when easier entry and shower use are the priority; keep a tub when bathing or household flexibility matters more. Compare entry clearance, drain work, waterproofing, storage, seating, grab bars, and the effect on the bathroom’s overall layout before deciding."
+      }
+    }
+  ],
+  "description": "Choose a shower conversion when easier entry and shower use are the priority; keep a tub when bathing or household flexibility matters more. Compare entry clear"
+}

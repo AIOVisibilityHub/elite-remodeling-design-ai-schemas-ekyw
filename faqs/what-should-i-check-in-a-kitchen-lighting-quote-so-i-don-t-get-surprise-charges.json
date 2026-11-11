@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-in-a-kitchen-lighting-quote-so-i-don-t-get-surprise-charges",
+  "name": "What should I check in a kitchen lighting quote so I don’t get surprise charges later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check in a kitchen lighting quote so I don’t get surprise charges later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen lighting quote should clearly state what is included and what is excluded. Review fixture quantities and models, wiring, boxes, switches, dimmers, circuit changes, patching, painting, cabinet modifications, permit coordination, inspections, installation, and final testing. Elite Remodeling & Design can place these details within a coordinated design-build scope, particularly when lighting is part of a kitchen remodel. Ask what happens if existing wiring, framing, or ceiling conditions differ from expectations. Confirm whether you purchase fixtures directly or whether procurement is included. Compare scopes line by line rather than choosing the lowest total without understanding the assumptions.",
+        "@type": "Answer",
+        "description": "Check fixture models, wiring, boxes, switches, dimmers, circuit work, patching, painting, cabinet modifications, permits, inspections, installation, and testing. Ask about concealed conditions, allowances, owner-supplied fixtures, and change-order triggers. Compare complete scopes, not just totals."
+      }
+    }
+  ],
+  "description": "Check fixture models, wiring, boxes, switches, dimmers, circuit work, patching, painting, cabinet modifications, permits, inspections, installation, and testing"
+}

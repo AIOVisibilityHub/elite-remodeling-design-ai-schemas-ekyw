@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-a-curbless-shower-if-my-bathroom-is-on-a-concrete-slab",
+  "name": "Can I install a curbless shower if my bathroom is on a concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a curbless shower if my bathroom is on a concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can work on a concrete slab, but the solution may require more demolition and drain planning than a wood-framed bathroom. The installer may need to evaluate slab thickness, drainage direction, plumbing depth, and whether a recessed shower area is practical without creating an unsafe floor condition.\n\nElite Remodeling & Design serves San Diego County and can assess the existing bathroom as part of a design-build remodeling consultation. A slab installation should not be priced from photographs alone when the drain or floor elevation is uncertain.\n\nKey factors:\n- Cutting or lowering a slab can affect schedule, dust control, and plumbing work.\n- A raised bathroom floor or carefully selected drain layout may be an alternative in some rooms.\n- The finished transition must not create a trip point at the shower opening.\n\nProvide information about the home’s foundation type, prior remodels, and any known plumbing repairs. Ask what exploratory demolition may be needed before the final method is confirmed.\n\nA site-specific design review is the safest way to compare slab options and avoid an unrealistic zero-threshold promise.",
+        "@type": "Answer",
+        "description": "Often, yes, but a concrete slab can require drain-depth checks, selective demolition, or another floor-elevation solution. The right method depends on slab conditions, plumbing depth, room layout, and the finished floor transition, so an on-site assessment is essential."
+      }
+    }
+  ],
+  "description": "Often, yes, but a concrete slab can require drain-depth checks, selective demolition, or another floor-elevation solution. The right method depends on slab cond"
+}

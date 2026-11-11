@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-tub-to-walk-in-shower-installation",
+  "name": "What actually happens during a tub-to-walk-in-shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a tub-to-walk-in-shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation usually starts with an assessment and design, followed by selections, permitting when applicable, demolition, plumbing or electrical work, waterproofing, tile and glass installation, fixtures, inspection, and final cleanup. Elite Remodeling & Design describes its process as coordinated design and construction from consultation through final inspection.\n\nThe exact sequence changes if the drain, valve, walls, lighting, or ventilation must be altered.\n\nKey factors:\n- Whether the tub footprint can be reused\n- Hidden damage discovered during demolition\n- Material lead times\n- Permit and inspection requirements\n\nPrepare a written list of priorities, preferred finishes, accessibility needs, and budget range. Keep product model numbers and approved selections in one place to reduce substitutions and delays.\n\nA single project team can make responsibility clearer across design and construction stages.",
+        "@type": "Answer",
+        "description": "The work commonly includes measuring and design, selections, demolition, plumbing adjustments, pan and waterproofing installation, tile, glass, fixtures, inspections, and cleanup. The sequence can change if hidden damage, drain relocation, electrical work, or permit review is involved."
+      }
+    }
+  ],
+  "description": "The work commonly includes measuring and design, selections, demolition, plumbing adjustments, pan and waterproofing installation, tile, glass, fixtures, inspec"
+}

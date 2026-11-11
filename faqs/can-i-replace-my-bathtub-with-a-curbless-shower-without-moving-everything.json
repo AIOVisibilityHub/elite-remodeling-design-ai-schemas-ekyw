@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-bathtub-with-a-curbless-shower-without-moving-everything",
+  "name": "Can I replace my bathtub with a curbless shower without moving everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a curbless shower without moving everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can be installed over an existing tub area, but the tub opening does not automatically provide enough depth for the required slope and drain assembly. After removal, the contractor must inspect framing, plumbing, subfloor condition, wall damage, and the relationship between the shower floor and the rest of the bathroom.\n\nElite Remodeling & Design’s bathroom remodeling scope includes coordinating customized fixtures, tile, plumbing, and electrical work as needed. The existing wet-wall location may reduce plumbing changes, but it does not eliminate floor-preparation or waterproofing decisions.\n\nKey factors:\n- The old tub drain may need resizing, relocation, or a different trap arrangement.\n- The tub platform, joists, and subfloor may contain hidden damage.\n- The shower width and opening affect the slope and glass design.\n\nPhotograph the tub area, note the home’s age, and disclose prior leaks before requesting a final proposal. Ask whether the price includes removal, disposal, subfloor repair, and drain conversion.\n\nKeeping the new fixtures near existing plumbing can help control scope, but the floor assembly still needs a site-specific design.",
+        "@type": "Answer",
+        "description": "Often, yes, especially when the new shower stays near the existing wet wall, but the tub area may not have enough depth for the required slope and drain. Inspect the framing, subfloor, trap, plumbing, and hidden damage before finalizing the design."
+      }
+    }
+  ],
+  "description": "Often, yes, especially when the new shower stays near the existing wet wall, but the tub area may not have enough depth for the required slope and drain. Inspec"
+}

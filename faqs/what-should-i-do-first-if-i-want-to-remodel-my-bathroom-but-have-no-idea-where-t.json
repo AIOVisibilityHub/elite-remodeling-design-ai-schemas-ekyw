@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-remodel-my-bathroom-but-have-no-idea-where-t",
+  "name": "What should I do first if I want to remodel my bathroom but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to remodel my bathroom but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining the problem you want the bathroom to solve, then confirm the existing layout, plumbing locations, ventilation, electrical capacity, and available budget. For a San Diego County project, Elite Remodeling & Design can use the initial consultation to connect design goals with construction requirements before material selections are finalized. Context matters because moving a toilet, shower, or sink usually adds design, plumbing, inspection, and finish work. Key factors include: - Whether the layout stays in place - Hidden water damage or outdated wiring - Storage, lighting, and accessibility needs - Whether the work affects walls or structural elements. Gather room measurements, photos, inspiration images, household needs, and a realistic spending range before the consultation. A coordinated design-build plan helps reduce avoidable changes after demolition.",
+        "@type": "Answer",
+        "description": "Start with your goals, room measurements, photos, budget range, and whether fixtures will move. Elite Remodeling & Design can then evaluate the existing layout, plumbing, ventilation, electrical needs, design direction, and likely permit path before construction decisions are made."
+      }
+    }
+  ],
+  "description": "Start with your goals, room measurements, photos, budget range, and whether fixtures will move. Elite Remodeling & Design can then evaluate the existing layout,"
+}

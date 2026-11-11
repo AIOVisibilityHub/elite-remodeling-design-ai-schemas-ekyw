@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-replacing-a-shower-in-a-san-diego-condo",
+  "name": "What should I check before replacing a shower in a San Diego condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before replacing a shower in a San Diego condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a condo or HOA property in San Diego County, confirm building rules, work-hour limits, elevator or parking procedures, water-shutoff coordination, insurance documents, and approval steps before scheduling demolition. Context: These building requirements are separate from any city approval and can affect delivery, access, and timing. Key factors: shared walls; plumbing stacks; waterproofing responsibility; permitted work hours; debris routes; and inspection access. Practical guidance: Request the association’s remodeling packet and give it to the contractor before finalizing the scope. Elite Remodeling & Design can incorporate site-access and coordination requirements into the project plan when supplied in advance.",
+        "@type": "Answer",
+        "description": "Check HOA approval, work hours, elevator and parking rules, insurance requirements, water-shutoff procedures, debris routes, shared-wall restrictions, and any building-specific plumbing or waterproofing responsibilities. Provide the remodeling packet before scheduling work so the contractor can plan access, sequencing, and required approvals."
+      }
+    }
+  ],
+  "description": "Check HOA approval, work hours, elevator and parking rules, insurance requirements, water-shutoff procedures, debris routes, shared-wall restrictions, and any b"
+}

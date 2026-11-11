@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-remodeling-a-small-bathroom-in-san-diego",
+  "name": "How much should I budget for remodeling a small bathroom in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for remodeling a small bathroom in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small bathroom remodel can range from a cosmetic refresh to a full renovation, so there is no reliable single price without seeing the room and defining the scope. Costs rise when plumbing moves, walls open, waterproofing is rebuilt, custom materials are ordered, or electrical and ventilation work is needed.\n\nElite Remodeling & Design develops a project plan around the existing conditions, desired design, and construction requirements. The useful comparison is not only the total price; it is what each proposal includes and excludes.\n\nKey factors:\n- Demolition and disposal\n- Plumbing and electrical changes\n- Waterproofing and tile labor\n- Fixtures, cabinetry, and finish allowances\n\nRequest a written scope with allowances, exclusions, change-order procedures, permit responsibilities, and inspection work. Keep a contingency for concealed conditions discovered after demolition.",
+        "@type": "Answer",
+        "description": "There is no dependable price without the room’s dimensions and scope. A same-layout finish update costs differently from a project involving moved plumbing, new electrical work, waterproofing repairs, custom cabinetry, permits, or concealed damage, so compare detailed scopes rather than totals alone."
+      }
+    }
+  ],
+  "description": "There is no dependable price without the room’s dimensions and scope. A same-layout finish update costs differently from a project involving moved plumbing, new"
+}

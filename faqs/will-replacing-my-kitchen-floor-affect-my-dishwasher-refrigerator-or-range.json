@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-replacing-my-kitchen-floor-affect-my-dishwasher-refrigerator-or-range",
+  "name": "Will replacing my kitchen floor affect my dishwasher, refrigerator, or range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my kitchen floor affect my dishwasher, refrigerator, or range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The appliance plan should be confirmed before flooring work because finished height, access, and tight openings can affect removal and reinstallation. Refrigerators, dishwashers, ranges, and fixed cabinetry may need different handling depending on the floor system and project sequence. Context: A new floor that raises the surface can reduce clearance, especially at dishwashers or built-in units. Moving appliances may also reveal leaks or damaged areas. Key factors: - Appliance dimensions and clearances - Floor height change - Utility connections - Protection during construction Practical guidance: List appliance models or dimensions and decide who disconnects, moves, protects, and reconnects them. Elite Remodeling & Design can coordinate appliance considerations with the kitchen’s design and construction stages.",
+        "@type": "Answer",
+        "description": "It can. New floor height, appliance clearances, access, and utility connections must be reviewed before work. Confirm who will disconnect, move, protect, and reconnect each appliance and inspect for leaks once units are accessible."
+      }
+    }
+  ],
+  "description": "It can. New floor height, appliance clearances, access, and utility connections must be reviewed before work. Confirm who will disconnect, move, protect, and re"
+}

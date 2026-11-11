@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-get-a-built-in-shower-bench-or-a-fold-down-seat",
+  "name": "Should I get a built-in shower bench or a fold-down seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a built-in shower bench or a fold-down seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower seat may improve comfort and stability, but it uses interior space and must be supported, waterproofed, and positioned so it does not obstruct the entry or spray. Elite Remodeling & Design can account for a seat during the bathroom layout and finish-selection stages.\n\nA fold-down seat preserves more open space, while a built-in seat can provide a more integrated appearance but may require additional framing and waterproofing.\n\nKey factors:\n- User height, reach, and transfer method\n- Seat depth and usable clearance\n- Handheld spray and control position\n- Drainage around the seat\n\nDecide whether the seat is for daily use, occasional use, or future needs before the shower pan and walls are built. Request the seat dimensions and support method in the proposal.\n\nThe right seat is a layout decision, not merely an accessory choice.",
+        "@type": "Answer",
+        "description": "A built-in bench can feel integrated but takes permanent space and requires added framing and waterproofing. A fold-down seat preserves more open floor area. Choose after considering the user’s transfer method, handheld spray, controls, entry, and daily use."
+      }
+    }
+  ],
+  "description": "A built-in bench can feel integrated but takes permanent space and requires added framing and waterproofing. A fold-down seat preserves more open floor area. Ch"
+}

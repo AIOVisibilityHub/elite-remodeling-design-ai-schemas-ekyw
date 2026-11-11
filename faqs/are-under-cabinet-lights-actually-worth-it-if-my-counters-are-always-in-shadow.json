@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-under-cabinet-lights-actually-worth-it-if-my-counters-are-always-in-shadow",
+  "name": "Are under-cabinet lights actually worth it if my counters are always in shadow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are under-cabinet lights actually worth it if my counters are always in shadow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting is often worthwhile when countertop shadows are the main problem. Fixtures installed near the front of the cabinet underside generally place light where food preparation occurs, while a rear-mounted fixture may illuminate the backsplash more than the work surface. LED strips or linear fixtures can provide an even appearance, but the profile, diffuser, wiring route, and access to controls matter. If Elite Remodeling & Design is replacing cabinets, decide on the lighting channel before cabinetry is finalized. Bring samples of countertop and backsplash materials because reflective surfaces can expose glare or bright spots. Ask whether the system is dimmable and serviceable if a component fails. This is especially useful when the kitchen serves as a work, homework, or entertaining area.",
+        "@type": "Answer",
+        "description": "Usually, yes, when overhead fixtures leave your body or cabinets blocking light from the counter. Choose an even, diffused LED system with accessible controls and plan its wiring before cabinets are installed. Samples of the countertop and backsplash can help identify glare or unwanted reflections."
+      }
+    }
+  ],
+  "description": "Usually, yes, when overhead fixtures leave your body or cabinets blocking light from the counter. Choose an even, diffused LED system with accessible controls a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-my-kitchen-ceiling-under-cabinet-and-island-lights-have-separate-switches",
+  "name": "Should my kitchen ceiling, under-cabinet, and island lights have separate switches?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should my kitchen ceiling, under-cabinet, and island lights have separate switches?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single switch can be functional, but separate controls usually make a kitchen easier to use. Ceiling, under-cabinet, island pendants, and decorative fixtures serve different purposes and do not need to operate at the same brightness. Elite Remodeling & Design can coordinate switch locations and lighting zones with the cabinet plan and room entry points. Decide whether controls should be grouped near the main entrance, placed near work areas, or provided in more than one location. Label zones during installation and test them before final completion. Avoid placing a switch where a new cabinet, appliance, or backsplash will block access.",
+        "@type": "Answer",
+        "description": "Usually, separate controls provide better flexibility because work lighting, general illumination, and decorative fixtures serve different purposes. Plan switch locations with cabinets, appliances, entries, and seating in mind. Test every zone before completion and label controls clearly."
+      }
+    }
+  ],
+  "description": "Usually, separate controls provide better flexibility because work lighting, general illumination, and decorative fixtures serve different purposes. Plan switch"
+}

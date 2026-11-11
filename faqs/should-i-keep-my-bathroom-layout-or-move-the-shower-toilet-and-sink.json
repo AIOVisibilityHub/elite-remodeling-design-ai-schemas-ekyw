@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-keep-my-bathroom-layout-or-move-the-shower-toilet-and-sink",
+  "name": "Should I keep my bathroom layout or move the shower, toilet, and sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my bathroom layout or move the shower, toilet, and sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping the toilet, sink, and shower in their existing locations usually limits plumbing changes and can make the project simpler, while changing the layout may improve circulation, storage, or accessibility. The right choice depends on the current pain points and conditions behind the walls, not merely on appearance. Elite Remodeling & Design can develop a layout around how the household uses the room and visualize options before construction. Key factors include: - Door swing and clear floor area - Drain and supply locations - Ventilation and lighting - Storage needs and future use. Mark what feels cramped, difficult to clean, or unsafe in the current room. Compare the functional improvement against added design, rough-in, inspection, and finish work before approving relocation.",
+        "@type": "Answer",
+        "description": "Keep the layout when it works and you want to control complexity; consider moving fixtures when circulation, storage, accessibility, or daily function is poor. Compare the improvement with added plumbing, electrical, design, inspection, and finish work."
+      }
+    }
+  ],
+  "description": "Keep the layout when it works and you want to control complexity; consider moving fixtures when circulation, storage, accessibility, or daily function is poor."
+}

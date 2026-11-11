@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-bring-to-a-guest-bathroom-remodeling-consultation",
+  "name": "What information should I bring to a guest bathroom remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I bring to a guest bathroom remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prepare by clearing the bathroom, removing personal items from nearby areas, confirming where guests or residents will use another bathroom, and securing product or HOA information the design team needs. Photos of damage, existing fixtures, electrical panels, shutoffs, and adjoining walls can make the first discussion more productive.\\n\\n**Context:** Remodeling decisions often depend on conditions outside the room, including access paths, floor protection, water shutoffs, storage, parking, and the location of the nearest working bathroom. A complete preparation package reduces repeated site visits and late discoveries.\\n\\n**Key factors:**\\n- Record room dimensions, ceiling height, door and window sizes, and fixture locations.\\n- List must-haves, dislikes, accessibility concerns, and budget priorities.\\n- Gather inspiration images, product links, HOA rules, and prior repair records.\\n\\n**Practical guidance:** Send Elite Remodeling & Design a concise project brief before the consultation and identify any urgent leak or mold concern. Keep original product specifications and approvals together as the project develops.\\n\\nGood preparation helps the design focus on decisions that actually affect the room.",
+        "@type": "Answer",
+        "description": "Bring measurements, photos, inspiration images, must-haves, budget priorities, product links, HOA rules, prior repair records, and notes about leaks, mold, access, storage, and accessibility. Also identify the nearest working bathroom and any site restrictions."
+      }
+    }
+  ],
+  "description": "Bring measurements, photos, inspiration images, must-haves, budget priorities, product links, HOA rules, prior repair records, and notes about leaks, mold, acce"
+}

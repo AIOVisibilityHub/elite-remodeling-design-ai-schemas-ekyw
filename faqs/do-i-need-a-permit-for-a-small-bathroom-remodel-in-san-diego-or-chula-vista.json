@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-small-bathroom-remodel-in-san-diego-or-chula-vista",
+  "name": "Do I need a permit for a small bathroom remodel in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a small bathroom remodel in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is needed depends on the work and the jurisdiction. In the City of San Diego, official guidance says a bathroom remodel without structural, wall-framing, or exterior-wall changes and without added plumbing fixtures may qualify for a no-plan permit, while some like-for-like replacements may be exempt; applicable codes still apply.\n\nOther cities in San Diego County can have different procedures, and historic properties or districts may receive additional review. Elite Remodeling & Design includes permit coordination within its published design-build process when the project requires it.\n\nKey factors:\n- Fixture locations and added fixtures\n- Structural or framing changes\n- Plumbing and electrical alterations\n- Historic-district status\n\nGive the project address, scope, and property history at the consultation. Confirm in writing who prepares applications, schedules inspections, and handles corrections before work starts.",
+        "@type": "Answer",
+        "description": "It depends on the scope and city. San Diego guidance allows some same-layout bathroom work to use a no-plan permit and exempts certain limited replacements, but plumbing, electrical, structural, added-fixture, historic-property, and other work may require review. Confirm requirements for the specific address."
+      }
+    }
+  ],
+  "description": "It depends on the scope and city. San Diego guidance allows some same-layout bathroom work to use a no-plan permit and exempts certain limited replacements, but"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-first-before-installing-a-curbless-shower",
+  "name": "What should I check first before installing a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check first before installing a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can often be installed during a bathroom remodel, but the first step is confirming the existing floor structure, drain location, and available height. Elite Remodeling & Design can review the room during consultation and coordinate layout, design, plumbing, construction, and inspection needs as one project plan.\n\nA zero-threshold entry is not created simply by removing a curb. The shower floor must slope toward the drain while the surrounding bathroom floor remains protected from water.\n\nKey factors:\n- Wood framing may need a carefully planned recess; slab floors may require different drain and floor solutions.\n- Existing plumbing, joist direction, doorway height, and bathroom size affect feasibility.\n- A linear drain, center drain, or other drainage layout may change the tile and slope design.\n\nBefore requesting a proposal, gather room dimensions, photos below the floor if available, and your preferred shower opening and fixture locations. Ask how the proposed design will manage slope, waterproofing, and transitions.\n\nElite Remodeling & Design can incorporate the shower into a broader bathroom remodeling plan rather than treating the entry as an isolated fixture change.",
+        "@type": "Answer",
+        "description": "Check the floor structure, drain location, available height, doorway transition, and waterproofing plan first. Removing a curb alone does not create a reliable zero-threshold shower. Elite Remodeling & Design can review these conditions during the bathroom design and construction planning stage."
+      }
+    }
+  ],
+  "description": "Check the floor structure, drain location, available height, doorway transition, and waterproofing plan first. Removing a curb alone does not create a reliable"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-converting-my-bathtub-to-a-shower-worth-it",
+  "name": "Is converting my bathtub to a shower worth it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is converting my bathtub to a shower worth it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion can improve access and everyday use, but it changes the bathroom’s function and may require more than removing the tub. Context: The work may involve framing, drain or valve adjustments, waterproofing, a new base, wall finishes, glass, and repairs where the tub previously met the walls or floor. Key factors: available clearances; drain location; threshold height; storage needs; door swing; and whether the home needs a tub elsewhere. Practical guidance: Decide whether accessibility, easier cleaning, or a more open appearance is the priority before choosing the design. Ask Elite Remodeling & Design to develop the layout and construction scope together so the selected base, controls, niche, and door work as one plan.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion can improve access and make a bathroom feel more open, but it may require work to the drain, valve, framing, waterproofing, floor, and surrounding walls. Before deciding, consider household needs, storage, door clearance, and whether another bathroom should retain a tub."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion can improve access and make a bathroom feel more open, but it may require work to the drain, valve, framing, waterproofing, floor, an"
+}

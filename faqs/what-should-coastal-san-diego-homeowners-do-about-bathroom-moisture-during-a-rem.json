@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-coastal-san-diego-homeowners-do-about-bathroom-moisture-during-a-rem",
+  "name": "What should coastal San Diego homeowners do about bathroom moisture during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should coastal San Diego homeowners do about bathroom moisture during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improve bathroom ventilation as part of the remodel instead of relying only on a decorative fan replacement. Moisture control depends on fan capacity, duct routing, exterior discharge, switch controls, room size, shower use, and whether the fan actually clears humidity. Context: coastal communities such as Coronado, Imperial Beach, and coastal San Diego may make moisture management especially relevant, but every bathroom needs a workable ventilation plan. Key factors: existing duct condition, window use, ceiling access, noise, timer controls, and signs of condensation or mildew. Practical guidance: ask where exhaust air goes, whether the duct is properly routed, and how the fan will be operated after showers. Include ventilation decisions before ceilings and tile are closed. Elite Remodeling & Design can coordinate ventilation with electrical and finish work when the scope requires it.",
+        "@type": "Answer",
+        "description": "Treat ventilation and waterproofing as core systems, not cosmetic add-ons. Review fan capacity, duct routing, controls, condensation, and shower sealing, especially in coastal communities such as Coronado and Imperial Beach. Make these decisions before ceilings and tile are closed."
+      }
+    }
+  ],
+  "description": "Treat ventilation and waterproofing as core systems, not cosmetic add-ons. Review fan capacity, duct routing, controls, condensation, and shower sealing, especi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-glass-door-on-a-walk-in-shower-or-can-i-leave-it-open",
+  "name": "Do I need a glass door on a walk-in shower, or can I leave it open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a glass door on a walk-in shower, or can I leave it open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower doors are optional; a fixed glass panel, curtain, or open entry may work depending on splash direction, room size, ventilation, and the user’s ability to operate a door. Elite Remodeling & Design can coordinate glass and enclosure decisions with the shower layout rather than treating them as a late add-on.\n\nAn open entry may feel spacious but can send water onto the bathroom floor if the spray and slope are not carefully planned.\n\nKey factors:\n- Showerhead direction and entry location\n- Available splash zone\n- Cleaning preferences\n- Door clearance and accessibility\n\nAsk for a plan showing the spray, glass, and entry path. Confirm whether glass measurement occurs after finished surfaces are installed.\n\nThe best enclosure balances water control with ease of use.",
+        "@type": "Answer",
+        "description": "You do not always need a door. A fixed panel, curtain, or open entry can work when the shower size, spray direction, slope, and ventilation control splash. Review the glass and entry layout together before choosing an enclosure."
+      }
+    }
+  ],
+  "description": "You do not always need a door. A fixed panel, curtain, or open entry can work when the shower size, spray direction, slope, and ventilation control splash. Revi"
+}

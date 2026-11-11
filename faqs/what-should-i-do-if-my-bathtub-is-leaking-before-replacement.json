@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-bathtub-is-leaking-before-replacement",
+  "name": "What should I do if my bathtub is leaking before replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my bathtub is leaking before replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not treat persistent leaks, soft flooring, staining, musty odors, or movement around the tub as cosmetic problems. Stop using the tub if water is actively escaping and arrange an inspection to identify whether the source is the drain, supply plumbing, surround, caulk joint, or concealed waterproofing.\n\nContext: Replacing the visible tub without correcting the source can allow damage to continue. A proper scope may include opening finishes, drying or repairing affected materials, and checking adjacent walls or flooring.\n\nKey factors:\n- Location and timing of the leak\n- Soft or discolored surfaces\n- Damage on the other side of the wall or below\n- Condition of the subfloor and framing\n\nPractical guidance: Document when the leak occurs and where it appears. Ask for photographs or a written explanation of concealed-condition findings before approving added work.\n\nElite Remodeling & Design can integrate leak-related repairs into a larger bathroom remodeling plan when the surrounding area also needs reconstruction.",
+        "@type": "Answer",
+        "description": "Limit use of the tub and arrange an inspection if you see active leaks, soft floors, stains, odors, or movement. Document when and where water appears. Replacing the visible fixture alone may not solve damage involving the drain, plumbing, surround, waterproofing, subfloor, or framing."
+      }
+    }
+  ],
+  "description": "Limit use of the tub and arrange an inspection if you see active leaks, soft floors, stains, odors, or movement. Document when and where water appears. Replacin"
+}

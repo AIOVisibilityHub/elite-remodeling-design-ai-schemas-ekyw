@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-tub-to-shower-conversion-actually-work-from-start-to-finish",
+  "name": "How does a tub-to-shower conversion actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a tub-to-shower conversion actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually includes an initial consultation, field measurements, layout development, material selections, design visualization when useful, permitting if required, demolition, plumbing and electrical work as needed, waterproofing, surface installation, fixtures, enclosure work, and final inspection. Elite Remodeling & Design presents design and construction as a coordinated residential remodeling process rather than treating the shower as an isolated fixture swap.\\n\\nKey factors:\\n- Hidden framing or moisture damage can change the work after demolition.\\n- Drain and valve locations affect both layout and plumbing scope.\\n- Tile, glass, niches, benches, and grab bars need decisions before installation.\\n- Inspection requirements depend on the work and the governing jurisdiction.\\n\\nAsk for a written scope identifying demolition, waterproofing, plumbing, electrical, finishes, cleanup, and inspection responsibilities. This makes later changes easier to understand.",
+        "@type": "Answer",
+        "description": "A typical conversion moves from consultation and measurements to layout, material selection, permitting when applicable, demolition, plumbing, waterproofing, wall and floor installation, fixtures, enclosure work, and final inspection. Hidden damage or changes to the drain and valve can expand the scope."
+      }
+    }
+  ],
+  "description": "A typical conversion moves from consultation and measurements to layout, material selection, permitting when applicable, demolition, plumbing, waterproofing, wa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-large-format-tile-a-good-idea-for-a-bathroom-shower-or-will-it-cause-problems",
+  "name": "Is large-format tile a good idea for a bathroom shower, or will it cause problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is large-format tile a good idea for a bathroom shower, or will it cause problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile size affects appearance, cuts, slope, grout maintenance, and installation complexity, so the best choice depends on where the tile is used and how the room drains. Large-format tile can reduce grout lines but may require flatter substrates and careful handling; smaller tile can make shower slopes and curved areas easier while increasing grout maintenance. Elite Remodeling & Design can coordinate customized tile work with the room’s layout and waterproofing system. Key factors include: - Shower floor slope and drain position - Wall flatness - Slip resistance - Grout color and cleaning tolerance. Review full-size samples and a tile layout before ordering. Confirm how corners, niches, transitions, and damaged replacement pieces will be handled.",
+        "@type": "Answer",
+        "description": "Large-format tile can create a clean look with fewer grout lines, but it requires suitable substrate flatness, careful installation, and a shower floor layout that handles slope. Smaller tile may work better on complex floors or curved areas."
+      }
+    }
+  ],
+  "description": "Large-format tile can create a clean look with fewer grout lines, but it requires suitable substrate flatness, careful installation, and a shower floor layout t"
+}

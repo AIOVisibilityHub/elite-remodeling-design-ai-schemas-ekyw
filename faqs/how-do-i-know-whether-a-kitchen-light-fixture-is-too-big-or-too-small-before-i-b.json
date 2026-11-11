@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-whether-a-kitchen-light-fixture-is-too-big-or-too-small-before-i-b",
+  "name": "How do I know whether a kitchen light fixture is too big or too small before I buy it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether a kitchen light fixture is too big or too small before I buy it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fixture can look right in a showroom and still feel wrong once installed because scale depends on the room, island, ceiling, cabinets, and surrounding sightlines. Measure the fixture’s width, height, drop, canopy, bulb exposure, and cleaning access before ordering. Elite Remodeling & Design can compare fixture proportions with the kitchen’s layout and 3D design during planning. Use painter’s tape, cardboard, or a temporary hanging template to test visual scale and walking clearance. Confirm that doors, cabinet fronts, and appliance openings will not conflict. Ask whether the fixture can be serviced without damaging finished surfaces.",
+        "@type": "Answer",
+        "description": "Compare the fixture’s dimensions with the island, ceiling height, cabinet elevations, walking paths, and sightlines. Test its footprint with tape or a temporary template, and check door clearances, bulb exposure, cleaning access, and future service needs before ordering."
+      }
+    }
+  ],
+  "description": "Compare the fixture’s dimensions with the island, ceiling height, cabinet elevations, walking paths, and sightlines. Test its footprint with tape or a temporary"
+}

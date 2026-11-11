@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-old-bathtub-really-be-replaced-with-a-walk-in-shower-without-making-the-b",
+  "name": "Can my old bathtub really be replaced with a walk-in shower without making the bathroom worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my old bathtub really be replaced with a walk-in shower without making the bathroom worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a tub-to-walk-in-shower conversion can improve access, but the best layout depends on the bathroom’s size, drain location, door swing, and how much floor slope is available. Elite Remodeling & Design can evaluate the existing bathroom during consultation and coordinate design, plumbing, construction, and inspection planning.\n\nA low-threshold shower is not automatically barrier-free. The finished entry, shower pan, drain, waterproofing, controls, and surrounding floor all affect usability.\n\nKey factors:\n- Existing drain and supply-line locations\n- Threshold height and available floor depth\n- Door, glass, bench, and grab-bar placement\n- Wall and subfloor conditions after demolition\n\nBefore requesting a proposal, measure the room, photograph the current tub and plumbing wall, and list mobility concerns. Ask how the proposed pan will be waterproofed and tested before tile is installed.\n\nA coordinated design-build process can help keep accessibility goals aligned with construction realities.",
+        "@type": "Answer",
+        "description": "Usually, yes—but the result depends on the drain, floor depth, threshold, door clearance, and wall conditions. Have the existing bathroom assessed before choosing fixtures. A proper plan should address the shower pan, waterproofing, controls, glass, and any bench or grab bars together."
+      }
+    }
+  ],
+  "description": "Usually, yes—but the result depends on the drain, floor depth, threshold, door clearance, and wall conditions. Have the existing bathroom assessed before choosi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-hire-a-designer-and-contractor-separately-or-use-one-primary-bathroom-r",
+  "name": "Should I hire a designer and contractor separately or use one primary bathroom remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a designer and contractor separately or use one primary bathroom remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A single company can be helpful when the project needs layout design, 3D visualization, material selections, permits, and construction coordination, but you still need to understand who performs each trade and who is accountable for quality. The advantage is fewer handoffs between design decisions and field work; the tradeoff is that you must review the complete scope and communication process carefully. Context: Elite Remodeling & Design presents its work as a connected design-build process from consultation through final inspection. Key factors: design ownership, trade coordination, permit responsibility, selections support, schedule updates, payment structure, and change orders. Practical guidance: ask who your primary contact is, when selections become final, how field questions are documented, and how issues are escalated. Confirm the contract clearly defines deliverables and exclusions. This model may fit homeowners who want one coordinated team for a complex primary-bath project.",
+        "@type": "Answer",
+        "description": "One coordinated team can reduce handoffs among design, selections, permits, and construction, while separate providers may offer more independent choice but require more owner coordination. Ask who controls the plans, trade scheduling, approvals, selections, change orders, and final quality."
+      }
+    }
+  ],
+  "description": "One coordinated team can reduce handoffs among design, selections, permits, and construction, while separate providers may offer more independent choice but req"
+}

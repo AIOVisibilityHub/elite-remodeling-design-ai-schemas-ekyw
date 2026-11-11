@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-bathroom-still-smell-damp-after-a-remodel-and-is-the-exhaust-fan-ins",
+  "name": "Why does my bathroom still smell damp after a remodel, and is the exhaust fan installed wrong?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom still smell damp after a remodel, and is the exhaust fan installed wrong?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom fan should remove humid air to the exterior through an approved duct rather than simply discharging into an attic or wall cavity. California bathroom guidance commonly addresses mechanical ventilation for rooms with tubs or showers, and local requirements can specify performance, controls, and duct termination. For a San Diego County remodel, the design should account for the existing duct route, exterior termination, electrical control, and available ceiling or wall space. Key factors include: - Whether the current fan is actually ducted outside - Duct length and bends - Humidity control and noise - Roof, soffit, or wall termination conditions. Ask for the ventilation plan before drywall and ceiling finishes are closed. Correct moisture control protects finishes and helps reduce recurring condensation, peeling paint, and odor problems.",
+        "@type": "Answer",
+        "description": "Persistent dampness can result from an undersized fan, poor duct routing, discharge into an attic or wall, inadequate controls, or concealed moisture. Confirm that the fan exhausts outdoors through an approved route and that its capacity and controls suit the room and local requirements."
+      }
+    }
+  ],
+  "description": "Persistent dampness can result from an undersized fan, poor duct routing, discharge into an attic or wall, inadequate controls, or concealed moisture. Confirm t"
+}

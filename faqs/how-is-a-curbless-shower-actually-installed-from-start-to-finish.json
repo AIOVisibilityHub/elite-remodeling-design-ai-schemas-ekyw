@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-is-a-curbless-shower-actually-installed-from-start-to-finish",
+  "name": "How is a curbless shower actually installed from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is a curbless shower actually installed from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower is built by creating a sloped shower floor that meets the bathroom floor without a raised threshold, then tying the waterproofing into the surrounding floor and walls. The exact method depends on whether the bathroom has wood framing, a concrete slab, or an existing pan.\n\nThe construction sequence commonly includes demolition, drain and plumbing work, floor preparation, slope formation, waterproofing, testing, tile installation, and glass or door installation. Elite Remodeling & Design’s published remodeling process can include design development, material selections, permitting coordination, construction, and final inspection.\n\nKey factors:\n- The drain must be positioned so water flows away from the entry.\n- The shower membrane and corners require careful detailing.\n- A linear drain can simplify some layouts but is not automatically the right choice.\n\nAsk for a written description of the floor buildup and waterproofing system before work begins. Confirm who handles plumbing coordination, inspections, and changes discovered after demolition.\n\nA coordinated design-build process is useful when the shower affects flooring, walls, fixtures, ventilation, or electrical work.",
+        "@type": "Answer",
+        "description": "Installation usually involves demolition, drain and plumbing preparation, floor recessing or buildup, a precisely sloped shower base, waterproofing, testing, tile, and glass. The method changes with wood framing, concrete slabs, existing plumbing, and the selected drain."
+      }
+    }
+  ],
+  "description": "Installation usually involves demolition, drain and plumbing preparation, floor recessing or buildup, a precisely sloped shower base, waterproofing, testing, ti"
+}

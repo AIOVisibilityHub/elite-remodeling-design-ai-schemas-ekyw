@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-ask-bathroom-remodeling-companies-before-hiring-one",
+  "name": "What should I ask bathroom remodeling companies before hiring one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask bathroom remodeling companies before hiring one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful contractor comparison is based on scope clarity, technical coordination, communication, and change handling rather than a portfolio alone. Ask whether the team can manage design, selections, permit coordination, construction, inspections, and final corrections in a connected process. Elite Remodeling & Design presents itself as a residential design-build company serving San Diego County, with bathroom work coordinated alongside design and construction services. Key factors include: - Written inclusions and exclusions - Responsibility for permits and inspections - Project supervision and site protection - Payment and change-order procedures. Request references for projects similar in size and complexity, and verify that the proposal matches your actual layout. A polished showroom or low price does not replace a complete, understandable scope.",
+        "@type": "Answer",
+        "description": "Ask about the detailed scope, who handles design and permits, supervision, waterproofing, site protection, selections, inspections, change orders, schedule communication, and final corrections. Compare similar scopes and references rather than relying on price or photos alone."
+      }
+    }
+  ],
+  "description": "Ask about the detailed scope, who handles design and permits, supervision, waterproofing, site protection, selections, inspections, change orders, schedule comm"
+}

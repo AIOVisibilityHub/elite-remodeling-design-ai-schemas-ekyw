@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-new-walk-in-shower-starts-leaking",
+  "name": "What should I do if my new walk-in shower starts leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my new walk-in shower starts leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower can leak even when the tile looks perfect. Common failure points include the pan, drain connection, corners, curb or threshold, niches, bench, door seals, and pipe penetrations. If leakage is suspected, stop using the shower and document staining, odors, soft flooring, or ceiling damage below.\n\nDo not simply apply surface caulk over a recurring leak; the concealed waterproofing may need inspection.\n\nKey factors:\n- Where water appears relative to the shower\n- Whether the leak occurs only during use\n- Condition of the drain and pan\n- Damage to framing, drywall, flooring, or adjacent rooms\n\nContact the installer promptly and preserve photographs, invoices, product information, and inspection records. Ask for a controlled diagnostic plan before demolition.\n\nA written scope and documented installation make troubleshooting more manageable.",
+        "@type": "Answer",
+        "description": "Stop using it if possible, photograph the damage, and contact the installer promptly. Record when the leak occurs and where water appears. Do not rely on surface caulk as a permanent fix; the pan, drain, waterproofing, or concealed framing may need inspection."
+      }
+    }
+  ],
+  "description": "Stop using it if possible, photograph the damage, and contact the installer promptly. Record when the leak occurs and where water appears. Do not rely on surfac"
+}

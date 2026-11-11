@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-moving-the-toilet-worth-it-in-a-guest-bathroom-remodel",
+  "name": "Is moving the toilet worth it in a guest bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is moving the toilet worth it in a guest bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the toilet location when it works, but move it if the current position creates poor clearance, conflicts with the door or vanity, or prevents a substantially better plan. Moving a toilet can affect the drain, venting, floor structure, finished height, and project scope.\\n\\n**Context:** A toilet can appear easy to relocate on a drawing while requiring access below the floor or coordination with joists and other utilities. In some homes, slab construction, crawlspace conditions, or existing drain routes make the change more complex.\\n\\n**Key factors:**\\n- Confirm the existing drain and vent paths.\\n- Measure side clearances and front clearance, not just wall length.\\n- Check whether the floor can be opened without damaging adjoining finishes.\\n\\n**Practical guidance:** Ask Elite Remodeling & Design for a measured layout and a construction review before approving relocation. Compare the gain in circulation with plumbing work, floor repairs, schedule, and budget impact.\\n\\nA toilet move is worthwhile only when the functional improvement justifies the hidden work.",
+        "@type": "Answer",
+        "description": "Move the toilet only when its current location causes poor clearance, door conflicts, or prevents a much better layout. Check drain and vent routes, slab or joist conditions, floor access, adjoining finishes, schedule, and budget before deciding."
+      }
+    }
+  ],
+  "description": "Move the toilet only when its current location causes poor clearance, door conflicts, or prevents a much better layout. Check drain and vent routes, slab or joi"
+}

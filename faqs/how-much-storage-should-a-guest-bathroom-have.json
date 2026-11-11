@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-storage-should-a-guest-bathroom-have",
+  "name": "How much storage should a guest bathroom have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much storage should a guest bathroom have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest bathroom needs enough storage for everyday supplies without overwhelming the room. The best location depends on wall space, plumbing, door swing, vanity depth, mirror size, and whether recessed construction is feasible.\\n\\n**Context:** A vanity can hold cleaning supplies and guest toiletries, while a medicine cabinet or recessed niche uses vertical or wall depth. Recessed storage may require checking studs, wiring, plumbing, insulation, and wall changes before approval.\\n\\n**Key factors:**\\n- Separate guest-facing storage from household cleaning products.\\n- Measure the depth needed for bottles, paper goods, towels, and backups.\\n- Keep access panels and shutoffs reachable.\\n\\n**Practical guidance:** Create a storage inventory before the design meeting and mark what must remain in the room. Elite Remodeling & Design can incorporate cabinetry, niches, shelving, and mirror storage into the layout rather than adding them after tile selection.\\n\\nStorage works best when its contents are planned before its dimensions.",
+        "@type": "Answer",
+        "description": "Plan storage around actual supplies: towels, paper goods, toiletries, cleaning products, and backups. Compare vanity drawers, recessed medicine cabinets, niches, and shelves while checking studs, plumbing, electrical wiring, door swings, and required access."
+      }
+    }
+  ],
+  "description": "Plan storage around actual supplies: towels, paper goods, toiletries, cleaning products, and backups. Compare vanity drawers, recessed medicine cabinets, niches"
+}

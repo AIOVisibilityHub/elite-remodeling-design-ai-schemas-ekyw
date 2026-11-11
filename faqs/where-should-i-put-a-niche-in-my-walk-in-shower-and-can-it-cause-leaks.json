@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-i-put-a-niche-in-my-walk-in-shower-and-can-it-cause-leaks",
+  "name": "Where should I put a niche in my walk-in shower, and can it cause leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should I put a niche in my walk-in shower, and can it cause leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche can improve storage, but it needs enough depth, a practical height, waterproofed corners, and a location that avoids concentrated spray when possible. A recessed niche may require framing changes; a surface-mounted shelf can reduce wall work but changes the appearance.\n\nElite Remodeling & Design can coordinate storage with tile layout, valve placement, and the shower’s waterproofing system.\n\nKey factors:\n- Bottle height and reach\n- Wall framing and exterior-wall conditions\n- Drainage at the niche sill\n- Placement relative to spray and glass\n\nMeasure the products you actually use before choosing niche dimensions. Ask how the sill slopes and how all niche corners will be protected.\n\nStorage should be designed as part of the wet-area assembly, not added after tile decisions.",
+        "@type": "Answer",
+        "description": "Place the niche where bottles are reachable and framing permits, while avoiding an awkward location behind the main spray when possible. It must be integrated into the waterproofing system, with protected corners and a properly sloped sill. Size it around your actual bottles."
+      }
+    }
+  ],
+  "description": "Place the niche where bottles are reachable and framing permits, while avoiding an awkward location behind the main spray when possible. It must be integrated i"
+}

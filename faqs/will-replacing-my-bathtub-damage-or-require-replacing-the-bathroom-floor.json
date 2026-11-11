@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-replacing-my-bathtub-damage-or-require-replacing-the-bathroom-floor",
+  "name": "Will replacing my bathtub damage or require replacing the bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my bathtub damage or require replacing the bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may be able to keep the existing bathroom floor, but removal can damage flooring near the tub or reveal water damage below it. The decision depends on the floor material, its condition, how the tub is supported, and whether the new unit has the same footprint and apron dimensions.\n\nContext: Keeping flooring can save work but may create a visible gap or mismatched height if the replacement differs. Replacing flooring may be more efficient when the room is already being opened for plumbing or layout changes.\n\nKey factors:\n- Flooring condition and moisture exposure\n- New tub footprint and finished height\n- Access needed beneath or beside the unit\n- Availability of matching replacement material\n\nPractical guidance: Ask whether the tub will be removed without disturbing the floor and whether the estimate includes patching or replacement. Decide the floor finish before finalizing the tub height and room layout.\n\nElite Remodeling & Design can include flooring and other bathroom finishes in a coordinated remodel when preserving the existing floor is impractical.",
+        "@type": "Answer",
+        "description": "Not always, but removal may disturb flooring or reveal moisture damage. Compare the existing and new tub footprints, apron heights, support needs, and access requirements. Confirm whether floor protection, patching, matching material, or full replacement is included in the estimate."
+      }
+    }
+  ],
+  "description": "Not always, but removal may disturb flooring or reveal moisture damage. Compare the existing and new tub footprints, apron heights, support needs, and access re"
+}

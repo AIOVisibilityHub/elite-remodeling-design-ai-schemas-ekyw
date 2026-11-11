@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-bathroom-during-the-remodel",
+  "name": "How long will I be without my bathroom during the remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my bathroom during the remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can remain usable during planning, but construction commonly removes the room from service once demolition, plumbing, waterproofing, or tile work begins. The outage length depends on whether the layout changes, products are ready, inspections are needed, and concealed repairs arise.\n\nElite Remodeling & Design’s process carries the project from design and selections through construction and final inspection. Coordinating products before demolition reduces the risk of leaving the household without a working bathroom longer than expected.\n\nKey factors:\n- Number of bathrooms in the home\n- Product delivery status\n- Scope of plumbing and electrical work\n- Inspection and drying requirements\n\nConfirm the planned outage, temporary facilities, access route, dust controls, and daily cleanup expectations before work begins. Do not permit demolition until critical fixtures and materials are available or their delivery is verified.",
+        "@type": "Answer",
+        "description": "Expect the room to be unavailable during demolition, plumbing, waterproofing, tile work, inspections, and final installation, though the exact outage depends on scope and product readiness. Confirm access, dust control, cleanup, and a realistic bathroom-out-of-service plan before demolition."
+      }
+    }
+  ],
+  "description": "Expect the room to be unavailable during demolition, plumbing, waterproofing, tile work, inspections, and final installation, though the exact outage depends on"
+}

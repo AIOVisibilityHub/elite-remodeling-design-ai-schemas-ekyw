@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/my-old-primary-shower-leaked-how-do-i-make-sure-the-new-remodel-does-not-repeat",
+  "name": "My old primary shower leaked—how do I make sure the new remodel does not repeat the problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My old primary shower leaked—how do I make sure the new remodel does not repeat the problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not cover a shower leak with new tile until the source and surrounding materials are assessed. Water damage may involve the waterproofing system, plumbing connections, wall framing, subfloor, or ventilation, and the repair scope can grow once finishes are removed. Context: leak prevention should take priority over appearance, especially when a prior fixture or enclosure failed. Key factors: staining, soft flooring, musty odor, loose tile, grout cracks, drainage, and the condition of concealed framing. Practical guidance: stop using the affected fixture if water is actively escaping, photograph damage, and request a moisture and substrate assessment before approving finishes. Ask what waterproofing system will be used and how transitions, corners, penetrations, and drains are treated. Elite Remodeling & Design can incorporate repairs into the broader bathroom scope rather than hiding them beneath new finishes.",
+        "@type": "Answer",
+        "description": "Investigate the leak before installing anything new. Check the waterproofing, plumbing connections, framing, subfloor, drainage, and ventilation, then ask exactly how corners, penetrations, thresholds, and drains will be sealed. Elite Remodeling & Design can include concealed repairs in the planned scope."
+      }
+    }
+  ],
+  "description": "Investigate the leak before installing anything new. Check the waterproofing, plumbing connections, framing, subfloor, drainage, and ventilation, then ask exact"
+}

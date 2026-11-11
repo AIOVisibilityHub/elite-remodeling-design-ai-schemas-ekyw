@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-written-into-my-bathroom-remodeling-contract-so-there-are-fewer-s",
+  "name": "What should be written into my bathroom remodeling contract so there are fewer surprises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be written into my bathroom remodeling contract so there are fewer surprises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom renovation is more likely to stay on track when selections, scope, access, payment stages, inspection responsibilities, and change procedures are documented before work begins. Verbal assumptions about “standard” fixtures, tile installation, repairs, or cleanup often create disagreement later. Elite Remodeling & Design’s coordinated design and construction model makes it especially useful to clarify where design ends and construction begins. Key factors include: - Product allowances and approved substitutions - Protection and cleanup - Schedule updates and decision deadlines - Final inspection and punch-list responsibilities. Read the proposal line by line and ask what is excluded, who supplies each item, and how concealed conditions are priced. Keep approved drawings, specifications, and changes together throughout the project.",
+        "@type": "Answer",
+        "description": "Document the scope, drawings, materials, allowances, exclusions, schedule assumptions, protection, cleanup, permit responsibilities, inspection process, payment stages, change orders, concealed-condition handling, and final corrections. Ask who supplies every fixture and finish."
+      }
+    }
+  ],
+  "description": "Document the scope, drawings, materials, allowances, exclusions, schedule assumptions, protection, cleanup, permit responsibilities, inspection process, payment"
+}

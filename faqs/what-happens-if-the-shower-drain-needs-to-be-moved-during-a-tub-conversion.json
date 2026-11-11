@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-the-shower-drain-needs-to-be-moved-during-a-tub-conversion",
+  "name": "What happens if the shower drain needs to be moved during a tub conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the shower drain needs to be moved during a tub conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving the drain is possible, but it can require opening the floor, adjusting framing or slope, coordinating with the waste line, and repairing adjacent finishes. The difficulty depends on the floor construction, access from below, existing pipe location, and the desired shower base or tile layout.\\n\\nKey factors:\\n- Determine whether the proposed drain location matches the selected base.\\n- Check access from the crawlspace, basement, or room below where applicable.\\n- Allow for floor repair and waterproofing at the revised location.\\n- Confirm whether the relocation changes permit or inspection requirements.\\n\\nAsk Elite Remodeling & Design to compare a same-location layout with a relocated-drain layout before approving the design. That comparison can reveal whether the visual or accessibility benefit justifies the added work.",
+        "@type": "Answer",
+        "description": "Moving the drain may require opening the floor, changing waste piping or slope, coordinating framing, and repairing finishes. The impact depends on floor construction and access from below. Compare the existing-drain layout with the proposed layout before finalizing the plan."
+      }
+    }
+  ],
+  "description": "Moving the drain may require opening the floor, changing waste piping or slope, coordinating framing, and repairing finishes. The impact depends on floor constr"
+}

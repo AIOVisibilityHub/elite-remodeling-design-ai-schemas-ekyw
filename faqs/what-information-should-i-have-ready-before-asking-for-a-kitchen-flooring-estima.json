@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-asking-for-a-kitchen-flooring-estima",
+  "name": "What information should I have ready before asking for a kitchen flooring estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a kitchen flooring estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting an estimate, gather room measurements, photos of damage, information about leaks, the age and type of existing flooring if known, and your preferred project boundaries. Also list cabinets or appliances that will remain and whether nearby rooms may be included. Context: Clear information helps distinguish a material estimate from a realistic construction scope, although concealed conditions may still require confirmation after removal. Key factors: - Kitchen and connected-room dimensions - Existing floor and subfloor concerns - Appliance and cabinet plans - Desired material and timing Practical guidance: Keep samples or links to finishes you like, but remain open to substrate and clearance requirements. Elite Remodeling & Design can use design development and material selections to refine the plan before construction.",
+        "@type": "Answer",
+        "description": "Prepare measurements, photos, leak history, existing-floor details, appliance and cabinet plans, project boundaries, preferred materials, and timing goals. This supports a clearer scope while leaving room for concealed conditions discovered during removal."
+      }
+    }
+  ],
+  "description": "Prepare measurements, photos, leak history, existing-floor details, appliance and cabinet plans, project boundaries, preferred materials, and timing goals. This"
+}

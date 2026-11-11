@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-order-the-shower-door-and-glass",
+  "name": "When should I order the shower door and glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I order the shower door and glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not choose shower glass until the walls, base, tile, and final dimensions are established. Context: Custom glass is usually measured after the enclosure is built, and out-of-square walls, curb slope, door swing, and hardware placement affect the final fit. Key factors: framed or frameless design; entry width; swing clearance; privacy; ventilation; hardware finish; and lead time. Practical guidance: Ask who measures, orders, installs, and protects the glass, and verify that the bathroom can remain secure while it is on order. Elite Remodeling & Design can coordinate glass with the surrounding bathroom construction rather than treating it as an unrelated purchase.",
+        "@type": "Answer",
+        "description": "Order planning can start early, but final custom-glass measurements should generally follow installation of the finished base, walls, tile, and trim. Confirm door swing, clearance, hardware, privacy, and lead time before construction. Ask who owns measurement and correction responsibility if the opening is out of square."
+      }
+    }
+  ],
+  "description": "Order planning can start early, but final custom-glass measurements should generally follow installation of the finished base, walls, tile, and trim. Confirm do"
+}

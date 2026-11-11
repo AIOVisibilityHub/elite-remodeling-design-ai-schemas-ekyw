@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-heated-flooring-worth-adding-to-a-primary-bathroom-remodel",
+  "name": "Is heated flooring worth adding to a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is heated flooring worth adding to a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heated flooring can improve comfort, but it adds design, electrical, floor-height, control, and installation considerations. It is most useful when the flooring assembly and electrical plan can accommodate it without compromising transitions or the bathroom schedule. Context: the decision should be made before flooring materials and final electrical plans are approved. Key factors: floor construction, finished height, thermostat location, control preferences, energy use, and compatibility with the selected flooring. Practical guidance: ask for the system’s location, control method, floor buildup, and relationship to cabinets and drains. Compare comfort value with other priorities such as ventilation, storage, or better lighting. Elite Remodeling & Design can coordinate the feature with the overall bathroom design rather than adding it after the floor plan is fixed.",
+        "@type": "Answer",
+        "description": "It can improve comfort, but it adds electrical planning, floor-height, control, and installation requirements. Decide before flooring and cabinetry are finalized, then compare its value with ventilation, storage, lighting, or other improvements that affect daily use."
+      }
+    }
+  ],
+  "description": "It can improve comfort, but it adds electrical planning, floor-height, control, and installation requirements. Decide before flooring and cabinetry are finalize"
+}

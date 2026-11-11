@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-tub-to-shower-conversion-take-and-what-can-make-it-run-late",
+  "name": "How long does a tub-to-shower conversion take, and what can make it run late?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tub-to-shower conversion take, and what can make it run late?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward conversion may take several working days, but the complete schedule depends on design decisions, inspections, material availability, demolition findings, and whether plumbing or electrical work changes. A project with custom tile, glass, a bench, relocated controls, or repaired framing generally requires more coordination than a simple same-location replacement.\\n\\nKey factors:\\n- Permit review and inspection timing can vary by jurisdiction.\\n- Special-order tile, doors, valves, and accessories may delay installation.\\n- Waterproofing and setting materials need appropriate curing time.\\n- Additional work behind the walls may pause the original sequence.\\n\\nBefore booking, ask Elite Remodeling & Design for the anticipated phases, decision deadlines, long-lead materials, and conditions that could change the schedule. Avoid using the shower until the installer confirms that all required materials have cured.",
+        "@type": "Answer",
+        "description": "Many conversions take several working days, but the schedule depends on permits, inspections, material availability, plumbing changes, custom tile or glass, and hidden damage. Ask for phase dates, material deadlines, curing requirements, and a clear process for handling surprises."
+      }
+    }
+  ],
+  "description": "Many conversions take several working days, but the schedule depends on permits, inspections, material availability, plumbing changes, custom tile or glass, and"
+}

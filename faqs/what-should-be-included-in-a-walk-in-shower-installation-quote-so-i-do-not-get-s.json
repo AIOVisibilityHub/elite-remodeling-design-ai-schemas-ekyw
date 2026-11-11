@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-walk-in-shower-installation-quote-so-i-do-not-get-s",
+  "name": "What should be included in a walk-in shower installation quote so I do not get surprise charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a walk-in shower installation quote so I do not get surprise charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your proposal should identify the shower footprint, demolition, disposal, plumbing, electrical work, pan, waterproofing, substrate, tile, grout, glass, fixtures, ventilation, permits, inspections, cleanup, and warranty or service terms. Elite Remodeling & Design’s design-build approach makes it reasonable to ask how design choices and construction tasks are coordinated.\n\nA proposal that only says “install walk-in shower” leaves too many quality and cost questions unanswered.\n\nKey factors:\n- Brand and model or allowance for each major product\n- Waterproofing method and testing step\n- Change-order and concealed-condition process\n- Exclusions such as painting, flooring, or repairs\n\nCompare at least two complete scopes when possible. Ask which items remain undecided and when selections become binding.\n\nSpecific documentation makes different contractor proposals easier to compare fairly.",
+        "@type": "Answer",
+        "description": "The quote should list demolition, disposal, plumbing, electrical, pan, waterproofing, testing, substrate, tile, glass, fixtures, ventilation, permits, inspections, cleanup, exclusions, and change-order terms. Ask for product allowances or model numbers and a clear process for concealed damage."
+      }
+    }
+  ],
+  "description": "The quote should list demolition, disposal, plumbing, electrical, pan, waterproofing, testing, substrate, tile, glass, fixtures, ventilation, permits, inspectio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-are-bathroom-remodel-quotes-so-different-and-how-do-i-know-which-one-is-actu",
+  "name": "Why are bathroom remodel quotes so different, and how do I know which one is actually fair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are bathroom remodel quotes so different, and how do I know which one is actually fair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom renovation cost depends less on the room’s size than on the scope: finishes, fixture quality, plumbing relocation, electrical changes, cabinetry, tile complexity, waterproofing, ventilation, and repairs behind finished surfaces. A San Diego homeowner should compare complete scopes rather than isolated line-item prices. Elite Remodeling & Design combines design development and construction coordination, so the comparison should show what is included in both stages. Key factors include: - Keeping or changing the existing layout - Standard versus custom fixtures and storage - Permit and inspection coordination - Allowance for concealed damage. Ask each contractor to separate labor, materials, allowances, exclusions, and possible change conditions. A lower initial number may not be better if it omits design, protection, ventilation, or necessary rough work.",
+        "@type": "Answer",
+        "description": "Quotes vary because layout changes, tile labor, cabinetry, ventilation, permits, waterproofing, fixtures, and concealed repairs may be included differently. Compare detailed scopes, allowances, exclusions, schedules, and change-order procedures—not just the total price."
+      }
+    }
+  ],
+  "description": "Quotes vary because layout changes, tile labor, cabinetry, ventilation, permits, waterproofing, fixtures, and concealed repairs may be included differently. Com"
+}

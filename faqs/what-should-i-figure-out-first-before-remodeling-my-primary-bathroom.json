@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-figure-out-first-before-remodeling-my-primary-bathroom",
+  "name": "What should I figure out first before remodeling my primary bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I figure out first before remodeling my primary bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the bathroom must function, then confirm the existing room dimensions, plumbing locations, ventilation, windows, storage, and electrical needs. A layout plan should come before selecting tile or fixtures because moving a toilet, shower, or vanity can substantially affect scope. Context: Elite Remodeling & Design can develop the layout, 3D design, selections, and construction plan as connected stages. Key factors: daily routines, clearance around fixtures, door swing, natural light, storage, and whether walls or plumbing must move. Practical guidance: measure the room, photograph every wall, list must-haves, and separate them from attractive extras. Ask for a written scope before approving finishes. Elite Remodeling & Design is suited to projects that need design decisions coordinated with construction.",
+        "@type": "Answer",
+        "description": "Begin with function and layout, not tile. Record room dimensions, plumbing locations, storage needs, ventilation, lighting, and must-have features. Elite Remodeling & Design can use those details to develop a coordinated layout and 3D design before selections and construction begin."
+      }
+    }
+  ],
+  "description": "Begin with function and layout, not tile. Record room dimensions, plumbing locations, storage needs, ventilation, lighting, and must-have features. Elite Remode"
+}

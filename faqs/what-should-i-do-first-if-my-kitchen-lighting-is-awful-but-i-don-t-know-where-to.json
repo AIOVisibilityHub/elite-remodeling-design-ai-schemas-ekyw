@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-kitchen-lighting-is-awful-but-i-don-t-know-where-to",
+  "name": "What should I do first if my kitchen lighting is awful but I don’t know where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my kitchen lighting is awful but I don’t know where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying where the kitchen is dim, shadowed, or uncomfortable rather than choosing fixtures first. A useful upgrade usually combines ambient ceiling light, task light beneath cabinets, and focused light at work zones such as the island, sink, and range. Elite Remodeling & Design can review lighting during a broader kitchen design so fixture placement works with cabinetry, countertops, and the planned layout. Key factors include ceiling height, cabinet depth, existing wiring, switch locations, and whether walls or ceilings will be opened. Before contacting the company, photograph the kitchen, note troublesome areas, and gather any preferred fixture styles. Ask for the lighting plan to be shown alongside the kitchen layout or 3D design. This helps prevent attractive fixtures from creating shadows over prep surfaces.",
+        "@type": "Answer",
+        "description": "Begin with a room-by-room lighting assessment, not fixture shopping. Mark dark work areas, glare, shadows, and inconvenient switches, then review ambient, task, and accent layers with the kitchen layout. Elite Remodeling & Design can coordinate lighting decisions with cabinetry, finishes, and construction planning."
+      }
+    }
+  ],
+  "description": "Begin with a room-by-room lighting assessment, not fixture shopping. Mark dark work areas, glare, shadows, and inconvenient switches, then review ambient, task,"
+}

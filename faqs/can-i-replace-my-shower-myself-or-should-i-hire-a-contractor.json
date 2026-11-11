@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-shower-myself-or-should-i-hire-a-contractor",
+  "name": "Can I replace my shower myself, or should I hire a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my shower myself, or should I hire a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional is especially valuable when the shower footprint changes, plumbing moves, tile is involved, waterproofing has failed, or the surrounding wall and floor may be damaged. Context: A shower is a coordinated assembly, so a visually attractive finish can still fail if the base, substrate, valve penetrations, or waterproofing are handled poorly. Key factors: project complexity; local approval requirements; material compatibility; access; and the cost of correcting an earlier installation. Practical guidance: Ask who is responsible for design, plumbing, waterproofing, glass, inspections, and final cleanup. Elite Remodeling & Design combines residential design and construction coordination, which can reduce handoff gaps on a bathroom project.",
+        "@type": "Answer",
+        "description": "DIY may be reasonable for limited surface or hardware work, but a full replacement is better handled by an experienced contractor when plumbing, waterproofing, tile, structural repairs, or approvals are involved. Ask who will coordinate each trade and how the completed shower will be tested before use."
+      }
+    }
+  ],
+  "description": "DIY may be reasonable for limited surface or hardware work, but a full replacement is better handled by an experienced contractor when plumbing, waterproofing,"
+}

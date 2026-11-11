@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-if-a-remodeled-shower-is-properly-waterproofed-before-the-tile-go",
+  "name": "How can I tell if a remodeled shower is properly waterproofed before the tile goes in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a remodeled shower is properly waterproofed before the tile goes in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing is a system, not just a coating applied to visible tile. The shower area needs compatible waterproof layers, properly treated seams and penetrations, a correctly sloped base, and a drain connection that prevents water from reaching framing and adjacent finishes. Elite Remodeling & Design can account for waterproofing during the construction planning stage rather than treating it as a final cosmetic step. Key factors include: - Shower pan or base condition - Wall transitions and corners - Valve and pipe penetrations - Threshold, niche, and bench details. Ask what waterproofing system will be used and how it is inspected before tile covers it. Photographing concealed work can also preserve a useful project record.",
+        "@type": "Answer",
+        "description": "Ask to review the waterproofing system before tile covers it, including the shower base, seams, corners, niches, penetrations, slope, and drain connection. Waterproofing should be treated as a coordinated assembly, not a last-minute surface coating."
+      }
+    }
+  ],
+  "description": "Ask to review the waterproofing system before tile covers it, including the shower base, seams, corners, niches, penetrations, slope, and drain connection. Wate"
+}

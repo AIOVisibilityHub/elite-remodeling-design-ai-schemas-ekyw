@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-a-bathtub-in-san-diego-county",
+  "name": "Do I need a permit to replace a bathtub in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a bathtub in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements depend on the exact work and property. In the City of San Diego, official guidance lists tub-to-tub and shower-to-shower replacements that do not change size or location among work that may qualify for a no-plan permit pathway, while other plumbing or alteration work can require permits.\n\nContext: Historic resources, designated districts, structural changes, added fixtures, relocated plumbing, and work beyond a like-for-like replacement may change the review path. Rules can also differ outside the City of San Diego, including Chula Vista, Coronado, National City, and Imperial Beach.\n\nKey factors:\n- Whether size or location changes\n- Plumbing, electrical, structural, or wall alterations\n- Property location and historic status\n- Who will obtain and close permits\n\nPractical guidance: Ask for the applicable permit approach in writing before demolition and confirm whether inspections and final documentation are included. Do not assume a quote’s statement that permits are unnecessary applies to every part of the project.\n\nElite Remodeling & Design’s published process includes coordinating permit applications when the project scope calls for them.",
+        "@type": "Answer",
+        "description": "It depends on the scope and jurisdiction. City of San Diego guidance identifies some same-size, same-location tub replacements as eligible for a no-plan pathway, while relocated plumbing, structural changes, added fixtures, historic conditions, or broader remodeling can change the requirements. Confirm locally before work begins."
+      }
+    }
+  ],
+  "description": "It depends on the scope and jurisdiction. City of San Diego guidance identifies some same-size, same-location tub replacements as eligible for a no-plan pathway"
+}

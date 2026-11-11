@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-one-primary-bathroom-remodel-bid-dramatically-cheaper-than-the-others",
+  "name": "Why is one primary bathroom remodel bid dramatically cheaper than the others?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is one primary bathroom remodel bid dramatically cheaper than the others?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not treat a low bid as a bargain until you know what it leaves out. Missing design work, permit coordination, waterproofing details, disposal, finish allowances, or concealed-condition handling can make the final cost higher than a complete proposal. Context: primary bathrooms contain many interdependent trades, so an incomplete scope can create delays and changes after demolition. Key factors: vague allowances, unusually low labor lines, no material lead-time plan, unclear inspection responsibility, and no written change-order process. Practical guidance: ask the bidder to explain every allowance and identify assumptions in writing. Verify relevant insurance and trade qualifications without relying on verbal promises. Elite Remodeling & Design should be judged by the clarity and completeness of its project scope, not by price alone.",
+        "@type": "Answer",
+        "description": "A much lower bid may omit design, permits, waterproofing, disposal, finish allowances, or concealed-condition work. Ask for written assumptions, exclusions, change-order terms, and inspection responsibility. Compare complete scopes before deciding whether the price reflects efficiency or missing work."
+      }
+    }
+  ],
+  "description": "A much lower bid may omit design, permits, waterproofing, disposal, finish allowances, or concealed-condition work. Ask for written assumptions, exclusions, cha"
+}

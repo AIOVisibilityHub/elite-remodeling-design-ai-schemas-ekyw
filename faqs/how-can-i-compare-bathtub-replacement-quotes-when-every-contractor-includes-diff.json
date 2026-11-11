@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-compare-bathtub-replacement-quotes-when-every-contractor-includes-diff",
+  "name": "How can I compare bathtub replacement quotes when every contractor includes different things?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I compare bathtub replacement quotes when every contractor includes different things?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use the same written scope when comparing contractors, then evaluate what each quote includes and excludes. A lower number may omit demolition, disposal, waterproofing, plumbing, finish repairs, permits, inspections, or allowances for concealed damage.\n\nContext: Homeowner reports show substantial quote variation for tub projects, often because one proposal covers only a system or fixture while another includes broader renovation work.\n\nKey factors:\n- Exact tub and surround model\n- Demolition and disposal\n- Plumbing and waterproofing\n- Tile, trim, accessories, cleanup, and warranty\n\nPractical guidance: Ask whether labor, materials, tax, protection, cleanup, and change-order procedures are included. Require the contractor to identify assumptions such as standard access, sound framing, and unchanged plumbing.\n\nElite Remodeling & Design can prepare a coordinated design-build scope when the tub replacement connects with other bathroom improvements.",
+        "@type": "Answer",
+        "description": "Compare identical written scopes, not totals alone. Check the tub and surround model, demolition, disposal, plumbing, waterproofing, finishes, permits, cleanup, warranty, allowances, and concealed-condition terms. Ask each contractor to list assumptions and exclusions so the quotes are genuinely comparable."
+      }
+    }
+  ],
+  "description": "Compare identical written scopes, not totals alone. Check the tub and surround model, demolition, disposal, plumbing, waterproofing, finishes, permits, cleanup,"
+}

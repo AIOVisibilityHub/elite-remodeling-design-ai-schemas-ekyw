@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-there-is-mold-or-water-damage-behind-my-bathtub",
+  "name": "What if there is mold or water damage behind my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if there is mold or water damage behind my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub replacement can reveal mold-like growth or water-damaged materials, but the correct response depends on the extent and source of the condition. The water problem must be corrected, affected materials assessed, and the work area handled safely rather than simply covered with a new tub.\n\nContext: Damage may be limited to caulk or surface finishes, or it may extend behind walls, beneath the tub, or into framing. An estimate should distinguish cleaning, removal, drying, repair, and reconstruction.\n\nKey factors:\n- Visible extent and moisture source\n- Porous materials that cannot be preserved\n- Ventilation and containment needs\n- Whether plumbing or waterproofing failed\n\nPractical guidance: Photograph the condition without disturbing it and disclose it before work starts. Ask how the contractor will separate demolition from reconstruction and how unexpected damage will affect the scope.\n\nElite Remodeling & Design can coordinate design and construction for bathroom work that expands beyond a fixture replacement.",
+        "@type": "Answer",
+        "description": "Find and correct the water source before installing a new tub. The scope may include removal of affected materials, drying, plumbing or waterproofing repairs, and reconstruction. Document what you see and ask for a written explanation of any concealed-condition work."
+      }
+    }
+  ],
+  "description": "Find and correct the water source before installing a new tub. The scope may include removal of affected materials, drying, plumbing or waterproofing repairs, a"
+}

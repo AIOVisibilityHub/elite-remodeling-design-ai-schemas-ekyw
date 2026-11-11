@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-the-guest-bathroom-tub-with-a-walk-in-shower",
+  "name": "Should I replace the guest bathroom tub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace the guest bathroom tub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower-only conversion can improve access and may make a small guest bathroom feel more open, but it is not automatically better than keeping a tub. The choice depends on who uses the room, resale expectations, available clearance, storage, water management, and whether a tub is needed elsewhere in the home.\\n\\n**Context:** A low-threshold shower can support easier entry, while a tub may be useful for bathing children or preserving the home’s only tub. Converting the enclosure may also affect waterproofing, drain placement, glass, tile layout, and ventilation.\\n\\n**Key factors:**\\n- Determine whether another bathroom has a usable tub.\\n- Check entry width, turning space, and door or glass placement.\\n- Plan niches or shelves before tile work begins.\\n\\n**Practical guidance:** Ask for side-by-side concepts showing the shower, tub, storage, and clearances. Elite Remodeling & Design can incorporate accessibility and fixture choices into the design before construction starts.\\n\\nThe right enclosure serves the home’s future use, not just current appearance.",
+        "@type": "Answer",
+        "description": "Choose a walk-in shower if easier entry and open floor space matter, but keep a tub if it is the home’s only practical bathing option. Compare access, storage, waterproofing, drainage, glass, and future household needs before deciding."
+      }
+    }
+  ],
+  "description": "Choose a walk-in shower if easier entry and open floor space matter, but keep a tub if it is the home’s only practical bathing option. Compare access, storage,"
+}

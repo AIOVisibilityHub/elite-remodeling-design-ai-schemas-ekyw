@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-recessed-shower-niche-if-my-bathroom-walls-are-very-thin",
+  "name": "Can I add a recessed shower niche if my bathroom walls are very thin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a recessed shower niche if my bathroom walls are very thin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed niches can add useful storage without taking floor space, but they require careful placement and waterproofing when installed in a shower wall. A niche may conflict with plumbing, wiring, framing, exterior walls, or the preferred tile layout.\n\nElite Remodeling & Design can include storage in the layout and design-development stage, when wall conditions and tile alignment can still be reviewed. In some rooms, a surface-mounted cabinet or corner shelf may be a simpler alternative.\n\nKey factors:\n- Available wall cavity\n- Plumbing and electrical conflicts\n- Waterproofing at the niche\n- Product sizes and bottle height\n\nList the items you actually store before choosing shelf dimensions. Ask where the niche will sit relative to the shower controls, spray, corners, and grout pattern.",
+        "@type": "Answer",
+        "description": "Possibly, but the wall cavity, framing, plumbing, wiring, exterior-wall conditions, and waterproofing determine whether it is practical. If a recessed niche creates conflicts, compare a surface cabinet or corner shelf instead of forcing storage into an unsuitable wall."
+      }
+    }
+  ],
+  "description": "Possibly, but the wall cavity, framing, plumbing, wiring, exterior-wall conditions, and waterproofing determine whether it is practical. If a recessed niche cre"
+}

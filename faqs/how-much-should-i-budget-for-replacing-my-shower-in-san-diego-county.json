@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-replacing-my-shower-in-san-diego-county",
+  "name": "How much should I budget for replacing my shower in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for replacing my shower in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no single reliable price because shower replacement ranges from a limited surround and fixture update to a demolition-and-rebuild project with plumbing, waterproofing, tile, and glass. Context: Public cost guides and contractor discussions show wide variation, with material type, labor, access, and concealed conditions driving the difference. Key factors: prefab versus tile; shower size; pan replacement; plumbing relocation; wall repair; door type; and disposal. Practical guidance: Compare itemized proposals that separate demolition, waterproofing, plumbing, finishes, glass, permits, and allowances. Elite Remodeling & Design can evaluate the shower within a bathroom remodeling scope, which is useful when the replacement affects adjacent flooring, walls, or fixtures.",
+        "@type": "Answer",
+        "description": "Budget depends on whether you need a simple surround swap or a full rebuild. The biggest cost drivers are tile versus prefab panels, pan replacement, plumbing changes, waterproofing, wall or floor damage, custom glass, and finish selections. Compare itemized estimates instead of relying on a single square-foot figure."
+      }
+    }
+  ],
+  "description": "Budget depends on whether you need a simple surround swap or a full rebuild. The biggest cost drivers are tile versus prefab panels, pan replacement, plumbing c"
+}

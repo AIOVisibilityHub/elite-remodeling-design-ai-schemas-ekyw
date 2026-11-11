@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-contractors-find-water-damage-behind-the-bathroom-walls-or-under",
+  "name": "What happens if contractors find water damage behind the bathroom walls or under the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if contractors find water damage behind the bathroom walls or under the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom renovation can uncover leaking supply or drain lines, mold-like staining, deteriorated subfloor, framing damage, outdated wiring, or an improperly built shower assembly. These conditions cannot be priced accurately from the finished room alone, so a responsible plan should explain how concealed discoveries will be documented and approved. Elite Remodeling & Design can coordinate construction and design decisions when existing conditions change the scope. Key factors include: - Moisture readings and visible staining - Soft flooring or movement - Corrosion at valves and drains - Unpermitted or unusual prior work. Ask for photographs, a written description, and a revised price and schedule before concealed repairs proceed. Keep a contingency for unknown conditions rather than spending the entire budget on visible finishes.",
+        "@type": "Answer",
+        "description": "The affected area should be documented, the source of moisture identified, and the repair scope explained before it is covered. Ask for photos, a written change description, revised cost and timing, and a plan to correct the cause—not just replace damaged finishes."
+      }
+    }
+  ],
+  "description": "The affected area should be documented, the source of moisture identified, and the repair scope explained before it is covered. Ask for photos, a written change"
+}

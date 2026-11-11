@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-whether-all-my-dream-primary-bathroom-features-will-actually-fit",
+  "name": "How do I know whether all my dream primary bathroom features will actually fit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether all my dream primary bathroom features will actually fit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume every desired fixture will fit just because the room can physically contain it. Toilet clearance, vanity depth, shower entry, door swing, storage access, and service space can make a crowded plan uncomfortable or impractical. Context: online inspiration often omits the dimensions and clearances needed for real daily use. Key factors: exact product dimensions, rough-in locations, user needs, wall thickness, window position, and circulation. Practical guidance: obtain manufacturer specifications before finalizing the plan and mock up major footprints with painter’s tape. Open and close proposed doors and drawers at the same time to test conflicts. Elite Remodeling & Design can use layout development and 3D visualization to assess the room as a complete system.",
+        "@type": "Answer",
+        "description": "Check exact product dimensions, clearances, door and drawer swings, shower entry, storage access, plumbing rough-ins, and service space. Tape the proposed footprints on the floor before ordering anything. A 3D layout can reveal conflicts that inspiration photos do not show."
+      }
+    }
+  ],
+  "description": "Check exact product dimensions, clearances, door and drawer swings, shower entry, storage access, plumbing rough-ins, and service space. Tape the proposed footp"
+}

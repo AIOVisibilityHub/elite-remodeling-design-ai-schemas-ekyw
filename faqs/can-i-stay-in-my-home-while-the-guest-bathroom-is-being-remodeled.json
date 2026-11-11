@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-home-while-the-guest-bathroom-is-being-remodeled",
+  "name": "Can I stay in my home while the guest bathroom is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while the guest bathroom is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the guest bathroom usable as long as possible, but expect that demolition, plumbing, electrical, waterproofing, tile, or finish work may make it unavailable for part of the project. The exact interruption depends on whether the work is cosmetic or a full remodel.\\n\\n**Context:** A second bathroom can reduce household disruption, while a one-bath home needs a more deliberate sequence and temporary arrangements. Dust, noise, access through the home, and water shutoffs should be discussed before work begins.\\n\\n**Key factors:**\\n- Identify the nearest working bathroom and any access limitations.\\n- Ask when water will be shut off and whether work pauses between stages.\\n- Protect routes, floors, furniture, and occupied rooms.\\n\\n**Practical guidance:** Request a communication and site-protection plan from Elite Remodeling & Design, including daily access expectations and milestone updates. Keep toiletries and guest supplies outside the work zone before demolition starts.\\n\\nPlanning household logistics early reduces stress when the room is temporarily closed.",
+        "@type": "Answer",
+        "description": "Usually, but the bathroom may be unavailable during demolition, rough work, waterproofing, tile, and final installation. Confirm access routes, dust protection, water shutoffs, working hours, and the expected closure period, especially if the home has only one usable bathroom."
+      }
+    }
+  ],
+  "description": "Usually, but the bathroom may be unavailable during demolition, rough work, waterproofing, tile, and final installation. Confirm access routes, dust protection,"
+}

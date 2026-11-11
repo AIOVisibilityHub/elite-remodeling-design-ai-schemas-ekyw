@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-change-what-i-should-choose-for-a-walk-in-shower-in-c",
+  "name": "Does living near the coast change what I should choose for a walk-in shower in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast change what I should choose for a walk-in shower in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal locations such as Coronado and Imperial Beach do not change the basic need for a properly waterproofed shower, but existing moisture, ventilation, salt-laden air, and older construction can affect material and repair decisions. A site assessment is needed before promising a particular finish or enclosure.\n\nThe surrounding bathroom must also dry effectively, especially when the shower is used frequently or has limited natural ventilation.\n\nKey factors:\n- Existing moisture or mildew evidence\n- Exhaust-fan performance and ducting\n- Metal hardware and finish durability\n- Condition of walls, subfloor, and framing\n\nTell the remodeling team about recurring dampness, coastal exposure, or previous water damage before demolition. Ask whether ventilation and substrate repairs are included or excluded.\n\nA complete wet-area plan should address both water entry and drying.",
+        "@type": "Answer",
+        "description": "Coastal exposure can make moisture, ventilation, existing damage, and hardware finish choices more relevant, but the right products depend on the bathroom’s actual conditions. Report dampness or prior leaks and ask whether ventilation, substrate repairs, and finish durability are included."
+      }
+    }
+  ],
+  "description": "Coastal exposure can make moisture, ventilation, existing damage, and hardware finish choices more relevant, but the right products depend on the bathroom’s act"
+}

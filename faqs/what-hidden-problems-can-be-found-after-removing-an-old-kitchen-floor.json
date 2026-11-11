@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-can-be-found-after-removing-an-old-kitchen-floor",
+  "name": "What hidden problems can be found after removing an old kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems can be found after removing an old kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing flooring can expose hidden problems such as damaged subfloor, old adhesive, poor leveling, pest-related deterioration, or moisture near appliances and plumbing. A responsible plan should identify how those conditions will be inspected, documented, and approved before extra work proceeds. Context: The visible finish may look acceptable while the supporting layers are not. Removal is often the point when the actual condition becomes clear. Key factors: - Condition below the finish - Moisture and odor - Base flatness and movement - Allowance for additional repairs Practical guidance: Ask for photographs and a written explanation before approving work outside the original scope. Elite Remodeling & Design can coordinate investigation and related remodeling work when concealed conditions affect the kitchen project.",
+        "@type": "Answer",
+        "description": "Removal may reveal moisture damage, uneven or moving subfloor, deteriorated underlayment, old adhesive, or other concealed repairs. Agree in advance how findings will be photographed, priced, and approved before extra work continues."
+      }
+    }
+  ],
+  "description": "Removal may reveal moisture damage, uneven or moving subfloor, deteriorated underlayment, old adhesive, or other concealed repairs. Agree in advance how finding"
+}

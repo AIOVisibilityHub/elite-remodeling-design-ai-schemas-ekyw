@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-can-i-use-my-new-shower-after-replacement",
+  "name": "When can I use my new shower after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When can I use my new shower after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the bathroom dry and ventilated while the shower is out of service, and avoid using new grout, caulk, sealants, or waterproofing until the installer confirms they have cured. Context: Early water exposure can weaken joints or interfere with the completed assembly. Key factors: product instructions; humidity; ventilation; temperature; final inspection; and whether glass or trim remains outstanding. Practical guidance: Ask for the exact date and conditions for first use, how to clean the new surfaces, and which joints require periodic inspection or recaulking. The closeout discussion should be part of the construction plan, not an afterthought.",
+        "@type": "Answer",
+        "description": "Use it only after the installer confirms that waterproofing-related materials, grout, caulk, sealants, and any other required products have cured. The waiting period depends on the materials and conditions. Get written care instructions and inspect joints periodically for separation or deterioration."
+      }
+    }
+  ],
+  "description": "Use it only after the installer confirms that waterproofing-related materials, grout, caulk, sealants, and any other required products have cured. The waiting p"
+}

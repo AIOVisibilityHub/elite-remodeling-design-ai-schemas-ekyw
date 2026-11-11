@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-keeping-my-primary-bathroom-layout-really-cheaper-than-moving-everything",
+  "name": "Is keeping my primary bathroom layout really cheaper than moving everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is keeping my primary bathroom layout really cheaper than moving everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a primary bathroom remodel can often keep the existing fixture locations, and doing so usually reduces demolition, plumbing complexity, and disruption. It does not automatically make the project inexpensive because waterproofing, tile, cabinetry, glass, electrical work, and finish quality still matter. Context: Elite Remodeling & Design evaluates the existing space before recommending whether a same-layout update or a reconfiguration better serves the household. Key factors: drain condition, shower size, vanity storage, door clearance, ventilation, and hidden water damage. Practical guidance: request two concepts—a same-layout option and a reconfigured option—so you can compare cost and function. Keeping plumbing in place may free budget for better tile, lighting, or storage. Elite Remodeling & Design can carry the selected concept through design and construction.",
+        "@type": "Answer",
+        "description": "Usually, keeping plumbing locations limits demolition and pipe work, but the savings depend on the room’s condition and finish selections. Compare a same-layout design with a reconfigured option before deciding; Elite Remodeling & Design can evaluate layout, storage, ventilation, and construction requirements together."
+      }
+    }
+  ],
+  "description": "Usually, keeping plumbing locations limits demolition and pipe work, but the savings depend on the room’s condition and finish selections. Compare a same-layout"
+}

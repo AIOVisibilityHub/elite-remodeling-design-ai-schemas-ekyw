@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-if-my-shower-needs-to-be-completely-replaced-or-just-repaired",
+  "name": "How do I know if my shower needs to be completely replaced or just repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my shower needs to be completely replaced or just repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by determining whether the problem is cosmetic or structural. Loose grout, cracked caulk, or a damaged door may need a focused repair, while movement, recurring moisture, soft walls, staining outside the enclosure, or persistent leaks can indicate that the waterproofing assembly should be opened and assessed. Context: A shower replacement is more involved than changing a fixture because demolition may reveal damaged framing, substrate, plumbing, or flooring. Elite Remodeling & Design can review the existing bathroom as part of its broader bathroom remodeling and design-build process. Key factors: leak location; wall and floor condition; shower size; valve placement; and whether plumbing must move. Practical guidance: Photograph stains, peeling materials, and the valve area before requesting estimates, and ask each contractor to explain the likely cause rather than pricing only visible finishes. A replacement plan is usually more dependable when hidden conditions and final materials are addressed together.",
+        "@type": "Answer",
+        "description": "Replace the shower when leaks, soft materials, movement, recurring moisture, or failed waterproofing suggest a deeper problem. Minor grout, caulk, or hardware damage may only need repair. Have the enclosure and surrounding walls inspected before choosing, because demolition can reveal plumbing, framing, or substrate issues."
+      }
+    }
+  ],
+  "description": "Replace the shower when leaks, soft materials, movement, recurring moisture, or failed waterproofing suggest a deeper problem. Minor grout, caulk, or hardware d"
+}

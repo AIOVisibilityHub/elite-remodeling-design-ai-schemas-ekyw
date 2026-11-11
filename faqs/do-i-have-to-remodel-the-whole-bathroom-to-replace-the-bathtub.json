@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-have-to-remodel-the-whole-bathroom-to-replace-the-bathtub",
+  "name": "Do I have to remodel the whole bathroom to replace the bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to remodel the whole bathroom to replace the bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a bathtub can often be replaced without remodeling the entire bathroom, especially when the new unit matches the existing footprint and the surrounding walls remain serviceable. The final answer depends on access, drain and valve alignment, waterproofing, and the condition behind the surround.\n\nContext: Removing an older tub can reveal moisture damage or outdated framing. A replacement that appears simple from the room may require additional work once the surround is opened.\n\nKey factors:\n- Same-size tub availability\n- Surround condition and compatibility\n- Whether plumbing must move\n- Damage hidden behind finishes\n\nPractical guidance: Ask for two scopes if appropriate: a like-for-like replacement and a broader bathroom update. This makes the cost and tradeoffs easier to compare without assuming the whole room must be renovated.\n\nElite Remodeling & Design can incorporate a tub replacement into a customized bathroom plan if the surrounding space also needs functional or aesthetic improvements.",
+        "@type": "Answer",
+        "description": "No. A tub can often be replaced as a focused project when the footprint, plumbing, walls, and waterproofing remain suitable. Request both a like-for-like scope and an expanded bathroom option so you can compare the cost of replacing only the tub with updating the surround, fixtures, tile, or storage."
+      }
+    }
+  ],
+  "description": "No. A tub can often be replaced as a focused project when the footprint, plumbing, walls, and waterproofing remain suitable. Request both a like-for-like scope"
+}

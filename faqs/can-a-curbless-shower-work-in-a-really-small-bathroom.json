@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-curbless-shower-work-in-a-really-small-bathroom",
+  "name": "Can a curbless shower work in a really small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a curbless shower work in a really small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small bathroom can have a curbless shower, but the design must control spray and preserve enough dry floor for the toilet, vanity, doorway, and circulation. In a tight room, an open entry may send water farther than expected, so glass placement and drain location become especially important.\n\nElite Remodeling & Design can evaluate the existing layout and use design development or 3D visualization to test fixture placement before construction. A compact room may benefit from a carefully sized shower, a linear drain, or a partial glass panel rather than a completely open wet area.\n\nKey factors:\n- The shower opening should be positioned away from vulnerable cabinetry and door swings.\n- The floor plan must show the slope without creating an awkward transition.\n- Ventilation and storage become more important when more of the room is exposed to moisture.\n\nProvide accurate room measurements and identify windows, doors, and fixed plumbing before design begins. Ask to review the layout at eye level and from above, not only as a materials board.\n\nA scaled plan can reveal splash and clearance problems before tile and glass are ordered.",
+        "@type": "Answer",
+        "description": "Yes, but the layout must control splash while preserving dry floor, fixture clearance, and comfortable entry. A partial glass panel, carefully placed drain, smaller shower footprint, and good ventilation may work better than leaving the entire room open."
+      }
+    }
+  ],
+  "description": "Yes, but the layout must control splash while preserving dry floor, fixture clearance, and comfortable entry. A partial glass panel, carefully placed drain, sma"
+}

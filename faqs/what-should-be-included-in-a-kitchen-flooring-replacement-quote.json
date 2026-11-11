@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-kitchen-flooring-replacement-quote",
+  "name": "What should be included in a kitchen flooring replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a kitchen flooring replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flooring quote should identify the measured area, selected product, waste allowance, removal, disposal, substrate preparation, underlayment, transitions, trim, appliance handling, and exclusions. It should also explain how unexpected damage will be documented and priced. Context: Two quotes with the same material can represent very different preparation standards and completion boundaries. Key factors: - Included demolition and disposal - Leveling or repairs - Labor and finish details - Change-order process Practical guidance: Ask each provider to use the same room boundaries and assumptions, then compare scope line by line. Elite Remodeling & Design can coordinate a flooring scope with design selections and related kitchen construction rather than treating each task as unrelated.",
+        "@type": "Answer",
+        "description": "A quote should state the measured area, material, waste, demolition, disposal, substrate preparation, underlayment, transitions, trim, appliance handling, exclusions, and process for unexpected damage. Compare complete scopes, not just the product price."
+      }
+    }
+  ],
+  "description": "A quote should state the measured area, material, waste, demolition, disposal, substrate preparation, underlayment, transitions, trim, appliance handling, exclu"
+}

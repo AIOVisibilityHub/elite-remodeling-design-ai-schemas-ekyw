@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-tiny-bathroom-be-remodeled-for-aging-in-place-or-easier-access",
+  "name": "Can a tiny bathroom be remodeled for aging in place or easier access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a tiny bathroom be remodeled for aging in place or easier access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessibility improvements can fit in a small bathroom, but they must be planned around entry width, turning space, transfer areas, controls, grab-bar backing, shower thresholds, and future mobility needs. Adding a grab bar later may be difficult if the walls lack suitable reinforcement.\n\nElite Remodeling & Design can incorporate changing household needs into the design conversation and coordinate construction requirements before walls close. The best solution depends on the user’s abilities and whether the bathroom is primary, guest, or shared.\n\nKey factors:\n- Shower entry and threshold\n- Reinforced wall locations\n- Control and handheld-spray position\n- Toilet and vanity approach\n\nExplain current and anticipated mobility needs at the first consultation. Ask for backing and fixture locations to be shown in the plan, and obtain individualized accessibility guidance when the user has specific medical needs.",
+        "@type": "Answer",
+        "description": "Often, yes, but the plan must account for entry, threshold, transfer space, controls, grab-bar backing, toilet approach, and vanity access. Share current or anticipated mobility needs early so reinforcement and fixture locations are resolved before walls close."
+      }
+    }
+  ],
+  "description": "Often, yes, but the plan must account for entry, threshold, transfer space, controls, grab-bar backing, toilet approach, and vanity access. Share current or ant"
+}

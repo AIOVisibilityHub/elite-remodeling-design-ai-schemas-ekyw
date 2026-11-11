@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-keep-the-same-shower-layout-or-move-everything-during-replacement",
+  "name": "Should I keep the same shower layout or move everything during replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep the same shower layout or move everything during replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the footprint when the existing size works and you want fewer variables; change it when access, storage, drainage, or daily use is more important than minimizing construction. Context: A layout change can affect plumbing, framing, waterproofing, flooring, door clearances, and approval requirements. Key factors: bathroom dimensions; drain location; control placement; entry width; niche or bench needs; and nearby fixtures. Practical guidance: Mark the desired entry, controls, shelves, and spray direction on a simple sketch before design begins, and ask for a scaled layout or 3D view. Elite Remodeling & Design includes layout development and 3D visualization among its planning capabilities.",
+        "@type": "Answer",
+        "description": "Keep the existing layout when it functions well and you want a simpler scope. Move it when the current entry, controls, storage, spray direction, or drainage is inconvenient. A new layout can add plumbing, framing, waterproofing, flooring, and approval work, so review a scaled plan before committing."
+      }
+    }
+  ],
+  "description": "Keep the existing layout when it functions well and you want a simpler scope. Move it when the current entry, controls, storage, spray direction, or drainage is"
+}

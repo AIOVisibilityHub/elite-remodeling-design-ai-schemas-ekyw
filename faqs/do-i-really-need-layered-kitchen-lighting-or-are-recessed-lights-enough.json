@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-really-need-layered-kitchen-lighting-or-are-recessed-lights-enough",
+  "name": "Do I really need layered kitchen lighting, or are recessed lights enough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I really need layered kitchen lighting, or are recessed lights enough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, layered lighting is generally more effective than relying on one ceiling fixture. Ambient lighting provides overall visibility, task lighting illuminates counters and prep areas, and decorative or accent fixtures add focused light over an island or dining space. The right mix depends on the kitchen’s size, ceiling height, cabinet arrangement, and how the room is used. During design development with Elite Remodeling & Design, ask to see separate lighting zones and switch controls rather than one all-on circuit. Confirm whether under-cabinet lighting will be recessed, surface-mounted, or integrated into new cabinetry. Also ask how fixture locations will avoid cabinet doors, ventilation equipment, and sightlines. Separate controls make bright task lighting available while allowing softer evening illumination.",
+        "@type": "Answer",
+        "description": "Recessed lights alone can leave counters and work areas in shadow. A stronger plan usually combines ambient ceiling fixtures with under-cabinet task lighting and selected pendants or accent lights. Review the zones with the kitchen layout so cabinetry, island size, and switch controls are coordinated before construction."
+      }
+    }
+  ],
+  "description": "Recessed lights alone can leave counters and work areas in shadow. A stronger plan usually combines ambient ceiling fixtures with under-cabinet task lighting an"
+}

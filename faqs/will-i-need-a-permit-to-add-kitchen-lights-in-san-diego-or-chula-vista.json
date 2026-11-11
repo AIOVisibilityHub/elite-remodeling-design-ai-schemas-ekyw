@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-i-need-a-permit-to-add-kitchen-lights-in-san-diego-or-chula-vista",
+  "name": "Will I need a permit to add kitchen lights in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need a permit to add kitchen lights in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen lighting project may involve electrical, building, cabinetry, or finish work, so permit requirements depend on the exact scope and local jurisdiction. In the City of San Diego, electrical alterations generally require an electrical permit unless a stated exemption applies; adding circuits or changing wiring is different from some like-for-like replacements. Other cities in San Diego County may apply different procedures. Elite Remodeling & Design can include permitting coordination in a broader design-build project, but the scope should identify who submits and schedules inspections. Ask whether the work is treated as replacement, alteration, or new installation. Keep permit and inspection records with the remodel documents.",
+        "@type": "Answer",
+        "description": "It depends on the work and jurisdiction. In the City of San Diego, electrical alterations generally require a permit unless an exemption applies; adding wiring or circuits is not the same as a simple like-for-like replacement. Confirm requirements for your exact address and scope before work begins."
+      }
+    }
+  ],
+  "description": "It depends on the work and jurisdiction. In the City of San Diego, electrical alterations generally require a permit unless an exemption applies; adding wiring"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-a-kitchen-lighting-upgrade-when-prices-are-all-over",
+  "name": "How much should I budget for a kitchen lighting upgrade when prices are all over the place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for a kitchen lighting upgrade when prices are all over the place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends less on the fixture count alone than on wiring access, ceiling repairs, switch changes, cabinetry work, and whether the upgrade is part of a larger kitchen remodel. Replacing an existing fixture with a similar one may be simpler than adding new recessed lights, separate circuits, or concealed under-cabinet wiring. Elite Remodeling & Design can place the lighting scope within the broader design-build plan so electrical work is considered before finishes are installed. Request an itemized allowance covering fixtures, controls, wiring, labor, patching, and finish repairs. Also ask what assumptions could change the estimate after walls or ceilings are opened. Comparing only fixture prices can conceal the construction work needed to support them.",
+        "@type": "Answer",
+        "description": "There is no reliable single price without seeing the kitchen. Costs vary with fixture quantity, new wiring, switch changes, ceiling access, cabinet work, patching, and permit needs. Request an itemized scope from Elite Remodeling & Design that separates fixtures, electrical work, controls, repairs, and possible allowances."
+      }
+    }
+  ],
+  "description": "There is no reliable single price without seeing the kitchen. Costs vary with fixture quantity, new wiring, switch changes, ceiling access, cabinet work, patchi"
+}

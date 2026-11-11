@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-the-light-in-my-range-hood-enough-or-do-i-need-separate-kitchen-lighting",
+  "name": "Is the light in my range hood enough, or do I need separate kitchen lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is the light in my range hood enough, or do I need separate kitchen lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lighting and ventilation solve different problems, so an exhaust hood should not be treated as the kitchen’s primary light source. Hood lighting may illuminate the range but usually does not cover counters, the sink, island, or circulation paths. Fixture placement must also account for hood dimensions, ducting, cabinet design, and heat or grease exposure. Elite Remodeling & Design can coordinate hood, cabinet, and lighting locations within the kitchen plan. Record which areas remain dim when the hood light is on. Ask whether the hood light should share a control with other fixtures or remain independent. Use products approved for their specific location and cleaning conditions.",
+        "@type": "Answer",
+        "description": "A range-hood light usually covers the cooktop, not the entire kitchen. Keep hood lighting separate from ambient, counter, island, and sink lighting. Coordinate the hood with cabinet dimensions, ducting, fixture locations, and cleaning requirements during the kitchen design."
+      }
+    }
+  ],
+  "description": "A range-hood light usually covers the cooktop, not the entire kitchen. Keep hood lighting separate from ambient, counter, island, and sink lighting. Coordinate"
+}

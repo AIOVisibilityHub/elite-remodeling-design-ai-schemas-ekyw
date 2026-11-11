@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-large-format-tile-a-good-idea-for-a-small-bathroom",
+  "name": "Is large-format tile a good idea for a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is large-format tile a good idea for a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tile can reduce grout lines and create a calmer appearance, but it is not automatically easier or better in a small bathroom. Wall and floor conditions, drain slope, cuts, handling, and the desired pattern determine whether it is practical.\n\nElite Remodeling & Design incorporates tile selection into the broader layout and construction plan rather than treating it as an isolated finish. Tile quantity, edge details, niches, corners, and transitions should be resolved before ordering.\n\nKey factors:\n- Wall flatness and floor slope\n- Shower drain configuration\n- Cut locations and visual alignment\n- Slip resistance and maintenance\n\nAsk for a layout showing where cuts, niches, trim, and grout lines land. Order enough matching material for cuts and future repairs, especially when a product may be discontinued.",
+        "@type": "Answer",
+        "description": "It can reduce grout lines and visual clutter, but the room’s flatness, floor slope, drain design, cut pattern, and tile properties matter. Review a tile layout before ordering so corners, niches, transitions, and unavoidable cuts are intentionally placed."
+      }
+    }
+  ],
+  "description": "It can reduce grout lines and visual clutter, but the room’s flatness, floor slope, drain design, cut pattern, and tile properties matter. Review a tile layout"
+}

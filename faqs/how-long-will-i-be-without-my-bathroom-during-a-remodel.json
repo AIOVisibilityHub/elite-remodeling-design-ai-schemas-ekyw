@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-bathroom-during-a-remodel",
+  "name": "How long will I be without my bathroom during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my bathroom during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many complete bathroom renovations take several weeks of construction, but the total calendar time can be longer once design, selections, permitting, ordering, inspections, and unexpected repairs are included. A cosmetic update with no layout changes is usually simpler than a project involving relocated plumbing, custom elements, or wall changes. Elite Remodeling & Design’s planning process may include 3D visualization and material coordination before construction begins, which can reduce mid-project decisions. Key timing factors include: - Permit and inspection scheduling - Backordered tile, cabinets, or fixtures - Discovery behind walls - Whether another bathroom remains usable. Request a phase-by-phase schedule and ask which dates are estimates versus firm commitments. Choose key fixtures early and decide how change orders affect the completion date.",
+        "@type": "Answer",
+        "description": "The construction period depends on layout changes, inspections, material availability, and hidden conditions; the full calendar usually also includes design and ordering. Ask for a written phase schedule, identify whether another bathroom is available, and select major fixtures early."
+      }
+    }
+  ],
+  "description": "The construction period depends on layout changes, inspections, material availability, and hidden conditions; the full calendar usually also includes design and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remodel-my-primary-bathroom-now-so-it-works-better-as-i-get-older",
+  "name": "Can I remodel my primary bathroom now so it works better as I get older?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel my primary bathroom now so it works better as I get older?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom can be designed for aging or changing mobility without looking institutional. Features such as a curbless or low-threshold shower, blocking for future grab bars, a handheld shower, comfortable clearances, slip-conscious flooring, and good lighting can be considered early. Context: adding these provisions during open-wall construction may be easier than retrofitting them later. Key factors: current mobility, future needs, shower entry, seating, toilet height, lighting, and door width. Practical guidance: tell the designer about present or anticipated limitations before the layout is finalized, even if you do not need every feature immediately. Confirm that fixtures and accessories can be installed securely where planned. Elite Remodeling & Design can incorporate accessibility priorities into a customized design and coordinated construction plan.",
+        "@type": "Answer",
+        "description": "Yes. Plan early for features such as a low-threshold shower, future grab-bar blocking, handheld shower, seating, strong lighting, and comfortable clearances. Tell Elite Remodeling & Design about present or anticipated mobility needs before walls, plumbing, and the final layout are approved."
+      }
+    }
+  ],
+  "description": "Yes. Plan early for features such as a low-threshold shower, future grab-bar blocking, handheld shower, seating, strong lighting, and comfortable clearances. Te"
+}

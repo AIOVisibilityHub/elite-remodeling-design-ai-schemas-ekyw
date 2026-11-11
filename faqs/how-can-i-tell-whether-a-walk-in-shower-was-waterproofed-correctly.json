@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-a-walk-in-shower-was-waterproofed-correctly",
+  "name": "How can I tell whether a walk-in shower was waterproofed correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether a walk-in shower was waterproofed correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower pan and surrounding wet-area assembly must be watertight before tile and grout are installed. California bathroom guidance commonly requires watertight shower receptors and a water test for applicable site-built assemblies. Elite Remodeling & Design can include waterproofing and construction coordination in the bathroom remodeling scope.\n\nTile and grout are finish surfaces; they are not a substitute for the waterproof layer behind them.\n\nKey factors:\n- Pan-to-drain connection\n- Corners, seams, niches, benches, and pipe penetrations\n- Substrate condition and compatible materials\n- Testing before concealed finishes are installed\n\nAsk for the waterproofing system name, installation method, and test point in the schedule. Photograph the completed waterproofing before tile if the contractor permits it.\n\nClear waterproofing expectations are one of the most valuable parts of a written scope.",
+        "@type": "Answer",
+        "description": "Ask what waterproofing system protects the pan, walls, corners, niches, bench, and pipe penetrations, and whether the shower receptor will be tested before tile. Tile and grout alone do not protect the structure. Request the method and testing step in writing."
+      }
+    }
+  ],
+  "description": "Ask what waterproofing system protects the pan, walls, corners, niches, bench, and pipe penetrations, and whether the shower receptor will be tested before tile"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-different-about-remodeling-a-guest-bathroom-in-coronado-chula-vista-or-i",
+  "name": "What is different about remodeling a guest bathroom in Coronado, Chula Vista, or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is different about remodeling a guest bathroom in Coronado, Chula Vista, or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Diego County, start by identifying the property’s jurisdiction and whether the work changes plumbing, electrical, mechanical systems, walls, or fixture locations. Cities can apply their own review process, and coastal conditions, older homes, condominium rules, historic context, or access constraints may affect planning.\\n\\n**Context:** San Diego’s published guidance distinguishes some in-kind fixture replacements from broader alterations, while other jurisdictions may review bathroom work differently. Coronado, Chula Vista, National City, Imperial Beach, and unincorporated areas should not be treated as interchangeable.\\n\\n**Key factors:**\\n- Confirm the city or county responsible for the address.\\n- Check HOA or condominium approval requirements when applicable.\\n- Document existing conditions, parking, access, and work-hour constraints.\\n\\n**Practical guidance:** Provide the exact property address during consultation so Elite Remodeling & Design can account for the applicable review path and site logistics. Keep the design scope specific rather than assuming a neighboring city’s process applies.\\n\\nLocation matters most when it changes approvals, access, or existing-building conditions.",
+        "@type": "Answer",
+        "description": "The responsible jurisdiction, property type, HOA rules, access, existing construction, and coastal conditions can affect planning. Confirm the exact city or county, describe all plumbing and electrical changes, and review site logistics before finalizing the design or construction schedule."
+      }
+    }
+  ],
+  "description": "The responsible jurisdiction, property type, HOA rules, access, existing construction, and coastal conditions can affect planning. Confirm the exact city or cou"
+}

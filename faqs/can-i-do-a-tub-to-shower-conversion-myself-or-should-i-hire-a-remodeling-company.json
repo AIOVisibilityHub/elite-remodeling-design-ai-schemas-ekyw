@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-do-a-tub-to-shower-conversion-myself-or-should-i-hire-a-remodeling-company",
+  "name": "Can I do a tub-to-shower conversion myself, or should I hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do a tub-to-shower conversion myself, or should I hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A homeowner can sometimes handle limited finish work, but a full conversion combines demolition, plumbing, drainage, waterproofing, electrical coordination, tile or surround installation, and inspection requirements. Errors behind finished walls can cause leaks or require expensive removal, so the true DIY cost includes tools, learning time, waste, and correction risk.\\n\\nKey factors:\\n- Be realistic about plumbing, waterproofing, tile, and electrical experience.\\n- Verify which work requires permits or qualified trades in the property’s jurisdiction.\\n- Do not mix incompatible waterproofing components or skip required curing.\\n- Plan inspection access before closing walls.\\n\\nIf hiring help, ask Elite Remodeling & Design for a scope that separates design, construction, materials, and coordination. A professional comparison should be based on risk and total time, not just labor savings.",
+        "@type": "Answer",
+        "description": "A full conversion involves plumbing, drainage, waterproofing, finishes, electrical coordination, and possible inspections. DIY may save labor only if you already have the required skills and tools; mistakes behind walls can cost more than professional coordination."
+      }
+    }
+  ],
+  "description": "A full conversion involves plumbing, drainage, waterproofing, finishes, electrical coordination, and possible inspections. DIY may save labor only if you alread"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-coronado-or-imperial-beach-homes-need-special-kitchen-lighting-because-they-r",
+  "name": "Do Coronado or Imperial Beach homes need special kitchen lighting because they’re near the coast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Coronado or Imperial Beach homes need special kitchen lighting because they’re near the coast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal conditions do not automatically dictate a special indoor kitchen fixture, but homes near the coast may experience salt-laden air, humidity, and frequent cleaning demands that affect exposed metal finishes and fixture maintenance. Coronado and Imperial Beach homes may also have property-specific constraints, older construction, or design considerations that should be reviewed rather than assumed. Elite Remodeling & Design can evaluate the existing kitchen, finishes, and wiring as part of project planning. Choose durable, cleanable materials and verify the manufacturer’s location rating for each fixture. Ask how exposed hardware will be maintained and whether existing conditions could affect installation. Do not apply outdoor ratings or coastal assumptions to an indoor fixture without checking the product information.",
+        "@type": "Answer",
+        "description": "Not automatically, but coastal air, humidity, cleaning demands, older construction, and exposed metal finishes may affect product selection and maintenance. Check each fixture’s location rating and durability, and have the existing kitchen conditions reviewed before choosing hardware or concealed components."
+      }
+    }
+  ],
+  "description": "Not automatically, but coastal air, humidity, cleaning demands, older construction, and exposed metal finishes may affect product selection and maintenance. Che"
+}

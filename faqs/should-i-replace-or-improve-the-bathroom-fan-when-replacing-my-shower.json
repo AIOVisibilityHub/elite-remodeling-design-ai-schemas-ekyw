@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-or-improve-the-bathroom-fan-when-replacing-my-shower",
+  "name": "Should I replace or improve the bathroom fan when replacing my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or improve the bathroom fan when replacing my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan ventilation as part of the replacement when the bathroom stays damp, mirrors remain fogged, mildew repeatedly returns, or the existing fan is ineffective. Context: A new shower cannot compensate for poor moisture removal, and changes to electrical or ducting may add scope. Key factors: fan performance; duct routing; controls; makeup air; window use; ceiling height; and whether the fan vents outdoors. Practical guidance: Describe the room’s moisture symptoms during the consultation and ask whether the existing ventilation should be evaluated before finishes close. Elite Remodeling & Design can coordinate bathroom construction details with related electrical or layout work when included in the approved scope.",
+        "@type": "Answer",
+        "description": "Consider improving ventilation if the room stays damp, the mirror remains fogged, or mildew returns despite cleaning. A new shower will not fix inadequate moisture removal. Ask whether the fan, duct route, controls, and outdoor venting should be evaluated before walls or ceilings are finished."
+      }
+    }
+  ],
+  "description": "Consider improving ventilation if the room stays damp, the mirror remains fogged, or mildew returns despite cleaning. A new shower will not fix inadequate moist"
+}

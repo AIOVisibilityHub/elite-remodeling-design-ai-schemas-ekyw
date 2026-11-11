@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-do-my-new-led-kitchen-lights-look-like-different-colors-even-though-they-re",
+  "name": "Why do my new LED kitchen lights look like different colors even though they’re all supposed to be warm white?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my new LED kitchen lights look like different colors even though they’re all supposed to be warm white?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Color consistency matters when multiple LED fixtures are visible in the same kitchen. Mixing products with different color temperatures, tint, brightness, or dimming behavior can make cabinets and counters look uneven. Elite Remodeling & Design can coordinate fixture specifications with the material palette and lighting zones. Record the product family, color setting, output, and control compatibility before purchasing replacements. Compare samples at the same brightness rather than judging one fixture at full output and another dimmed. Buy enough matching units for the planned installation plus a reasonable replacement reserve if the product line may change.",
+        "@type": "Answer",
+        "description": "Different LED brands, color tolerances, drivers, settings, and dimming levels can produce visibly different tones. Use a consistent fixture family where possible, compare samples at equal brightness, and document product details so future replacements match the installed lighting."
+      }
+    }
+  ],
+  "description": "Different LED brands, color tolerances, drivers, settings, and dimming levels can produce visibly different tones. Use a consistent fixture family where possibl"
+}

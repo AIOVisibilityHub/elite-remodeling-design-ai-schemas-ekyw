@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-do-i-need-to-choose-before-my-bathroom-remodel-starts",
+  "name": "What do I need to choose before my bathroom remodel starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to choose before my bathroom remodel starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need to buy every fixture before the first conversation, but major decisions should be made before rough plumbing and electrical work are completed. The team needs accurate product specifications for items such as toilets, valves, sinks, lighting, fans, and specialty fixtures because rough-in locations can depend on them. Elite Remodeling & Design’s design process may include material selections before construction begins. Key factors include: - Fixture dimensions and connection locations - Lead times and substitutions - Finish compatibility - Installation instructions and warranty terms. Bring inspiration images and a list of preferred products, but wait to finalize technically sensitive items until the layout is confirmed. Ask what must be selected early and what can remain flexible.",
+        "@type": "Answer",
+        "description": "Choose or shortlist the layout, shower or tub, toilet, vanity, sink, faucets, lighting, exhaust fan, tile, storage, and hardware before the related rough work is finalized. Confirm dimensions, connection requirements, lead times, finishes, and approved substitutions."
+      }
+    }
+  ],
+  "description": "Choose or shortlist the layout, shower or tub, toilet, vanity, sink, faucets, lighting, exhaust fan, tile, storage, and hardware before the related rough work i"
+}

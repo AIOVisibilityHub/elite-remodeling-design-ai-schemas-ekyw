@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-my-kitchen-still-dark-after-adding-more-recessed-lights",
+  "name": "Why is my kitchen still dark after adding more recessed lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my kitchen still dark after adding more recessed lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding more fixtures does not automatically solve poor lighting. Placement, beam spread, mounting height, surface reflectance, glare control, and separate task lighting determine whether the room feels brighter and works better. Closely spaced recessed fixtures can create hot spots, while fixtures placed behind a user can still leave the counter shadowed. Elite Remodeling & Design can assess lighting positions alongside cabinet runs, island dimensions, and appliance locations. Mark where people stand while chopping, washing, and cooking before finalizing fixture centers. Ask to review a reflected ceiling or lighting layout rather than relying on a fixture count. Include dimmers so the same system can support cleaning, cooking, and relaxed evening use.",
+        "@type": "Answer",
+        "description": "More fixtures may not fix poor placement, glare, narrow beam spread, or shadows from cabinets and people. Review fixture locations against the counter, island, sink, and cooking positions. A coordinated plan with under-cabinet task lighting and separate dimmable zones often works better than simply increasing the number of ceiling lights."
+      }
+    }
+  ],
+  "description": "More fixtures may not fix poor placement, glare, narrow beam spread, or shadows from cabinets and people. Review fixture locations against the counter, island,"
+}

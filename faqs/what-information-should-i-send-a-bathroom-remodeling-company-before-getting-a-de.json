@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-send-a-bathroom-remodeling-company-before-getting-a-de",
+  "name": "What information should I send a bathroom remodeling company before getting a design or estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I send a bathroom remodeling company before getting a design or estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a bathroom renovation plan, gather room dimensions, ceiling height, door and window locations, photos of plumbing fixtures, electrical devices, vents, damage, and adjacent walls. Also note which features must remain, which problems are urgent, and how the room is used by each household member. Elite Remodeling & Design can use this information to connect design options with existing conditions during consultation. Key factors include: - Rough locations of supply and drain lines - Electrical panel or circuit concerns - Storage and accessibility needs - Desired finish style and budget range. Do not hide leaks, prior repairs, or unpermitted changes; they can affect scope and sequencing. A complete starting picture makes early layouts and allowances more useful.",
+        "@type": "Answer",
+        "description": "Send measurements, ceiling height, door and window locations, photos of fixtures, vents, outlets, damage, and adjacent walls, plus your goals, must-haves, style, budget range, and known prior work. Disclose leaks or unusual conditions early."
+      }
+    }
+  ],
+  "description": "Send measurements, ceiling height, door and window locations, photos of fixtures, vents, outlets, damage, and adjacent walls, plus your goals, must-haves, style"
+}

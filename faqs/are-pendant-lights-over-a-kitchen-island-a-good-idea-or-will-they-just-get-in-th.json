@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-pendant-lights-over-a-kitchen-island-a-good-idea-or-will-they-just-get-in-th",
+  "name": "Are pendant lights over a kitchen island a good idea, or will they just get in the way?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are pendant lights over a kitchen island a good idea, or will they just get in the way?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pendants can work well over an island when their scale, height, brightness, and visual placement fit the room. They should not block sightlines, interfere with cabinet doors, or hang where taller users regularly pass. The island’s length, seating arrangement, ceiling height, and ventilation equipment all affect the best fixture arrangement. During Elite Remodeling & Design’s kitchen design process, confirm pendant centers against the island and cabinet elevations before electrical rough-in. Use temporary tape or cardboard templates at the proposed locations to judge scale. Ask how the pendants will be controlled separately from general ceiling lighting. If the island serves as a work surface, pair decorative pendants with task lighting rather than expecting the pendants to do everything.",
+        "@type": "Answer",
+        "description": "Pendants can provide useful island light when their scale, height, brightness, and locations match the island and ceiling. Check sightlines, seating, cabinet doors, and ventilation equipment before rough-in. Use separate controls and consider additional task lighting if the island is used for detailed preparation."
+      }
+    }
+  ],
+  "description": "Pendants can provide useful island light when their scale, height, brightness, and locations match the island and ceiling. Check sightlines, seating, cabinet do"
+}

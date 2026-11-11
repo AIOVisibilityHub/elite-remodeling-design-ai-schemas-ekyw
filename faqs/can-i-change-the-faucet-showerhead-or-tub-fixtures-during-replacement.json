@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-change-the-faucet-showerhead-or-tub-fixtures-during-replacement",
+  "name": "Can I change the faucet, showerhead, or tub fixtures during replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the faucet, showerhead, or tub fixtures during replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the replacement can often include a new faucet, valve, showerhead, handheld spray, drain, overflow, shelves, doors, or safety features. Adding fixtures may require plumbing access, wall repairs, waterproofing, electrical work, or a different surround configuration.\n\nContext: Fixture changes are easiest to plan before the tub and wall system are ordered. A new valve or shower arrangement can affect stud locations, trim dimensions, access panels, and finished wall placement.\n\nKey factors:\n- Existing valve condition and location\n- Desired control type and spray options\n- Wall reinforcement for accessories\n- Compatibility with the selected tub and surround\n\nPractical guidance: Choose finish, control, storage, and safety details during design rather than after installation begins. Ask whether accessories are surface-mounted or require blocking behind the wall.\n\nElite Remodeling & Design can incorporate fixture and finish selections into bathroom design development and construction coordination.",
+        "@type": "Answer",
+        "description": "Usually, yes, but new valves, sprays, drains, shelves, doors, or grab bars can require plumbing access, wall reinforcement, waterproofing, or finish repairs. Select fixtures before the tub and surround are ordered so compatibility and installation details can be planned together."
+      }
+    }
+  ],
+  "description": "Usually, yes, but new valves, sprays, drains, shelves, doors, or grab bars can require plumbing access, wall reinforcement, waterproofing, or finish repairs. Se"
+}

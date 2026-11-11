@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-measure-my-bathroom-before-buying-a-replacement-bathtub",
+  "name": "How do I measure my bathroom before buying a replacement bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure my bathroom before buying a replacement bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure the opening, not just the old tub’s label. Record the alcove length, width, height, wall thickness, drain and overflow positions, valve location, threshold, and the path from the delivery point to the bathroom.\n\nContext: Nominal tub sizes can vary, and finished walls may change the available opening. A replacement that fits on paper may fail because of a drain offset, door, narrow hallway, baseboard, or uneven framing.\n\nKey factors:\n- Finished alcove dimensions\n- Drain and overflow centerlines\n- Tub height and apron configuration\n- Delivery and removal access\n\nPractical guidance: Photograph measurements with a tape visible and let the installer verify them before ordering. Do not assume a larger or deeper tub will fit simply because the old unit is a standard size.\n\nElite Remodeling & Design can incorporate field measurements into design development before construction begins.",
+        "@type": "Answer",
+        "description": "Measure the finished alcove length, width, and height, then record drain, overflow, valve, apron, doorway, and delivery-path dimensions. Nominal tub sizes can differ from actual measurements. Have the installer verify the opening before ordering the tub or surround."
+      }
+    }
+  ],
+  "description": "Measure the finished alcove length, width, and height, then record drain, overflow, valve, apron, doorway, and delivery-path dimensions. Nominal tub sizes can d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-renovate-a-bathroom-so-it-still-works-if-someone-s-mobility-changes",
+  "name": "How should I renovate a bathroom so it still works if someone’s mobility changes later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I renovate a bathroom so it still works if someone’s mobility changes later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can be made more useful for aging or changing mobility needs by planning clear entry, stable surfaces, appropriate fixture heights, handheld spray, strong lighting, and structural backing for future grab bars. Accessibility features should be integrated into the layout and waterproofing details rather than added after tile is installed. Elite Remodeling & Design can adapt the design to the homeowner’s intended use and existing space. Key factors include: - Shower threshold and drainage - Transfer and turning space - Blocking behind finished walls - Slip resistance and storage reach. Explain present and anticipated needs during the first design discussion. Ask for dimensions and locations of support hardware before framing and tile work begin.",
+        "@type": "Answer",
+        "description": "Plan clear entry, stable slip-resistant surfaces, good lighting, reachable storage, handheld controls, and structural backing for future support bars. Decide these items during layout and framing so waterproofing and tile work do not have to be disturbed later."
+      }
+    }
+  ],
+  "description": "Plan clear entry, stable slip-resistant surfaces, good lighting, reachable storage, handheld controls, and structural backing for future support bars. Decide th"
+}

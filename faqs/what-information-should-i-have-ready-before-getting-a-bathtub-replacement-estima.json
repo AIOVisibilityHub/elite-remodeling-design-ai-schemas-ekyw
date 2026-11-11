@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-getting-a-bathtub-replacement-estima",
+  "name": "What information should I have ready before getting a bathtub replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before getting a bathtub replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need every finish chosen before requesting an initial consultation, but useful measurements, photos, goals, budget range, and timing make the discussion more productive. Final selections should be made before ordering materials and construction begins.\n\nContext: Elite Remodeling & Design describes a process that may include layout development, 3D design visualization, and material selections. Those decisions help identify compatibility issues before demolition.\n\nKey factors:\n- Existing dimensions and plumbing locations\n- Preferred tub type, surround, and fixtures\n- Accessibility, storage, and cleaning priorities\n- Desired completion window and budget range\n\nPractical guidance: Bring inspiration images, a list of must-haves, and concerns about the current bathroom. Tell the contractor whether you want a tub-only replacement or are open to changing tile, flooring, vanity, lighting, or layout.\n\nA clear design brief helps the project team develop an appropriate scope rather than making assumptions about your priorities.",
+        "@type": "Answer",
+        "description": "Prepare photos, basic measurements, the tub’s material and dimensions if known, plumbing concerns, preferred features, budget range, and desired timing. State whether you want a focused replacement or a broader bathroom update. Inspiration images and must-have features also help shape the design."
+      }
+    }
+  ],
+  "description": "Prepare photos, basic measurements, the tub’s material and dimensions if known, plumbing concerns, preferred features, budget range, and desired timing. State w"
+}

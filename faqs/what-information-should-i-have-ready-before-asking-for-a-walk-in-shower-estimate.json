@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-asking-for-a-walk-in-shower-estimate",
+  "name": "What information should I have ready before asking for a walk-in shower estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a walk-in shower estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a design, gather room measurements, photos of the existing shower or tub, ceiling height, locations of windows and doors, the age of the home if known, and any history of leaks or repairs. Also write down who will use the shower and which features matter most.\n\nElite Remodeling & Design can use this information during consultation and design development, including layout and material planning.\n\nKey factors:\n- Room and tub dimensions\n- Drain, valve, outlet, and fan locations\n- Desired threshold, seat, bars, niches, and glass\n- Budget range and target timing\n\nKeep inspiration images separate from must-have requirements. Bring product links or model numbers only after confirming that their dimensions fit the proposed layout.\n\nBetter preparation allows the first conversation to focus on decisions rather than missing information.",
+        "@type": "Answer",
+        "description": "Prepare room and tub measurements, photos, plumbing and electrical locations, leak history, user needs, desired features, budget range, and timing. Include whether you want a seat, grab bars, niches, handheld spray, curbless entry, or glass. A simple floor plan is helpful."
+      }
+    }
+  ],
+  "description": "Prepare room and tub measurements, photos, plumbing and electrical locations, leak history, user needs, desired features, budget range, and timing. Include whet"
+}

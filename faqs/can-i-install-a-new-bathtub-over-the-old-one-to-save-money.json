@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-a-new-bathtub-over-the-old-one-to-save-money",
+  "name": "Can I install a new bathtub over the old one to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new bathtub over the old one to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub can sometimes be installed over an existing tub or covered with a specialized system, but that is not the same as removing and replacing the original assembly. Covering problems may preserve moisture damage, reduce usable space, or create compatibility concerns.\n\nContext: The right approach depends on the existing tub’s stability, leaks, dimensions, drain arrangement, and the condition of the surrounding wet area. A cover system may be inappropriate when the substrate or plumbing is compromised.\n\nKey factors:\n- Whether the existing unit is structurally sound\n- Available clearance and finished dimensions\n- Drain and overflow alignment\n- Evidence of leaks, movement, or mold-like odors\n\nPractical guidance: Ask what will happen to the existing drain, overflow, walls, and waterproofing—not just what surface will be placed over them. Have the contractor explain the service life and repair access of each option.\n\nElite Remodeling & Design can assess whether a broader bathroom remodel offers a more suitable long-term result.",
+        "@type": "Answer",
+        "description": "Sometimes, but covering an old tub does not correct concealed leaks, weak support, damaged walls, or faulty plumbing. Compare the space loss, drain compatibility, waterproofing, durability, and future repair access with a full removal and replacement."
+      }
+    }
+  ],
+  "description": "Sometimes, but covering an old tub does not correct concealed leaks, weak support, damaged walls, or faulty plumbing. Compare the space loss, drain compatibilit"
+}

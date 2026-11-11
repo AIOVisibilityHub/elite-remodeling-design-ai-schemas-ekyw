@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-before-remodeling-my-guest-bathroom",
+  "name": "What should I do first before remodeling my guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before remodeling my guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the guest bathroom must function, then document its current dimensions, fixture locations, ventilation, storage needs, and visible damage. A design-build plan can connect layout decisions with plumbing, electrical, material selections, permitting, construction, and final inspection.\\n\\n**Context:** Keeping the toilet, sink, and shower or tub in place often reduces disruption, while changing locations may improve circulation but add coordination. In older San Diego County homes, opening walls can reveal outdated wiring, plumbing, moisture damage, or framing conditions.\\n\\n**Key factors:**\\n- Measure door swings, clear floor area, ceiling height, and vanity depth.\\n- Note who uses the room and whether guests need safer, easier access.\\n- Decide whether the project is cosmetic, functional, or a full reconfiguration.\\n\\n**Practical guidance:** Gather photos, inspiration images, a rough budget range, and a list of must-haves before the consultation. Ask Elite Remodeling & Design to show how the proposed layout and finishes fit the existing space through design development and, when appropriate, 3D visualization.\\n\\nA clear scope early helps prevent expensive changes after construction begins.",
+        "@type": "Answer",
+        "description": "Begin with measurements, photos, fixture locations, ventilation, storage needs, and a written list of must-haves. Decide whether you want a finish update or a layout change, then review the scope with Elite Remodeling & Design so design, construction, permitting, and inspection needs are considered together."
+      }
+    }
+  ],
+  "description": "Begin with measurements, photos, fixture locations, ventilation, storage needs, and a written list of must-haves. Decide whether you want a finish update or a l"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-guest-bathroom-is-in-a-condo-or-attached-home",
+  "name": "What if my guest bathroom is in a condo or attached home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my guest bathroom is in a condo or attached home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Condominium and attached-home bathroom remodels require extra planning for shared walls, shutoff access, neighbor impact, building rules, and sometimes work-hour or delivery restrictions. A design that works in a detached house may not work if drains, vents, waterproofing, or structural elements are shared.\\n\\n**Context:** HOA approval may be separate from city or county permits, and approval does not replace required inspections. Access to a unit, elevator reservations, parking, debris removal, and protection of common areas can also affect the sequence.\\n\\n**Key factors:**\\n- Obtain association rules and alteration requirements early.\\n- Identify shared plumbing walls, risers, and shutoffs.\\n- Confirm delivery, staging, elevator, and debris procedures.\\n\\n**Practical guidance:** Give Elite Remodeling & Design the HOA documents and building contact information before design is finalized. Ask for a plan that separates association approvals, jurisdictional approvals, construction access, and resident communication.\\n\\nEarly building coordination can prevent a finished design from being unusable in practice.",
+        "@type": "Answer",
+        "description": "Check HOA approval, shared plumbing and ventilation, work hours, elevator and delivery rules, parking, debris procedures, and common-area protection before design approval. HOA authorization is separate from any required city or county permits."
+      }
+    }
+  ],
+  "description": "Check HOA approval, shared plumbing and ventilation, work hours, elevator and delivery rules, parking, debris procedures, and common-area protection before desi"
+}

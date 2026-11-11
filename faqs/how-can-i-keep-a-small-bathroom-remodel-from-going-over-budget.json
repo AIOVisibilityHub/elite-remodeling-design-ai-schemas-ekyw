@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-keep-a-small-bathroom-remodel-from-going-over-budget",
+  "name": "How can I keep a small bathroom remodel from going over budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I keep a small bathroom remodel from going over budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The safest way to control a small bathroom budget is to lock the layout and major selections before demolition. Changing the vanity, tile pattern, fixture locations, or shower configuration after work begins can create labor, material, ordering, and schedule impacts.\n\nElite Remodeling & Design brings design development, material selections, permitting coordination, and construction into one project process. A detailed scope can separate essential repairs from optional upgrades.\n\nKey factors:\n- Layout certainty\n- Fixture and tile availability\n- Allowances and exclusions\n- Hidden-condition reserve\n\nCreate a written finish schedule listing model, size, color, quantity, and approved alternatives. Keep contingency funds available rather than assigning every dollar to visible finishes.",
+        "@type": "Answer",
+        "description": "Finalize the layout and major selections before demolition, use a written finish schedule, verify product availability, and reserve funds for concealed conditions. Compare scopes, allowances, exclusions, and change-order rules—not just the advertised project total."
+      }
+    }
+  ],
+  "description": "Finalize the layout and major selections before demolition, use a written finish schedule, verify product availability, and reserve funds for concealed conditio"
+}

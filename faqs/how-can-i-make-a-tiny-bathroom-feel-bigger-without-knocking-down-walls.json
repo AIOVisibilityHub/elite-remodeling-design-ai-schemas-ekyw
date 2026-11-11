@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-make-a-tiny-bathroom-feel-bigger-without-knocking-down-walls",
+  "name": "How can I make a tiny bathroom feel bigger without knocking down walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a tiny bathroom feel bigger without knocking down walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can sometimes improve a small bathroom substantially without expanding it by correcting door conflicts, increasing visual storage, using a compact vanity, improving lighting, and choosing a shower layout that preserves clear floor area. Moving walls should be considered only after the existing room and adjacent spaces are measured. Elite Remodeling & Design can develop a layout and 3D visualization to test how storage, fixtures, and finishes work together. Key factors include: - Door and cabinet swing - Plumbing chase locations - Recessed or wall-mounted storage - Lighting at the mirror and shower. Photograph the room with the door open and closed, and note where towels, toiletries, and cleaning supplies currently land. Prioritize circulation and storage before decorative upgrades.",
+        "@type": "Answer",
+        "description": "Improve circulation first: review the door swing, use appropriately scaled fixtures, add well-planned storage, brighten the room with layered lighting, and keep finishes visually consistent. A measured layout and 3D visualization can test changes before construction begins."
+      }
+    }
+  ],
+  "description": "Improve circulation first: review the door swing, use appropriately scaled fixtures, add well-planned storage, brighten the room with layered lighting, and keep"
+}

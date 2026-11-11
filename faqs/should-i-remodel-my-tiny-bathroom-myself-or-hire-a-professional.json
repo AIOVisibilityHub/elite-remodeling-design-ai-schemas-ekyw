@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-remodel-my-tiny-bathroom-myself-or-hire-a-professional",
+  "name": "Should I remodel my tiny bathroom myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel my tiny bathroom myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY can make sense for limited cosmetic work, but a full small-bathroom renovation combines demolition, waterproofing, tile, plumbing, electrical, ventilation, finish carpentry, and inspection coordination. A mistake behind a finished wall can cost more to correct than the labor saved.\n\nElite Remodeling & Design provides coordinated design and construction for bathroom projects, which can be useful when several trades and decisions must fit a tight space. Homeowners may still handle defined tasks if the scope, skill, and responsibility are clear.\n\nKey factors:\n- Experience with wet-area waterproofing\n- Ability to verify plumbing and electrical work\n- Time for material handling and corrections\n- Permit and inspection coordination\n\nIf doing part of the work, agree in advance on the handoff point and quality requirements. Avoid taking on waterproofing or concealed utility changes without the training and testing needed for that work.",
+        "@type": "Answer",
+        "description": "DIY may suit painting or limited cosmetic work, but a full remodel combines waterproofing, tile, plumbing, electrical, ventilation, and inspection coordination. If dividing the work, define the handoff clearly and avoid concealed wet-area or utility work without the required expertise."
+      }
+    }
+  ],
+  "description": "DIY may suit painting or limited cosmetic work, but a full remodel combines waterproofing, tile, plumbing, electrical, ventilation, and inspection coordination."
+}

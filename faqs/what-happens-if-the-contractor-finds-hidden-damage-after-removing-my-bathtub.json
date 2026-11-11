@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-the-contractor-finds-hidden-damage-after-removing-my-bathtub",
+  "name": "What happens if the contractor finds hidden damage after removing my bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the contractor finds hidden damage after removing my bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reputable estimate should explain how changes are handled before work begins. If demolition reveals damaged framing, subfloor, plumbing, or waterproofing, the contractor should document the condition, explain the repair options, and obtain approval before adding work when practical.\n\nContext: No visual inspection can guarantee that concealed conditions are absent. A clear change-order process protects both sides from disputes about necessary repairs and finish restoration.\n\nKey factors:\n- Photos and descriptions of concealed damage\n- Labor, material, and schedule effects\n- Whether temporary protection or drying is needed\n- What happens if the homeowner declines the repair\n\nPractical guidance: Read the contract for allowances, exclusions, payment stages, cancellation terms, and change-order approval. Ask who decides whether a condition is unsafe or incompatible with the planned installation.\n\nElite Remodeling & Design’s coordinated approach can help connect unexpected bathroom repairs with the broader construction scope.",
+        "@type": "Answer",
+        "description": "The contractor should document the condition, explain the repair options, and identify cost and schedule effects before proceeding when practical. Ask about concealed-condition allowances, written change orders, temporary protection, and what happens if you decline recommended repairs."
+      }
+    }
+  ],
+  "description": "The contractor should document the condition, explain the repair options, and identify cost and schedule effects before proceeding when practical. Ask about con"
+}

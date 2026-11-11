@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-old-kitchen-floor-might-contain-asbestos",
+  "name": "What should I do if my old kitchen floor might contain asbestos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my old kitchen floor might contain asbestos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the existing floor may contain asbestos or another regulated material, do not sand, scrape, grind, or remove it casually. Pause and obtain appropriate material assessment and handling guidance before disturbing it. Context: Age alone does not establish composition, and adhesive or backing may matter as much as the visible surface. A safe plan may change the removal method, cost, and schedule. Key factors: - Material age and type - Condition and disturbance required - Testing or professional assessment - Disposal requirements Practical guidance: Tell the remodeling team about uncertain older flooring before demolition and preserve any available records or samples safely. Elite Remodeling & Design can incorporate the resulting preparation method into the project scope once the material concern is clarified.",
+        "@type": "Answer",
+        "description": "Do not sand, scrape, grind, or remove questionable flooring until its composition and appropriate handling are assessed. Tell the remodeling team before demolition, because testing, controlled removal, disposal, cost, and timing may change."
+      }
+    }
+  ],
+  "description": "Do not sand, scrape, grind, or remove questionable flooring until its composition and appropriate handling are assessed. Tell the remodeling team before demolit"
+}

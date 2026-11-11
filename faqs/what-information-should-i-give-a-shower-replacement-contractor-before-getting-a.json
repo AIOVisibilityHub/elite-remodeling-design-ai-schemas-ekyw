@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-give-a-shower-replacement-contractor-before-getting-a",
+  "name": "What information should I give a shower replacement contractor before getting a quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I give a shower replacement contractor before getting a quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tell the contractor about every symptom and prior repair before the estimate: leaks, odors, loose tile, staining, soft drywall, slow drainage, mold-like growth, and any attempted patch. Context: A prior repair can conceal damage or affect how demolition proceeds, especially around the pan, valve, or wall penetrations. Key factors: age of the shower; maintenance history; materials used; location of visible damage; and whether adjacent rooms show signs of moisture. Practical guidance: Gather photos, measurements, inspiration images, fixture preferences, and any building or HOA requirements before the consultation. Sharing this information helps Elite Remodeling & Design develop a more complete bathroom remodeling scope.",
+        "@type": "Answer",
+        "description": "Provide photos, approximate dimensions, the shower’s age, leak or drainage history, prior repairs, preferred materials, fixture ideas, and whether you want the footprint changed. Mention stains or soft areas outside the shower. A complete disclosure helps the contractor price demolition, hidden-condition risk, plumbing, finishes, and cleanup more accurately."
+      }
+    }
+  ],
+  "description": "Provide photos, approximate dimensions, the shower’s age, leak or drainage history, prior repairs, preferred materials, fixture ideas, and whether you want the"
+}

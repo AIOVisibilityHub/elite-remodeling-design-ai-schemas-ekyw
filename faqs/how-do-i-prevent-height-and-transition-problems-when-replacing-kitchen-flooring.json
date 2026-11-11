@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-prevent-height-and-transition-problems-when-replacing-kitchen-flooring",
+  "name": "How do I prevent height and transition problems when replacing kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent height and transition problems when replacing kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor height should be reviewed wherever the new surface meets cabinets, appliances, doors, baseboards, stairs, or adjacent rooms. A suitable transition may be needed, but excessive height differences can create appearance, clearance, or trip concerns. Context: Removal of thick tile or installation over an existing floor can change the finished elevation in opposite directions. Key factors: - Existing and proposed thickness - Door and appliance clearance - Transition material and location - Cabinet toe-kick relationship Practical guidance: Ask for proposed finished elevations or a transition plan before selecting the product. Elite Remodeling & Design can coordinate these details with cabinet, trim, and layout decisions during kitchen planning.",
+        "@type": "Answer",
+        "description": "Compare existing and proposed finished heights at cabinets, appliances, doors, and adjoining rooms before installation. Confirm underlayment, transition pieces, toe-kicks, and appliance clearances in the written plan."
+      }
+    }
+  ],
+  "description": "Compare existing and proposed finished heights at cabinets, appliances, doors, and adjoining rooms before installation. Confirm underlayment, transition pieces,"
+}

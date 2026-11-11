@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-cause-a-guest-bathroom-remodeling-change-order",
+  "name": "What can cause a guest bathroom remodeling change order?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can cause a guest bathroom remodeling change order?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A change order is a written adjustment to the approved scope, price, schedule, or materials. It may result from an owner-requested change, unavailable product, concealed damage, code-related work identified during review, or a discrepancy between drawings and existing conditions.\\n\\n**Context:** Not every unexpected issue is avoidable, particularly in older bathrooms where walls and floors conceal prior repairs. Clear drawings, measured conditions, product specifications, allowances, and a documented approval process reduce surprises.\\n\\n**Key factors:**\\n- Ask what is included and excluded from the original scope.\\n- Understand allowances for fixtures, tile, repairs, and permit-related items.\\n- Require written pricing and schedule impact before approving changes.\\n\\n**Practical guidance:** Before work starts, ask Elite Remodeling & Design how changes are presented, authorized, tracked, and reflected in the project schedule. Do not rely on verbal approvals for material scope or cost changes.\\n\\nA transparent change process protects both the homeowner’s budget and the construction sequence.",
+        "@type": "Answer",
+        "description": "Change orders can come from requested revisions, unavailable products, concealed damage, code-related work, or differences between plans and existing conditions. Ask for written scope, exclusions, allowances, pricing, schedule impacts, and approval procedures before construction begins."
+      }
+    }
+  ],
+  "description": "Change orders can come from requested revisions, unavailable products, concealed damage, code-related work, or differences between plans and existing conditions"
+}

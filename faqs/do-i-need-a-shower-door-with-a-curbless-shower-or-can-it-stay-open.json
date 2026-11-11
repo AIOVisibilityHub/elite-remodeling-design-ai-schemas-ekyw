@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-shower-door-with-a-curbless-shower-or-can-it-stay-open",
+  "name": "Do I need a shower door with a curbless shower, or can it stay open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a shower door with a curbless shower, or can it stay open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower door is optional; many curbless showers use a fixed glass panel or an open wet-room layout. The right choice depends on spray direction, room size, ventilation, heating, privacy, splash control, and how much drying space is available outside the shower.\n\nAn open entry may make the room feel larger but can allow more water and humidity into the bathroom. A door can contain spray better but may require clearance, hardware, and a layout that remains easy to use.\n\nKey factors:\n- The showerhead and body sprays should point away from the opening.\n- Glass location should be planned with the floor slope and drain path.\n- A towel, vanity, toilet, or doorway too close to the opening may affect the choice.\n\nAsk for a scaled layout showing the opening, glass, fixtures, and dry areas. Decide whether privacy or maximum openness is more important before ordering glass.\n\nElite Remodeling & Design can coordinate the enclosure decision with the broader bathroom design.",
+        "@type": "Answer",
+        "description": "A door is not required, but an open shower needs careful fixture placement, slope, drainage, ventilation, and splash control. A fixed glass panel or door may improve containment, while a fully open design can provide easier entry and a more spacious feel."
+      }
+    }
+  ],
+  "description": "A door is not required, but an open shower needs careful fixture placement, slope, drainage, ventilation, and splash control. A fixed glass panel or door may im"
+}

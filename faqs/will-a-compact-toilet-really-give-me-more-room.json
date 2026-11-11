@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-a-compact-toilet-really-give-me-more-room",
+  "name": "Will a compact toilet really give me more room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a compact toilet really give me more room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A compact toilet can help, but its dimensions alone do not determine whether the room feels comfortable. Rough-in location, bowl projection, tank or carrier design, side clearances, door swing, and the relationship to the vanity and shower all matter.\n\nElite Remodeling & Design can test fixture proportions in a coordinated layout before products are purchased. Replacing the toilet without checking the rough-in and surrounding clearances can create an awkward or unusable arrangement.\n\nKey factors:\n- Existing rough-in measurement\n- Bowl projection\n- Side and front clearances\n- Supply, shutoff, and access location\n\nMeasure from the finished wall—not only the current base—and verify the manufacturer’s installation dimensions. Ask for the selected model to appear in the design rather than approving a generic toilet symbol.",
+        "@type": "Answer",
+        "description": "A compact toilet can reduce projection, but the actual improvement depends on rough-in location, side and front clearances, door swing, vanity depth, and shower placement. Verify the manufacturer’s dimensions from finished surfaces before ordering."
+      }
+    }
+  ],
+  "description": "A compact toilet can reduce projection, but the actual improvement depends on rough-in location, side and front clearances, door swing, vanity depth, and shower"
+}

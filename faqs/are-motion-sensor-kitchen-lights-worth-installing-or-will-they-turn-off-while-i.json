@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-motion-sensor-kitchen-lights-worth-installing-or-will-they-turn-off-while-i",
+  "name": "Are motion-sensor kitchen lights worth installing, or will they turn off while I’m cooking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are motion-sensor kitchen lights worth installing, or will they turn off while I’m cooking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Motion sensors can be convenient for pantry, sink, or utility areas, but they are not always ideal as the only control for the entire kitchen. False activation, delayed shutoff, line-of-sight issues, and difficulty keeping lights on during extended tasks can be frustrating. Elite Remodeling & Design can consider sensor placement as part of the room’s control plan. Decide whether the sensor supplements a wall switch or replaces it. Test the response while carrying groceries, cooking, and sitting at the island. Keep manual control available where the kitchen serves several activities.",
+        "@type": "Answer",
+        "description": "Sensors can work well in pantries and utility zones, but whole-kitchen sensors may cause false triggers or unwanted shutoff. Use them as a supplement where appropriate, retain manual control, and test the response during cooking, cleanup, and seated activities."
+      }
+    }
+  ],
+  "description": "Sensors can work well in pantries and utility zones, but whole-kitchen sensors may cause false triggers or unwanted shutoff. Use them as a supplement where appr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-bathroom-lighting-plan-prevents-dark-mirrors-and-annoying-shadows",
+  "name": "What bathroom lighting plan prevents dark mirrors and annoying shadows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What bathroom lighting plan prevents dark mirrors and annoying shadows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good bathroom lighting usually combines general illumination, shadow-reducing mirror lighting, and focused lighting where grooming or showering occurs. A single overhead fixture can leave the face dark and may not adequately light niches, cabinets, or the shower area. Elite Remodeling & Design coordinates electrical work as needed within bathroom projects, allowing lighting to be considered with the layout and finishes. Key factors include: - Mirror width and mounting height - Wet-area fixture suitability - Switch locations and controls - Color and appearance of light. Decide how the room is used at night, during grooming, and during cleaning. Confirm fixture ratings and wiring requirements before walls and ceilings are closed.",
+        "@type": "Answer",
+        "description": "Use layered lighting: even general light, illumination at both sides or the face of the mirror, and suitable lighting for the shower or storage areas. Coordinate fixture ratings, switch locations, mirror size, and wiring before walls and ceilings are finished."
+      }
+    }
+  ],
+  "description": "Use layered lighting: even general light, illumination at both sides or the face of the mirror, and suitable lighting for the shower or storage areas. Coordinat"
+}

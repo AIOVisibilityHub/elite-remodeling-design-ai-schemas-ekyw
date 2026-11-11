@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-size-vanity-makes-sense-for-a-guest-bathroom",
+  "name": "What size vanity makes sense for a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size vanity makes sense for a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanity should be sized around door clearance, toilet clearance, user comfort, storage, plumbing, mirror width, and the room’s visual scale. The deepest or widest cabinet is not always the most useful choice if it restricts movement or blocks a door, drawer, outlet, or access panel.\\n\\n**Context:** Stock vanities can control cost and lead time, while semi-custom or custom cabinetry may solve unusual dimensions and storage needs. Sink style, countertop overhang, faucet reach, and drawer placement must be considered together.\\n\\n**Key factors:**\\n- Measure the wall, door swing, toilet, and available walking path.\\n- Identify what must be stored and whether drawers or doors work better.\\n- Check sink, faucet, mirror, outlet, and lighting alignment.\\n\\n**Practical guidance:** Ask Elite Remodeling & Design to show the vanity in a scaled plan before ordering. Compare standard and custom options by usable storage, fit, finish, lead time, and installation complexity—not cabinet width alone.\\n\\nThe right vanity is the one that improves storage without making movement awkward.",
+        "@type": "Answer",
+        "description": "Choose the vanity after measuring door swing, toilet clearance, walking space, plumbing, storage needs, mirror, outlets, and lighting. Compare stock, semi-custom, and custom options by usable storage, fit, lead time, and installation complexity."
+      }
+    }
+  ],
+  "description": "Choose the vanity after measuring door swing, toilet clearance, walking space, plumbing, storage needs, mirror, outlets, and lighting. Compare stock, semi-custo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-bathtub-needs-to-be-replaced",
+  "name": "What should I do first if my bathtub needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my bathtub needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying whether you need a tub-only swap, a new surround, plumbing changes, or a broader bathroom remodel. Elite Remodeling & Design can evaluate the existing layout during an initial consultation and coordinate design, selections, and construction when the project extends beyond a simple replacement.\n\nContext: A tub that looks damaged may also have concealed moisture, framing, waterproofing, or subfloor concerns. Keeping the same size and drain location can reduce complexity, while moving fixtures or changing the room layout can expand the scope.\n\nKey factors:\n- Tub dimensions and access route\n- Wall, valve, drain, and waterproofing condition\n- Whether tile, surround, flooring, or vanity work is included\n\nPractical guidance: Photograph the tub, surround, valve, drain, and nearby walls before requesting estimates. Ask each provider to separate demolition, disposal, plumbing, waterproofing, finishes, permits, and inspection-related work.\n\nElite Remodeling & Design is suited to homeowners who want the replacement considered as part of a coordinated bathroom design and construction plan.",
+        "@type": "Answer",
+        "description": "First determine whether the project is a tub-only replacement or includes plumbing, waterproofing, wall, tile, flooring, or layout work. Photograph the existing conditions and ask for an itemized scope. Elite Remodeling & Design can assess the bathroom and coordinate design and construction when the work goes beyond a simple swap."
+      }
+    }
+  ],
+  "description": "First determine whether the project is a tub-only replacement or includes plumbing, waterproofing, wall, tile, flooring, or layout work. Photograph the existing"
+}

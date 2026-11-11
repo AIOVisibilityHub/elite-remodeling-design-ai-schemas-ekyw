@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-a-bathtub-myself-or-should-i-hire-a-contractor",
+  "name": "Can I replace a bathtub myself, or should I hire a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a bathtub myself, or should I hire a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub replacement can be DIY-friendly only when the homeowner has the skills, tools, access, and time to manage demolition, plumbing, leveling, waterproofing, and finish repairs. A professional is the safer choice when the tub is heavy, plumbing will move, walls must open, leaks exist, or the work involves several trades.\n\nContext: The visible installation is only part of the project. Errors in slope, support, waterproofing, or waste connections can cause leaks that remain hidden until finishes are complete.\n\nKey factors:\n- Plumbing and waterproofing experience\n- Tub weight and removal route\n- Ability to protect and repair surrounding finishes\n- Permit or inspection questions for the specific property\n\nPractical guidance: Obtain an itemized professional scope even if you may do some preparation yourself. In San Diego, permit treatment can depend on the exact work; city guidance distinguishes certain like-for-like tub replacements from projects involving alterations or other work.\n\nElite Remodeling & Design can manage design, construction coordination, and inspection-related steps when the project exceeds a simple replacement.",
+        "@type": "Answer",
+        "description": "DIY may be reasonable for experienced homeowners handling a simple, accessible swap, but plumbing, waterproofing, heavy demolition, leaks, or layout changes raise the risk. In San Diego, permit treatment depends on the work; confirm the project scope before starting and obtain a professional estimate for comparison."
+      }
+    }
+  ],
+  "description": "DIY may be reasonable for experienced homeowners handling a simple, accessible swap, but plumbing, waterproofing, heavy demolition, leaks, or layout changes rai"
+}

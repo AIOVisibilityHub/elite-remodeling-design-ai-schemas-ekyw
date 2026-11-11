@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-compare-primary-bathroom-remodeling-bids-when-every-contractor-gives-m",
+  "name": "How can I compare primary bathroom remodeling bids when every contractor gives me a different number?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I compare primary bathroom remodeling bids when every contractor gives me a different number?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contractor estimate is useful only when the scope behind it is clear. Compare demolition, disposal, design, permit coordination, rough plumbing, electrical, waterproofing, tile preparation, cabinetry, glass, fixtures, inspections, cleanup, allowances, and change-order terms. Context: design-build proposals may combine planning and construction, while other bids may separate them, making totals appear artificially different. Key factors: inclusions, exclusions, allowances, schedule assumptions, material availability, warranty language, and who coordinates inspections. Practical guidance: give each company the same plans and finish expectations, then ask each to identify unknowns. Request references for comparable primary bathrooms and ask how concealed damage is handled. Elite Remodeling & Design’s coordinated design and construction model can be evaluated by reviewing the complete scope rather than a headline price.",
+        "@type": "Answer",
+        "description": "Compare identical scopes, not totals. Check design, demolition, permits, rough work, waterproofing, tile prep, cabinetry, glass, fixtures, inspections, cleanup, allowances, exclusions, and change-order terms. Give every bidder the same plans and finish expectations before comparing prices."
+      }
+    }
+  ],
+  "description": "Compare identical scopes, not totals. Check design, demolition, permits, rough work, waterproofing, tile prep, cabinetry, glass, fixtures, inspections, cleanup,"
+}

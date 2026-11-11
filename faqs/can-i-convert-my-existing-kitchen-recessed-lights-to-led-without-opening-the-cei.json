@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-convert-my-existing-kitchen-recessed-lights-to-led-without-opening-the-cei",
+  "name": "Can I convert my existing kitchen recessed lights to LED without opening the ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing kitchen recessed lights to LED without opening the ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Existing recessed housings may accept retrofit LED trims, but compatibility depends on the housing type, dimensions, socket, insulation rating, wiring condition, and product listing. A retrofit can reduce construction compared with relocating fixtures, but it will not correct poor placement or an unsuitable housing. Elite Remodeling & Design can determine whether the existing setup supports the desired light quality and control scheme during an assessment. Record the housing brand and model if visible, and photograph the trim and ceiling opening. Ask whether the proposed retrofit is rated for the location and compatible with the planned dimmer. If the housing is damaged or the layout is wrong, replacement or relocation may provide a better result.",
+        "@type": "Answer",
+        "description": "Often, but not every housing accepts every LED retrofit. Check housing size, socket, insulation rating, wiring condition, dimmer compatibility, and the fixture’s listing. A retrofit changes the light source but may not fix poor placement, glare, or an unsuitable existing housing."
+      }
+    }
+  ],
+  "description": "Often, but not every housing accepts every LED retrofit. Check housing size, socket, insulation rating, wiring condition, dimmer compatibility, and the fixture’"
+}

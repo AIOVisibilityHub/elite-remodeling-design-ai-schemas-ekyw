@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-curbless-shower-always-better-than-a-low-threshold-walk-in-shower",
+  "name": "Is a curbless shower always better than a low-threshold walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a curbless shower always better than a low-threshold walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can be made safer, but it still requires careful control of water, slope, glass, lighting, and floor traction. The correct choice depends on mobility needs, available floor depth, drain placement, and whether the surrounding bathroom floor can be integrated into the design.\n\nA small threshold can sometimes provide better splash control and simplify construction while still improving access.\n\nKey factors:\n- Wheelchair or walker clearance\n- Floor slope and drain capacity\n- Glass-panel placement and splash direction\n- Slip-resistant flooring and reachable controls\n\nDiscuss who will use the shower, whether assistance is needed, and where a seat or grab bars should go before materials are ordered. Have the finished entry and control heights shown on the plan.\n\nElite Remodeling & Design can incorporate accessibility goals during bathroom design rather than after construction.",
+        "@type": "Answer",
+        "description": "No. Curbless showers can improve access, but they need enough floor depth, accurate slope, effective drainage, and good splash control. A low threshold may offer a practical balance. Choose based on the user’s mobility, bathroom layout, and waterproofing plan."
+      }
+    }
+  ],
+  "description": "No. Curbless showers can improve access, but they need enough floor depth, accurate slope, effective drainage, and good splash control. A low threshold may offe"
+}

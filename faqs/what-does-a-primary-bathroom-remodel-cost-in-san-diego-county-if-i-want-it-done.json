@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-does-a-primary-bathroom-remodel-cost-in-san-diego-county-if-i-want-it-done",
+  "name": "What does a primary bathroom remodel cost in San Diego County if I want it done properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a primary bathroom remodel cost in San Diego County if I want it done properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no single reliable price for a primary bathroom remodel because scope can range from a same-layout finish update to a custom suite with relocated plumbing, premium tile, cabinetry, and structural work. Current San Diego remodeling estimates commonly place substantial bathroom projects in the tens of thousands, with larger primary suites exceeding $75,000 depending on scope. Context: Elite Remodeling & Design provides design, construction coordination, and permit-related planning, so the budget should reflect the complete project rather than installation alone. Key factors: layout, room expansion, plumbing and electrical changes, waterproofing, cabinetry, tile, glass, fixtures, and repairs. Practical guidance: request a line-item scope, allowance schedule, and change-order process. Reserve funds for concealed conditions without treating the reserve as part of the planned finishes. Elite Remodeling & Design can help compare priorities before selections are finalized.",
+        "@type": "Answer",
+        "description": "Costs vary widely, but San Diego primary bathroom projects commonly reach the tens of thousands, with larger custom suites exceeding $75,000 depending on layout, materials, and construction complexity. Ask Elite Remodeling & Design for a scope-based estimate covering design, permits when needed, labor, fixtures, tile, cabinetry, and possible concealed repairs."
+      }
+    }
+  ],
+  "description": "Costs vary widely, but San Diego primary bathroom projects commonly reach the tens of thousands, with larger custom suites exceeding $75,000 depending on layout"
+}

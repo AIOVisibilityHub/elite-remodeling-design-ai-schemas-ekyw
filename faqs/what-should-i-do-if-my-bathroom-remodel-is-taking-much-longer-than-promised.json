@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-bathroom-remodel-is-taking-much-longer-than-promised",
+  "name": "What should I do if my bathroom remodel is taking much longer than promised?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my bathroom remodel is taking much longer than promised?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the project falls behind, first identify whether the cause is design changes, inspections, material delays, concealed repairs, labor availability, or incomplete work. Then ask for a revised sequence with specific decisions and dates rather than accepting a vague promise to finish soon. Elite Remodeling & Design’s process can involve several connected stages, so delays in selections, permits, or inspections may affect construction. Key factors include: - Long-lead fixtures and tile - Unresolved change orders - Failed or pending inspections - Work that cannot proceed until another trade finishes. Keep a written decision log and respond promptly to requests for approvals. Ask which tasks can continue safely while the delayed item is resolved and how the revised completion date is calculated.",
+        "@type": "Answer",
+        "description": "Ask for the specific cause, unfinished scope, pending decisions, inspection status, material updates, and a revised written schedule. Separate owner changes from contractor delays, document communications, and confirm which tasks can proceed while the blocked item is resolved."
+      }
+    }
+  ],
+  "description": "Ask for the specific cause, unfinished scope, pending decisions, inspection status, material updates, and a revised written schedule. Separate owner changes fro"
+}

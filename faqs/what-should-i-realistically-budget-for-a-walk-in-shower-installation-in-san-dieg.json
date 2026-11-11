@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-realistically-budget-for-a-walk-in-shower-installation-in-san-dieg",
+  "name": "What should I realistically budget for a walk-in shower installation in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I realistically budget for a walk-in shower installation in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in shower pricing varies widely because the total includes more than the shower enclosure. The biggest drivers are demolition, plumbing changes, pan and waterproofing, tile, glass, fixtures, accessibility features, permits, and repairs discovered behind the walls. Elite Remodeling & Design can develop a project-specific scope rather than treating every bathroom as identical.\n\nA low advertised price may exclude removal, disposal, waterproofing, finish materials, or required repairs.\n\nKey factors:\n- Same-location versus relocated drain and valve\n- Tile, glass, and fixture selections\n- Bench, grab bars, niches, and handheld sprays\n- Electrical, ventilation, and permit work\n\nRequest an itemized proposal with allowances, exclusions, change-order terms, and payment milestones. Compare complete scopes, not just the headline total.\n\nAn accurate scope is more useful than a generic square-foot estimate.",
+        "@type": "Answer",
+        "description": "There is no reliable single price. Cost changes with demolition, plumbing, waterproofing, tile, glass, fixtures, accessibility features, permits, and concealed repairs. Request an itemized scope showing allowances and exclusions, then compare complete proposals rather than headline prices."
+      }
+    }
+  ],
+  "description": "There is no reliable single price. Cost changes with demolition, plumbing, waterproofing, tile, glass, fixtures, accessibility features, permits, and concealed"
+}

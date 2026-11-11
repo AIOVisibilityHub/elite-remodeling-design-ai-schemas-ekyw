@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-convert-the-tub-if-there-is-a-window-in-the-shower-wall",
+  "name": "Can I convert the tub if there is a window in the shower wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert the tub if there is a window in the shower wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window near the tub does not automatically prevent conversion, but it must be considered for water exposure, privacy, trim, sill slope, ventilation, and waterproofing. Existing trim may need replacement or careful integration with the shower wall system.\\n\\nKey factors:\\n- Determine whether the window will be inside the wet area.\\n- Use materials and detailing suitable for repeated moisture exposure.\\n- Plan privacy without blocking ventilation or natural light unnecessarily.\\n- Coordinate wall, sill, trim, and waterproofing transitions.\\n\\nShow Elite Remodeling & Design clear photos of the window and surrounding wall before design approval. A site review can determine whether the opening changes the enclosure or finish approach.",
+        "@type": "Answer",
+        "description": "Usually, but the window’s location, trim, sill, privacy, and waterproofing must be addressed. If it sits inside the wet area, use moisture-appropriate detailing and coordinate the window transition with the complete shower wall system."
+      }
+    }
+  ],
+  "description": "Usually, but the window’s location, trim, sill, privacy, and waterproofing must be addressed. If it sits inside the wet area, use moisture-appropriate detailing"
+}

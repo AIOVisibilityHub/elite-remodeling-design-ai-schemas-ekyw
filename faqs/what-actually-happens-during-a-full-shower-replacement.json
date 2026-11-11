@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-full-shower-replacement",
+  "name": "What actually happens during a full shower replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a full shower replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most shower replacements follow a sequence: confirm the layout, select the pan or base, walls, fixtures, door, and finishes, then plan demolition, plumbing, waterproofing, installation, and final connections. Context: Elite Remodeling & Design describes a coordinated process that can include consultation, design development, 3D visualization, material selections, permit coordination, construction, and final inspection. Key factors: whether the footprint stays the same; whether plumbing moves; tile versus a manufactured surround; custom glass; and concealed damage. Practical guidance: Request a written scope showing what happens before demolition, who supplies materials, how access and dust are managed, and what inspection or closeout steps apply. Confirm selections early because a late change to the valve, niche, pan, or tile pattern can affect both sequence and cost.",
+        "@type": "Answer",
+        "description": "A full replacement typically includes design and measurements, material selection, demolition, plumbing work if needed, substrate preparation, waterproofing, wall and floor installation, fixtures, glass or a door, sealing, and cleanup. The exact sequence depends on the existing layout and what demolition reveals."
+      }
+    }
+  ],
+  "description": "A full replacement typically includes design and measurements, material selection, demolition, plumbing work if needed, substrate preparation, waterproofing, wa"
+}

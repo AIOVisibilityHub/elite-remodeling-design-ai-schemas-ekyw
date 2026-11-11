@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-make-a-small-guest-bathroom-look-and-function-bigger",
+  "name": "How can I make a small guest bathroom look and function bigger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small guest bathroom look and function bigger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small guest bathroom feels larger when the plan protects clear floor area, uses appropriately scaled fixtures, and improves light and storage without adding visual clutter. A wall-hung or narrow vanity, recessed medicine cabinet, clear shower enclosure, large-format tile, and consistent finish palette may help, depending on the room’s construction.\\n\\n**Context:** Larger tile can reduce grout lines but may require careful layout and substrate preparation. A pocket door can free swing space, but converting the wall may involve framing, electrical, or plumbing conflicts.\\n\\n**Key factors:**\\n- Measure the door swing and usable clearance around the toilet and vanity.\\n- Plan storage vertically or in recessed locations where feasible.\\n- Test lighting at the mirror, ceiling, and shower—not just one central fixture.\\n\\n**Practical guidance:** Ask for a scaled layout and 3D visualization before approving products. Elite Remodeling & Design can compare space-saving fixtures with the existing wall and utility conditions.\\n\\nPerceived size improves when circulation and sightlines are planned together.",
+        "@type": "Answer",
+        "description": "Protect clear floor space with a scaled layout, appropriately sized fixtures, efficient storage, strong mirror lighting, and a visually consistent finish palette. Consider a narrow vanity, recessed storage, or clear enclosure only after checking wall, framing, plumbing, and electrical constraints."
+      }
+    }
+  ],
+  "description": "Protect clear floor space with a scaled layout, appropriately sized fixtures, efficient storage, strong mirror lighting, and a visually consistent finish palett"
+}

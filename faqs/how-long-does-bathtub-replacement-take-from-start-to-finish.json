@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-bathtub-replacement-take-from-start-to-finish",
+  "name": "How long does bathtub replacement take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathtub replacement take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward replacement may be completed quickly, but the actual schedule depends on demolition findings, material availability, plumbing, waterproofing, inspections, and finish work. A tub replacement that becomes part of a designed bathroom remodel generally takes longer than a direct unit swap.\n\nContext: Elite Remodeling & Design describes a process that can include consultation, design development, material selection, permitting, construction, and final inspection. Each added decision or trade can affect the start and completion dates.\n\nKey factors:\n- Whether the replacement keeps the current layout\n- Availability of the selected tub and surround\n- Inspection or permit requirements\n- Hidden moisture or structural repairs\n\nPractical guidance: Before scheduling, confirm product lead times, demolition dates, water shutoff expectations, daily cleanup, and what must be complete before the bathroom can be used. Build flexibility into the plan if the existing tub is leaking or the room is the household’s only bathroom.\n\nA coordinated design-build plan can reduce handoff delays between design, plumbing, finishes, and construction.",
+        "@type": "Answer",
+        "description": "A simple replacement may be relatively quick, but the schedule can expand if demolition reveals damage or if plumbing, waterproofing, tile, permits, or inspections are involved. Confirm product lead times, water shutoff periods, cleanup, and bathroom availability before setting a firm completion date."
+      }
+    }
+  ],
+  "description": "A simple replacement may be relatively quick, but the schedule can expand if demolition reveals damage or if plumbing, waterproofing, tile, permits, or inspecti"
+}

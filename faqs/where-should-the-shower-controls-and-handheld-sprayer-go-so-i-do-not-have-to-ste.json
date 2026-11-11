@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-the-shower-controls-and-handheld-sprayer-go-so-i-do-not-have-to-ste",
+  "name": "Where should the shower controls and handheld sprayer go so I do not have to step into cold water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should the shower controls and handheld sprayer go so I do not have to step into cold water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A handheld showerhead is often useful for seated bathing, cleaning, and assisting another person, but its position should be reachable without stepping into the spray. A pressure-balancing or thermostatic control may also be appropriate depending on the system and applicable requirements. Local bathroom guidance identifies scald-protection valve types and control placement as important considerations.\n\nThe final location must account for the user, seat, glass, and existing supply lines.\n\nKey factors:\n- Control reach from the entry and seat\n- Hose length and holder height\n- Fixed showerhead direction\n- Valve compatibility and water pressure\n\nList who will use the shower and whether seated operation matters before rough plumbing. Ask for control and spray locations on the plan, not just in a product list.\n\nEarly fixture planning helps avoid inaccessible controls after tile is complete.",
+        "@type": "Answer",
+        "description": "Place controls where they can be reached from outside or near the entry, and position the handheld spray for seated or standing use. The exact locations depend on the seat, glass, existing plumbing, and user needs. Show them on the rough-plumbing plan."
+      }
+    }
+  ],
+  "description": "Place controls where they can be reached from outside or near the entry, and position the handheld spray for seated or standing use. The exact locations depend"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-full-primary-bathroom-remodel",
+  "name": "What actually happens during a full primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a full primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom remodel can involve design, selections, permit coordination, demolition, plumbing and electrical work, installation, inspections, and a final walkthrough. The order matters: unresolved selections or unavailable tile and vanities can delay construction after demolition starts. Context: Elite Remodeling & Design describes a process that runs from consultation and design development through permitting, construction, and final inspection. Key factors: layout changes, custom materials, inspection requirements, concealed conditions, and decision speed. Practical guidance: approve the scope and selections before demolition, confirm who coordinates permits, and ask how changes are priced. Keep a written decision log for fixtures, tile patterns, lighting, and hardware. A coordinated design-build process can reduce handoff confusion between planning and field work.",
+        "@type": "Answer",
+        "description": "The usual sequence is consultation, layout and design, material selections, permit coordination when needed, demolition, rough plumbing and electrical, waterproofing, tile and cabinetry, fixtures, inspections, and final completion. Elite Remodeling & Design connects these stages so design decisions are carried into construction."
+      }
+    }
+  ],
+  "description": "The usual sequence is consultation, layout and design, material selections, permit coordination when needed, demolition, rough plumbing and electrical, waterpro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-the-contractor-finds-rotten-wood-or-old-plumbing-behind-my-tub",
+  "name": "What if the contractor finds rotten wood or old plumbing behind my tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the contractor finds rotten wood or old plumbing behind my tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected damage is common enough that the contract should explain how it will be handled. After demolition, the team may find deteriorated framing, subfloor damage, corroded plumbing, mold-like growth, or an unsuitable drain location. Elite Remodeling & Design can identify scope assumptions and coordinate repairs as part of the remodeling process, but concealed conditions cannot be priced accurately before exposure.\n\nThe project should not cover damaged areas with new tile without determining the cause and condition.\n\nKey factors:\n- What demolition is included\n- Who documents concealed conditions\n- Unit prices or approval process for repairs\n- Whether schedule changes are explained in writing\n\nAsk for photographs, a written description, and a revised price before approving added work. Keep a contingency for genuine unknowns rather than treating every change as optional.\n\nClear change procedures reduce surprises during a bathroom conversion.",
+        "@type": "Answer",
+        "description": "Stop and document the condition before covering it. Ask for photographs, the cause, repair scope, added cost, and schedule impact in writing. A sound installation should correct structural or plumbing problems before the pan, waterproofing, and finishes conceal the area."
+      }
+    }
+  ],
+  "description": "Stop and document the condition before covering it. Ask for photographs, the cause, repair scope, added cost, and schedule impact in writing. A sound installati"
+}

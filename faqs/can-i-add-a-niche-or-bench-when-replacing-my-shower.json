@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-niche-or-bench-when-replacing-my-shower",
+  "name": "Can I add a niche or bench when replacing my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a niche or bench when replacing my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche or bench should be planned before demolition is complete because it affects stud locations, framing, waterproofing, tile layout, and sometimes plumbing clearances. Context: Adding one late can force awkward cuts, reduce storage, or require opening finished work. Key factors: bottle heights; user reach; bench depth; valve and pipe locations; wall width; and cleaning access. Practical guidance: Bring the products you actually use or record their dimensions, then decide whether recessed storage, corner shelving, or a surface-mounted option fits best. Elite Remodeling & Design can include storage and seating in the layout and 3D design stage.",
+        "@type": "Answer",
+        "description": "Yes, but decide early. A niche or bench affects framing, waterproofing, plumbing clearances, tile layout, and available wall space. Measure your bottles, consider reach and cleaning, and confirm the preferred height and location before the waterproofing and wall system are installed."
+      }
+    }
+  ],
+  "description": "Yes, but decide early. A niche or bench affects framing, waterproofing, plumbing clearances, tile layout, and available wall space. Measure your bottles, consid"
+}

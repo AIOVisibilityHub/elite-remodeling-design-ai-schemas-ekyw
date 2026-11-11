@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-install-a-walk-in-shower-myself-or-hire-a-remodeling-company",
+  "name": "Should I install a walk-in shower myself or hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install a walk-in shower myself or hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional installation is usually preferable when the project changes plumbing, removes a tub, alters walls, requires waterproofing, or involves permits and inspections. DIY may be reasonable for limited cosmetic work, but a failed shower pan or poorly sealed transition can cause concealed damage. Elite Remodeling & Design coordinates bathroom design and construction, including plumbing and electrical work as needed.\n\nWaterproofing is difficult to verify after tile conceals the assembly.\n\nKey factors:\n- Experience with shower pans and waterproofing systems\n- Ability to coordinate licensed trade work where required\n- Documentation of rough and final inspections\n- Clear responsibility for defects or leaks\n\nAsk who installs the pan, how seams and penetrations are treated, and whether the system is tested before tile. Avoid choosing solely on labor price.\n\nProfessional coordination can reduce the risk of incompatible work between separate trades.",
+        "@type": "Answer",
+        "description": "DIY may suit cosmetic updates, but tub removal, plumbing changes, waterproofing, tile, and inspections create more risk. Ask any contractor who handles the pan, testing, trade coordination, and concealed repairs. Compare documented process and scope—not just labor cost."
+      }
+    }
+  ],
+  "description": "DIY may suit cosmetic updates, but tub removal, plumbing changes, waterproofing, tile, and inspections create more risk. Ask any contractor who handles the pan,"
+}

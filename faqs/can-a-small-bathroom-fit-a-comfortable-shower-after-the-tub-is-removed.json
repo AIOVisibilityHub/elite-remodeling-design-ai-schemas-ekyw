@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-small-bathroom-fit-a-comfortable-shower-after-the-tub-is-removed",
+  "name": "Can a small bathroom fit a comfortable shower after the tub is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small bathroom fit a comfortable shower after the tub is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower can usually be designed around a smaller footprint, but the layout must preserve comfortable entry, door or curtain clearance, fixture access, drainage, and usable standing space. Reducing the footprint too far can make daily use difficult even if the product technically fits.\\n\\nKey factors:\\n- Measure the finished interior, not only the rough opening.\\n- Account for wall thickness, curb, glass, shelves, and control reach.\\n- Consider a corner layout or sliding door where swing clearance is limited.\\n- Test the intended arrangement with a scaled drawing or design visualization.\\n\\nElite Remodeling & Design can develop layout options based on the existing room and intended users. Compare function before committing to a smaller base or enclosure.",
+        "@type": "Answer",
+        "description": "Often, but comfort depends on finished dimensions, entry clearance, wall thickness, door type, control reach, drainage, and storage. Use a scaled layout or design visualization to compare options before ordering a base or enclosure."
+      }
+    }
+  ],
+  "description": "Often, but comfort depends on finished dimensions, entry clearance, wall thickness, door type, control reach, drainage, and storage. Use a scaled layout or desi"
+}

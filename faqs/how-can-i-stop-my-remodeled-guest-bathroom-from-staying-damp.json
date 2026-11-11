@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-stop-my-remodeled-guest-bathroom-from-staying-damp",
+  "name": "How can I stop my remodeled guest bathroom from staying damp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I stop my remodeled guest bathroom from staying damp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom exhaust fan should be evaluated as part of the remodel, especially when the room has condensation, odors, peeling finishes, or no effective air movement. The right solution depends on the room, existing duct path, exterior termination, electrical conditions, and local requirements.\\n\\n**Context:** A window does not necessarily solve moisture control, and an exhaust fan that simply discharges into an attic can create another problem. Fan noise, switch placement, timer controls, and replacement access also affect the design.\\n\\n**Key factors:**\\n- Inspect the existing fan, ducting, termination, and switch.\\n- Coordinate ceiling access with lighting and framing.\\n- Confirm the electrical plan and any required inspection points.\\n\\n**Practical guidance:** Ask Elite Remodeling & Design to include ventilation in the initial scope instead of treating it as a last-minute accessory. Pair the fan plan with shower waterproofing, paint, trim, and maintenance decisions.\\n\\nGood moisture control protects both the new finishes and the room’s long-term usability.",
+        "@type": "Answer",
+        "description": "Evaluate the exhaust fan, duct route, exterior termination, switch controls, window, and moisture sources before selecting finishes. A fan that vents poorly may not solve condensation. Include ventilation in the electrical and design plan, along with waterproofing and moisture-resistant finish decisions."
+      }
+    }
+  ],
+  "description": "Evaluate the exhaust fan, duct route, exterior termination, switch controls, window, and moisture sources before selecting finishes. A fan that vents poorly may"
+}

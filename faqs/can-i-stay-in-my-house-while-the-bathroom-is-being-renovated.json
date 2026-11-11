@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-while-the-bathroom-is-being-renovated",
+  "name": "Can I stay in my house while the bathroom is being renovated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the bathroom is being renovated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can ask for a bathroom remodel while keeping the home occupied, but the project needs a clear plan for dust, noise, access, water shutoffs, material storage, and daily cleanup. Demolition and rough work are usually more disruptive than finish installation, especially when the home has only one bathroom. Elite Remodeling & Design coordinates residential projects, so discuss site logistics during planning rather than after demolition starts. Key factors include: - A usable alternate bathroom - Protected paths through the home - Work hours and communication - Temporary loss of water or power. Remove toiletries and fragile items before work begins and keep pets and children away from the work zone. Agree on cleanup, lock-up, deliveries, and emergency contact procedures in writing.",
+        "@type": "Answer",
+        "description": "Often, yes, but expect dust, noise, deliveries, temporary water or power interruptions, and periods without that bathroom. Plan an alternate bathroom, protected access, work hours, cleanup, storage, pet safety, and daily communication before demolition."
+      }
+    }
+  ],
+  "description": "Often, yes, but expect dust, noise, deliveries, temporary water or power interruptions, and periods without that bathroom. Plan an alternate bathroom, protected"
+}

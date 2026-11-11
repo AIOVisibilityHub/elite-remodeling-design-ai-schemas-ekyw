@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-my-water-be-turned-off-during-bathtub-replacement",
+  "name": "Will my water be turned off during bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my water be turned off during bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub replacement usually requires water to be shut off during portions of demolition, plumbing, and installation, but the exact duration depends on the home’s plumbing arrangement and the work scope. The bathroom may remain unavailable longer while waterproofing, tile, caulk, or other finishes cure.\n\nContext: A simple fixture swap may have a shorter interruption than a project involving valve relocation, wall reconstruction, or a new surround. Coordinating water access is especially important when the bathroom is the only one in the home.\n\nKey factors:\n- Whole-house versus local shutoff access\n- Plumbing changes and testing\n- Waterproofing and finish cure periods\n- Number of bathrooms available\n\nPractical guidance: Ask for planned shutoff windows and daily status updates. Arrange an alternate bathroom and avoid scheduling demolition before the replacement tub and critical materials are available.\n\nElite Remodeling & Design can coordinate the construction sequence with design selections and material delivery planning.",
+        "@type": "Answer",
+        "description": "Usually, water is shut off for parts of demolition, plumbing, connection, and testing, but the duration varies. Ask for the planned shutoff windows, alternate-bathroom needs, and any cure time before use. Do not begin demolition until critical replacement materials are ready."
+      }
+    }
+  ],
+  "description": "Usually, water is shut off for parts of demolition, plumbing, connection, and testing, but the duration varies. Ask for the planned shutoff windows, alternate-b"
+}

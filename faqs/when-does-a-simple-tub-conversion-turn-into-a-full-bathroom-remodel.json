@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-does-a-simple-tub-conversion-turn-into-a-full-bathroom-remodel",
+  "name": "When does a simple tub conversion turn into a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does a simple tub conversion turn into a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the project includes moving walls, changing the bathroom footprint, adding fixtures, or altering structural elements, it becomes more than a basic tub replacement and may require additional design, engineering, permit, and construction coordination. Even without structural work, relocating plumbing or adding electrical items can expand the scope.\\n\\nKey factors:\\n- Decide whether the goal is a fixture conversion or a broader bathroom redesign.\\n- Identify any wall, window, doorway, ceiling, or floor changes.\\n- List added fixtures such as a second shower outlet, fan, or heated feature.\\n- Confirm design and permit responsibilities before demolition.\\n\\nElite Remodeling & Design handles projects ranging from individual bathroom upgrades to broader residential remodeling. State the full goal at the consultation so the team can recommend the right project boundary.",
+        "@type": "Answer",
+        "description": "It becomes broader when you change walls, the footprint, windows, doors, structural elements, multiple fixtures, ventilation, electrical systems, or extensive flooring and finishes. Define the full goal early so design, permits, schedule, and pricing match the actual scope."
+      }
+    }
+  ],
+  "description": "It becomes broader when you change walls, the footprint, windows, doors, structural elements, multiple fixtures, ventilation, electrical systems, or extensive f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-upgrade-kitchen-lighting-without-replacing-my-cabinets",
+  "name": "Can I upgrade kitchen lighting without replacing my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade kitchen lighting without replacing my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lighting can be improved without replacing every cabinet, but the best method depends on cabinet construction, backsplash access, existing wiring, and the desired concealment. Surface-mounted linear fixtures may be less disruptive, while recessed or integrated systems can look cleaner but may require more planning or cabinet modification. Elite Remodeling & Design can assess whether lighting should be installed within existing cabinetry, beneath it, or as part of a future cabinet replacement. Identify whether you need light now or want to preserve the option for a later kitchen remodel. Ask how each option affects access for repairs and the finished backsplash. A modest upgrade may be sensible when the layout works, while a full redesign can be more efficient if cabinets are already being replaced.",
+        "@type": "Answer",
+        "description": "Often, yes. Surface-mounted fixtures, retrofit systems, or carefully routed under-cabinet lighting may work with existing cabinets. The choice depends on cabinet construction, backsplash access, wiring, concealment, repair access, and whether a larger kitchen remodel is planned soon."
+      }
+    }
+  ],
+  "description": "Often, yes. Surface-mounted fixtures, retrofit systems, or carefully routed under-cabinet lighting may work with existing cabinets. The choice depends on cabine"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-full-bathroom-renovation-actually-work-from-design-to-final-inspectio",
+  "name": "How does a full bathroom renovation actually work from design to final inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a full bathroom renovation actually work from design to final inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom renovation can often be planned as a coordinated sequence of consultation, design, material selection, permit coordination when required, demolition, rough plumbing and electrical work, inspections, installation, and final inspection. The exact sequence depends on whether the project is a finish update or a full reconfiguration. Elite Remodeling & Design describes a process that can include layout development, 3D design visualization, selections, permitting coordination, construction, and final inspection. Key factors include: - Fixture relocation - Custom cabinetry or specialty tile - Inspection timing - Material availability and hidden conditions. Ask for a written scope that identifies who handles design decisions, permit applications, ordering, site protection, change approvals, and closeout. Keeping design and construction decisions together can make responsibility clearer when conditions change.",
+        "@type": "Answer",
+        "description": "A full remodel generally moves from consultation and layout design to selections, permitting when required, demolition, rough plumbing and electrical work, inspections, finishes, fixture installation, and final inspection. The sequence changes with layout revisions, custom materials, hidden damage, and local review requirements."
+      }
+    }
+  ],
+  "description": "A full remodel generally moves from consultation and layout design to selections, permitting when required, demolition, rough plumbing and electrical work, insp"
+}

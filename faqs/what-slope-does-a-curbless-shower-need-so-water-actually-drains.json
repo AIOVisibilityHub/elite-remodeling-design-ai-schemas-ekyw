@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-slope-does-a-curbless-shower-need-so-water-actually-drains",
+  "name": "What slope does a curbless shower need so water actually drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What slope does a curbless shower need so water actually drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower floor needs a controlled slope toward the drain, commonly about 1/4 inch per foot under widely used guidance, while the exact permitted construction should be confirmed for the project and jurisdiction. Too little slope can leave standing water; too much can make the floor uncomfortable or difficult to tile.\n\nThe required drop depends on the distance to the drain, the drain type, and the location of the shower opening. A longer shower may need a different drain position or layout than a compact bathroom.\n\nKey factors:\n- Measure the full run from the high point to the drain, not only the visible entry.\n- Small-format tile often follows slopes more easily than large-format tile.\n- The bathroom floor outside the wet area must remain appropriately protected.\n\nAsk to see the proposed floor heights before demolition is complete. Confirm how the design will meet the bathroom flooring and doorway without an abrupt ridge.\n\nElite Remodeling & Design can incorporate these measurements into the bathroom layout and material-selection stage.",
+        "@type": "Answer",
+        "description": "A commonly used target is about 1/4 inch of fall per foot toward the drain, but the final design depends on the drain location, shower length, tile, and applicable requirements. Have the installer show the planned elevations before the floor is built."
+      }
+    }
+  ],
+  "description": "A commonly used target is about 1/4 inch of fall per foot toward the drain, but the final design depends on the drain location, shower length, tile, and applica"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-my-curbless-shower-quote-so-much-higher-than-a-regular-shower",
+  "name": "Why is my curbless shower quote so much higher than a regular shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my curbless shower quote so much higher than a regular shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a curbless shower cannot be set responsibly without seeing the bathroom because floor structure, drain relocation, tile, glass, waterproofing, and hidden damage can change the scope. A curbless design generally requires more planning and labor than a standard curb, especially when the floor must be recessed or a drain must move.\n\nCurrent San Diego remodeling guidance identifies plumbing changes, waterproofing, glass, tile quantity, and concealed conditions as major cost variables. Elite Remodeling & Design can develop a bathroom design and construction plan before finalizing the project scope.\n\nKey factors:\n- Recessing framing or modifying a slab may add structural and demolition work.\n- Linear drains and specialty tile can increase material costs.\n- Broader bathroom changes may cost more than the shower entry itself.\n\nRequest an itemized proposal separating demolition, plumbing, floor preparation, waterproofing, tile, glass, fixtures, permits, and allowances. Compare the waterproofing and floor-preparation scope, not just the headline price.\n\nAn initial consultation helps determine whether a curbless entry fits the budget without sacrificing drainage or durability.",
+        "@type": "Answer",
+        "description": "Curbless showers may cost more because the floor often needs recessing or slab work, the drain may require relocation, waterproofing extends beyond the shower, and tile or glass details are more involved. Compare itemized floor preparation and waterproofing—not only the total price."
+      }
+    }
+  ],
+  "description": "Curbless showers may cost more because the floor often needs recessing or slab work, the drain may require relocation, waterproofing extends beyond the shower,"
+}

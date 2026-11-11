@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-my-bathtub-replacement-was-installed-correctly",
+  "name": "How can I tell whether my bathtub replacement was installed correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether my bathtub replacement was installed correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful replacement depends on proper support, leveling, drain connections, waterproofing, and finish transitions—not just the visible tub. Warning signs include movement, slow drainage, recurring leaks, cracked seams, poor caulk work, damaged surrounding finishes, or a tub that was installed without adequate support.\n\nContext: Some defects appear immediately; others emerge after repeated use. A detailed closeout review gives you an opportunity to identify concerns before the crew leaves.\n\nKey factors:\n- Firm, level tub with no excessive flex\n- Correct drain and overflow operation\n- Clean, sealed transitions and penetrations\n- Undamaged walls, flooring, and adjacent finishes\n\nPractical guidance: Test the tub, drain, overflow, controls, and shower spray before final acceptance. Photograph completed work, save product information, and ask how warranty or callback concerns are handled.\n\nElite Remodeling & Design can coordinate final inspection and completion details as part of a broader remodeling project.",
+        "@type": "Answer",
+        "description": "Check that the tub is firm and level, drains properly, the overflow works, controls do not leak, and seams and penetrations are cleanly sealed. Inspect adjacent walls and flooring, test the finished system, photograph the result, and save product and warranty information."
+      }
+    }
+  ],
+  "description": "Check that the tub is firm and level, drains properly, the overflow works, controls do not leak, and seams and penetrations are cleanly sealed. Inspect adjacent"
+}

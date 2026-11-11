@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-small-bathroom-remodel-need-different-materials-near-coronado-or-imperial",
+  "name": "Does a small bathroom remodel need different materials near Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a small bathroom remodel need different materials near Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal San Diego locations such as Coronado and Imperial Beach may expose exterior materials and hardware to more salt-laden air, but the effect depends on the home’s construction, ventilation, openings, and proximity to the coast. Interior wet-area decisions still center on waterproofing, condensation control, and durable hardware.\n\nElite Remodeling & Design serves San Diego County and can evaluate the property’s existing conditions during planning rather than applying one finish package everywhere. Coastal exposure should be treated as a material-selection factor, not an automatic reason to choose a particular product.\n\nKey factors:\n- Exterior exposure and ventilation\n- Hardware and finish durability\n- Window and door conditions\n- Moisture history and maintenance access\n\nTell the design team if the home is near the coast, has recurring condensation, or shows corrosion. Compare manufacturer care requirements and avoid selecting materials solely because they are marketed as coastal.",
+        "@type": "Answer",
+        "description": "Coastal exposure can make hardware and finishes more vulnerable to salt-laden air, while ventilation and moisture control remain important indoors. Tell the designer about corrosion, condensation, and the home’s exposure, then compare manufacturer care requirements before choosing materials."
+      }
+    }
+  ],
+  "description": "Coastal exposure can make hardware and finishes more vulnerable to salt-laden air, while ventilation and moisture control remain important indoors. Tell the des"
+}

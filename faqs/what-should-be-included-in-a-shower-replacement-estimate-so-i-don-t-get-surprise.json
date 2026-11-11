@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-shower-replacement-estimate-so-i-don-t-get-surprise",
+  "name": "What should be included in a shower replacement estimate so I don’t get surprise charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a shower replacement estimate so I don’t get surprise charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A quote should identify the existing shower condition, demolition, debris removal, plumbing, substrate repair, waterproofing, pan or base, walls, fixtures, trim, glass, permits, cleanup, and exclusions. Context: A low initial price can become difficult to compare if it leaves allowances or concealed-condition work undefined. Key factors: labor versus materials; product brands or specifications; change-order rates; payment stages; warranty terms; and who measures custom glass. Practical guidance: Ask each bidder to price the same layout and finish level, then request written assumptions for anything not visible before demolition. Elite Remodeling & Design’s design-build format is suited to coordinating selections and construction details in one documented plan.",
+        "@type": "Answer",
+        "description": "Require line items for demolition, disposal, plumbing, wall and floor repairs, waterproofing, pan, finishes, fixtures, glass, approvals, cleanup, and exclusions. Ask how concealed damage and design changes are priced. Comparing matching scopes—not just totals—helps reveal whether a low bid leaves essential work out."
+      }
+    }
+  ],
+  "description": "Require line items for demolition, disposal, plumbing, wall and floor repairs, waterproofing, pan, finishes, fixtures, glass, approvals, cleanup, and exclusions"
+}

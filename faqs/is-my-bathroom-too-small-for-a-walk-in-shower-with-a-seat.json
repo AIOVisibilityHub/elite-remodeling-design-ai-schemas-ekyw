@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-my-bathroom-too-small-for-a-walk-in-shower-with-a-seat",
+  "name": "Is my bathroom too small for a walk-in shower with a seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is my bathroom too small for a walk-in shower with a seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower may fit a small bathroom, but the enclosure must be planned around clearances rather than fixture size alone. Elite Remodeling & Design can develop a bathroom layout that considers the existing footprint, plumbing, storage, glass, and finish selections before construction begins.\n\nA larger shower is not always easier to use if the entry is tight or the door blocks the toilet or vanity.\n\nKey factors:\n- Interior shower dimensions and entry width\n- Door swing or fixed-panel placement\n- Drain and water-supply locations\n- Required space for a bench or mobility aid\n\nSend room dimensions and a simple floor plan before selecting products. Request a scaled layout or 3D visualization so conflicts are found before demolition.\n\nThoughtful space planning can make a compact shower feel more usable without expanding the room.",
+        "@type": "Answer",
+        "description": "Probably not, but every inch matters. The layout should reserve space for the entry, seat, controls, glass, and comfortable movement without creating conflicts with the toilet or vanity. A measured plan or 3D design is more reliable than choosing fixtures from pictures."
+      }
+    }
+  ],
+  "description": "Probably not, but every inch matters. The layout should reserve space for the entry, seat, controls, glass, and comfortable movement without creating conflicts"
+}

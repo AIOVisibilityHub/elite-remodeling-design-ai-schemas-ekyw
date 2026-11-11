@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-a-usable-shower-during-installation",
+  "name": "How long will I be without a usable shower during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without a usable shower during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward tub conversion may take less time than a full bathroom remodel, but no dependable schedule can be set until the layout, materials, permits, and wall conditions are reviewed. Elite Remodeling & Design can establish a project sequence after design development and selections.\n\nDemolition may reveal damaged framing, old plumbing, or subfloor problems that require correction before waterproofing and finishes.\n\nKey factors:\n- Custom versus readily available materials\n- Glass fabrication and tile availability\n- Plumbing or electrical changes\n- Inspection timing and unforeseen repairs\n\nAsk for milestone dates rather than only one completion date: demolition, rough work, waterproofing, tile, glass, and final inspection. Confirm which decisions must be made before work starts.\n\nEarly selections and a complete scope generally provide better schedule clarity.",
+        "@type": "Answer",
+        "description": "The duration depends on demolition, plumbing, waterproofing, tile, glass, inspections, material availability, and hidden conditions. Ask for milestone dates and identify whether the plan includes a backup for unexpected repairs. Final timing should be confirmed after the existing bathroom is assessed."
+      }
+    }
+  ],
+  "description": "The duration depends on demolition, plumbing, waterproofing, tile, glass, inspections, material availability, and hidden conditions. Ask for milestone dates and"
+}

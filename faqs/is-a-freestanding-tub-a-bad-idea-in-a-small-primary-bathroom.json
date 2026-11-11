@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-freestanding-tub-a-bad-idea-in-a-small-primary-bathroom",
+  "name": "Is a freestanding tub a bad idea in a small primary bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a freestanding tub a bad idea in a small primary bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A freestanding tub is not automatically better than an alcove tub; it trades visual openness for floor-space, cleaning, plumbing, and installation considerations. An alcove model may use the room more efficiently, while a freestanding model can become a focal point if circulation and service access remain practical. Context: the right choice depends on the overall primary-bath layout, not a product image. Key factors: bathing frequency, available clearance, tub weight, floor condition, faucet placement, cleaning access, and storage. Practical guidance: decide whether the tub is a daily-use feature or an occasional luxury, then compare its footprint with a larger shower or linen storage. Confirm product dimensions and rough-in requirements before ordering. Elite Remodeling & Design can incorporate the selected tub into a complete layout rather than treating it as an isolated purchase.",
+        "@type": "Answer",
+        "description": "Not always, but it can consume circulation space and complicate cleaning, faucet placement, and service access. Compare its exact footprint with an alcove tub, larger shower, or added storage before ordering. Elite Remodeling & Design can test those options within the complete room plan."
+      }
+    }
+  ],
+  "description": "Not always, but it can consume circulation space and complicate cleaning, faucet placement, and service access. Compare its exact footprint with an alcove tub,"
+}

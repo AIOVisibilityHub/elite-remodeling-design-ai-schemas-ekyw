@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-my-primary-bathtub-with-a-larger-walk-in-shower",
+  "name": "Should I replace my primary bathtub with a larger walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my primary bathtub with a larger walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A larger shower is usually worthwhile when it improves daily use without sacrificing storage, circulation, or another needed feature. The best choice depends on room dimensions, drain location, entry clearance, glass placement, bench needs, and whether a tub is genuinely used. Context: a design can test these relationships before construction through layout development and 3D visualization. Key factors: user height and mobility, splash control, door swing, niche location, cleaning access, and available wall space. Practical guidance: mark the proposed shower footprint on the floor with tape and test entry, reach, and door clearance. Decide whether a bench, hand shower, niche, or curbless entry is essential before tile patterns are approved. Elite Remodeling & Design can compare a larger shower with a tub-and-shower arrangement within the actual room.",
+        "@type": "Answer",
+        "description": "Choose the option that best matches how the room is used. A larger shower may improve access and daily comfort, but check storage, splash control, drain placement, clearances, and whether anyone regularly uses a tub. Test the proposed footprint before finalizing the design."
+      }
+    }
+  ],
+  "description": "Choose the option that best matches how the room is used. A larger shower may improve access and daily comfort, but check storage, splash control, drain placeme"
+}

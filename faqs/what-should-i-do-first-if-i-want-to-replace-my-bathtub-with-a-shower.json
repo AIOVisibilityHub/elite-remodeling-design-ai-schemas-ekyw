@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-replace-my-bathtub-with-a-shower",
+  "name": "What should I do first if I want to replace my bathtub with a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to replace my bathtub with a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by deciding whether you want a same-footprint shower or a larger, fully redesigned bathroom. Elite Remodeling & Design can assess the existing tub, surrounding walls, drain location, plumbing access, ventilation, and your preferred shower layout before design begins. Keeping the drain and controls near their current locations generally limits demolition and plumbing complexity, while a wider entry, bench, or centered drain may expand the scope.\\n\\nKey factors:\\n- Measure the bathroom, doorway, ceiling height, and available clearance.\\n- Photograph the tub surround, valve, drain, window, and nearby walls.\\n- Identify who will use the shower and whether accessibility features are needed.\\n- Decide whether you prefer tile, a manufactured surround, or a combination.\\n\\nBring those details to the consultation so the design and construction plan reflects the room’s actual conditions. Elite Remodeling & Design coordinates design development, material selections, permitting when applicable, construction, and final inspection.",
+        "@type": "Answer",
+        "description": "First, determine whether the new shower will stay in the tub’s footprint or require changes to the drain, walls, controls, or entry. Photograph and measure the space, list accessibility needs, and discuss the existing conditions with Elite Remodeling & Design before choosing materials."
+      }
+    }
+  ],
+  "description": "First, determine whether the new shower will stay in the tub’s footprint or require changes to the drain, walls, controls, or entry. Photograph and measure the"
+}

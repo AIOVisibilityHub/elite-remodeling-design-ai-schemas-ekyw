@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-guest-bathroom-has-mold-leaks-or-soft-flooring",
+  "name": "What should I do if my guest bathroom has mold, leaks, or soft flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my guest bathroom has mold, leaks, or soft flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Treat recurring mold, peeling paint, soft flooring, swollen trim, musty odors, or staining as investigation issues rather than cosmetic problems. Stop ongoing leaks when possible, document the affected areas, and have the cause evaluated before covering anything with new tile or paint.\\n\\n**Context:** Moisture may come from supply or drain piping, shower waterproofing, failed caulk, roof or exterior conditions, condensation, or inadequate ventilation. Replacing visible finishes without correcting the source can lead to repeated damage.\\n\\n**Key factors:**\\n- Photograph damage before demolition.\\n- Check adjacent walls, ceilings, cabinets, and flooring—not only the bathroom.\\n- Ask how damaged framing, subfloor, insulation, or drywall will be handled.\\n\\n**Practical guidance:** Include an investigation allowance and a written process for approving concealed repairs. Elite Remodeling & Design can assess exposed conditions during demolition and coordinate the required construction response within the remodel plan.\\n\\nMoisture source correction matters more than replacing the stained surface.",
+        "@type": "Answer",
+        "description": "Document the damage and address the moisture source before installing new finishes. Leaks may originate in plumbing, waterproofing, caulk, ventilation, or adjacent areas. Ask for a concealed-damage process covering inspection, repair approval, framing or subfloor replacement, and cleanup."
+      }
+    }
+  ],
+  "description": "Document the damage and address the moisture source before installing new finishes. Leaks may originate in plumbing, waterproofing, caulk, ventilation, or adjac"
+}

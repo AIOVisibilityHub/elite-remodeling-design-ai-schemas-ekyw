@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-choose-a-prefab-shower-surround-or-custom-tile",
+  "name": "Should I choose a prefab shower surround or custom tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a prefab shower surround or custom tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prefab surround is usually the simpler, faster choice, while tile offers more control over dimensions, patterns, niches, benches, and trim. Context: Prefab panels can reduce grout maintenance and installation steps; tile requires careful substrate preparation, waterproofing, setting, grouting, and ongoing joint maintenance. Key factors: bathroom dimensions; cleaning preferences; design goals; budget; lead times; and the condition of the existing walls. Practical guidance: Compare the complete installed system, not just the visible wall material, and ask how corners, seams, penetrations, and the shower pan will be waterproofed. Elite Remodeling & Design can incorporate material selections into a broader bathroom design rather than treating the surround as an isolated purchase.",
+        "@type": "Answer",
+        "description": "Choose prefab panels for a simpler, often faster installation and fewer grout joints. Choose tile for broader design flexibility, custom niches, benches, and patterns, while planning for more installation steps and grout care. Compare waterproofing, trim, pan, labor, and maintenance—not just the wall material."
+      }
+    }
+  ],
+  "description": "Choose prefab panels for a simpler, often faster installation and fewer grout joints. Choose tile for broader design flexibility, custom niches, benches, and pa"
+}

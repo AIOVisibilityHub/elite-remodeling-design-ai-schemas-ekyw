@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-buying-guest-bathroom-fixtures",
+  "name": "What should I check before buying guest bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before buying guest bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Select fixtures after the layout, rough plumbing, vanity dimensions, electrical plan, and finish thickness are understood. A beautiful sink, toilet, faucet, light, or shower fitting may not fit the existing rough-ins, clearances, supply connections, drain position, or cabinet design.\\n\\n**Context:** Product dimensions, installation type, replacement parts, water controls, and warranty support matter more than a showroom appearance alone. Special-order fixtures can affect both schedule and the point at which demolition should begin.\\n\\n**Key factors:**\\n- Verify rough-in measurements and connection requirements.\\n- Check faucet reach, sink depth, cabinet doors, and mirror clearance together.\\n- Confirm that selected items arrive before the installation milestone.\\n\\n**Practical guidance:** Give the design team product specifications, not only photographs or product names. Elite Remodeling & Design can coordinate selections with the room plan, tile layout, electrical locations, and construction sequence.\\n\\nFixture compatibility should be confirmed before orders become difficult to change.",
+        "@type": "Answer",
+        "description": "Check dimensions, rough-in locations, connection requirements, clearance, installation type, replacement parts, warranty support, and lead time. Share product specifications with the design team so faucets, sinks, mirrors, lighting, cabinetry, tile, and plumbing work together."
+      }
+    }
+  ],
+  "description": "Check dimensions, rough-in locations, connection requirements, clearance, installation type, replacement parts, warranty support, and lead time. Share product s"
+}

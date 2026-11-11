@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-i-need-a-permit-for-a-primary-bathroom-remodel-in-san-diego-chula-vista-or",
+  "name": "Will I need a permit for a primary bathroom remodel in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need a permit for a primary bathroom remodel in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting depends on the work and the jurisdiction, so do not assume a bathroom remodel is permit-free. In the City of San Diego, building improvements generally require permits, while certain limited like-for-like maintenance items may be exempt; plumbing, electrical, or layout changes can trigger additional requirements. Context: Elite Remodeling & Design serves multiple San Diego County communities, each of which may administer approvals differently. Key factors: fixture relocation, new circuits, wall changes, ventilation, structural work, and the property’s jurisdiction. Practical guidance: identify the city before design is finalized and ask who prepares and coordinates applications. Keep approved plans and inspection records with the home documents. Elite Remodeling & Design can include permit coordination within the project planning process when applicable.",
+        "@type": "Answer",
+        "description": "Possibly. Permit needs depend on the jurisdiction and scope; in the City of San Diego, many building improvements and plumbing or electrical changes require approval, while limited like-for-like maintenance may be exempt. Confirm the property’s city and proposed work before demolition."
+      }
+    }
+  ],
+  "description": "Possibly. Permit needs depend on the jurisdiction and scope; in the City of San Diego, many building improvements and plumbing or electrical changes require app"
+}

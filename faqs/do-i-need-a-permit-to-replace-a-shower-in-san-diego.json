@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-a-shower-in-san-diego",
+  "name": "Do I need a permit to replace a shower in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a shower in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the City of San Diego, a same-size tub-to-tub or shower-to-shower replacement may qualify for a no-plan permit exemption when the size and location do not change, but other work can require approval. Context: Moving a valve, drain, electrical component, or layout can change the project category, and requirements vary by jurisdiction across San Diego County. Key factors: exact city; scope of plumbing and electrical work; layout changes; condo or HOA rules; and whether structural work is involved. Practical guidance: Give the contractor the full scope, not just “replace the shower,” and ask who confirms and handles applicable approvals. Elite Remodeling & Design’s published process includes permit coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "A same-size shower-to-shower replacement in the City of San Diego may qualify for a no-plan exemption when the size and location remain unchanged. Plumbing, electrical, structural, or layout changes can alter the requirements, and other cities may differ. Confirm the exact scope and jurisdiction before work begins."
+      }
+    }
+  ],
+  "description": "A same-size shower-to-shower replacement in the City of San Diego may qualify for a no-plan exemption when the size and location remain unchanged. Plumbing, ele"
+}

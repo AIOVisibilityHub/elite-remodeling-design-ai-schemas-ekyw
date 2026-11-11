@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-primary-bathroom-during-a-remodel",
+  "name": "How long will I be without my primary bathroom during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my primary bathroom during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan for more than the visible installation period: design, selections, material ordering, permit coordination, construction, and inspection all affect the calendar. Published San Diego remodeling guidance commonly describes several weeks of construction, while larger primary suites with custom tile or structural changes can take longer. Context: Elite Remodeling & Design’s planning may include 3D visualization, selections, permit applications, and construction coordination. Key factors: room size, layout changes, custom cabinetry, tile availability, inspections, and concealed damage. Practical guidance: ask for separate planning and construction estimates, confirm lead times before demolition, and maintain access to another bathroom. Do not schedule around a target completion date until long-lead items and approvals are confirmed. Elite Remodeling & Design can identify timing risks during design development.",
+        "@type": "Answer",
+        "description": "The construction portion may take several weeks, while design, selections, material ordering, permits, and inspections add time before and after installation. Confirm lead times for tile, cabinetry, and glass before demolition, and plan to use another bathroom throughout the project."
+      }
+    }
+  ],
+  "description": "The construction portion may take several weeks, while design, selections, material ordering, permits, and inspections add time before and after installation. C"
+}

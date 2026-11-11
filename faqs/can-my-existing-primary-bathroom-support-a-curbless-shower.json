@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-existing-primary-bathroom-support-a-curbless-shower",
+  "name": "Can my existing primary bathroom support a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my existing primary bathroom support a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower is feasible in some bathrooms, but it requires careful planning for floor elevation, slope, drain location, waterproofing, glass, and water containment. Existing framing and the connection to surrounding flooring may limit how flat the entry can be without additional construction. Context: this is a layout and buildability decision, not merely a tile preference. Key factors: joist direction, slab or framed floor, drain type, shower size, splash zone, threshold, and adjacent finish heights. Practical guidance: ask for a section detail showing the shower floor, waterproofing, drain, and transition before approving the design. Test whether the proposed enclosure contains spray in actual use. Elite Remodeling & Design can evaluate the existing conditions before committing to a low-threshold concept.",
+        "@type": "Answer",
+        "description": "Maybe. The answer depends on floor construction, drain placement, available depth for slope, waterproofing, adjacent floor height, and splash control. Request a section detail and existing-condition review before approving the concept; a flat-looking entry still needs correctly sloped and sealed construction."
+      }
+    }
+  ],
+  "description": "Maybe. The answer depends on floor construction, drain placement, available depth for slope, waterproofing, adjacent floor height, and splash control. Request a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-the-old-tub-plumbing-be-reused-for-the-new-shower",
+  "name": "Can the old tub plumbing be reused for the new shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can the old tub plumbing be reused for the new shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The existing tub plumbing may be reusable, but a shower often needs a suitable valve, showerhead connection, drain arrangement, and sometimes a handheld line or additional control. A plumber should verify pipe condition, valve compatibility, access, and whether the proposed fixtures match the existing supply and waste layout.\\n\\nKey factors:\\n- Tub and shower controls may operate differently.\\n- The valve location may need to change for comfort or safety.\\n- Older piping or shutoff conditions may be discovered after removal.\\n- Multiple shower outlets can require design and water-supply coordination.\\n\\nInclude fixture specifications before plumbing rough-in. Elite Remodeling & Design can coordinate bathroom design with plumbing and electrical work so selected fixtures are not treated as an afterthought.",
+        "@type": "Answer",
+        "description": "Sometimes, but the valve, shower outlet, drain, pipe condition, access, and selected fixtures must be checked. Reuse is more likely when the layout stays close to the existing one; multiple outlets or relocated controls may require additional plumbing work."
+      }
+    }
+  ],
+  "description": "Sometimes, but the valve, shower outlet, drain, pipe condition, access, and selected fixtures must be checked. Reuse is more likely when the layout stays close"
+}

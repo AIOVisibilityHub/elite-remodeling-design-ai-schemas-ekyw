@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-curbless-shower-a-good-idea-for-aging-in-place-or-wheelchair-access",
+  "name": "Is a curbless shower a good idea for aging in place or wheelchair access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a curbless shower a good idea for aging in place or wheelchair access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can improve access, but it is not automatically a fully accessible shower. Wheelchair use, walker clearance, seat placement, grab-bar reinforcement, handheld controls, shower controls, door width, floor traction, and drainage all need to be considered together.\n\nA bathroom designed for changing mobility needs may require more than a threshold-free entry. Elite Remodeling & Design can adapt the bathroom layout and coordinate construction details around how the room is intended to be used.\n\nKey factors:\n- The opening and turning space may matter as much as the shower floor.\n- Blocking for future grab bars should be planned before walls are closed.\n- A fold-down seat, handheld shower, and reachable controls may affect plumbing and framing.\n\nExplain current and anticipated mobility needs during design, even if you do not need every feature immediately. Ask for clear dimensions and confirm that the selected finishes provide suitable wet-area traction.\n\nEarly planning can prevent expensive wall and floor changes later.",
+        "@type": "Answer",
+        "description": "It can improve entry access, but true accessibility also depends on clearance, controls, seating, grab-bar support, floor traction, drainage, and door design. Share current or anticipated mobility needs early so the entire bathroom layout—not only the threshold—supports them."
+      }
+    }
+  ],
+  "description": "It can improve entry access, but true accessibility also depends on clearance, controls, seating, grab-bar support, floor traction, drainage, and door design. S"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-curbless-shower-in-san-diego-or-chula-vista",
+  "name": "Do I need a permit for a curbless shower in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a curbless shower in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting depends on the work and the jurisdiction, so the contractor should confirm the requirements before construction. In the City of San Diego, official guidance says permits may be required for building alterations and for plumbing, electrical, or mechanical work; a simple bathroom remodel without structural changes or added plumbing fixtures may qualify for a different permit path.\n\nA curbless shower can involve plumbing changes, floor framing or slab work, electrical adjustments, ventilation, and inspections. Other San Diego County cities may apply their own procedures, and condos may also require property-management or HOA review.\n\nKey factors:\n- The jurisdiction is based on the property address, not the contractor’s office.\n- Structural floor work can change the review path.\n- Permit scope should match the actual work, not only the visible tile replacement.\n\nGive Elite Remodeling & Design the exact address and describe every planned change, including drain relocation, lighting, fans, and floor modifications. Ask who prepares applications, schedules inspections, and provides final documentation.\n\nPermit coordination is most efficient when handled during design rather than after demolition.",
+        "@type": "Answer",
+        "description": "Possibly. Permit needs depend on plumbing, electrical, ventilation, structural, floor, and property changes, as well as the city handling the project. Provide the exact address and full scope so the requirements can be confirmed before work starts."
+      }
+    }
+  ],
+  "description": "Possibly. Permit needs depend on plumbing, electrical, ventilation, structural, floor, and property changes, as well as the city handling the project. Provide t"
+}

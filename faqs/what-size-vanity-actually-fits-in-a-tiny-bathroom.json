@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-size-vanity-actually-fits-in-a-tiny-bathroom",
+  "name": "What size vanity actually fits in a tiny bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size vanity actually fits in a tiny bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanity should be selected by finished depth and door clearance, not by width alone. In a tight room, a shallow or wall-mounted vanity may improve movement, while drawers can provide more usable storage than doors that require a clear swing.\n\nElite Remodeling & Design can compare vanity proportions within a coordinated layout and 3D design. The best choice depends on sink size, plumbing position, countertop overhang, mirror height, and the location of the bathroom door.\n\nKey factors:\n- Finished cabinet depth\n- Drawer and door operation\n- Plumbing access\n- Counter and sink projection\n\nTape the proposed vanity footprint on the floor and test the door, toilet, and shower at the same time. Check that drawers can open without blocking the room’s only passage.",
+        "@type": "Answer",
+        "description": "Measure finished depth, not just cabinet width, and test the vanity footprint against the door, toilet, shower, and plumbing. A shallow or wall-mounted cabinet with drawers may improve circulation and storage, but the final choice must include countertop, sink, trim, and hardware projections."
+      }
+    }
+  ],
+  "description": "Measure finished depth, not just cabinet width, and test the vanity footprint against the door, toilet, shower, and plumbing. A shallow or wall-mounted cabinet"
+}

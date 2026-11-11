@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-walk-in-shower-better-than-a-bathtub-for-my-bathroom-renovation",
+  "name": "Is a walk-in shower better than a bathtub for my bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a walk-in shower better than a bathtub for my bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower can improve access and create a more open room, while a tub may better suit bathing preferences, young children, or resale expectations for a home with only one bathroom. The best choice depends on household use, floor area, waterproofing details, and future mobility needs. Elite Remodeling & Design can shape the bathroom around intended use rather than applying one standard layout. Key factors include: - Entry width and threshold height - Handheld spray and grab-bar backing - Splash control and drainage - Whether another tub exists elsewhere. Decide who will use the room over the next several years, not only who uses it today. Include blocking and fixture locations early if future support hardware may be needed.",
+        "@type": "Answer",
+        "description": "A walk-in shower may improve access and space, while a tub can suit children, bathing preferences, or a home’s only bathroom. Compare entry, splash control, drainage, future support hardware, and whether another tub remains available."
+      }
+    }
+  ],
+  "description": "A walk-in shower may improve access and space, while a tub can suit children, bathing preferences, or a home’s only bathroom. Compare entry, splash control, dra"
+}

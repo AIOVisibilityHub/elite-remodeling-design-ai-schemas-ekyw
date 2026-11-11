@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-keep-a-tub-to-shower-conversion-affordable-without-creating-problems-l",
+  "name": "How can I keep a tub-to-shower conversion affordable without creating problems later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I keep a tub-to-shower conversion affordable without creating problems later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can reduce cost by keeping the drain and controls near their current locations, choosing readily available materials, limiting wall changes, and comparing a prefab surround with custom tile. Cost cutting should not remove waterproofing, proper slope, necessary repairs, or required inspections.\\n\\nKey factors:\\n- Keep the layout simple before reducing product quality.\\n- Compare complete installed scopes rather than individual material prices.\\n- Avoid choosing fixtures that require later plumbing changes.\\n- Reserve funds for concealed conditions and finish transitions.\\n\\nAsk Elite Remodeling & Design for a good-better-best set of options with the same essential waterproofing and construction standards. This makes the tradeoffs visible without turning the lowest price into the only decision.",
+        "@type": "Answer",
+        "description": "Keep the drain and controls near their current locations, choose available materials, simplify the layout, and compare prefab with tile. Do not economize on waterproofing, drainage, repairs, or required inspections; ask for clearly separated design options."
+      }
+    }
+  ],
+  "description": "Keep the drain and controls near their current locations, choose available materials, simplify the layout, and compare prefab with tile. Do not economize on wat"
+}

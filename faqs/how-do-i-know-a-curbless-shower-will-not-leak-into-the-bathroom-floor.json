@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-a-curbless-shower-will-not-leak-into-the-bathroom-floor",
+  "name": "How do I know a curbless shower will not leak into the bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know a curbless shower will not leak into the bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can leak if the floor slope, drain connection, membrane, corners, or transition are poorly designed or installed. Tile and grout alone do not make a shower waterproof; the waterproofing system behind and beneath them must form a continuous, properly sealed assembly.\n\nThis is especially important in bathrooms where the shower opening is level with the rest of the room. The waterproofing plan should address the shower base, walls, entry area, drain, penetrations, and adjacent floor—not only the visible tile.\n\nKey factors:\n- Ask which membrane or waterproofing system will be used and how seams are sealed.\n- Confirm that the drain is compatible with the membrane.\n- Find out whether the installation will be tested before tile is placed.\n\nKeep the written scope, product specifications, progress photos, and any inspection records. Report unusual odors, soft flooring, staining, or recurring grout cracks promptly rather than covering them with new caulk.\n\nElite Remodeling & Design can coordinate waterproofing with the bathroom’s broader tile, plumbing, and inspection work.",
+        "@type": "Answer",
+        "description": "Ask for a continuous waterproofing plan covering the shower base, walls, drain, corners, penetrations, entry, and adjacent floor. Confirm the membrane and drain are compatible and that the assembly will be tested before tile is installed."
+      }
+    }
+  ],
+  "description": "Ask for a continuous waterproofing plan covering the shower base, walls, drain, corners, penetrations, entry, and adjacent floor. Confirm the membrane and drain"
+}

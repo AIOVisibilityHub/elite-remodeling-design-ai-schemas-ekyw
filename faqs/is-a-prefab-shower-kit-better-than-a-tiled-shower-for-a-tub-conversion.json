@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-prefab-shower-kit-better-than-a-tiled-shower-for-a-tub-conversion",
+  "name": "Is a prefab shower kit better than a tiled shower for a tub conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a prefab shower kit better than a tiled shower for a tub conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prefab shower system can offer predictable components, simpler maintenance, and potentially shorter installation, while a tiled shower provides more control over dimensions, patterns, niches, benches, and finish combinations. Neither option is automatically better; the right choice depends on the room, budget, maintenance preferences, and design goals.\\n\\nKey factors:\\n- Compare the complete installed price, not only the product price.\\n- Ask how each system handles corners, seams, penetrations, and future repairs.\\n- Confirm whether the base fits the existing drain location.\\n- Consider lead times and replacement availability for doors and panels.\\n\\nElite Remodeling & Design can incorporate the selected surround or tile approach into the broader design plan. Ask for a side-by-side scope showing what is included with each option.",
+        "@type": "Answer",
+        "description": "Prefab systems may simplify cleaning and installation, while tile offers more control over size, patterns, niches, benches, and finishes. Compare the complete installed scope, drain compatibility, seams, maintenance, lead time, and repair options before choosing."
+      }
+    }
+  ],
+  "description": "Prefab systems may simplify cleaning and installation, while tile offers more control over size, patterns, niches, benches, and finishes. Compare the complete i"
+}

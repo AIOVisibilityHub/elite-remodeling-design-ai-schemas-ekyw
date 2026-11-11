@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-choose-the-right-shower-pan-or-base-for-replacement",
+  "name": "How do I choose the right shower pan or base for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right shower pan or base for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a shower base that fits the planned footprint, drain position, entry style, cleaning preference, and finish system—not only its appearance. Context: A base can be prefabricated or custom, and its dimensions affect wall panels, tile layout, curb height, glass, and drainage. Key factors: subfloor condition; drain alignment; threshold design; slope; weight and handling; and compatibility with the waterproofing assembly. Practical guidance: Confirm the exact model, dimensions, drain location, and installation method before demolition, and ask how the base will be supported and tested. The base should be selected as part of Elite Remodeling & Design’s coordinated bathroom plan.",
+        "@type": "Answer",
+        "description": "Match the base to the shower footprint, drain location, entry style, wall system, waterproofing method, cleaning preferences, and subfloor condition. Confirm exact dimensions before demolition. Ask how the base will be supported, connected to the drain, sloped, sealed, and tested."
+      }
+    }
+  ],
+  "description": "Match the base to the shower footprint, drain location, entry style, wall system, waterproofing method, cleaning preferences, and subfloor condition. Confirm ex"
+}

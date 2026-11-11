@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-lighting-should-i-use-in-a-small-bathroom-so-it-does-not-feel-dark",
+  "name": "What lighting should I use in a small bathroom so it does not feel dark?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What lighting should I use in a small bathroom so it does not feel dark?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good lighting usually combines general illumination, mirror lighting, and appropriate wet-area fixtures instead of relying on one ceiling light. In a small room, fixture placement matters because a single overhead source can cast shadows on the face and highlight uneven surfaces.\n\nElite Remodeling & Design can coordinate lighting choices with the mirror, vanity, ceiling, shower, and electrical scope. The design should also account for switch locations and whether the existing circuit can support the planned changes.\n\nKey factors:\n- Face-level light near the mirror\n- Ceiling and shower illumination\n- Glare and shadow control\n- Existing wiring and switch locations\n\nMark the mirror and cabinet before finalizing electrical locations. Ask for the lighting plan at the same time as the reflected layout, not after tile and cabinetry are ordered.",
+        "@type": "Answer",
+        "description": "Use layered lighting: general ceiling illumination, balanced light at the mirror, and suitable shower-area lighting where needed. Coordinate fixture locations with the vanity, mirror, tile, switches, and existing wiring before walls are closed."
+      }
+    }
+  ],
+  "description": "Use layered lighting: general ceiling illumination, balanced light at the mirror, and suitable shower-area lighting where needed. Coordinate fixture locations w"
+}

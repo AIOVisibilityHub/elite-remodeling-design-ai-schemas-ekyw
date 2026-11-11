@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-gather-before-asking-for-a-kitchen-lighting-upgrade-es",
+  "name": "What information should I gather before asking for a kitchen lighting upgrade estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before asking for a kitchen lighting upgrade estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a lighting consultation, provide room dimensions, ceiling height, cabinet and island measurements, appliance locations, photos, and a list of current problems. Include the electrical panel location, existing switch arrangement, fixture models if known, and any plans to change cabinets, walls, or plumbing. Elite Remodeling & Design can use these details while developing a coordinated kitchen design and construction scope. Mark where shadows occur and how the kitchen is used at different times of day. Save inspiration images, but identify what you like about each one—brightness, fixture size, color, or control—not only its appearance. Also state your budget range and whether you are planning a limited upgrade or broader remodel.",
+        "@type": "Answer",
+        "description": "Gather dimensions, ceiling height, cabinet and island measurements, appliance locations, photos, current switch locations, and fixture details. Mark shadows, glare, and desired work zones. Share inspiration images, budget limits, and whether the lighting is part of a larger kitchen remodel."
+      }
+    }
+  ],
+  "description": "Gather dimensions, ceiling height, cabinet and island measurements, appliance locations, photos, current switch locations, and fixture details. Mark shadows, gl"
+}

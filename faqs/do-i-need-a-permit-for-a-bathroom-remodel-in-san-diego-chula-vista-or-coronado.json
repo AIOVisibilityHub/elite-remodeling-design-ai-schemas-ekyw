@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-bathroom-remodel-in-san-diego-chula-vista-or-coronado",
+  "name": "Do I need a permit for a bathroom remodel in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a bathroom remodel in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume a bathroom remodel is permit-free because the room already exists. In the City of San Diego, requirements depend on the work, and mechanical, electrical, and plumbing alterations can require permits; a limited no-plan pathway exists for some residential bathroom work with no structural changes or added plumbing fixtures. Other jurisdictions in San Diego County may apply different procedures. Elite Remodeling & Design’s published process includes coordination of permit applications when the project requires them. Key factors include: - Fixture relocation or added fixtures - Wall, framing, or exterior changes - Electrical and ventilation work - Historic or community review. Identify the property’s actual city or unincorporated jurisdiction before planning the schedule. Ask who prepares documents, submits applications, schedules inspections, and responds to review comments.",
+        "@type": "Answer",
+        "description": "Possibly. Requirements vary by jurisdiction and scope; plumbing, electrical, ventilation, fixture relocation, added fixtures, and wall changes can trigger review. Confirm the property jurisdiction and ask who will prepare, submit, and coordinate any required permit and inspection work."
+      }
+    }
+  ],
+  "description": "Possibly. Requirements vary by jurisdiction and scope; plumbing, electrical, ventilation, fixture relocation, added fixtures, and wall changes can trigger revie"
+}

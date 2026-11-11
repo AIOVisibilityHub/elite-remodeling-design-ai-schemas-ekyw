@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-tub-to-shower-conversion-estimate",
+  "name": "What should be included in a tub-to-shower conversion estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a tub-to-shower conversion estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The proposal should identify the demolition limits, shower dimensions, base or tile system, waterproofing method, drain and valve work, wall repairs, fixtures, enclosure, ventilation, electrical items, permits, inspections, cleanup, allowances, exclusions, and change-order procedure. Without those details, similar-looking quotes may cover very different work.\\n\\nKey factors:\\n- Check whether labor and materials are separated.\\n- Confirm fixture models, finish allowances, and glass assumptions.\\n- Ask who handles permit applications and inspection scheduling.\\n- Require concealed-condition and owner-change procedures in writing.\\n\\nGive Elite Remodeling & Design the same room information and finish expectations you give other contractors. A consistent scope produces a more useful comparison than collecting several vague totals.",
+        "@type": "Answer",
+        "description": "The estimate should cover demolition, dimensions, base or tile system, waterproofing, plumbing, wall repairs, fixtures, enclosure, ventilation, permits, inspections, cleanup, allowances, exclusions, and change-order terms. Compare itemized scopes, not only totals."
+      }
+    }
+  ],
+  "description": "The estimate should cover demolition, dimensions, base or tile system, waterproofing, plumbing, wall repairs, fixtures, enclosure, ventilation, permits, inspect"
+}

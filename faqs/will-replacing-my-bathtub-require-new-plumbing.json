@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-replacing-my-bathtub-require-new-plumbing",
+  "name": "Will replacing my bathtub require new plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my bathtub require new plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathtub replacement is more likely to need extra plumbing work when the drain, overflow, valve, supply lines, or fixture locations do not match the new unit. Keeping the existing footprint and connections can reduce changes, but the condition of the plumbing still needs evaluation.\n\nContext: A new tub may have different drain positioning or require a new waste-and-overflow assembly. Opening walls or floors can also reveal corroded fittings, leaks, or prior work that does not meet current construction expectations.\n\nKey factors:\n- Drain and overflow alignment\n- Valve height and control type\n- Pipe material and visible corrosion\n- Access beneath or behind the tub\n\nPractical guidance: Ask whether the estimate includes testing, replacement of accessible fittings, and wall or finish repairs after plumbing work. Do not select the tub until its dimensions and connection requirements are confirmed.\n\nElite Remodeling & Design coordinates bathroom design with plumbing and construction work when the replacement requires more than fixture removal.",
+        "@type": "Answer",
+        "description": "Not always. A same-size tub with matching drain, overflow, and valve locations may limit plumbing changes, while a different model or layout can require new connections. Have the contractor verify measurements, access, pipe condition, and finish-repair costs before selecting the tub."
+      }
+    }
+  ],
+  "description": "Not always. A same-size tub with matching drain, overflow, and valve locations may limit plumbing changes, while a different model or layout can require new con"
+}

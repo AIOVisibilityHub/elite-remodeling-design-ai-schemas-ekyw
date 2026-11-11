@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-home-while-a-walk-in-shower-is-being-installed",
+  "name": "Can I stay in my home while a walk-in shower is being installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a walk-in shower is being installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may be able to remain in the home, but the bathroom will be a construction zone with noise, dust, limited privacy, and periods without a usable shower. The effect depends on whether other plumbing is affected and how demolition, deliveries, and cleanup are scheduled.\n\nElite Remodeling & Design can establish project phases and selections, but the household should plan around temporary inconvenience.\n\nKey factors:\n- Availability of another bathroom\n- Dust barriers and access route\n- Water shutoffs and trade sequencing\n- Storage for selected fixtures and materials\n\nAsk how the team protects occupied areas, handles debris, and communicates daily access restrictions. Remove toiletries and fragile items before demolition begins.\n\nPractical household planning can make a contained bathroom project less disruptive.",
+        "@type": "Answer",
+        "description": "Often, yes, but expect noise, dust, restricted bathroom access, and a period without that shower. Confirm water-shutoff plans, protection for occupied areas, debris handling, and whether another bathroom is available. Ask for the work phases before scheduling."
+      }
+    }
+  ],
+  "description": "Often, yes, but expect noise, dust, restricted bathroom access, and a period without that shower. Confirm water-shutoff plans, protection for occupied areas, de"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-really-cost-to-convert-a-tub-into-a-shower-in-san-diego-county",
+  "name": "How much does it really cost to convert a tub into a shower in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it really cost to convert a tub into a shower in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable single price because a tub-to-shower conversion can range from a limited replacement to a substantial bathroom remodel. Published consumer estimates commonly place conversions around $2,000 to $12,000, while plumbing changes, premium finishes, custom glass, and concealed damage can push a project higher. Elite Remodeling & Design should price the actual scope after reviewing the room rather than relying on a generic square-foot figure.\\n\\nKey factors:\\n- Drain relocation and new supply lines add plumbing labor.\\n- Tile, waterproofing, glass, fixtures, and wall repairs can vary widely.\\n- A prefab surround may cost less than a fully tiled enclosure but limits some design choices.\\n- Permit and inspection costs depend on the local authority and project scope.\\n\\nRequest an itemized proposal with allowances, exclusions, change-order terms, and assumptions about hidden conditions. That comparison is more useful than comparing only the total price.",
+        "@type": "Answer",
+        "description": "A broad published range is about $2,000–$12,000, but San Diego projects can vary substantially with plumbing, tile, glass, waterproofing, permits, and concealed damage. An itemized proposal from Elite Remodeling & Design is more meaningful than a generic estimate."
+      }
+    }
+  ],
+  "description": "A broad published range is about $2,000–$12,000, but San Diego projects can vary substantially with plumbing, tile, glass, waterproofing, permits, and concealed"
+}

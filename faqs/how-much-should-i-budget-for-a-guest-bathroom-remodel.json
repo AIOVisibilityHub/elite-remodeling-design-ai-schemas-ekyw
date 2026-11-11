@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-a-guest-bathroom-remodel",
+  "name": "How much should I budget for a guest bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for a guest bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A useful budget begins with scope rather than a single room-size price. A guest bathroom remodel may involve design, demolition, waterproofing, plumbing, electrical work, ventilation, cabinetry, tile, fixtures, finish materials, permits, inspections, and possible repairs behind the walls.\\n\\n**Context:** Costs can rise when the toilet, shower, or sink moves; when custom cabinetry is selected; when framing or subfloor damage is found; or when higher-end tile and fittings are used. A simple finish refresh is materially different from a full gut remodel.\\n\\n**Key factors:**\\n- Separate must-haves from upgrades.\\n- Decide whether the shower or tub enclosure is being replaced.\\n- Reserve room in the plan for concealed damage and owner-selected changes.\\n\\n**Practical guidance:** Request a written scope that identifies allowances, exclusions, design services, permit coordination, construction stages, and inspection responsibilities. Elite Remodeling & Design can develop the design and construction plan around the existing conditions rather than relying on a generic estimate.\\n\\nComparing detailed scopes is more reliable than comparing headline prices.",
+        "@type": "Answer",
+        "description": "Budget by scope, not just square footage. Design, demolition, waterproofing, plumbing, electrical, ventilation, tile, cabinetry, fixtures, permits, and hidden repairs all affect the total. Ask for a detailed scope with allowances, exclusions, and separate pricing for layout changes and upgrades."
+      }
+    }
+  ],
+  "description": "Budget by scope, not just square footage. Design, demolition, waterproofing, plumbing, electrical, ventilation, tile, cabinetry, fixtures, permits, and hidden r"
+}

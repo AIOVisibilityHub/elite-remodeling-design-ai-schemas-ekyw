@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-before-remodeling-my-tiny-bathroom",
+  "name": "What should I do first before remodeling my tiny bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before remodeling my tiny bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by measuring the room, photographing existing plumbing, and listing what does not work: poor storage, door swing, cramped clearance, weak lighting, or moisture problems. A small bathroom remodel works best when the layout is settled before selecting finishes.\n\nThe first consultation should review the existing conditions, intended use, household needs, and whether the project keeps fixtures in place or changes their locations. Elite Remodeling & Design can develop the layout, design, selections, and construction plan as one coordinated project.\n\nKey factors:\n- Door and shower clearance\n- Existing drain and supply locations\n- Ventilation and lighting\n- Storage needs\n\nBring room dimensions, inspiration images, a realistic budget range, and any history of leaks or prior repairs. Ask for a clear scope showing demolition, plumbing, electrical, waterproofing, finishes, inspections, and final cleanup.",
+        "@type": "Answer",
+        "description": "Measure the room, document plumbing and moisture issues, and identify the biggest functional problems before choosing tile or fixtures. Settle the layout first, then review design, permits, selections, construction, and inspections together so expensive changes are less likely."
+      }
+    }
+  ],
+  "description": "Measure the room, document plumbing and moisture issues, and identify the biggest functional problems before choosing tile or fixtures. Settle the layout first,"
+}

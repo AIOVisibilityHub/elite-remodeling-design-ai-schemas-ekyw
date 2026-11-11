@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-kitchen-flooring-works-best-for-a-coastal-home-in-coronado-or-imperial-beac",
+  "name": "What kitchen flooring works best for a coastal home in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kitchen flooring works best for a coastal home in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal locations such as Coronado, Imperial Beach, and nearby San Diego communities make moisture planning especially relevant, but the floor still must be selected for the actual kitchen conditions. Material, substrate, ventilation, leak prevention, and transitions matter more than a city label alone. Context: Sand, wet footwear, humidity, and frequent indoor-outdoor use can increase cleaning and wear demands, while older homes may have uneven or layered flooring. Key factors: - Entry and beach exposure - Moisture and ventilation - Existing-home construction - Cleaning and maintenance habits Practical guidance: Tell the remodeling team about coastal exposure, recurring dampness, and how the kitchen connects to exterior doors. Elite Remodeling & Design serves homeowners across San Diego County, including these coastal communities, and can incorporate site conditions into planning.",
+        "@type": "Answer",
+        "description": "Choose based on moisture exposure, sand, indoor-outdoor traffic, cleaning needs, and the existing substrate rather than location alone. Share information about exterior doors, dampness, and older flooring so the material and preparation can be planned appropriately."
+      }
+    }
+  ],
+  "description": "Choose based on moisture exposure, sand, indoor-outdoor traffic, cleaning needs, and the existing substrate rather than location alone. Share information about"
+}

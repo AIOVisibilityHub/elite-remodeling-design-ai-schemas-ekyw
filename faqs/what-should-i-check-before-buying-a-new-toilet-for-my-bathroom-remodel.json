@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-buying-a-new-toilet-for-my-bathroom-remodel",
+  "name": "What should I check before buying a new toilet for my bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before buying a new toilet for my bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet should be selected for the room’s clearances, rough-in measurement, bowl shape, seat height, flush performance, and cleaning needs—not just its appearance. Replacing an existing toilet may be straightforward, but a new location or different rough-in can affect flooring, drainage, framing, and inspection work. Elite Remodeling & Design can coordinate fixture selection with the overall bathroom layout. Key factors include: - Existing drain and supply positions - Distance from walls and adjacent fixtures - User comfort and accessibility - Availability of replacement parts. Measure the existing rough-in and confirm the manufacturer’s dimensions before ordering. Keep the product specification available for the installer and avoid substitutions without checking fit.",
+        "@type": "Answer",
+        "description": "Confirm the rough-in, bowl shape, height, clearances, supply location, flush system, seat compatibility, and replacement-part availability. A different toilet can affect flooring, drainage, or adjacent fixture spacing, so verify dimensions before ordering."
+      }
+    }
+  ],
+  "description": "Confirm the rough-in, bowl shape, height, clearances, supply location, flush system, seat compatibility, and replacement-part availability. A different toilet c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-the-new-bathtub-surround-will-not-leak",
+  "name": "How do I know the new bathtub surround will not leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know the new bathtub surround will not leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub surround is not automatically waterproof simply because it is made from a water-resistant material. The wall system, seams, penetrations, transitions, substrate, and installation method must work together to direct water away from framing and finished walls.\n\nContext: Tile surrounds and prefabricated panels use different installation approaches. The important question is how the complete wet-area assembly is prepared and sealed, not only whether the surface looks attractive.\n\nKey factors:\n- Substrate and waterproofing method\n- Sealing at corners, fixtures, and tub flange\n- Compatibility between tub and wall system\n- Access around plumbing penetrations\n\nPractical guidance: Ask for the proposed wall assembly and how penetrations, niches, shelves, and the tub-to-wall transition will be treated. Photograph concealed work before it is covered when possible.\n\nElite Remodeling & Design can coordinate tub, wall finish, plumbing, and design decisions as one bathroom construction scope.",
+        "@type": "Answer",
+        "description": "Ask how the substrate, waterproofing, seams, corners, fixture penetrations, tub flange, and wall transition will be handled. A water-resistant panel alone does not guarantee a watertight assembly. Confirm the installation system and document concealed work before finishes cover it."
+      }
+    }
+  ],
+  "description": "Ask how the substrate, waterproofing, seams, corners, fixture penetrations, tub flange, and wall transition will be handled. A water-resistant panel alone does"
+}

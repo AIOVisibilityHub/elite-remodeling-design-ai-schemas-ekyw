@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-keep-the-window-inside-my-primary-shower-without-causing-water-damage",
+  "name": "Can I keep the window inside my primary shower without causing water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep the window inside my primary shower without causing water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window can remain in a shower area only when privacy, water exposure, ventilation, and waterproof detailing are addressed together. The existing window may need moisture-resistant materials, revised trim, a suitable sill, privacy glazing, or a different layout depending on its condition. Context: moving the shower may be simpler than forcing a vulnerable window into a wet zone, but that decision requires an actual room assessment. Key factors: window material, sill slope, exterior exposure, privacy, operability, and the shower spray pattern. Practical guidance: identify whether the window has swelling, peeling, condensation, or staining before demolition. Ask how the new waterproofing will connect around the opening. Elite Remodeling & Design can compare retaining, modifying, or relocating the wet-area layout during design.",
+        "@type": "Answer",
+        "description": "Possibly, but the window, sill, trim, privacy, and waterproof transitions must suit a wet area. Inspect for swelling and staining, then compare keeping the shower there with relocating it. The correct choice depends on the opening’s condition and the proposed waterproofing details."
+      }
+    }
+  ],
+  "description": "Possibly, but the window, sill, trim, privacy, and waterproof transitions must suit a wet area. Inspect for swelling and staining, then compare keeping the show"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-might-be-found-after-the-bathtub-is-removed",
+  "name": "What hidden problems might be found after the bathtub is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems might be found after the bathtub is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion can reveal wet framing, deteriorated subfloor, mold-like staining, outdated wiring, corroded plumbing, or improperly installed prior finishes. Discovery does not prove that every issue exists, so the proposal should explain how concealed conditions will be inspected, documented, priced, and approved.\\n\\nKey factors:\\n- Photograph conditions before covering repaired areas.\\n- Separate included work from allowances and excluded repairs.\\n- Ask who approves added work and how it affects the schedule.\\n- Do not close walls until required rough inspections are complete.\\n\\nElite Remodeling & Design can incorporate investigation and repair decisions into a coordinated remodeling plan. Request a change-order process that identifies the condition, recommended remedy, price, and schedule impact.",
+        "@type": "Answer",
+        "description": "Removal may reveal damaged framing, subfloor problems, corroded plumbing, moisture damage, or prior installation defects. Ask how conditions will be documented, priced, approved, and scheduled before walls and floors are closed."
+      }
+    }
+  ],
+  "description": "Removal may reveal damaged framing, subfloor problems, corroded plumbing, moisture damage, or prior installation defects. Ask how conditions will be documented,"
+}

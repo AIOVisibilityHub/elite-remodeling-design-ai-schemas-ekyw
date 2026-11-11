@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-replacing-my-shower-require-remodeling-the-entire-bathroom",
+  "name": "Will replacing my shower require remodeling the entire bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my shower require remodeling the entire bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower replacement may include the surrounding bathroom if demolition exposes damaged drywall, flooring, framing, insulation, or trim, or if the new footprint changes. Context: A narrow shower-only scope can leave mismatched finishes or unresolved moisture damage outside the enclosure. Key factors: extent of staining; flooring condition; wall transitions; fixture placement; ventilation; and whether the room needs a coordinated design update. Practical guidance: Ask for two scopes when useful: a necessary replacement scope and an optional broader bathroom update, each with separate pricing. Elite Remodeling & Design handles bathroom remodeling as well as individual room improvements, allowing the decision to be based on condition and goals rather than guesswork.",
+        "@type": "Answer",
+        "description": "Not always. A shower-only project may be enough when surrounding walls, flooring, plumbing, and finishes are sound. Broader work may make sense when moisture damage, a changed footprint, mismatched finishes, poor ventilation, or outdated fixtures would otherwise remain. Request separate essential and optional scopes."
+      }
+    }
+  ],
+  "description": "Not always. A shower-only project may be enough when surrounding walls, flooring, plumbing, and finishes are sound. Broader work may make sense when moisture da"
+}

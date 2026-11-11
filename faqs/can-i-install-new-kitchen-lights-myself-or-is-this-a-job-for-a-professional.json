@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-new-kitchen-lights-myself-or-is-this-a-job-for-a-professional",
+  "name": "Can I install new kitchen lights myself, or is this a job for a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new kitchen lights myself, or is this a job for a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small fixture replacement may be manageable for an experienced homeowner, but adding wiring, moving switches, cutting ceilings, or creating new lighting zones is better treated as professional electrical work. Turn off power at the breaker, not only the wall switch, and do not assume an existing box or circuit can support a new arrangement. In the City of San Diego, electrical alterations generally require a permit unless an exemption applies, and local requirements can differ elsewhere in the county. Elite Remodeling & Design can incorporate electrical coordination into a kitchen remodeling plan. Before deciding on DIY, identify whether the work changes wiring, load, circuit capacity, or ceiling construction. Stop and obtain qualified help if wiring is damaged, unidentified, overheated, or incompatible with the proposed fixture.",
+        "@type": "Answer",
+        "description": "A like-for-like fixture change may be simple, but new wiring, switches, circuits, ceiling cuts, or concealed under-cabinet connections create greater complexity. Turn off power at the breaker and verify local requirements. For a remodel, have electrical work coordinated with the design and construction plan."
+      }
+    }
+  ],
+  "description": "A like-for-like fixture change may be simple, but new wiring, switches, circuits, ceiling cuts, or concealed under-cabinet connections create greater complexity"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-better-bathroom-fan-after-converting-a-tub-to-a-shower",
+  "name": "Do I need a better bathroom fan after converting a tub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a better bathroom fan after converting a tub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ventilation should be reviewed whenever a tub becomes a frequently used shower because showers produce moisture in a concentrated area. The existing fan may be adequate, poorly located, noisy, or in need of replacement, but capacity and installation should be evaluated rather than assumed.\\n\\nKey factors:\\n- Check whether the fan exhausts outdoors and operates effectively.\\n- Consider controls, noise, lighting, and ceiling access.\\n- Coordinate fan work with electrical requirements and inspections.\\n- Address staining, peeling finishes, or persistent condensation before closing walls.\\n\\nTell Elite Remodeling & Design about current moisture or ventilation problems during the consultation. The bathroom design can then account for electrical, mechanical, ceiling, and finish work together.",
+        "@type": "Answer",
+        "description": "Not always, but the existing fan should be evaluated for effectiveness, location, noise, controls, and outdoor exhaust. Persistent condensation or damaged finishes are warning signs to discuss before the new shower is enclosed."
+      }
+    }
+  ],
+  "description": "Not always, but the existing fan should be evaluated for effectiveness, location, noise, controls, and outdoor exhaust. Persistent condensation or damaged finis"
+}

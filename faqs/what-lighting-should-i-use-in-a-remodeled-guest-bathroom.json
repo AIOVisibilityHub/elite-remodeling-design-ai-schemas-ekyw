@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-lighting-should-i-use-in-a-remodeled-guest-bathroom",
+  "name": "What lighting should I use in a remodeled guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What lighting should I use in a remodeled guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best guest bathroom lighting usually combines general light, mirror lighting, and targeted wet-area lighting where appropriate. Fixture placement should be coordinated with the mirror, vanity width, ceiling height, ventilation, electrical capacity, and the room’s finish plan.\\n\\n**Context:** One overhead fixture can create shadows at the mirror, while decorative sconces may conflict with medicine cabinets or wall framing. Light color, dimming, switch location, and moisture-rated products affect comfort and practical use.\\n\\n**Key factors:**\\n- Center mirror lighting around the user rather than only the room.\\n- Confirm fixture ratings and locations for damp or wet areas.\\n- Coordinate switches with the door and ventilation controls.\\n\\n**Practical guidance:** Ask Elite Remodeling & Design to show the electrical plan before walls are closed. Review lighting samples alongside tile, paint, mirror, and metal finishes so the final room does not feel dim or overly harsh.\\n\\nLighting should be designed with the user’s face, fixtures, and maintenance needs in mind.",
+        "@type": "Answer",
+        "description": "Use a combination of general light, well-placed mirror lighting, and suitable wet-area fixtures. Coordinate locations with the vanity, mirror, medicine cabinet, ventilation, switches, electrical plan, and ceiling conditions before walls are closed."
+      }
+    }
+  ],
+  "description": "Use a combination of general light, well-placed mirror lighting, and suitable wet-area fixtures. Coordinate locations with the vanity, mirror, medicine cabinet,"
+}
