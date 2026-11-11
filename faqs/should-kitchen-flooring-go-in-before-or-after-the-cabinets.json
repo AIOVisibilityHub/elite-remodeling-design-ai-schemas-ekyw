@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-kitchen-flooring-go-in-before-or-after-the-cabinets",
+  "name": "Should kitchen flooring go in before or after the cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should kitchen flooring go in before or after the cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose flooring based on moisture exposure, traffic, cleaning habits, transitions to adjoining rooms, appliance movement, and whether the floor will continue beneath cabinets. Replacing flooring before cabinets can create a cleaner continuous surface, but it may affect height, transitions, and installation sequencing. Context: Tile, engineered wood, resilient flooring, and other options have different maintenance and repair considerations. Existing floors may also be uneven or damaged after cabinet removal. Key factors: - Water resistance and slip concerns. - Finished floor height and appliance clearance. - Matching or separating adjacent spaces. Practical guidance: Decide whether cabinets sit on or above the finished floor with the contractor and flooring installer, then confirm dishwasher and refrigerator removal access. Order enough material for cuts and future repairs when the product may be discontinued. Soft positioning: Elite Remodeling & Design can coordinate flooring decisions with cabinetry, demolition, and finish sequencing.",
+        "@type": "Answer",
+        "description": "The answer depends on the flooring material, cabinet plan, finished height, appliance clearances, transitions, and access for future repairs. Decide the sequence before installation and confirm how the dishwasher and refrigerator will be removed. A continuous floor may look cleaner, but it is not the only workable approach."
+      }
+    }
+  ],
+  "description": "The answer depends on the flooring material, cabinet plan, finished height, appliance clearances, transitions, and access for future repairs. Decide the sequenc"
+}

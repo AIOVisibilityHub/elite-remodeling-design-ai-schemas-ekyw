@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-for-a-kitchen-remodel-in-san-diego-chula-vista-or-coronado",
+  "name": "Do I need permits for a kitchen remodel in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen remodel in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the City of San Diego, permit needs depend on the work, property, and project conditions; electrical, mechanical, plumbing, structural, exterior, and certain remodeling work may require permits, while some minor cabinet or countertop changes may qualify for limited exceptions. Other jurisdictions, including Chula Vista, Coronado, National City, and Imperial Beach, may apply their own procedures. Context: City guidance states that code compliance still applies even when a permit is not required, and historic resources or districts can change the review path. Key factors: - Whether walls or structural elements change. - Whether plumbing fixtures, circuits, gas, or ventilation move. - The property’s municipality and historic status. Practical guidance: Confirm requirements with the applicable building department before demolition and ask the contractor to identify who prepares, submits, schedules, and closes permits. Keep approved plans and inspection records with the project file. Soft positioning: Elite Remodeling & Design includes permit coordination within its published design-to-construction process when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the city and the work. Moving walls, changing plumbing, adding circuits, modifying ventilation, or altering structural elements commonly requires review, while limited cosmetic work may not. Confirm the applicable city’s rules before starting, and ask Elite Remodeling & Design how permit coordination fits into the proposed scope."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the city and the work. Moving walls, changing plumbing, adding circuits, modifying ventilation, or altering structural elements co"
+}

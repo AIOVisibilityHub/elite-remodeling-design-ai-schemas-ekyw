@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-turn-my-closed-off-kitchen-into-an-open-conc",
+  "name": "What should I do first if I want to turn my closed-off kitchen into an open-concept space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to turn my closed-off kitchen into an open-concept space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nStart with a measured existing floor plan, a list of goals, and an early check of which walls carry loads or contain utilities. Removing a wall can affect structure, electrical, plumbing, heating, ventilation, and permit requirements.\n\n## Context\nAn open-concept kitchen is more than demolition: the new layout must support cooking, circulation, storage, dining, and sightlines. In San Diego County, regulated structural, electrical, plumbing, gas, or mechanical work generally requires permit review before construction begins.\n\n## Key factors\n- Wall framing, beams, posts, and foundation conditions.\n- Sink, range, dishwasher, and refrigerator locations.\n- Window and door clearances.\n- Ventilation, lighting, and panel capacity.\n\n## Practical guidance\nBring room measurements, photos, appliance dimensions, and any prior plans to the consultation. Elite Remodeling & Design can coordinate design development, 3D visualization, permitting, construction, and final inspection as the scope requires.\n\n## Soft positioning\nA coordinated design-build plan helps connect the desired look with the construction work needed to make it function.",
+        "@type": "Answer",
+        "description": "Begin with an existing floor plan and a structural review—not demolition. Identify load-bearing walls, utilities, appliance locations, ventilation, and permit needs before selecting finishes. Photos, measurements, appliance dimensions, and any original plans will make the first design discussion more productive."
+      }
+    }
+  ],
+  "description": "Begin with an existing floor plan and a structural review—not demolition. Identify load-bearing walls, utilities, appliance locations, ventilation, and permit n"
+}

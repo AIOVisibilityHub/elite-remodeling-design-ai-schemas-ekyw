@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-during-a-kitchen-addition-or-do-i-need-to-move-out",
+  "name": "Can I stay in my house during a kitchen addition, or do I need to move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house during a kitchen addition, or do I need to move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A temporary kitchen can work when the project is properly phased, but an occupied-home expansion still creates dust, noise, access restrictions, and utility interruptions. Elite Remodeling & Design can discuss sequencing and site coordination during planning.\n\n**Context:** Keeping part of the kitchen active may reduce convenience but extend the schedule or limit demolition access. Closing the full kitchen may shorten some phases while requiring a stronger temporary setup.\n\n**Key factors:**\n- Which walls and utilities are being altered\n- Safe separation between living and work areas\n- Material storage and delivery access\n- Household schedule and occupant needs\n\n**Practical guidance:** Decide whether speed or continued partial use matters more. Ask for a site-protection plan covering dust barriers, daily cleanup, material storage, pets, children, and access to the rest of the home.\n\nA realistic occupancy plan reduces stress and protects finished areas.",
+        "@type": "Answer",
+        "description": "Many homeowners remain in the house, but the decision depends on demolition, utility interruptions, dust, noise, access, and household needs. Ask Elite Remodeling & Design for a site-protection and phasing plan, then decide whether partial occupancy is practical."
+      }
+    }
+  ],
+  "description": "Many homeowners remain in the house, but the decision depends on demolition, utility interruptions, dust, noise, access, and household needs. Ask Elite Remodeli"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-move-the-sink-stove-and-plumbing-when-i-open-up-my-kitchen",
+  "name": "Should I move the sink, stove, and plumbing when I open up my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move the sink, stove, and plumbing when I open up my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nMove utilities only when the new layout improves function enough to justify the added cost and construction complexity. Keeping the sink, dishwasher, and cooktop near existing connections may preserve budget, while a better work pattern may justify relocation.\n\n## Context\nAn open-concept conversion often shifts the sink, range, refrigerator, outlets, lighting, and ventilation at the same time. Plumbing and gas lines may require access below floors or inside walls, and electrical changes can affect circuits and panel capacity.\n\n## Key factors\n- Distance from existing supply and drain lines.\n- Venting and gas route requirements.\n- Floor and ceiling access.\n- Appliance locations and work-zone efficiency.\n\n## Practical guidance\nCompare a “services mostly stay” plan with a fully reorganized plan. Mark every appliance, outlet, switch, light, and fixture on the proposed floor plan before finalizing cabinets.\n\n## Soft positioning\nElite Remodeling & Design brings layout, design, and construction coordination together for utility decisions that affect the whole kitchen.",
+        "@type": "Answer",
+        "description": "Not automatically. Keeping utilities near existing locations can reduce disruption, while relocation may create a much better work pattern. Compare both layouts with plumbing, gas, ventilation, electrical, floor access, and cabinet consequences shown before choosing."
+      }
+    }
+  ],
+  "description": "Not automatically. Keeping utilities near existing locations can reduce disruption, while relocation may create a much better work pattern. Compare both layouts"
+}

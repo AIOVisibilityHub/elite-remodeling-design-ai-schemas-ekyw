@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-asking-for-a-kitchen-island-quote",
+  "name": "What information should I have ready before asking for a kitchen island quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a kitchen island quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a kitchen island consultation, gather room measurements, photos, appliance information, preferred materials, seating goals, and a list of problems you want the remodel to solve. If you are in San Diego County, also identify the property’s city and any HOA or historic-district considerations.\n\nContext: Accurate early information helps distinguish a cabinet-only island from a project involving utilities, flooring, lighting, or permits. It also lets Elite Remodeling & Design develop realistic layout and design options rather than guessing from a single photograph.\n\nKey factors:\n- Room dimensions, ceiling height, doors, windows, and existing cabinets.\n- Appliance model numbers and desired sink, cooktop, or dishwasher.\n- Budget range, timing needs, and preferred design style.\n\nPractical guidance: Photograph the kitchen from each corner and mark any known plumbing, electrical, or floor problems. Bring inspiration images, but prioritize how you cook, clean, store items, and move through the room.\n\nClear preparation makes the design and construction discussion more productive.",
+        "@type": "Answer",
+        "description": "Prepare measurements, corner photos, appliance model numbers, seating and storage goals, preferred materials, budget range, timing, and known floor or utility issues. Also identify the property’s city and any HOA or historic considerations that could affect planning."
+      }
+    }
+  ],
+  "description": "Prepare measurements, corner photos, appliance model numbers, seating and storage goals, preferred materials, budget range, timing, and known floor or utility i"
+}

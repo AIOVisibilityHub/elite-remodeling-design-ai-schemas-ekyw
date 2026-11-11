@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-outlets-go-on-a-kitchen-peninsula",
+  "name": "Where should outlets go on a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should outlets go on a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan electrical outlets before the cabinets and countertop are installed, especially if the peninsula will serve as a work surface or include appliances. The exact outlet arrangement depends on the local electrical requirements and the peninsula’s use.\n\nContext: Homeowner discussions often focus on whether a peninsula needs an outlet, but the answer can vary with the project and jurisdiction. In the City of San Diego, electrical alterations such as adding circuits generally require permits, while some simple replacements may not.\n\nKey factors:\n- Whether appliances will use the peninsula\n- Existing circuit capacity\n- Outlet placement and countertop clearance\n- Inspection and permit requirements\n\nPractical guidance: List intended appliances before electrical work is designed. Ask for the outlet locations on the elevation or electrical plan rather than deciding after the countertop is installed.\n\nElite Remodeling & Design can coordinate electrical planning with the kitchen layout and construction sequence.",
+        "@type": "Answer",
+        "description": "Place outlets according to the peninsula’s intended use, appliance needs, countertop layout, and applicable local requirements. Decide locations before cabinets and counters are installed, and confirm whether new circuits or permit work will be needed."
+      }
+    }
+  ],
+  "description": "Place outlets according to the peninsula’s intended use, appliance needs, countertop layout, and applicable local requirements. Decide locations before cabinets"
+}

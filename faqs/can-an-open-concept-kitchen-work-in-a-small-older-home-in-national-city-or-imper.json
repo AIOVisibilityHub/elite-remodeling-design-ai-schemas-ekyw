@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-an-open-concept-kitchen-work-in-a-small-older-home-in-national-city-or-imper",
+  "name": "Can an open-concept kitchen work in a small older home in National City or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an open-concept kitchen work in a small older home in National City or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nOpen-concept design can work in a small kitchen, but every inch must support storage, preparation, circulation, or seating. Removing a wall without improving the work zones can make a small room feel larger but function worse.\n\n## Context\nCompact homes in areas such as National City, Imperial Beach, and older San Diego neighborhoods may have tight footprints, unusual additions, or limited storage. A peninsula or tall pantry wall may outperform a large island.\n\n## Key factors\n- Door swings and walking paths.\n- Appliance and cabinet depth.\n- Vertical storage and pantry capacity.\n- Natural light and visual clutter.\n\n## Practical guidance\nPrioritize the refrigerator-to-sink-to-cooktop relationship, then test a compact island or peninsula at full scale. Use integrated appliances, pullouts, and ceiling-height storage only when they fit the budget and access requirements.\n\n## Soft positioning\nElite Remodeling & Design adapts kitchen layouts to existing space and the way each household intends to use it.",
+        "@type": "Answer",
+        "description": "Yes, but a peninsula, compact island, or improved storage wall may work better than a large island. Measure door swings, walkways, appliance depths, and existing utility routes first; older homes may also need closer review of framing, wiring, plumbing, and ventilation."
+      }
+    }
+  ],
+  "description": "Yes, but a peninsula, compact island, or improved storage wall may work better than a large island. Measure door swings, walkways, appliance depths, and existin"
+}

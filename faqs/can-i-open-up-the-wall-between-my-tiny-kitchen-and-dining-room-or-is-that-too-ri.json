@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-open-up-the-wall-between-my-tiny-kitchen-and-dining-room-or-is-that-too-ri",
+  "name": "Can I open up the wall between my tiny kitchen and dining room, or is that too risky?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I open up the wall between my tiny kitchen and dining room, or is that too risky?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a wall may be structural, do not remove or enlarge the opening based on appearance alone. A design-build team can evaluate the proposed change, coordinate any required structural design, and determine how it affects utilities, permits, schedule, and cost. Elite Remodeling & Design can compare a wall-opening concept with layout changes that preserve the existing structure. Key factors include roof or floor loads, wall direction, posts, beams, plumbing, electrical routes, and exterior-wall conditions. Photograph both sides of the wall and note attic, crawl-space, or upper-floor relationships. Treat structural review as an early decision, not a demolition-day discovery.",
+        "@type": "Answer",
+        "description": "Possibly, but never assume a wall is nonstructural. Review loads, beams, posts, utilities, and permit implications before demolition. A layout that preserves the wall may deliver a similar openness with less structural complexity and disruption."
+      }
+    }
+  ],
+  "description": "Possibly, but never assume a wall is nonstructural. Review loads, beams, posts, utilities, and permit implications before demolition. A layout that preserves th"
+}

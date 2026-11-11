@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-while-the-kitchen-is-being-remodeled",
+  "name": "Can I stay in my house while the kitchen is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the kitchen is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can remain in the home during a kitchen remodel if the work area is safely isolated and you have a realistic temporary plan for meals, dishes, refrigeration, dust, noise, pets, and children. The decision becomes harder when demolition affects multiple rooms, utilities, or indoor air quality. Context: A construction schedule should identify when water, power, gas, or access will be interrupted. Short-term relocation may be worthwhile during demolition or major utility work. Key factors: - Whether another sink, refrigerator, or cooking appliance is available. - Dust-control and daily cleanup arrangements. - Household work schedules and health sensitivities. Practical guidance: Set up a temporary food station before demolition, remove fragile belongings, and agree on access hours and site-protection measures. Ask when the kitchen will be usable even if final trim remains. Soft positioning: Elite Remodeling & Design can discuss sequencing and site coordination during project planning.",
+        "@type": "Answer",
+        "description": "Often, yes, if the work zone is isolated and you can manage temporary cooking, refrigeration, dishes, dust, noise, and utility interruptions. Set up a temporary kitchen first and ask for the demolition, utility-shutdown, access, and cleanup schedule. Major layout or multi-room work may make temporary relocation easier."
+      }
+    }
+  ],
+  "description": "Often, yes, if the work zone is isolated and you can manage temporary cooking, refrigeration, dishes, dust, noise, and utility interruptions. Set up a temporary"
+}

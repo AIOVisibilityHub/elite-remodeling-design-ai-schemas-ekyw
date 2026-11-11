@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-space-should-be-between-a-kitchen-island-and-the-cabinets",
+  "name": "How much space should be between a kitchen island and the cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space should be between a kitchen island and the cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A practical island layout usually preserves about 42 inches between opposing work surfaces, with more room helpful when two people cook or when appliance doors open into the aisle. The exact fit depends on cabinet depth, stools, appliances, and how the household uses the kitchen.\n\nContext: Clearances are not merely cosmetic. A dishwasher door, open drawer, and person can occupy the same area, so a plan that measures adequately when empty may feel crowded during real use.\n\nKey factors:\n- Measure countertop edge to countertop edge, not wall to cabinet centerlines.\n- Account for handles, trim, overhangs, and appliance doors.\n- Test both working aisles and the main walking path.\n\nPractical guidance: Use painter’s tape or temporary cardboard to represent the island, then open every nearby appliance and pull out drawers. Ask Elite Remodeling & Design to review the scaled layout before fabrication.\n\nA coordinated design review can prevent costly changes after cabinets or countertops are installed.",
+        "@type": "Answer",
+        "description": "Plan for roughly 42 inches between opposing work surfaces, with additional room useful for two cooks or appliance doors. Measure the actual countertop edges, include handles and overhangs, and test the layout with tape before ordering materials."
+      }
+    }
+  ],
+  "description": "Plan for roughly 42 inches between opposing work surfaces, with additional room useful for two cooks or appliance doors. Measure the actual countertop edges, in"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-outlets-go-on-a-kitchen-island",
+  "name": "Where should outlets go on a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should outlets go on a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Island outlets should be planned with the countertop layout, appliance locations, and applicable electrical requirements in mind; they should not be added as an afterthought. New or relocated circuits in the City of San Diego generally require electrical permitting, and other jurisdictions may have separate procedures.\n\nContext: The number and placement of receptacles depend on the island’s size, surface arrangement, and intended appliances. GFCI protection and required circuit arrangements may apply to kitchen receptacles, so a qualified electrical professional should confirm the current requirements.\n\nKey factors:\n- Island length and divided countertop areas.\n- Small-appliance, dishwasher, disposal, microwave, or cooktop loads.\n- Outlet placement that remains accessible without cluttering the design.\n\nPractical guidance: Provide the electrician with the final cabinet and appliance drawings before wiring. Elite Remodeling & Design can coordinate electrical planning with the kitchen layout rather than cutting openings after installation.\n\nThis sequencing helps protect the countertop and cabinetry from avoidable modifications.",
+        "@type": "Answer",
+        "description": "Place outlets according to the island’s size, countertop arrangement, appliances, and current electrical requirements. Plan them with the cabinet and countertop drawings, and have a qualified electrician confirm circuit, GFCI, and permitting needs before installation."
+      }
+    }
+  ],
+  "description": "Place outlets according to the island’s size, countertop arrangement, appliances, and current electrical requirements. Plan them with the cabinet and countertop"
+}

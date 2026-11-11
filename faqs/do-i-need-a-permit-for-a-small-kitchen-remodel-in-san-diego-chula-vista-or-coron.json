@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-small-kitchen-remodel-in-san-diego-chula-vista-or-coron",
+  "name": "Do I need a permit for a small kitchen remodel in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a small kitchen remodel in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume a kitchen project is permit-free simply because the room is small. In the City of San Diego, cabinet and countertop relocation may qualify for a no-plan permit in certain single-dwelling, duplex, or townhouse situations, while electrical, plumbing, mechanical, structural, or exterior changes can require permits or plans. Requirements can differ in Chula Vista, Coronado, National City, Imperial Beach, and other jurisdictions. Elite Remodeling & Design can include permit coordination in the project plan when the scope calls for it. Provide the property address, existing plans if available, and a complete list of proposed changes. Ask which work is exempt, which needs approval, and how inspections affect the schedule.",
+        "@type": "Answer",
+        "description": "Maybe. Permit needs depend on the exact work and jurisdiction: cabinet-only changes may differ from electrical, plumbing, mechanical, structural, or exterior changes. In the City of San Diego, some qualifying cabinet and countertop relocations have no-plan pathways, but the work must still meet applicable requirements."
+      }
+    }
+  ],
+  "description": "Maybe. Permit needs depend on the exact work and jurisdiction: cabinet-only changes may differ from electrical, plumbing, mechanical, structural, or exterior ch"
+}

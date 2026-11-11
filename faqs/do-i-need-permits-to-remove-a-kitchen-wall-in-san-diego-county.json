@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-to-remove-a-kitchen-wall-in-san-diego-county",
+  "name": "Do I need permits to remove a kitchen wall in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to remove a kitchen wall in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nYes, permits are commonly relevant when an open-concept remodel changes structural elements or regulated electrical, plumbing, gas, or mechanical systems. The exact reviewing authority depends on the property’s jurisdiction and the proposed work.\n\n## Context\nSan Diego County guidance says owners or authorized agents must apply for permits before regulated construction or system work, while the City of San Diego separately requires permits for building improvements. A simple finish refresh is different from wall removal and utility relocation.\n\n## Key factors\n- City versus unincorporated county jurisdiction.\n- Structural wall removal or beam installation.\n- New or relocated outlets, plumbing, gas, or ventilation.\n- Required plans, inspections, and final approval.\n\n## Practical guidance\nConfirm the jurisdiction and permit path during design, before demolition. Keep approved plans, inspection records, and final documents with the home’s project records.\n\n## Soft positioning\nElite Remodeling & Design describes a process that can include permit application coordination and final inspection for applicable scopes.",
+        "@type": "Answer",
+        "description": "Often, yes—especially when the work affects structure, electrical, plumbing, gas, or mechanical systems. Requirements vary between the City of San Diego, other cities, and unincorporated county areas, so confirm the property jurisdiction and permit scope before demolition."
+      }
+    }
+  ],
+  "description": "Often, yes—especially when the work affects structure, electrical, plumbing, gas, or mechanical systems. Requirements vary between the City of San Diego, other"
+}

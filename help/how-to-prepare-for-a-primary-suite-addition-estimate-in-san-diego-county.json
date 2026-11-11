@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Primary Suite Addition Estimate in San Diego County",
+  "step": [
+    {
+      "name": "Step 1: Define How the Suite Will Be Used",
+      "text": "Write down who will use the suite, what privacy is needed, and which features matter every day. Include bedroom furnishings, closet type, bathroom fixtures, storage, accessibility considerations, and whether the space may serve changing household needs later. A common mistake is starting with finishes before confirming the room relationships. Mark must-have features separately from preferences so the design can protect the essentials if the scope changes.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Document the Existing Property",
+      "text": "Gather an available floor plan, recent photos, lot information, utility locations if known, and details about prior remodels. Photograph the exterior walls, roof connection areas, crawlspace or foundation access, electrical service, plumbing fixtures, and the proposed addition area. The contractor should verify conditions rather than rely only on homeowner assumptions. Existing framing, drainage, grading, and utility routes can change the practical location and complexity of the suite.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Compare Ground-Floor and Upper-Level Options",
+      "text": "Ask the design team to compare a ground-floor extension with a second-story addition when both are possible. Discuss yard loss, stairs, privacy, structural work, daylight, exterior appearance, construction access, and how each option affects the rest of the home. Done means you can explain why the selected location supports your household better than the alternative. Do not choose solely from a sketch that does not show furniture, doors, windows, storage, and circulation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Develop the Layout and Building Systems Together",
+      "text": "Coordinate the bedroom, bathroom, closets, windows, lighting, outlets, heating and cooling, ventilation, plumbing, and structural connections during design. Placing a new bathroom near feasible plumbing routes may influence the layout, but the design should still support privacy and comfortable movement. For San Diego projects, residential addition guidance includes building plans and may require energy, stormwater, water-meter, and structural information depending on the scope. Treat these requirements as design inputs rather than items to address after selections are complete.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Confirm the Permit and Review Path",
+      "text": "Ask which jurisdiction reviews the property and who prepares and submits the required documents. The City of San Diego states that residential additions require building permits and that additions may also involve electrical, plumbing, mechanical, energy, or other applicable reviews. Confirm the assumptions for zoning, setbacks, historic review, inspections, and any site-specific reports before approving the construction scope. Requirements can differ across San Diego County communities, including San Diego, Chula Vista, Coronado, and surrounding cities.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Request a Detailed, Comparable Estimate",
+      "text": "Provide the same design information to each provider and ask estimates to identify design, permit coordination, demolition, structural work, exterior enclosure, mechanical systems, finishes, inspections, cleanup, and allowances. Ask what is excluded and how owner-selected changes will be handled. A low initial number may not be comparable if it omits design work, permit-related tasks, site protection, or finish allowances. Review scope completeness before comparing totals.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Finalize Selections and the Construction Plan",
+      "text": "Before work begins, approve the layout, windows and doors, plumbing fixtures, cabinets or built-ins, flooring, tile, paint, lighting, and hardware that affect ordering or rough-in locations. Keep the approved plans and selections together with the written scope. Done means the team has a shared record of what will be built and supplied. Avoid making late changes to plumbing walls, window openings, or structural elements without understanding their effect on cost, review, and sequence. Key Takeaways Define how the suite will function before choosing finishes. Verify existing property conditions and compare location options. Coordinate structure, plumbing, electrical, ventilation, and energy requirements early. Confirm the responsible permitting jurisdiction and submission scope. Compare complete written estimates, not just headline totals.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write down who will use the suite, what privacy is needed, and which features matter every day. Include bedroom furnishings, closet type, bathroom fixtures, storage, accessibility considerations, and "
+}

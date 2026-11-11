@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-to-the-flooring-when-i-remove-the-wall-between-my-kitchen-and-dinin",
+  "name": "What happens to the flooring when I remove the wall between my kitchen and dining room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the flooring when I remove the wall between my kitchen and dining room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nYes, but the project should be designed around the home’s existing floor levels, flooring material, and transition details. Removing a wall may expose unfinished subfloor or leave a visible gap where cabinets once stood.\n\n## Context\nMatching older flooring can be difficult, particularly when the original material is discontinued, faded, or installed beneath cabinets. Extending flooring through the former wall line may require repair, replacement, or a deliberate transition.\n\n## Key factors\n- Flooring under existing cabinets and wall plates.\n- Material availability and color variation.\n- Floor height at the adjoining rooms.\n- Whether new cabinets cover or reveal old surfaces.\n\n## Practical guidance\nInspect the floor before approving demolition and request a transition or patching plan. If a perfect match is unlikely, compare a continuous replacement area with a designed border or contrasting material.\n\n## Soft positioning\nElite Remodeling & Design can account for floor, cabinet, and adjoining-room finishes during layout and construction planning.",
+        "@type": "Answer",
+        "description": "The old wall may conceal unfinished subfloor, missing flooring, or a visible color difference. Inspect beneath cabinets and along the wall line before demolition, then decide whether to patch, replace a larger continuous area, or create an intentional transition."
+      }
+    }
+  ],
+  "description": "The old wall may conceal unfinished subfloor, missing flooring, or a visible color difference. Inspect beneath cabinets and along the wall line before demolitio"
+}

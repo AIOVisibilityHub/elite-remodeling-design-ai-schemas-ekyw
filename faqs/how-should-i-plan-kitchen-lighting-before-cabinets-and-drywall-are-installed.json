@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-plan-kitchen-lighting-before-cabinets-and-drywall-are-installed",
+  "name": "How should I plan kitchen lighting before cabinets and drywall are installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I plan kitchen lighting before cabinets and drywall are installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan lighting in layers: general illumination, task lighting at counters and sinks, and accent lighting where it improves display or atmosphere. Lighting should be coordinated with cabinet heights, hood placement, ceiling conditions, switches, dimmers, and electrical capacity before finishes close the walls. Context: Under-cabinet lighting is most useful when the fixture is positioned toward the work surface and controlled separately from room lighting. Natural light, glare, ceiling height, and window locations also affect the plan. Key factors: - Shadow-free work areas. - Color consistency and dimming. - Switch locations and circuit planning. Practical guidance: Mark work zones and switch locations on the layout, then review fixture access for future maintenance. Ask whether added circuits, recessed fixtures, or wall changes affect permits or inspection. Soft positioning: Elite Remodeling & Design can coordinate lighting decisions with cabinetry, electrical planning, and the room’s design.",
+        "@type": "Answer",
+        "description": "Use separate layers for general, task, and accent lighting, then coordinate fixtures with cabinets, the hood, switches, dimmers, windows, and electrical capacity. Mark work zones and control locations on the plan. Finalize lighting before walls close so late changes do not create avoidable rework."
+      }
+    }
+  ],
+  "description": "Use separate layers for general, task, and accent lighting, then coordinate fixtures with cabinets, the hood, switches, dimmers, windows, and electrical capacit"
+}

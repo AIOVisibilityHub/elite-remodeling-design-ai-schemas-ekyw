@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-kitchen-island-be-installed-on-my-existing-floor",
+  "name": "Can a kitchen island be installed on my existing floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a kitchen island be installed on my existing floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An island can be installed over existing flooring only when the floor is sound, level, and compatible with the cabinet footprint. If the island replaces removed cabinets or changes the room’s finished area, matching the flooring underneath may become a visible and costly issue.\n\nContext: Fixed cabinetry can conceal an unfinished patch, but future layout changes may expose it. Stone, cabinets, and appliances also need a stable, reasonably level base.\n\nKey factors:\n- Flooring material, age, condition, and thickness.\n- Whether the island footprint covers an old peninsula or cabinet run.\n- Appliance leveling and transition details.\n\nPractical guidance: Inspect the floor before finalizing the island location and decide whether repairs or replacement should happen first. Elite Remodeling & Design can coordinate flooring with cabinet installation when the island is part of a broader kitchen remodel.\n\nAddressing the floor early avoids visible gaps and height conflicts at the finished countertop.",
+        "@type": "Answer",
+        "description": "Usually, if the floor is stable, level, and finished beneath the planned footprint. Check for hidden unfinished areas, flooring height differences, and damage from removed cabinets before installation; repairing or extending the floor may be easier before the island is fixed."
+      }
+    }
+  ],
+  "description": "Usually, if the floor is stable, level, and finished beneath the planned footprint. Check for hidden unfinished areas, flooring height differences, and damage f"
+}

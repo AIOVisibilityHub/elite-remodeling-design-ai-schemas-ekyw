@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-remodel-my-tiny-kitchen-but-have-no-idea-whe",
+  "name": "What should I do first if I want to remodel my tiny kitchen but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to remodel my tiny kitchen but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by measuring the room, photographing existing conditions, and listing what frustrates you about the current kitchen. Then decide whether the project keeps the existing footprint or changes walls, plumbing, electrical circuits, or ventilation. For Elite Remodeling & Design, those decisions shape the consultation, layout development, 3D visualization, material selections, permit review, and construction plan. Key factors include doorway locations, window and ceiling positions, appliance sizes, storage needs, and whether the kitchen must remain usable during work. Prepare a rough budget, preferred completion window, inspiration images, and a list of must-haves before contacting the team. A coordinated design-build process can reduce gaps between design choices and field work.",
+        "@type": "Answer",
+        "description": "Measure the room, photograph it, list daily problems, and decide whether the existing footprint can stay. Bring appliance dimensions, inspiration images, budget limits, and must-haves to the consultation so Elite Remodeling & Design can evaluate layout, materials, permitting, and construction needs."
+      }
+    }
+  ],
+  "description": "Measure the room, photograph it, list daily problems, and decide whether the existing footprint can stay. Bring appliance dimensions, inspiration images, budget"
+}

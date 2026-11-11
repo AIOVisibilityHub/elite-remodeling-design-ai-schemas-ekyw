@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-questions-should-i-ask-a-kitchen-expansion-contractor-before-signing",
+  "name": "What questions should I ask a kitchen expansion contractor before signing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a kitchen expansion contractor before signing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask for clear documentation of the proposed scope, payment schedule, allowances, change-order process, approval responsibilities, insurance information, schedule assumptions, warranty terms, and who will supervise the work. Also ask how design changes are handled after construction documents are complete.\n\n**Context:** Expansion projects involve more coordination than cabinet replacement, so unclear responsibilities can create delays and unexpected costs. A design-build company may manage multiple stages, but the homeowner should still know what is included.\n\n**Key factors:**\n- Drawings and specifications included\n- Cabinet, appliance, and finish allowances\n- Permit and inspection responsibilities\n- Communication and site-supervision process\n\n**Practical guidance:** Request a written proposal tied to plans and selections. Confirm what happens when concealed conditions, owner changes, material substitutions, or inspection comments affect the scope.\n\nElite Remodeling & Design’s described process includes design development, permit coordination, construction, and final inspection planning.",
+        "@type": "Answer",
+        "description": "Ask for written scope, plans, allowances, exclusions, payment terms, change-order procedures, approval responsibilities, supervision details, schedule assumptions, and warranty terms. Confirm how concealed conditions and owner-requested changes will be documented and priced before signing."
+      }
+    }
+  ],
+  "description": "Ask for written scope, plans, allowances, exclusions, payment terms, change-order procedures, approval responsibilities, supervision details, schedule assumptio"
+}

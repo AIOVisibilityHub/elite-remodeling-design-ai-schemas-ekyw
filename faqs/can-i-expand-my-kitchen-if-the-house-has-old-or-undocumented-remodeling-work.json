@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-expand-my-kitchen-if-the-house-has-old-or-undocumented-remodeling-work",
+  "name": "Can I expand my kitchen if the house has old or undocumented remodeling work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I expand my kitchen if the house has old or undocumented remodeling work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, but not always. The safest approach is to evaluate every prior alteration, verify the current conditions, and identify whether existing work was approved and inspected before designing the expansion.\n\n**Context:** An undocumented addition, relocated utility, or altered wall can affect structural assumptions, plan preparation, and approval requirements. Concealed conditions may also affect cost once finishes are removed.\n\n**Key factors:**\n- Prior permits and inspection records\n- Existing plans versus actual construction\n- Structural connections to the proposed work\n- Utility capacity and routing\n\n**Practical guidance:** Tell Elite Remodeling & Design about previous remodeling, enclosed patios, garage changes, or owner-performed work. Gather old plans, permits, inspection records, and photographs if available rather than withholding uncertainty.\n\nEarly disclosure gives the design and construction team a better basis for planning.",
+        "@type": "Answer",
+        "description": "Possibly, but prior work should be disclosed and reviewed before design approval. Existing plans, permits, inspection records, and photos can help identify structural or utility issues. Undocumented conditions may affect drawings, approvals, scope, and the final budget."
+      }
+    }
+  ],
+  "description": "Possibly, but prior work should be disclosed and reviewed before design approval. Existing plans, permits, inspection records, and photos can help identify stru"
+}

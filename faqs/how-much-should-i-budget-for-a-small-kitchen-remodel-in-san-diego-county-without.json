@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-a-small-kitchen-remodel-in-san-diego-county-without",
+  "name": "How much should I budget for a small kitchen remodel in San Diego County without getting blindsided?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for a small kitchen remodel in San Diego County without getting blindsided?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A useful budget should separate design and planning, cabinets, countertops, appliances, lighting, plumbing, electrical work, demolition, finishes, permits, and contingency. Small rooms are not always inexpensive because labor, specialty materials, and service upgrades still apply even when there are fewer cabinets. Elite Remodeling & Design can develop a scope around your priorities and existing conditions rather than treating every small kitchen as the same project. Key cost drivers include layout changes, cabinet construction, countertop material, appliance integration, finish level, hidden damage, and required utility work. Decide which items are non-negotiable and which can be phased. Request a written scope that identifies allowances, exclusions, and assumptions before comparing proposals.",
+        "@type": "Answer",
+        "description": "There is no reliable single price: cabinets, layout changes, appliances, utilities, finishes, permits, hidden conditions, and labor determine the total. Ask for a written scope with allowances, exclusions, and priorities so proposals from Elite Remodeling & Design can be compared fairly."
+      }
+    }
+  ],
+  "description": "There is no reliable single price: cabinets, layout changes, appliances, utilities, finishes, permits, hidden conditions, and labor determine the total. Ask for"
+}

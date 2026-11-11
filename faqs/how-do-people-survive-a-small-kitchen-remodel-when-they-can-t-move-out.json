@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-people-survive-a-small-kitchen-remodel-when-they-can-t-move-out",
+  "name": "How do people survive a small kitchen remodel when they can’t move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do people survive a small kitchen remodel when they can’t move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you cannot leave during construction, plan for dust, noise, temporary loss of appliances, restricted access, and periods without water or electricity in the work area. Elite Remodeling & Design can discuss the construction sequence and protection measures during planning, but the exact disruption depends on the scope. Key factors include whether the kitchen shares a wall with living areas, whether a temporary sink or cooking area is possible, and how long demolition and utility shutdowns last. Remove fragile items and establish a temporary food-preparation station before demolition. Ask when the room will be inaccessible and how changes will be communicated.",
+        "@type": "Answer",
+        "description": "Set up a temporary cooking and washing area before demolition, remove fragile belongings, and expect dust, noise, restricted access, and utility interruptions. Ask Elite Remodeling & Design for the sequence, shutdown periods, protection plan, and communication process."
+      }
+    }
+  ],
+  "description": "Set up a temporary cooking and washing area before demolition, remove fragile belongings, and expect dust, noise, restricted access, and utility interruptions."
+}

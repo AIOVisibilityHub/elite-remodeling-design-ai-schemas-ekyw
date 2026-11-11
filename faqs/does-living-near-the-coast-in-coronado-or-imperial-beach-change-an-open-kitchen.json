@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-an-open-kitchen",
+  "name": "Does living near the coast in Coronado or Imperial Beach change an open-kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change an open-kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nCoastal location does not automatically require a different kitchen layout, but it can make moisture exposure, salt air, ventilation, and material durability more relevant. The property’s age, proximity to the ocean, existing damage, and indoor-air goals should guide selections.\n\n## Context\nHomes in Coronado, Imperial Beach, and coastal San Diego may experience conditions that affect hardware, finishes, windows, and exterior duct components. A remodel can also uncover moisture-related deterioration around walls, floors, sinks, or exterior openings.\n\n## Key factors\n- Corrosion-resistant hardware and fixtures.\n- Moisture-resistant materials and sound detailing.\n- Exterior hood termination and weather exposure.\n- Existing leaks, staining, or soft framing.\n\n## Practical guidance\nInspect under sinks, around windows, and at exterior walls before finalizing finishes. Ask for material recommendations based on the home’s exposure rather than choosing products from appearance alone.\n\n## Soft positioning\nElite Remodeling & Design can incorporate existing-condition findings into material selection and construction planning.",
+        "@type": "Answer",
+        "description": "It can affect material durability and the review of moisture, corrosion, ventilation, and exterior conditions. Inspect under sinks, near windows, and at exterior walls, then choose hardware and finishes for the home’s exposure instead of relying only on appearance."
+      }
+    }
+  ],
+  "description": "It can affect material durability and the review of moisture, corrosion, ventilation, and exterior conditions. Inspect under sinks, near windows, and at exterio"
+}

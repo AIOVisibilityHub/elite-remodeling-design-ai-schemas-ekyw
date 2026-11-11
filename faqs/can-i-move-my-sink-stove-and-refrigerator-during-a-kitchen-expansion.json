@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-move-my-sink-stove-and-refrigerator-during-a-kitchen-expansion",
+  "name": "Can I move my sink, stove, and refrigerator during a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my sink, stove, and refrigerator during a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating the sink, dishwasher, refrigerator, range, or gas appliance is possible, but each move can increase plumbing, electrical, gas, ventilation, flooring, and approval requirements. The best arrangement depends on existing utility routes and the desired work zones.\n\n**Context:** Moving plumbing through a slab or extending gas and electrical services can create more demolition and restoration. Appliance specifications must be confirmed before cabinets and rough-ins are finalized.\n\n**Key factors:**\n- Distance from existing supply and drain lines\n- Venting route and hood requirements\n- Electrical circuit capacity and locations\n- Appliance dimensions and manufacturer clearances\n\n**Practical guidance:** Choose appliances early and provide their model information. Ask for a utility plan showing new outlets, water, drain, gas, and ventilation points before rough construction begins.\n\nElite Remodeling & Design can coordinate layout, selections, and construction requirements in one plan.",
+        "@type": "Answer",
+        "description": "Yes, but moving appliances can require new plumbing, electrical circuits, gas lines, ventilation, floor repairs, and approvals. Provide appliance specifications early and request a utility plan so the new locations are confirmed before cabinets and walls are built."
+      }
+    }
+  ],
+  "description": "Yes, but moving appliances can require new plumbing, electrical circuits, gas lines, ventilation, floor repairs, and approvals. Provide appliance specifications"
+}

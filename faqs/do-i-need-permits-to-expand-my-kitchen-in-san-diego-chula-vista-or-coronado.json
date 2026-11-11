@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-to-expand-my-kitchen-in-san-diego-chula-vista-or-coronado",
+  "name": "Do I need permits to expand my kitchen in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to expand my kitchen in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are commonly required when a kitchen expansion changes structure, plumbing, electrical systems, gas lines, walls, windows, or the building footprint. The City of San Diego states that construction, expansion, alteration, and renovation of a single-family home generally require approval, subject to limited exemptions.\n\n**Context:** Cosmetic replacements may be treated differently from work that changes systems or structure. Requirements can vary among San Diego County jurisdictions, so the correct city or county authority matters.\n\n**Key factors:**\n- Interior remodel versus added floor area\n- Structural wall or foundation work\n- New or relocated fixtures and circuits\n- Local plan review and inspection procedures\n\n**Practical guidance:** Ask who prepares and submits the drawings, which approvals are expected, and when construction may begin. Do not start covered work based only on a verbal assumption that no permit is needed.\n\nElite Remodeling & Design includes permitting coordination in its described project process.",
+        "@type": "Answer",
+        "description": "Usually, permits are needed when expansion changes walls, structure, plumbing, electrical, gas, windows, or the building footprint. The exact process depends on the jurisdiction and scope. Elite Remodeling & Design can identify approval needs during planning and coordinate the permit stage."
+      }
+    }
+  ],
+  "description": "Usually, permits are needed when expansion changes walls, structure, plumbing, electrical, gas, windows, or the building footprint. The exact process depends on"
+}

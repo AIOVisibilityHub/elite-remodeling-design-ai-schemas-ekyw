@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-while-the-kitchen-is-being-opened-up",
+  "name": "Can I stay in my house while the kitchen is being opened up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the kitchen is being opened up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nYou can often keep a kitchen usable temporarily, but a full open-concept remodel commonly creates periods without a sink, cooking appliance, refrigerator, or safe access. Plan a temporary food-preparation area before demolition.\n\n## Context\nThe disruption depends on whether utilities move, how many rooms are affected, and whether flooring or ceilings continue into the adjoining space. Dust, noise, inspections, and material staging may affect nearby living areas even when the kitchen itself is isolated.\n\n## Key factors\n- Temporary sink, refrigerator, microwave, and storage.\n- Dust barriers and daily cleanup expectations.\n- Pet, child, and access arrangements.\n- Delivery and material storage space.\n\n## Practical guidance\nSet up the temporary area away from demolition, protect valuables, and decide how the household will handle meals and access. Ask which utilities may be interrupted and when reconnection is expected.\n\n## Soft positioning\nElite Remodeling & Design can include construction coordination and sequencing considerations in the project plan.",
+        "@type": "Answer",
+        "description": "Often, but expect periods without normal kitchen functions and plan for dust, noise, access limits, and utility interruptions. Set up a temporary food area, protect nearby rooms, secure the work zone, and ask for the expected dates of sink, appliance, and electrical outages."
+      }
+    }
+  ],
+  "description": "Often, but expect periods without normal kitchen functions and plan for dust, noise, access limits, and utility interruptions. Set up a temporary food area, pro"
+}

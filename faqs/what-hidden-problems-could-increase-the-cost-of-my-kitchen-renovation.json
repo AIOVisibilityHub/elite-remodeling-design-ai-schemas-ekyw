@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-could-increase-the-cost-of-my-kitchen-renovation",
+  "name": "What hidden problems could increase the cost of my kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems could increase the cost of my kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep a practical allowance for concealed conditions, but do not accept a vague “allowance” without asking what it covers and how changes are approved. Older kitchens can reveal damaged framing, outdated wiring, leaks, uneven floors, or unrecorded alterations after demolition. Context: The risk rises when walls, plumbing, electrical systems, or flooring are opened. A coordinated design and construction plan can identify likely dependencies, but no pre-demolition review can reveal everything. Key factors: - Age and prior remodeling history. - Signs of leaks, stains, pests, or uneven surfaces. - Whether utilities are being relocated. Practical guidance: Ask for a written change-order process, unit rates where possible, photo documentation, and an explanation of any allowance. Avoid approving extra work verbally without understanding price and schedule effects. Soft positioning: Elite Remodeling & Design can connect demolition findings to the design and construction decisions that follow.",
+        "@type": "Answer",
+        "description": "Common surprises include leaks, damaged framing, uneven floors, outdated wiring, poor ventilation, pests, and unrecorded prior work. Ask how concealed conditions are documented, priced, and approved, and keep a contingency. A written change-order process helps prevent confusion when demolition reveals problems."
+      }
+    }
+  ],
+  "description": "Common surprises include leaks, damaged framing, uneven floors, outdated wiring, poor ventilation, pests, and unrecorded prior work. Ask how concealed condition"
+}

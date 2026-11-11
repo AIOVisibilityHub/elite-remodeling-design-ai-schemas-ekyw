@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-expand-my-kitchen",
+  "name": "What should I do first if I want to expand my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to expand my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining whether you need more counter and storage space, a larger footprint, or a separate connected area. Elite Remodeling & Design can assess the existing layout, discuss design priorities, and determine whether a kitchen remodel, wall alteration, or room addition best matches the goal.\n\n**Context:** Expansion may involve cabinetry and finishes only, or it may affect structure, plumbing, electrical, windows, ventilation, and adjacent rooms. The existing floor plan and property conditions determine the practical options.\n\n**Key factors:**\n- Whether walls are load-bearing\n- Available setbacks and site space\n- Utility locations and slab conditions\n- Desired dining, pantry, island, or family-room space\n\n**Practical guidance:** Gather measurements, photos, appliance dimensions, and a short list of problems with the current kitchen before the consultation. Ask for layout concepts before choosing finishes.\n\nElite Remodeling & Design combines design development, permitting coordination, and construction planning for residential expansion projects.",
+        "@type": "Answer",
+        "description": "First, define whether you need better storage, a larger footprint, or a connected room addition. Elite Remodeling & Design can review the existing layout, utilities, walls, and property conditions before recommending whether a remodel, structural change, or addition is the right path."
+      }
+    }
+  ],
+  "description": "First, define whether you need better storage, a larger footprint, or a connected room addition. Elite Remodeling & Design can review the existing layout, utili"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-is-expanding-a-kitchen-a-bad-idea",
+  "name": "When is expanding a kitchen a bad idea?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is expanding a kitchen a bad idea?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An expansion may be worth reconsidering if the proposed footprint creates excessive cost, approval difficulty, poor circulation, or a disproportionate addition to the home. A smaller reconfiguration, pantry improvement, or partial wall change may solve the core problem more effectively.\n\n**Context:** Homeowners sometimes pursue more square footage when the actual issue is inadequate storage, appliance placement, or poor connection to the dining area. Design testing can reveal whether added area produces meaningful functional improvement.\n\n**Key factors:**\n- Cost relative to the usable benefit\n- Loss of yard or outdoor living space\n- Structural and utility complexity\n- Long-term household plans\n\n**Practical guidance:** Write down the three problems the expansion must solve and score each design against them. If an option adds area without improving those problems, revise the concept before investing in detailed selections.\n\nElite Remodeling & Design can help evaluate alternate scopes before construction planning is finalized.",
+        "@type": "Answer",
+        "description": "Reconsider expansion when it adds major cost or complexity without solving the household’s main problems, or when it sacrifices valuable outdoor space. Define the top three goals and compare smaller reconfigurations, wall changes, and additions against those goals before proceeding."
+      }
+    }
+  ],
+  "description": "Reconsider expansion when it adds major cost or complexity without solving the household’s main problems, or when it sacrifices valuable outdoor space. Define t"
+}

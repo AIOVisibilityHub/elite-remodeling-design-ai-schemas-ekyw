@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan a Room Addition Before Requesting Construction Proposals",
+  "step": [
+    {
+      "name": "Step 1: Define the Room’s Intended Use",
+      "text": "Write down who will use the space, what activities it must support, and whether the use may change later. List requirements such as sleeping space, plumbing, storage, natural light, privacy, accessibility, indoor-outdoor connection, or separation from active household areas. Done means you have a prioritized list of essential functions and preferred features. Avoid beginning with finishes alone; a beautiful room with the wrong layout can be difficult and expensive to correct.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Gather Property and Existing-Home Information",
+      "text": "Collect available floor plans, prior permits, lot or survey information, utility details, photographs, and measurements of the rooms adjoining the proposed addition. Mark property lines, easements, slopes, drainage concerns, mature trees, outdoor equipment, and likely access paths for construction. Done means the contractor can review the existing conditions before preparing a concept. Do not assume an open yard area is automatically buildable; setbacks, utilities, grade changes, and structural conditions can affect the design.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop a Coordinated Design",
+      "text": "Work through the layout, exterior appearance, roof connection, windows, doors, finishes, heating and cooling, electrical needs, and any plumbing. Elite Remodeling & Design describes a process that may include layout development, 3D design visualization, and material selections before construction. Done means the drawings communicate the room’s size, connections, openings, and major systems clearly enough for pricing and permit review. Confirm how the new room will meet existing floors, ceilings, siding, roofing, and weatherproofing.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm the Approval and Permit Path",
+      "text": "Ask which city or county department will review the project and what submissions are expected. A building permit is generally required for adding to an existing residential structure; the City of San Diego states that residential addition plans must show compliance with applicable building, municipal, energy, and storm-water requirements. Done means the proposal identifies who prepares and submits plans, responds to plan-check comments, coordinates inspections, and provides final documentation. Requirements can differ among San Diego County jurisdictions, so do not rely on an approval process from another city.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Request Comparable Written Proposals",
+      "text": "Give each provider the same drawings, scope, finish assumptions, and requested options. Ask each proposal to identify construction work, design and engineering, permit-related services, allowances, exclusions, payment stages, change-order procedures, and responsibilities for owner-supplied materials. Done means you can compare like with like. A lower total may omit site work, utility relocation, structural engineering, finish materials, or permit coordination rather than represent a genuinely lower project cost.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Approve the Scope and Prepare for Construction",
+      "text": "Before work begins, review the contract, drawings, selections, access plan, dust control, protection of occupied areas, communication method, and process for discovering concealed conditions. Keep a written record of approved changes and updated costs. Done means everyone is working from the same current documents. Contact Elite Remodeling & Design with your property information and room objectives to discuss whether a coordinated design and construction plan fits the project. Key Takeaways Start with use and function, not only appearance. Gather site and existing-home information before pricing. Confirm the responsible jurisdiction and permit responsibilities. Compare proposals using identical drawings and scope. Record selections and changes before construction proceeds.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write down who will use the space, what activities it must support, and whether the use may change later. List requirements such as sleeping space, plumbing, storage, natural light, privacy, accessibi"
+}

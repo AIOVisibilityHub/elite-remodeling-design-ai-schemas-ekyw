@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-space-do-i-need-for-seating-at-a-kitchen-peninsula",
+  "name": "How much space do I need for seating at a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space do I need for seating at a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seating usually needs a comfortable overhang, adequate knee space, and enough room for people to sit without blocking a walkway or appliance door. The correct depth depends on cabinet dimensions, countertop material, support, and the number of seats.\n\nContext: A peninsula designed for storage only can be shallower than one intended for daily meals or homework. Seating on the outside edge is practical, but chairs can narrow the passage behind them.\n\nKey factors:\n- Number and width of seats\n- Knee clearance and countertop overhang\n- Chair depth and traffic behind seating\n- Support for the overhang\n\nPractical guidance: Mark chair positions on the floor and leave the chairs pulled out during the clearance test. Include the overhang and support method in the cabinet and countertop drawings.\n\nElite Remodeling & Design can incorporate seating into a 3D kitchen layout before construction.",
+        "@type": "Answer",
+        "description": "Allow room for the countertop overhang, seated knees, chair depth, and people walking behind the chairs. Test the full footprint with chairs pulled out, and confirm that appliance and cabinet doors still open comfortably."
+      }
+    }
+  ],
+  "description": "Allow room for the countertop overhang, seated knees, chair depth, and people walking behind the chairs. Test the full footprint with chairs pulled out, and con"
+}

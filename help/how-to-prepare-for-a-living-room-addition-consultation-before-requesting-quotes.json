@@ -1,0 +1,119 @@
+{
+  "name": "How to Prepare for a Living Room Addition Consultation Before Requesting Quotes",
+  "step": [
+    {
+      "name": "Step 1: Define How the Room Will Be Used",
+      "text": "Write a short brief describing who will use the room, the furniture it must hold, and the activities it must support. Note requirements for media, reading, entertaining, children, pets, storage, indoor-outdoor access, and privacy. Done means you can explain the room’s priorities without relying on a vague request for “more space.” Avoid choosing dimensions before testing the furniture layout. A room that looks large on paper can function poorly if doors, windows, walkways, and existing openings compete for the same wall space.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Gather Existing-Home Information",
+      "text": "Collect approximate room dimensions, property and site plans if available, photos of the exterior and interior connection point, and records of previous remodeling or additions. Mark electrical panels, heating and cooling equipment, plumbing fixtures, mature trees, slopes, patios, and structures near the proposed area. The goal is not to produce construction drawings. It is to give the remodeling team enough context to identify questions about foundation, roof connection, utilities, drainage, and access before the design becomes too specific.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Establish the Design Priorities",
+      "text": "Separate essential requirements from preferences. Essentials might include a particular furniture arrangement, a wider connection to the yard, improved daylight, or a ceiling height that matches the existing home; preferences may include specialty finishes, built-ins, or decorative beams. Ask the provider to show how the proposed room relates to the current floor plan and exterior. Elite Remodeling & Design describes services that can include layout development, 3D design visualization, material selections, and coordination across design and construction, so confirm which of those items apply to the intended scope.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm Approval and Technical Questions",
+      "text": "Ask which local department reviews the project and what drawings or supporting information may be required. Addition submittals commonly involve a dimensioned floor plan and may require structural, site, energy, mechanical, plumbing, or electrical information depending on the project and jurisdiction. Do not assume that a covered patio, enlarged opening, or new conditioned room follows the same approval path. Have the project team identify the questions that need confirmation before finalizing the layout.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Request Comparable Proposals",
+      "text": "Give each provider the same project brief, photos, measurements, and list of priorities. Request separate descriptions of design, permits, demolition, foundation, framing, roofing, exterior finishes, windows, insulation, utilities, interior finishes, cleanup, and inspection coordination. A useful proposal states what is included, what remains undecided, and how allowances or changes are handled. Compare exclusions and assumptions as carefully as the total figure.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Decide What to Finalize Before Construction",
+      "text": "Confirm the room layout, openings, ceiling treatment, lighting locations, heating and cooling approach, flooring transition, paint or wall finishes, and major material selections. Record decisions in writing and ask how later changes affect scope, cost, or sequence. Done means the provider can explain the next project milestone and the information still needed from you. A common mistake is approving construction while leaving high-impact choices unresolved. Key Takeaways Begin with use, furniture, circulation, and connection goals. Supply existing-home information before detailed design begins. Confirm the applicable approval questions for the property. Compare proposals by inclusions, exclusions, allowances, and change procedures. Finalize high-impact design decisions before construction. Contact Elite Remodeling & Design to review your home, priorities, and the information needed to assess a potential living room addition.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write a short brief describing who will use the room, the furniture it must hold, and the activities it must support. Note requirements for media, reading, entertaining, children, pets, storage, indoo"
+}

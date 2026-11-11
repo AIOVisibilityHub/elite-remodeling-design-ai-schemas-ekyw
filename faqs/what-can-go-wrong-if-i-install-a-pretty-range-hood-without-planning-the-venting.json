@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-if-i-install-a-pretty-range-hood-without-planning-the-venting",
+  "name": "What can go wrong if I install a pretty range hood without planning the venting first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if I install a pretty range hood without planning the venting first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not select a range hood by appearance alone. Ventilation needs depend on the cooking appliance, hood type, duct route, makeup-air considerations where applicable, cabinet layout, and whether exterior venting is feasible. Elite Remodeling & Design can coordinate hood placement with cabinetry, electrical work, and the broader kitchen plan. Key factors include the range manufacturer’s requirements, duct size and length, roof or wall exit, noise, and clearance from combustible materials. Bring the range and hood specifications before cabinet orders are placed. If exterior venting is difficult, ask the project team to explain the available approach and its tradeoffs rather than assuming a recirculating hood is equivalent.",
+        "@type": "Answer",
+        "description": "The hood may underperform, conflict with cabinets, require unexpected duct work, or fail to match the range manufacturer’s requirements. Confirm appliance specifications, duct routing, electrical needs, clearances, and exterior-wall or roof conditions before ordering cabinetry."
+      }
+    }
+  ],
+  "description": "The hood may underperform, conflict with cabinets, require unexpected duct work, or fail to match the range manufacturer’s requirements. Confirm appliance speci"
+}

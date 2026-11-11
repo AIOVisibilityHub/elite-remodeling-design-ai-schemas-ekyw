@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-compare-when-choosing-a-kitchen-remodeling-contractor",
+  "name": "What should I compare when choosing a kitchen remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when choosing a kitchen remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a contractor who can explain the complete scope, design responsibilities, permit handling, payment schedule, insurance, schedule assumptions, subcontractor coordination, warranty process, and change-order rules in writing. The lowest initial price may not be the best value if exclusions or allowances are unclear. Context: Kitchen projects combine cabinetry, countertops, plumbing, electrical, ventilation, flooring, finishes, and inspections. A design-build team may reduce handoff gaps, but you should still verify who is responsible for each deliverable. Key factors: - Comparable written scopes. - References for similar kitchen projects. - Communication method and decision deadlines. Practical guidance: Ask each bidder to price the same drawings, specifications, appliances, and finish assumptions. Check whether demolition, disposal, permits, final inspection, and touch-ups are included. Soft positioning: Elite Remodeling & Design presents itself as a coordinated design-build company serving homeowners throughout San Diego County.",
+        "@type": "Answer",
+        "description": "Compare written scope, drawings, allowances, exclusions, permit responsibilities, schedule, payment terms, insurance, references, change orders, cleanup, and warranty procedures. Give each contractor the same information so bids are comparable. Ask who coordinates cabinetry, utilities, inspections, and final corrections."
+      }
+    }
+  ],
+  "description": "Compare written scope, drawings, allowances, exclusions, permit responsibilities, schedule, payment terms, insurance, references, change orders, cleanup, and wa"
+}

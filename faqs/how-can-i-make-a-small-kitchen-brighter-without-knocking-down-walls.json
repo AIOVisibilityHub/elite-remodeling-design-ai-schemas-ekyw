@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-make-a-small-kitchen-brighter-without-knocking-down-walls",
+  "name": "How can I make a small kitchen brighter without knocking down walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small kitchen brighter without knocking down walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lighting should be planned with the layout, not added after cabinets are installed. A small kitchen generally benefits from separate general, task, and accent lighting so counters are not shadowed by upper cabinets or the cook. Elite Remodeling & Design can coordinate lighting locations with cabinetry, electrical work, ceiling conditions, and the overall design visualization. Key factors include window light, ceiling height, under-cabinet wiring, switch locations, color temperature, and glare from reflective finishes. Mark where food preparation actually occurs and where shadows currently fall. Put switches in convenient locations and verify fixture dimensions before ordering cabinets.",
+        "@type": "Answer",
+        "description": "Plan layered lighting: general illumination, task lighting at work surfaces, and optional accent lighting. Coordinate fixture locations with cabinets, windows, switches, electrical capacity, ceiling conditions, and the areas where preparation shadows currently occur."
+      }
+    }
+  ],
+  "description": "Plan layered lighting: general illumination, task lighting at work surfaces, and optional accent lighting. Coordinate fixture locations with cabinets, windows,"
+}

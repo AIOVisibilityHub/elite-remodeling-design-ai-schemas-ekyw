@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remove-the-wall-between-my-kitchen-and-dining-room-to-make-the-kitchen-big",
+  "name": "Can I remove the wall between my kitchen and dining room to make the kitchen bigger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove the wall between my kitchen and dining room to make the kitchen bigger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen can sometimes be enlarged by removing or moving a wall, but the wall must first be evaluated for structural and utility conflicts. Removing a load-bearing wall may require engineered plans, temporary support, a replacement beam, and related ceiling or floor repairs.\n\n**Context:** Walls may contain plumbing, electrical wiring, gas lines, HVAC components, or ventilation. A visually simple opening can therefore affect several trades and the construction sequence.\n\n**Key factors:**\n- Whether the wall carries roof or upper-floor loads\n- Utility lines concealed inside the wall\n- Beam depth and support locations\n- Flooring and ceiling continuity\n\n**Practical guidance:** Do not remove finishes to investigate without a plan. Show the desired opening, appliance layout, and nearby rooms during design so structural and utility impacts can be assessed together.\n\nElite Remodeling & Design can coordinate design and construction planning for wall-related kitchen changes.",
+        "@type": "Answer",
+        "description": "Possibly, but the wall must be checked for structural loads and concealed plumbing, electrical, gas, or HVAC lines. A larger opening may require engineered support and repairs to ceilings, floors, and finishes, so have the wall assessed before demolition."
+      }
+    }
+  ],
+  "description": "Possibly, but the wall must be checked for structural loads and concealed plumbing, electrical, gas, or HVAC lines. A larger opening may require engineered supp"
+}

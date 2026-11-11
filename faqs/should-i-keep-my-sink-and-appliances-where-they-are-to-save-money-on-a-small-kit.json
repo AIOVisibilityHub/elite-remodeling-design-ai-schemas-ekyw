@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-keep-my-sink-and-appliances-where-they-are-to-save-money-on-a-small-kit",
+  "name": "Should I keep my sink and appliances where they are to save money on a small kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I keep my sink and appliances where they are to save money on a small kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the existing appliance and sink locations when the current layout works, because relocating plumbing, gas, electrical circuits, or ventilation can increase complexity and cost. Move them when the present arrangement creates persistent bottlenecks, poor work flow, or unusable storage. Elite Remodeling & Design can compare a same-footprint option with a revised layout during design development before construction decisions are finalized. Key factors include wall access, slab or crawl-space conditions, vent routing, panel capacity, appliance dimensions, and permit needs. Mark the locations of shutoffs, outlets, gas lines, and floor penetrations before the consultation. A modest layout improvement may deliver more value than a major relocation.",
+        "@type": "Answer",
+        "description": "Usually, keeping workable sink and appliance locations controls complexity, but moving them may be justified when the layout causes daily problems. Compare both options after reviewing plumbing, electrical, ventilation, appliance dimensions, and the home’s existing conditions."
+      }
+    }
+  ],
+  "description": "Usually, keeping workable sink and appliance locations controls complexity, but moving them may be justified when the layout causes daily problems. Compare both"
+}

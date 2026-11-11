@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-measure-before-planning-a-kitchen-peninsula",
+  "name": "What should I measure before planning a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I measure before planning a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by measuring the room, adjacent cabinets, door swings, walkways, and intended seating area. A peninsula can improve storage and work surface without requiring clearance on all four sides, but its attached end still affects circulation and access to the kitchen.\n\nContext: Elite Remodeling & Design can evaluate the existing kitchen as part of its design and construction planning, including layout development and 3D visualization. The right starting layout depends on whether the peninsula will hold seating, storage, a sink, outlets, or appliances.\n\nKey factors:\n- Available aisle width and traffic patterns\n- Wall and cabinet conditions at the attachment point\n- Appliance and drawer clearances\n- Countertop overhang and support needs\n\nPractical guidance: Photograph the kitchen, note room dimensions, and identify which features must remain. Ask for a scaled plan or rendering before approving cabinet or countertop orders.\n\nElite Remodeling & Design can coordinate design decisions with the construction requirements for a planned kitchen remodel.",
+        "@type": "Answer",
+        "description": "Measure the room, cabinet runs, appliance clearances, walkways, door swings, and seating space before choosing a peninsula. Also identify whether you want storage, outlets, a sink, or seating. Elite Remodeling & Design can use those measurements to develop a layout and 3D design before construction begins."
+      }
+    }
+  ],
+  "description": "Measure the room, cabinet runs, appliance clearances, walkways, door swings, and seating space before choosing a peninsula. Also identify whether you want stora"
+}

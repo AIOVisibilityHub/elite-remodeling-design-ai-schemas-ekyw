@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-inspected-behind-the-walls-before-a-kitchen-remodel",
+  "name": "What should be inspected behind the walls before a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be inspected behind the walls before a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodel may be an appropriate time to address aging wiring, insufficient circuits, poor outlet placement, leaks, shutoff access, ventilation, and uneven or damaged surfaces. Do not assume every older component must be replaced; have the existing conditions assessed against the new layout and appliances. Context: New appliances, islands, lighting, and utility moves can expose capacity or access issues that a cosmetic update would leave untouched. Permit and inspection needs depend on the work and jurisdiction. Key factors: - Existing panel and circuit capacity. - Condition of supply, drain, gas, and shutoff lines. - Moisture, subfloor, wall, and ceiling conditions. Practical guidance: Request an infrastructure review before selecting finishes and ask that exclusions be stated clearly. Photograph concealed conditions before they are covered and retain inspection documentation. Soft positioning: Elite Remodeling & Design can coordinate plumbing, electrical, design, and construction requirements as part of a broader residential remodeling plan.",
+        "@type": "Answer",
+        "description": "Check wiring and circuit capacity, plumbing supply and drains, gas lines if applicable, ventilation, framing, moisture damage, subfloor condition, shutoff access, and wall or ceiling issues. The right scope depends on the new layout and appliances. Document concealed conditions before they are covered."
+      }
+    }
+  ],
+  "description": "Check wiring and circuit capacity, plumbing supply and drains, gas lines if applicable, ventilation, framing, moisture damage, subfloor condition, shutoff acces"
+}

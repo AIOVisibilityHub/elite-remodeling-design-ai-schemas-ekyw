@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-the-countertop-be-measured-for-a-new-kitchen-peninsula",
+  "name": "When should the countertop be measured for a new kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should the countertop be measured for a new kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The peninsula should be finalized in the design plan before cabinets and countertops are ordered, but the countertop should be field-measured after the base cabinets are installed and secured. This reduces the risk of incorrect overhangs, seams, and wall measurements.\n\nContext: Existing walls are not always square, and small cabinet adjustments can change the finished dimensions. Ordering a stone or quartz top too early can create fit problems.\n\nKey factors:\n- Final cabinet alignment\n- Wall irregularities\n- Required seating overhang\n- Sink or cooktop cutouts\n\nPractical guidance: Approve the cabinet layout first, install and level the bases, then arrange the countertop template. Confirm all appliances and hardware before fabrication.\n\nElite Remodeling & Design can coordinate design development, cabinet installation, and countertop sequencing within one remodeling plan.",
+        "@type": "Answer",
+        "description": "Finalize the layout before ordering cabinets, but measure the countertop after the peninsula cabinets are installed, leveled, and secured. Field measurement accounts for uneven walls, cabinet adjustments, overhangs, seams, and sink or cooktop cutouts."
+      }
+    }
+  ],
+  "description": "Finalize the layout before ordering cabinets, but measure the countertop after the peninsula cabinets are installed, leveled, and secured. Field measurement acc"
+}

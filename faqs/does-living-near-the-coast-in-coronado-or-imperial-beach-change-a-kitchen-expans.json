@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-a-kitchen-expans",
+  "name": "Does living near the coast in Coronado or Imperial Beach change a kitchen expansion plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change a kitchen expansion plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal homes can require extra attention to moisture exposure, corrosion-resistant selections, ventilation, and weatherproof connections, but the specific needs depend on the property and construction details. This matters in Coronado, Imperial Beach, and coastal San Diego neighborhoods.\n\n**Context:** Expanding the building envelope introduces new exterior walls, windows, roof connections, and penetrations that must perform as a coordinated system. Existing moisture damage should be resolved before finishes conceal it.\n\n**Key factors:**\n- Condition of exterior walls and existing openings\n- Window and door exposure\n- Corrosion resistance of exterior components\n- Waterproofing, flashing, and ventilation details\n\n**Practical guidance:** Ask for an assessment of moisture-prone areas before demolition and identify how new work will connect to the existing exterior. Include durable, maintainable materials in the selection discussion rather than choosing only by appearance.\n\nElite Remodeling & Design can account for existing conditions while developing the kitchen and addition scope.",
+        "@type": "Answer",
+        "description": "Coastal projects deserve careful review of moisture exposure, exterior connections, windows, flashing, ventilation, and corrosion-resistant materials. Before selecting finishes, ask Elite Remodeling & Design to inspect existing moisture-prone areas and explain how the new work will connect to the exterior."
+      }
+    }
+  ],
+  "description": "Coastal projects deserve careful review of moisture exposure, exterior connections, windows, flashing, ventilation, and corrosion-resistant materials. Before se"
+}

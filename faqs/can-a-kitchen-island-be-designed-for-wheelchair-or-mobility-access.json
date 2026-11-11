@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-kitchen-island-be-designed-for-wheelchair-or-mobility-access",
+  "name": "Can a kitchen island be designed for wheelchair or mobility access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a kitchen island be designed for wheelchair or mobility access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen island can often be made accessible, but accessibility should be considered during the layout stage rather than added after cabinets are ordered. Clear routes, usable work heights, knee space, hardware, and appliance placement may require a customized design.\n\nContext: A seated user may need a different counter section, turning space, and reach range than a standing user. A sink or cooktop can also require clearance beneath or beside the work area.\n\nKey factors:\n- Route width and turning space around the island.\n- Counter heights and seated knee clearance.\n- Appliance controls, storage reach, and flooring transitions.\n\nPractical guidance: Explain the household’s mobility or reach needs during the initial consultation and bring any relevant measurements. Elite Remodeling & Design can incorporate those requirements into layout development and 3D planning.\n\nEarly decisions provide more options than modifying a completed island.",
+        "@type": "Answer",
+        "description": "Yes, but accessibility should be built into the layout from the start. Review route width, turning space, counter height, knee clearance, appliance controls, reach ranges, and flooring transitions before cabinets and countertops are ordered."
+      }
+    }
+  ],
+  "description": "Yes, but accessibility should be built into the layout from the start. Review route width, turning space, counter height, knee clearance, appliance controls, re"
+}

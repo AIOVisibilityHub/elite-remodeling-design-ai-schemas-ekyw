@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remodel-my-small-kitchen-in-phases-because-i-can-t-afford-everything-right",
+  "name": "Can I remodel my small kitchen in phases because I can’t afford everything right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel my small kitchen in phases because I can’t afford everything right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small kitchen remodel can be phased, but dividing work may increase total disruption and create compatibility problems if the layout is not planned as a whole. One phase might address layout, electrical capacity, lighting, and plumbing rough-ins; another could complete cabinets, counters, and finishes. Elite Remodeling & Design can help identify which decisions must be made together and which improvements can wait. Key factors include material availability, temporary protection, countertop continuity, and whether future work would damage completed surfaces. Define the final intended layout before doing a partial upgrade. Phase only when the sequence protects future work and the budget benefit is real.",
+        "@type": "Answer",
+        "description": "Yes, but plan the final layout first. Utilities, lighting, cabinets, countertops, and finishes may depend on one another, and poorly sequenced phases can cause rework. Identify work that must happen together and protect future installation points."
+      }
+    }
+  ],
+  "description": "Yes, but plan the final layout first. Utilities, lighting, cabinets, countertops, and finishes may depend on one another, and poorly sequenced phases can cause"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-just-the-cabinet-doors-and-counters-or-do-a-full-small-kitchen",
+  "name": "Should I replace just the cabinet doors and counters, or do a full small kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace just the cabinet doors and counters, or do a full small kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing cabinets and countertops may be reasonable when the layout, cabinet boxes, plumbing, electrical capacity, and storage are already satisfactory. A full remodel is more appropriate when the room has poor circulation, damaged boxes, inadequate utility capacity, or appliances in impractical locations. Elite Remodeling & Design can compare a targeted upgrade with a broader design-build scope. Key factors include cabinet condition, countertop height, flooring continuity, hidden moisture, and whether new appliances fit existing openings. Inspect the cabinet boxes and record appliance dimensions before assuming refacing is enough. Spend more on structural or functional corrections than on cosmetic changes that leave daily problems intact.",
+        "@type": "Answer",
+        "description": "Choose a targeted update when the layout, cabinet boxes, utilities, and storage already work. Choose a broader remodel when circulation, damage, appliance placement, or utility capacity cause lasting problems; compare both scopes before committing."
+      }
+    }
+  ],
+  "description": "Choose a targeted update when the layout, cabinet boxes, utilities, and storage already work. Choose a broader remodel when circulation, damage, appliance place"
+}

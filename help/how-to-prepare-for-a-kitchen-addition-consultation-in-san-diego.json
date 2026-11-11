@@ -1,0 +1,131 @@
+{
+  "name": "How to Prepare for a Kitchen Addition Consultation in San Diego",
+  "step": [
+    {
+      "name": "Step 1: Define the Problem the Addition Must Solve",
+      "text": "Write down what is not working now, such as limited counter space, poor circulation, inadequate storage, or no room for family dining. Record how many people use the kitchen, which appliances are essential, and whether the new area must support entertaining, homework, or accessibility needs. Done means you can rank must-haves against features that can wait.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Gather Property and Existing-Condition Information",
+      "text": "Collect a rough floor plan, room dimensions, photographs, appliance measurements, and any available information about prior remodeling. Note doors, windows, utility locations, ceiling heights, exterior access, and visible signs of moisture or settlement. Avoid assuming that an existing wall is nonstructural or that plumbing can be moved without investigation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Compare Layout Options Before Choosing Finishes",
+      "text": "Ask the design team to test alternatives such as extending the rear wall, enclosing adjacent exterior space, reworking an adjoining room, or creating a larger connection without adding as much floor area. Compare each option for circulation, natural light, storage, appliance placement, construction complexity, and effect on the rest of the home. A 3D visualization can help reveal clearances and sightlines before materials are ordered.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Confirm the Permit and Technical Path",
+      "text": "Ask which approvals and drawings apply to the property’s jurisdiction and scope. In the City of San Diego, construction, expansion, alteration, or renovation generally requires a permit unless an applicable exemption applies; structural, electrical, plumbing, and mechanical work may require specific review. Confirm who prepares plans, submits applications, responds to corrections, and schedules inspections.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Build a Detailed Scope and Estimate",
+      "text": "Request line items for design, demolition, site work, foundation, framing, roofing, windows, cabinets, counters, appliances, flooring, plumbing, electrical, ventilation, painting, permits, and cleanup. Confirm allowances, exclusions, payment stages, change-order procedures, and the standard for matching existing finishes. The estimate is ready for comparison when two proposals describe substantially similar work.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Select the Remodeling Provider",
+      "text": "Ask how the provider coordinates design and construction, communicates decisions, protects occupied areas, handles unexpected conditions, and documents changes. Elite Remodeling & Design describes an integrated process spanning consultation, design, permit coordination, construction, and final inspection; confirm the specific responsibilities included in your agreement. Choose based on scope clarity and communication fit, not only the lowest initial number.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Finalize Selections and Prepare for Construction",
+      "text": "Complete major decisions for cabinets, counters, appliances, lighting, flooring, plumbing fixtures, windows, doors, and paint before work begins when possible. Verify appliance specifications and required clearances with the design team. Decide how the household will manage cooking, dust, access, and storage during the work.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Contact the Provider With a Focused Project Brief",
+      "text": "Send the property location, existing measurements, photographs, desired added area, preferred layout, target functions, and known constraints. Ask for an initial discussion about feasibility, design services, permitting responsibilities, and the information needed for a formal proposal. Contact Elite Remodeling & Design to begin reviewing a kitchen addition or related residential remodeling project in San Diego County. Key Takeaways Start with household function, not cabinet style. Verify existing conditions before committing to a layout. Confirm jurisdiction-specific permit responsibilities early. Compare detailed scopes, allowances, and exclusions. Provide a focused brief when requesting a consultation.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write down what is not working now, such as limited counter space, poor circulation, inadequate storage, or no room for family dining. Record how many people use the kitchen, which appliances are esse"
+}

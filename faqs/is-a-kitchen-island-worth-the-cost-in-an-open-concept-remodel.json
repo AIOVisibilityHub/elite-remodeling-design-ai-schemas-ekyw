@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-kitchen-island-worth-the-cost-in-an-open-concept-remodel",
+  "name": "Is a kitchen island worth the cost in an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a kitchen island worth the cost in an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nAn island can provide preparation space, seating, storage, and a visual boundary, but it should not replace a thoughtful circulation plan. It must earn its footprint through daily function.\n\n## Context\nIn an open room, the island often becomes the center of family activity, so its location affects cooking, homework, entertaining, cleanup, and views into the kitchen. Adding outlets, lighting, plumbing, or a cooktop can increase complexity.\n\n## Key factors\n- Available aisle and walkway space.\n- Seating needs and overhang support.\n- Storage versus preparation priorities.\n- Whether utilities belong on the island.\n\n## Practical guidance\nDecide whether the island is primarily for prep, seating, storage, or cooking before sizing it. A smaller fixed island or movable worktable may be more useful than an oversized feature that narrows traffic.\n\n## Soft positioning\nElite Remodeling & Design can compare island functions and layouts within a broader kitchen design.",
+        "@type": "Answer",
+        "description": "It is worthwhile when it adds a needed function without restricting traffic. Decide whether you need prep space, seating, storage, or cooking first, then compare a fixed island, peninsula, or movable worktable based on footprint and utility requirements."
+      }
+    }
+  ],
+  "description": "It is worthwhile when it adds a needed function without restricting traffic. Decide whether you need prep space, seating, storage, or cooking first, then compar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-install-a-kitchen-island",
+  "name": "How long does it take to install a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen island installation can take from several days to multiple weeks, depending on whether it is a simple cabinet-and-countertop addition or part of a larger remodel. Design, material lead times, permitting, flooring, electrical, plumbing, and inspections can extend the schedule.\n\nContext: A fixed island with a sink, dishwasher, cooktop, or new outlets involves more coordination than a movable piece. Countertops may also require a separate template and fabrication stage after cabinets are secured.\n\nKey factors:\n- Cabinet and countertop availability.\n- Whether the floor must be repaired or extended.\n- Trade work and inspection sequencing.\n\nPractical guidance: Request a written sequence covering design approval, selections, demolition, rough-ins, cabinet installation, countertop templating, final connections, and inspection. Elite Remodeling & Design coordinates design through construction, which can reduce handoff confusion.\n\nAvoid scheduling the final installation before the layout and material selections are fully confirmed.",
+        "@type": "Answer",
+        "description": "A simple island may take several days, while an island tied to a kitchen remodel can take multiple weeks. Design approval, cabinet and countertop lead times, flooring, electrical or plumbing work, permits, and inspections are the main schedule variables."
+      }
+    }
+  ],
+  "description": "A simple island may take several days, while an island tied to a kitchen remodel can take multiple weeks. Design approval, cabinet and countertop lead times, fl"
+}

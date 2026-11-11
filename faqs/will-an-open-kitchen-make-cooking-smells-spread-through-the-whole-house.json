@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-an-open-kitchen-make-cooking-smells-spread-through-the-whole-house",
+  "name": "Will an open kitchen make cooking smells spread through the whole house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an open kitchen make cooking smells spread through the whole house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nAn open-concept kitchen still needs effective source-capture ventilation, especially when the cooktop is visible from the living area. Choose the hood based on the appliance, cooking habits, duct route, exterior termination, noise, and the home’s existing mechanical conditions.\n\n## Context\nA recirculating hood may be simpler but returns filtered air to the room, while an exterior-vented hood requires a suitable duct path and may involve framing or roof or wall work. The final arrangement should be reviewed for applicable mechanical requirements.\n\n## Key factors\n- Cooktop type and heat output.\n- Exterior duct route and length.\n- Noise level and makeup-air considerations.\n- Clearances around combustible materials.\n\n## Practical guidance\nDecide ventilation before cabinets and ceilings are finalized. Ask for the proposed hood, duct route, outlet location, and finish treatment to appear in the design documents rather than treating ventilation as a late appliance choice.\n\n## Soft positioning\nElite Remodeling & Design can coordinate kitchen layout, electrical, mechanical, and finish decisions within the remodeling plan.",
+        "@type": "Answer",
+        "description": "It can if ventilation is undersized, poorly located, or limited to recirculation. Plan the cooktop, hood, duct route, exterior termination, noise control, and surrounding clearances early; changing ventilation after cabinets and ceilings are complete is more disruptive."
+      }
+    }
+  ],
+  "description": "It can if ventilation is undersized, poorly located, or limited to recirculation. Plan the cooktop, hood, duct route, exterior termination, noise control, and s"
+}

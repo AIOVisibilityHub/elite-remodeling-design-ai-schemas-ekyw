@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-kitchen-expansion-project-work-from-the-first-meeting-to-completion",
+  "name": "How does a kitchen expansion project work from the first meeting to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a kitchen expansion project work from the first meeting to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally moves from consultation and measurements to layout design, material selections, construction documents, permit coordination, construction, inspections, and final completion. Elite Remodeling & Design describes its work as a coordinated design-build process covering design through construction.\n\n**Context:** A simple expansion within existing walls differs significantly from removing a wall, enlarging the building, or relocating plumbing and gas. Each added scope item can affect drawings, approvals, sequencing, and cost.\n\n**Key factors:**\n- Existing-condition documentation\n- Structural and utility review\n- 3D design and finish selections\n- Permit and inspection requirements\n\n**Practical guidance:** Ask which decisions must be made before construction begins and which selections can wait. Keep one written scope covering layout, cabinetry, appliances, finishes, and responsibilities for approvals.\n\nElite Remodeling & Design provides a single coordinated point for design and construction decisions.",
+        "@type": "Answer",
+        "description": "The usual sequence is consultation, measurements, layout and 3D design, selections, construction documents, permit coordination, construction, inspections, and final completion. Elite Remodeling & Design coordinates these stages so layout choices and construction requirements are considered together."
+      }
+    }
+  ],
+  "description": "The usual sequence is consultation, measurements, layout and 3D design, selections, construction documents, permit coordination, construction, inspections, and"
+}

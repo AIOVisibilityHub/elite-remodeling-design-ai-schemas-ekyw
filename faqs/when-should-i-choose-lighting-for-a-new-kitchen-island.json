@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-choose-lighting-for-a-new-kitchen-island",
+  "name": "When should I choose lighting for a new kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose lighting for a new kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An island lighting plan should be developed with the island’s size, seating, ceiling height, ventilation, and surrounding fixtures in mind. Pendant locations need to align with the usable surface without interfering with sightlines, hood equipment, or head clearance.\n\nContext: Lighting is easier to wire before drywall, cabinetry, and the finished ceiling are complete. A large island may need several fixtures or a layered plan combining task, ambient, and accent lighting.\n\nKey factors:\n- Island length and seating positions.\n- Ceiling structure and existing electrical boxes.\n- Pendant scale, brightness, glare, and cleaning access.\n\nPractical guidance: Select fixtures before electrical rough-in and show their centerlines on the plan. Elite Remodeling & Design can coordinate lighting with the island layout and broader kitchen design rather than treating fixtures as a late finish choice.\n\nGood placement improves task visibility without making the room feel visually crowded.",
+        "@type": "Answer",
+        "description": "Choose island lighting during design and before electrical rough-in. Fixture size, spacing, ceiling structure, seating, ventilation, and sightlines all affect placement, so show the lighting centerlines on the kitchen plan before drywall or cabinetry is completed."
+      }
+    }
+  ],
+  "description": "Choose island lighting during design and before electrical rough-in. Fixture size, spacing, ceiling structure, seating, ventilation, and sightlines all affect p"
+}

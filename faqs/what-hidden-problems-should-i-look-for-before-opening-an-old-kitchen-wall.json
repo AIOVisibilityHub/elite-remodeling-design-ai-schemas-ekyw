@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-should-i-look-for-before-opening-an-old-kitchen-wall",
+  "name": "What hidden problems should I look for before opening an old kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems should I look for before opening an old kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nHave the design team inspect for water damage, outdated wiring, plumbing deterioration, poor framing, asbestos-containing materials, or unrecorded alterations where relevant before the scope is fixed. Hidden conditions cannot always be confirmed without opening limited areas.\n\n## Context\nOlder homes throughout San Diego County may have multiple remodel layers and plans that do not match current conditions. Demolition can reveal problems behind walls, under floors, or around sinks and exterior openings.\n\n## Key factors\n- Staining, soft flooring, odors, or corrosion.\n- Existing panel, plumbing, and gas conditions.\n- Unusual framing or previous wall changes.\n- Material testing needs based on the home’s age and condition.\n\n## Practical guidance\nInclude a documented contingency and a written change-order process. Photograph existing conditions, identify allowances, and decide who approves concealed-condition work before demolition begins.\n\n## Soft positioning\nElite Remodeling & Design can incorporate existing-condition review and construction coordination into the project planning process.",
+        "@type": "Answer",
+        "description": "Check for moisture damage, outdated wiring, deteriorated plumbing, unusual framing, prior unrecorded alterations, and potentially hazardous older materials. Document existing conditions, set a contingency, and agree on a written change process before demolition."
+      }
+    }
+  ],
+  "description": "Check for moisture damage, outdated wiring, deteriorated plumbing, unusual framing, prior unrecorded alterations, and potentially hazardous older materials. Doc"
+}

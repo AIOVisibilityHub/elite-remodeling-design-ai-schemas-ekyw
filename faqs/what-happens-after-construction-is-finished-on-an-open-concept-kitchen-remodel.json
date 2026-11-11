@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-after-construction-is-finished-on-an-open-concept-kitchen-remodel",
+  "name": "What happens after construction is finished on an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after construction is finished on an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nA permit closeout generally depends on completing the permitted work and passing required inspections, but the exact process belongs to the local reviewing authority. Do not assume the project is complete merely because the cabinets and finishes are installed.\n\n## Context\nStructural, electrical, plumbing, mechanical, and building work may have separate rough or final inspection stages. San Diego-area agencies publish different forms and review paths, so the property’s city or county jurisdiction matters.\n\n## Key factors\n- Approved plans and permit scope.\n- Rough inspections before work is covered.\n- Final inspection after installations are complete.\n- Corrections, revised plans, and documentation.\n\n## Practical guidance\nAsk for the permit number, inspection sequence, correction responsibility, and final approval record. Keep plans, product information, inspection results, and warranties with the home’s records.\n\n## Soft positioning\nElite Remodeling & Design describes final inspection as part of its project process when applicable to the remodeling scope.",
+        "@type": "Answer",
+        "description": "The project may require final inspections, correction work, document updates, and permit closeout depending on the scope and jurisdiction. Ask who schedules inspections, resolves corrections, provides final records, and confirms that the completed work matches the approved plans."
+      }
+    }
+  ],
+  "description": "The project may require final inspections, correction work, document updates, and permit closeout depending on the scope and jurisdiction. Ask who schedules ins"
+}

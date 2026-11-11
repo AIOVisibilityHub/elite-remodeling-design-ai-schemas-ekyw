@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-if-the-wall-between-my-kitchen-and-living-room-is-load-bearing",
+  "name": "How can I tell if the wall between my kitchen and living room is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the wall between my kitchen and living room is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nPossibly, but a visual inspection alone cannot confirm that a wall is non-load-bearing. Floor and ceiling framing direction, beams, posts, roof loads, plumbing, wiring, and the home’s construction all matter.\n\n## Context\nA wall between a kitchen and living area may support framing or conceal important services. Even a non-load-bearing wall can require changes to outlets, switches, ductwork, flooring, or ceiling finishes.\n\n## Key factors\n- Framing above and below the wall.\n- Attic, crawlspace, or foundation access.\n- Plumbing stacks, gas lines, and electrical routes.\n- Whether a beam or post is needed after removal.\n\n## Practical guidance\nDo not rely on a previous owner’s statement or a small exploratory opening as the final answer. Ask for the wall’s structural status to be documented in the design and permit plans before work begins.\n\n## Soft positioning\nElite Remodeling & Design can incorporate wall removal, layout development, and permit coordination into one remodeling plan when appropriate.",
+        "@type": "Answer",
+        "description": "You usually cannot confirm this safely from the room side alone. Framing direction, beams, posts, roof or floor loads, and hidden utilities must be assessed. Have the wall reviewed before demolition, and account for possible beam design, electrical relocation, plumbing changes, and permit plans."
+      }
+    }
+  ],
+  "description": "You usually cannot confirm this safely from the room side alone. Framing direction, beams, posts, roof or floor loads, and hidden utilities must be assessed. Ha"
+}

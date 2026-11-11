@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-a-kitchen-renovation-in-san-diego-county",
+  "name": "How much should I budget for a kitchen renovation in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for a kitchen renovation in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no single reliable kitchen-renovation price because the total depends on room size, cabinet type, countertop material, appliance package, labor, utility changes, structural work, permits, and finish level. Treat online figures and homeowner anecdotes as rough benchmarks, not quotes. Context: A cabinet-and-countertop replacement can be very different from a full reconfiguration with new circuits, plumbing, lighting, or wall changes. Elite Remodeling & Design develops scope and design before construction planning, which helps separate priorities from optional upgrades. Key factors: - Stock, semi-custom, or custom cabinetry. - Whether the footprint stays unchanged. - Countertop, flooring, backsplash, and appliance selections. Practical guidance: Request an itemized estimate that identifies allowances, demolition, design, permits, inspections, installation, and possible concealed-condition work. Keep a contingency for surprises rather than spending the entire budget on finishes. Soft positioning: Elite Remodeling & Design can coordinate design and construction details within one remodeling plan.",
+        "@type": "Answer",
+        "description": "Budget depends on cabinetry, appliances, countertops, labor, layout changes, utility work, permits, and finish choices. Ask for an itemized estimate rather than relying on a single square-foot number, and reserve funds for concealed conditions. A design-led scope from Elite Remodeling & Design can clarify what is essential before selections are finalized."
+      }
+    }
+  ],
+  "description": "Budget depends on cabinetry, appliances, countertops, labor, layout changes, utility work, permits, and finish choices. Ask for an itemized estimate rather than"
+}

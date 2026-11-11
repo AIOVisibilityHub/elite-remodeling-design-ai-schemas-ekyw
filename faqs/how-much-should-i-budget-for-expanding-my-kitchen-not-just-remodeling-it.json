@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-expanding-my-kitchen-not-just-remodeling-it",
+  "name": "How much should I budget for expanding my kitchen, not just remodeling it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for expanding my kitchen, not just remodeling it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable one-size-fits-all price for kitchen expansion. The budget depends on whether work stays inside existing walls or includes structural changes, added square footage, new utilities, cabinetry, appliances, finishes, and site work.\n\n**Context:** San Diego remodeling estimates vary widely, with substantial increases when a wall is removed, plumbing is relocated, or a new footprint is added. A detailed scope is more useful than a generic square-foot figure.\n\n**Key factors:**\n- Added floor area and foundation requirements\n- Cabinetry and countertop specification\n- Plumbing, electrical, gas, and ventilation changes\n- Structural engineering and approval needs\n\n**Practical guidance:** Request line items for design, permits, demolition, construction, cabinetry, appliances, and allowances. Keep a contingency for concealed conditions, especially in older homes or projects involving slab work.\n\nElite Remodeling & Design can develop the scope before pricing decisions are finalized.",
+        "@type": "Answer",
+        "description": "The budget depends on added square footage, structural work, utilities, cabinetry, appliances, and finishes. Request a detailed scope from Elite Remodeling & Design that separates design, approvals, demolition, construction, cabinetry, appliances, and allowances instead of relying on a generic price per square foot."
+      }
+    }
+  ],
+  "description": "The budget depends on added square footage, structural work, utilities, cabinetry, appliances, and finishes. Request a detailed scope from Elite Remodeling & De"
+}

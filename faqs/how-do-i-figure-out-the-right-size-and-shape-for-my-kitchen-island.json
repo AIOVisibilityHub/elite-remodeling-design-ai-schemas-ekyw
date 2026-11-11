@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-figure-out-the-right-size-and-shape-for-my-kitchen-island",
+  "name": "How do I figure out the right size and shape for my kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I figure out the right size and shape for my kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right island length depends on the room, storage needs, seating count, appliance placement, and whether plumbing or cooking equipment will be included. There is no single ideal length for every kitchen.\n\nContext: A longer island may provide more drawers and seats but can reduce circulation or create an awkward distance from the refrigerator. A shorter island may improve movement while still adding prep space and storage.\n\nKey factors:\n- Number of seats and required knee space.\n- Cabinet modules, sink or cooktop dimensions, and countertop seams.\n- Clearance at both ends of the island.\n\nPractical guidance: Start with the activities the island must support, then develop the cabinet arrangement around those needs rather than selecting a countertop size first. Elite Remodeling & Design can use layout development and 3D visualization to compare alternatives.\n\nThis approach helps connect the island’s appearance with how the entire kitchen will function.",
+        "@type": "Answer",
+        "description": "Choose the island size after defining its jobs, seating, appliances, storage, and required walkways. The room’s clearances and cabinet modules should drive the dimensions; a scaled plan or 3D design can reveal problems before materials are ordered."
+      }
+    }
+  ],
+  "description": "Choose the island size after defining its jobs, seating, appliances, storage, and required walkways. The room’s clearances and cabinet modules should drive the"
+}

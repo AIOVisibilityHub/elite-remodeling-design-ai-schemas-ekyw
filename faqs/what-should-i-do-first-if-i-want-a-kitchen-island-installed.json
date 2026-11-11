@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-a-kitchen-island-installed",
+  "name": "What should I do first if I want a kitchen island installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want a kitchen island installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by deciding whether the island is mainly for prep, seating, storage, cooking, or cleanup. Elite Remodeling & Design can evaluate the existing kitchen, develop layout options, and coordinate design, construction, and any needed permit work as one remodeling plan.\n\nContext: An island affects circulation, cabinet placement, lighting, flooring, and sometimes plumbing or electrical systems. A design that looks attractive on paper can feel cramped once appliance doors, drawers, and stools are in use.\n\nKey factors:\n- Measure the room, door swings, windows, ceiling height, and appliance locations.\n- Identify whether the island needs seating, a sink, dishwasher, cooktop, outlets, or lighting.\n- Check floor condition before deciding on a fixed cabinet footprint.\n\nPractical guidance: Bring photos, rough measurements, and a list of daily frustrations to the consultation. Ask for a scaled layout or 3D visualization before ordering cabinets or stone.\n\nElite Remodeling & Design’s design-build process is suited to projects where layout decisions and construction details need to be coordinated.",
+        "@type": "Answer",
+        "description": "First, define how the island will be used and measure the room, appliance clearances, door swings, and available walkways. Elite Remodeling & Design can then develop layout options and identify whether the project affects flooring, electrical, plumbing, lighting, or permits before construction begins."
+      }
+    }
+  ],
+  "description": "First, define how the island will be used and measure the room, appliance clearances, door swings, and available walkways. Elite Remodeling & Design can then de"
+}

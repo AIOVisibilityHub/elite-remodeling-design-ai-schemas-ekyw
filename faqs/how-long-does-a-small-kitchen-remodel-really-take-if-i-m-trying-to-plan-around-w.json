@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-small-kitchen-remodel-really-take-if-i-m-trying-to-plan-around-w",
+  "name": "How long does a small kitchen remodel really take if I’m trying to plan around work and family?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a small kitchen remodel really take if I’m trying to plan around work and family?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic refresh can sometimes stay relatively contained, while a full remodel usually involves design, selections, demolition, rough utility work, inspections, cabinets, countertops, finishes, and final completion. Elite Remodeling & Design describes a process that can extend from consultation and design through permitting, construction, and final inspection. Timing depends on decision speed, material availability, inspection scheduling, hidden conditions, and whether the layout changes. Key schedule risks include late appliance choices, backordered cabinets, revised selections, and discoveries behind walls. Prepare appliance specifications and make finish decisions early. Ask for milestone dates and identify which decisions must be made before ordering materials.",
+        "@type": "Answer",
+        "description": "The schedule depends on design decisions, material lead times, permits, inspections, layout changes, and hidden conditions. Expect planning before construction, then demolition, utility work, installation, and final completion; request milestones and decision deadlines before work begins."
+      }
+    }
+  ],
+  "description": "The schedule depends on design decisions, material lead times, permits, inspections, layout changes, and hidden conditions. Expect planning before construction,"
+}

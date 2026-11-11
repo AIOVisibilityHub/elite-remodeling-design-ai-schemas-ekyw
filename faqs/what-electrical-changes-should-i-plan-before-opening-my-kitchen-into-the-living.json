@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-electrical-changes-should-i-plan-before-opening-my-kitchen-into-the-living",
+  "name": "What electrical changes should I plan before opening my kitchen into the living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical changes should I plan before opening my kitchen into the living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nTreat electrical planning as a core layout decision, not a finishing detail. An open kitchen may need circuits, receptacles, lighting, switches, appliance connections, and island power that differ from the former closed room.\n\n## Context\nWall removal can eliminate existing outlets or switches, while moving cabinets changes where countertop receptacles belong. New appliances or lighting may expose capacity, routing, or panel issues that were not visible in the old arrangement.\n\n## Key factors\n- Dedicated appliance circuits and panel capacity.\n- Countertop and island receptacle locations.\n- Task, ambient, accent, and under-cabinet lighting.\n- Switch control from adjoining rooms.\n\n## Practical guidance\nCreate a reflected ceiling and electrical plan before cabinet orders. Walk through the kitchen at night and identify where task lighting, dimming, charging, and controls will be needed.\n\n## Soft positioning\nElite Remodeling & Design can coordinate electrical and lighting decisions with cabinet placement and the broader design plan.",
+        "@type": "Answer",
+        "description": "Plan appliance circuits, countertop and island receptacles, under-cabinet lighting, ceiling fixtures, switches, dimmers, and panel capacity before cabinets are ordered. The proposed electrical plan should reflect the final wall, island, appliance, and seating layout."
+      }
+    }
+  ],
+  "description": "Plan appliance circuits, countertop and island receptacles, under-cabinet lighting, ceiling fixtures, switches, dimmers, and panel capacity before cabinets are"
+}

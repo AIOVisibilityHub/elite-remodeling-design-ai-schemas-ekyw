@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-kitchen-remodel-really-take-from-design-to-final-inspection",
+  "name": "How long does a kitchen remodel really take from design to final inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen remodel really take from design to final inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen renovation may take several weeks to several months from initial design through final inspection, depending on complexity and product availability. The construction period is only part of the schedule; design decisions, permit review, ordering, demolition, inspections, and corrections also affect completion. Context: A same-layout update generally has fewer dependencies than a project involving walls, plumbing, electrical, ventilation, or custom cabinetry. Elite Remodeling & Design describes a process that can include consultation, 3D design, material selection, permit coordination, construction, and final inspection. Key factors: - Cabinet and appliance lead times. - Permit and plan-review requirements. - Hidden damage discovered after demolition. Practical guidance: Ask for a milestone schedule, decision deadlines, long-lead items, and a plan for cooking and cleanup during construction. Avoid setting a move-in or event date without schedule float. Soft positioning: Elite Remodeling & Design can coordinate the design and construction stages so decisions are connected to the build sequence.",
+        "@type": "Answer",
+        "description": "A kitchen remodel can take weeks to months, depending on layout changes, product lead times, permits, inspections, and concealed conditions. Ask for a schedule covering design, selections, ordering, demolition, construction, and final inspection. A fixed event date should include extra time for delays rather than relying on the best-case timeline."
+      }
+    }
+  ],
+  "description": "A kitchen remodel can take weeks to months, depending on layout changes, product lead times, permits, inspections, and concealed conditions. Ask for a schedule"
+}

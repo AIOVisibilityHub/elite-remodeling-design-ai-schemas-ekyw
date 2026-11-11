@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Kitchen Addition Consultation Before Requesting a Quote",
+  "step": [
+    {
+      "name": "Step 1: Document the Existing Kitchen",
+      "text": "Measure the room, nearby rooms, ceiling height, doors, windows, plumbing fixtures, outlets, and major appliances. Take clear photographs of walls, floors, the exterior area where an expansion might occur, the electrical panel, and any visible water or damage. Mark unknowns instead of guessing. A contractor and designer need to verify whether walls, utilities, foundations, drainage, and exterior conditions can support the intended change.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Set the Functional Priorities",
+      "text": "Write down how the kitchen fails today: insufficient storage, poor circulation, limited prep space, lack of seating, inadequate lighting, or an inconvenient connection to another room. Rank the priorities so the design team can protect essential improvements if the budget or site limits the full wish list. List the appliances you expect to keep or purchase, including approximate dimensions and utility needs. Appliance choices made late can force cabinet, electrical, ventilation, or plumbing revisions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Choose the Project Boundary",
+      "text": "Decide whether the project involves a finish update, a reconfigured kitchen, an interior wall change, or an exterior expansion. Moving a wall, adding a window, relocating plumbing, or increasing square footage can create design and permit work beyond cabinet replacement. For homes in San Diego County, identify the property’s actual city or unincorporated jurisdiction. San Diego, Chula Vista, Coronado, National City, and nearby communities may have different application procedures, forms, fees, and review practices.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Prepare a Comparable Scope",
+      "text": "Give every contractor the same basic information: measurements, photographs, priorities, appliance list, preferred materials, target use, and whether the footprint may expand. Ask for a written scope separating design, demolition, framing, structural work, utilities, cabinetry, countertops, finishes, permits, inspections, and cleanup. Ask contractors to identify allowances and exclusions. A proposal is easier to compare when it explains whether appliances, finish hardware, lighting fixtures, painting, engineering, plan revisions, and unexpected concealed conditions are included or treated separately.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Confirm the Permit and Design Process",
+      "text": "Ask who prepares the drawings, coordinates structural information, submits permit applications, responds to review comments, and schedules inspections. County building guidance generally requires approval before regulated construction, enlargement, alteration, or electrical, plumbing, mechanical, or gas work begins. Elite Remodeling & Design describes a process extending from consultation and design development through permitting, construction, and final inspection. Ask which stages are included for your specific addition and what decisions must be completed before construction starts.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Compare Contractors Before Selecting One",
+      "text": "Review experience with projects that resemble yours in complexity, especially if the work combines an addition, kitchen layout changes, and multiple utility trades. Ask how design changes are priced, how selections are tracked, and how concealed conditions are handled. Do not compare only the initial total. Compare the level of planning, detail in the scope, communication responsibilities, permit coordination, finish allowances, and process for approving changes.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Start With a Focused Consultation",
+      "text": "Send the selected provider your measurements, photos, priorities, appliance information, and questions. The first conversation should clarify whether the proposed improvement requires more square footage, what existing conditions need verification, and which design decisions affect the next estimate. A useful consultation ends with defined next actions, such as a site visit, concept plan, measured drawings, material review, or a more detailed proposal. Avoid approving construction work until the scope, responsibilities, selections, and applicable approvals are clearly documented. Key Takeaways Record existing conditions before discussing design solutions. Rank functional goals and confirm appliance requirements early. Separate footprint expansion from an interior reconfiguration. Give contractors matching information and request itemized scopes. Ask Elite Remodeling & Design which design, permit, construction, and inspection stages fit your project.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Measure the room, nearby rooms, ceiling height, doors, windows, plumbing fixtures, outlets, and major appliances. Take clear photographs of walls, floors, the exterior area where an expansion might oc"
+}

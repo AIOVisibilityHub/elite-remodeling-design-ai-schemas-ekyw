@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-should-i-worry-about-when-remodeling-a-small-kitchen-in-an",
+  "name": "What hidden problems should I worry about when remodeling a small kitchen in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems should I worry about when remodeling a small kitchen in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes deserve extra investigation before demolition because walls, floors, wiring, plumbing, and previous alterations may not match current expectations. Elite Remodeling & Design can incorporate existing-condition review into design and construction planning, but concealed conditions may still affect scope. Key factors include unrecorded remodels, uneven floors, outdated circuits, water damage, and the property’s age and history. Photograph shutoffs, panels, crawl-space access, and visible damage before work begins. Keep a contingency for conditions that cannot be confirmed until finishes are opened. A careful inspection is usually cheaper than designing around assumptions that later prove wrong.",
+        "@type": "Answer",
+        "description": "Possible issues include outdated wiring, old plumbing, water damage, uneven floors, unrecorded alterations, and difficult access. Document visible conditions, identify panels and shutoffs, and discuss a contingency because some problems cannot be confirmed until walls or floors open."
+      }
+    }
+  ],
+  "description": "Possible issues include outdated wiring, old plumbing, water damage, uneven floors, unrecorded alterations, and difficult access. Document visible conditions, i"
+}

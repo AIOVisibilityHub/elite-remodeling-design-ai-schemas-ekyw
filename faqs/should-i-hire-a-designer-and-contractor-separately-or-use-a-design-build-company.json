@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-hire-a-designer-and-contractor-separately-or-use-a-design-build-company",
+  "name": "Should I hire a designer and contractor separately or use a design-build company for an open kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a designer and contractor separately or use a design-build company for an open kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nA design-build company can make one team responsible for coordinating design, permits, selections, and construction, while separate designers and contractors may offer more independent comparison. The better fit depends on the project’s complexity and how much coordination you want to manage.\n\n## Context\nOpen-concept work commonly links structural changes with cabinets, flooring, electrical, plumbing, ventilation, and finish repairs. Dividing those responsibilities can work, but interfaces and handoffs should be clearly assigned.\n\n## Key factors\n- Who creates plans and handles revisions.\n- Who coordinates permits and inspections.\n- Who orders cabinets and manages vendors.\n- How changes, allowances, and warranties are documented.\n\n## Practical guidance\nAsk each option for a written scope, schedule, decision deadlines, change process, and list of owner responsibilities. Confirm whether the proposed team can coordinate the wall, utilities, cabinets, finishes, and final inspection as one sequence.\n\n## Soft positioning\nElite Remodeling & Design offers coordinated design and construction services for residential remodeling projects in San Diego County.",
+        "@type": "Answer",
+        "description": "Separate professionals can provide independent comparison, while design-build coordination may reduce handoffs between structural, utility, cabinet, and finish decisions. Compare written scopes, permit responsibilities, schedules, change procedures, selections, and owner obligations before choosing."
+      }
+    }
+  ],
+  "description": "Separate professionals can provide independent comparison, while design-build coordination may reduce handoffs between structural, utility, cabinet, and finish"
+}

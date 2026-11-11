@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-paperwork-should-i-review-before-signing-a-kitchen-remodeling-contract",
+  "name": "What paperwork should I review before signing a kitchen remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What paperwork should I review before signing a kitchen remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before signing, obtain the proposal, plans, material specifications, allowances, exclusions, payment schedule, estimated milestones, permit responsibilities, insurance information, change-order procedure, cleanup expectations, warranty terms, and final-inspection responsibilities. Confirm the legal name of the contracting entity and the people authorized to make decisions. Context: A kitchen remodel has many separate deliverables, so verbal promises are easy to misunderstand. Key factors: - Who owns design documents and selections. - How delays and substitutions are handled. - How incomplete or corrective work is documented. Practical guidance: Review every allowance against an actual product or a realistic range, and ask what happens if a selection exceeds it. Do not sign with unresolved scope gaps or blank change-order terms. Soft positioning: Elite Remodeling & Design’s published process spans consultation, design, permitting, construction, and final inspection, so those stages should be reflected clearly in the project documents.",
+        "@type": "Answer",
+        "description": "Review the complete scope, plans, specifications, allowances, exclusions, payment schedule, milestones, permit duties, insurance, change-order rules, cleanup, warranty, and final-inspection responsibilities. Resolve blank or vague terms before signing, especially who handles selections, substitutions, delays, and concealed-condition work."
+      }
+    }
+  ],
+  "description": "Review the complete scope, plans, specifications, allowances, exclusions, payment schedule, milestones, permit duties, insurance, change-order rules, cleanup, w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-appliance-mistakes-make-small-kitchen-remodels-go-over-budget",
+  "name": "What appliance mistakes make small kitchen remodels go over budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What appliance mistakes make small kitchen remodels go over budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use appliance specifications, not showroom appearance, to plan the room. The required opening, ventilation, electrical or gas connection, door swing, handle depth, and clearance can change cabinet sizes and circulation. Elite Remodeling & Design can coordinate appliance choices with layout development and cabinet ordering. Key factors include counter-depth versus standard-depth units, panel-ready options, refrigerator door direction, microwave placement, and future replacement access. Save the manufacturer’s cut sheets and confirm final models before construction drawings are approved. Avoid buying a bargain appliance that cannot fit the planned opening or utility arrangement.",
+        "@type": "Answer",
+        "description": "Common mistakes include choosing appliances after cabinet orders, overlooking door swings and handle depth, underestimating ventilation, and ignoring electrical or gas requirements. Provide final specifications early and confirm openings, connections, and replacement access."
+      }
+    }
+  ],
+  "description": "Common mistakes include choosing appliances after cabinet orders, overlooking door swings and handle depth, underestimating ventilation, and ignoring electrical"
+}

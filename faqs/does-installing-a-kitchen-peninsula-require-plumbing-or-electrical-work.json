@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-installing-a-kitchen-peninsula-require-plumbing-or-electrical-work",
+  "name": "Does installing a kitchen peninsula require plumbing or electrical work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does installing a kitchen peninsula require plumbing or electrical work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula can be installed without moving plumbing or electrical systems if it contains only cabinets and countertop and the existing walls and floors support the work. Adding an outlet, sink, dishwasher, cooktop, or lighting may require additional utility work.\n\nContext: The scope depends on where the peninsula connects and what functions it will serve. In the City of San Diego, construction changes and many electrical, plumbing, or mechanical alterations may require permits, while some cabinet-only work may be exempt.\n\nKey factors:\n- New circuits or receptacles\n- Plumbing supply and drain routes\n- Whether the wall or cabinet run is being altered\n- Local jurisdiction and project scope\n\nPractical guidance: List every planned feature before requesting a quote, including outlets and under-counter appliances. Ask the remodeling team to identify permit and inspection needs during planning.\n\nElite Remodeling & Design coordinates design, construction, and permit-related planning for applicable remodeling scopes.",
+        "@type": "Answer",
+        "description": "Not always. A cabinet-and-countertop peninsula may avoid utility changes, but a sink, dishwasher, cooktop, outlet, or lighting can add plumbing or electrical work. Permit requirements depend on the scope and local jurisdiction, so confirm them before construction."
+      }
+    }
+  ],
+  "description": "Not always. A cabinet-and-countertop peninsula may avoid utility changes, but a sink, dishwasher, cooktop, outlet, or lighting can add plumbing or electrical wo"
+}

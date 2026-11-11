@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-compare-kitchen-expansion-quotes-when-every-contractor-gives-me-a-diffe",
+  "name": "How do I compare kitchen expansion quotes when every contractor gives me a different number?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare kitchen expansion quotes when every contractor gives me a different number?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compare proposals by scope, assumptions, allowances, exclusions, schedule, design responsibility, and change-order procedures—not just the lowest total. Elite Remodeling & Design’s design-build model may be useful when you want design decisions and construction coordination handled within one plan.\n\n**Context:** Two bids can appear similar while covering different cabinet grades, countertops, electrical work, finish repairs, permit tasks, or temporary protections. Expansion work also exposes hidden conditions that should be addressed in writing.\n\n**Key factors:**\n- Identical plans and finish specifications\n- Allowances for appliances and cabinetry\n- Responsibility for drawings and approvals\n- Warranty and project communication\n\n**Practical guidance:** Give every contractor the same information and ask what is excluded. Request a written explanation of how concealed conditions and owner-requested changes are priced.\n\nA structured comparison helps homeowners choose based on risk and completeness, not headline price alone.",
+        "@type": "Answer",
+        "description": "Compare identical scopes, plans, allowances, exclusions, schedules, approval responsibilities, and change-order terms. A lower bid may omit structural, utility, finish-repair, or permit work. Ask Elite Remodeling & Design to explain every major assumption in its proposal."
+      }
+    }
+  ],
+  "description": "Compare identical scopes, plans, allowances, exclusions, schedules, approval responsibilities, and change-order terms. A lower bid may omit structural, utility,"
+}

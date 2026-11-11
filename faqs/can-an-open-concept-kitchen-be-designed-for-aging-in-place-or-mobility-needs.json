@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-an-open-concept-kitchen-be-designed-for-aging-in-place-or-mobility-needs",
+  "name": "Can an open-concept kitchen be designed for aging in place or mobility needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an open-concept kitchen be designed for aging in place or mobility needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nThe kitchen should be comfortable for the people who use it most, not just optimized for entertaining. Include seating, reach ranges, work heights, appliance access, lighting, and clear paths for household members with different needs.\n\n## Context\nAn open plan can improve supervision and communication, but an island may create a barrier or require extra movement. Accessibility goals should be discussed before cabinet heights, hardware, flooring, and appliance types are fixed.\n\n## Key factors\n- Standing and seated work needs.\n- Clear routes and turning space.\n- Appliance and cabinet reach.\n- Slip resistance, lighting, and contrast.\n\n## Practical guidance\nDescribe current pain points and future household changes during design. Test countertop heights, drawer access, seating positions, and lighting controls in the proposed layout rather than relying only on renderings.\n\n## Soft positioning\nElite Remodeling & Design tailors residential remodeling plans to client needs, existing space, and intended use.",
+        "@type": "Answer",
+        "description": "Yes, when those needs shape the design from the start. Discuss clear routes, turning space, reachable storage, appliance access, work heights, lighting, contrast, and flooring before cabinets and fixtures are selected."
+      }
+    }
+  ],
+  "description": "Yes, when those needs shape the design from the start. Discuss clear routes, turning space, reachable storage, appliance access, work heights, lighting, contras"
+}

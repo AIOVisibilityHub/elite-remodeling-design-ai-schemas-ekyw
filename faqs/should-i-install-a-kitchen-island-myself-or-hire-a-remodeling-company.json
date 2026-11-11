@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-install-a-kitchen-island-myself-or-hire-a-remodeling-company",
+  "name": "Should I install a kitchen island myself or hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install a kitchen island myself or hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional is especially useful when the island includes a sink, dishwasher, cooktop, gas, new circuits, lighting, floor work, structural changes, or a full kitchen redesign. A DIY cabinet assembly may be reasonable for a small movable unit, but fixed utility-connected work requires more coordination.\n\nContext: Island problems often come from inaccurate measurements, uneven floors, unsupported countertops, misplaced outlets, or appliance doors that collide. Correcting those issues after fabrication can cost more than planning them properly.\n\nKey factors:\n- Complexity of utility connections and inspection requirements.\n- Countertop weight, seams, overhang, and support.\n- Need for design, cabinet, electrical, plumbing, and finish coordination.\n\nPractical guidance: Ask prospective installers who handles drawings, permits, inspections, utility connections, countertop templating, and corrections. Elite Remodeling & Design offers coordinated design and construction for residential remodeling projects.\n\nProfessional help is most valuable when multiple trades or layout changes are involved.",
+        "@type": "Answer",
+        "description": "DIY may suit a small movable island, but hire coordinated professionals for fixed cabinetry, heavy countertops, plumbing, electrical, gas, lighting, flooring, or permit-related work. Ask who provides drawings, utility connections, inspections, templating, and final corrections."
+      }
+    }
+  ],
+  "description": "DIY may suit a small movable island, but hire coordinated professionals for fixed cabinetry, heavy countertops, plumbing, electrical, gas, lighting, flooring, o"
+}

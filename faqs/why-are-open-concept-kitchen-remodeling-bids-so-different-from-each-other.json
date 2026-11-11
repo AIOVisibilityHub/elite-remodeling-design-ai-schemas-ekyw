@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-are-open-concept-kitchen-remodeling-bids-so-different-from-each-other",
+  "name": "Why are open-concept kitchen remodeling bids so different from each other?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are open-concept kitchen remodeling bids so different from each other?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nDo not automatically accept the lowest bid if it leaves structural work, permits, finishes, appliances, or utility relocation undefined. Compare complete scopes, not just the bottom-line number.\n\n## Context\nAn open-concept remodel has many connected allowances, and a low initial price may exclude floor repairs, beam finishes, temporary protection, design services, permit coordination, or required upgrades. Those omissions can appear later as changes.\n\n## Key factors\n- Identical plans and cabinet assumptions.\n- Included structural engineering or beam work.\n- Utility relocation and ventilation scope.\n- Allowances, exclusions, insurance, and payment stages.\n\n## Practical guidance\nGive every bidder the same drawings, appliance list, finish expectations, and questions. Request written clarification for any line described as an allowance, owner-supplied item, or not included.\n\n## Soft positioning\nElite Remodeling & Design can develop the design and construction scope together so proposals are easier to compare.",
+        "@type": "Answer",
+        "description": "Bids often differ because they include different assumptions about wall structure, permits, utilities, cabinets, appliances, ventilation, flooring, and finish repairs. Compare itemized scopes based on the same plan, selections, allowances, exclusions, and owner responsibilities."
+      }
+    }
+  ],
+  "description": "Bids often differ because they include different assumptions about wall structure, permits, utilities, cabinets, appliances, ventilation, flooring, and finish r"
+}

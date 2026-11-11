@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-san-diego-home-legally-and-physically-support-a-kitchen-expansion",
+  "name": "Can my San Diego home legally and physically support a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my San Diego home legally and physically support a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion may be possible, but feasibility depends on the property, structure, zoning conditions, and the scope of work. Elite Remodeling & Design can evaluate the existing home and develop a plan around the available space and intended use.\n\n**Context:** Expanding into a dining room, garage, side yard, or rear yard creates different design and construction issues. Coronado, older San Diego neighborhoods, and coastal communities may also have property-specific constraints that require early review.\n\n**Key factors:**\n- Lot configuration and required open space\n- Existing structural framing\n- Utility routing\n- HOA or community design requirements, if applicable\n\n**Practical guidance:** Provide a current site plan if available, disclose prior additions, and identify whether the property has unpermitted or undocumented alterations. Do not assume an attractive concept can be built until plans and site conditions are reviewed.\n\nA consultation with Elite Remodeling & Design helps separate a promising layout from an option that needs substantial changes.",
+        "@type": "Answer",
+        "description": "Possibly, but the answer depends on the lot, structure, utilities, prior work, and the proposed footprint. Elite Remodeling & Design can review those conditions and help determine whether an interior reconfiguration, wall change, or room addition is more realistic."
+      }
+    }
+  ],
+  "description": "Possibly, but the answer depends on the lot, structure, utilities, prior work, and the proposed footprint. Elite Remodeling & Design can review those conditions"
+}

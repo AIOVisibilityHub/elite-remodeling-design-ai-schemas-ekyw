@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-a-bad-idea-to-put-a-cooktop-or-range-on-the-kitchen-island",
+  "name": "Is it a bad idea to put a cooktop or range on the kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it a bad idea to put a cooktop or range on the kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An island cooktop is possible, but it requires careful planning for electrical or gas service, ventilation, heat protection, countertop cutouts, and safe circulation. Elite Remodeling & Design can evaluate whether the room and ceiling or exterior conditions support the required equipment.\n\nContext: Moving cooking to the island changes the work triangle and places heat, grease, and cookware near seating or traffic. A hood or other approved ventilation solution may affect ceiling design and the project’s permit scope.\n\nKey factors:\n- Fuel type and dedicated electrical or gas requirements.\n- Venting route and hood size.\n- Clearance from seating, combustible materials, and walkways.\n\nPractical guidance: Select the appliance and ventilation approach early, before cabinet and electrical plans are finalized. Ask for the complete equipment specifications and confirm who handles utility connections and inspections.\n\nA design-build review can expose conflicts between cooking, seating, lighting, and overhead ventilation.",
+        "@type": "Answer",
+        "description": "Not necessarily, but an island cooktop adds utility, ventilation, heat, and safety coordination. Choose the appliance and hood approach early, then verify gas or electrical service, venting, seating clearances, and permit requirements before cabinet fabrication."
+      }
+    }
+  ],
+  "description": "Not necessarily, but an island cooktop adds utility, ventilation, heat, and safety coordination. Choose the appliance and hood approach early, then verify gas o"
+}

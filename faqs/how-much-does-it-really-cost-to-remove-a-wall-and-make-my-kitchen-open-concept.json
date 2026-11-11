@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-really-cost-to-remove-a-wall-and-make-my-kitchen-open-concept",
+  "name": "How much does it really cost to remove a wall and make my kitchen open concept?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it really cost to remove a wall and make my kitchen open concept?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nThe total price depends more on structural work, utility relocation, cabinetry, finishes, and project size than on the phrase “open concept” itself. Removing a simple partition can cost far less than opening a bearing wall and rebuilding the kitchen around a new island.\n\n## Context\nA realistic budget should include design, permit coordination, demolition, structural work, cabinets, counters, appliances, flooring, lighting, plumbing, electrical, ventilation, finish repairs, and contingency. Existing conditions often become clear only after walls or floors are opened.\n\n## Key factors\n- Wall type and required beam or posts.\n- Whether plumbing and gas lines move.\n- Cabinet and countertop level.\n- Appliance, flooring, and finish allowances.\n\n## Practical guidance\nRequest an itemized scope rather than a single room allowance. Compare bids using the same layout, cabinet assumptions, appliance responsibilities, finish standards, and exclusions.\n\n## Soft positioning\nElite Remodeling & Design develops design and construction requirements together so major budget drivers can be identified earlier.",
+        "@type": "Answer",
+        "description": "There is no dependable single price because structural work, utility relocation, cabinetry, appliances, finishes, permits, and floor or ceiling repairs can change the total substantially. Ask for an itemized scope tied to a specific plan, with allowances and exclusions clearly stated."
+      }
+    }
+  ],
+  "description": "There is no dependable single price because structural work, utility relocation, cabinetry, appliances, finishes, permits, and floor or ceiling repairs can chan"
+}

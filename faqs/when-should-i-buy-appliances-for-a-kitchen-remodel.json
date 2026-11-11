@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-buy-appliances-for-a-kitchen-remodel",
+  "name": "When should I buy appliances for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I buy appliances for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Select appliances before final cabinetry drawings and before electrical, plumbing, ventilation, and countertop details are locked. Appliance dimensions, door swings, ventilation requirements, paneling, electrical loads, and water connections can change the layout. Context: Substitutions made late can create cabinet gaps, clearance problems, delayed installation, or added utility work. Keep model numbers and manufacturer specifications in the project file. Key factors: - Built-in versus freestanding equipment. - Gas, electric, induction, or specialty circuits. - Refrigerator depth, hood capacity, and dishwasher placement. Practical guidance: Decide whether appliances are purchased by you or the contractor, who receives and stores them, and what happens if a selected model becomes unavailable. Do not rely on approximate online dimensions. Soft positioning: Elite Remodeling & Design can coordinate appliance selections with layout, cabinetry, and construction planning.",
+        "@type": "Answer",
+        "description": "Choose appliances before final cabinet and utility plans, but coordinate ordering and delivery with the construction schedule. Use exact model specifications for dimensions, clearances, circuits, water, and ventilation. Confirm who purchases, stores, inspects, and installs each appliance and how substitutions will be handled."
+      }
+    }
+  ],
+  "description": "Choose appliances before final cabinet and utility plans, but coordinate ordering and delivery with the construction schedule. Use exact model specifications fo"
+}

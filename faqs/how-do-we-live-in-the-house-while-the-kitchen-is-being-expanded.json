@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-we-live-in-the-house-while-the-kitchen-is-being-expanded",
+  "name": "How do we live in the house while the kitchen is being expanded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do we live in the house while the kitchen is being expanded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A temporary kitchen is worth planning whenever construction will disable the sink, refrigerator, cooking equipment, or essential storage for more than a short period. Elite Remodeling & Design can help establish the construction sequence, but the household should decide which functions must remain available.\n\n**Context:** Expansions may involve demolition, dust control, utility shutoffs, inspections, and periods without finished cabinets or countertops. A temporary setup does not replace a full kitchen but can reduce disruption.\n\n**Key factors:**\n- Duration of utility interruptions\n- Safe location for a refrigerator and microwave\n- Access to water and food preparation\n- Dust, noise, pets, children, and work hours\n\n**Practical guidance:** Set up a washable area outside the work zone with small appliances, containers, and basic dishes. Ask when water, gas, and power will be unavailable and how the work area will be separated.\n\nClear phasing helps the household plan around construction instead of reacting to each interruption.",
+        "@type": "Answer",
+        "description": "Plan a temporary food-preparation area before demolition, especially if the sink, refrigerator, or cooking equipment will be disconnected. Ask Elite Remodeling & Design for utility-shutdown periods, work-zone boundaries, dust controls, and the sequence for restoring essential functions."
+      }
+    }
+  ],
+  "description": "Plan a temporary food-preparation area before demolition, especially if the sink, refrigerator, or cooking equipment will be disconnected. Ask Elite Remodeling"
+}

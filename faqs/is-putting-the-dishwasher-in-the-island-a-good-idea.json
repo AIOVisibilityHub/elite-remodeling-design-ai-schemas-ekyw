@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-putting-the-dishwasher-in-the-island-a-good-idea",
+  "name": "Is putting the dishwasher in the island a good idea?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is putting the dishwasher in the island a good idea?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dishwasher in the island can work well when the island is close to the sink or cleanup zone and the open door will not block the main passage. It requires coordinated water, drain, electrical, cabinet, and countertop planning.\n\nContext: The dishwasher door occupies floor space and can interfere with a cook, seated person, or nearby drawer. Placing it far from the sink may also create longer hose and plumbing routes.\n\nKey factors:\n- Door swing and aisle width.\n- Sink location, drain route, and service access.\n- Dedicated power and cabinet panel dimensions.\n\nPractical guidance: Draw the dishwasher open on the plan and test who can pass while it is loaded. Include the exact appliance model before cabinet orders; Elite Remodeling & Design can coordinate the appliance with the island’s construction details.\n\nThe right location prioritizes safe circulation and an efficient cleanup sequence.",
+        "@type": "Answer",
+        "description": "It can be effective when the island is near the sink and the open door does not block circulation. Confirm the appliance model, drain and water route, electrical supply, cabinet panel, and clearance for loading before finalizing the layout."
+      }
+    }
+  ],
+  "description": "It can be effective when the island is near the sink and the open door does not block circulation. Confirm the appliance model, drain and water route, electrica"
+}

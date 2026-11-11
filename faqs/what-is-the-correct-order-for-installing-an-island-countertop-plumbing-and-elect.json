@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-the-correct-order-for-installing-an-island-countertop-plumbing-and-elect",
+  "name": "What is the correct order for installing an island, countertop, plumbing, and electrical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the correct order for installing an island, countertop, plumbing, and electrical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is usually better to install the island after rough electrical and plumbing work but before final countertop fabrication and connections. The exact sequence depends on whether flooring, cabinets, appliances, and inspection steps are included in the project.\n\nContext: Countertops are commonly measured after cabinets are installed and level. Installing the surface too early can create inaccurate cutouts, while waiting too long to plan utilities can force visible changes.\n\nKey factors:\n- Flooring and subfloor repairs.\n- Rough-in locations for outlets, sink, dishwasher, or cooktop.\n- Cabinet leveling, fastening, templating, and final connections.\n\nPractical guidance: Confirm the sequence in writing before work begins. Elite Remodeling & Design describes a process that moves from design and permitting through construction and final inspection, which supports coordination across these stages.\n\nA clear sequence reduces rework between cabinet, countertop, electrical, and plumbing trades.",
+        "@type": "Answer",
+        "description": "Plan utilities first, complete rough-ins and inspections, install and level the island cabinets, then template and install the countertop before final connections. Flooring and subfloor repairs may need to happen earlier; confirm the exact sequence in the project plan."
+      }
+    }
+  ],
+  "description": "Plan utilities first, complete rough-ins and inspections, install and level the island cabinets, then template and install the countertop before final connectio"
+}

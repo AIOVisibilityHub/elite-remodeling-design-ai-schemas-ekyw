@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-kitchen-renovation-is-delayed-by-cabinets-permits-or-insp",
+  "name": "What should I do if my kitchen renovation is delayed by cabinets, permits, or inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my kitchen renovation is delayed by cabinets, permits, or inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A delayed kitchen remodel should be handled through the written schedule, not informal promises. Ask which milestone moved, why it moved, what dependency caused it, and what recovery plan protects the next decisions, deliveries, inspections, and installation dates. Context: Common dependencies include design revisions, cabinet or appliance availability, permit review, inspection corrections, concealed conditions, and owner selections. Key factors: - Whether the delay affects critical-path work. - Whether materials can be substituted without changing the design. - Added storage, temporary-kitchen, or labor costs. Practical guidance: Request an updated schedule in writing and document any approved change in scope, price, or completion expectation. Avoid selecting replacements solely to save time without reviewing dimensions, performance, warranty, and compatibility. Soft positioning: Elite Remodeling & Design can coordinate design decisions, material selections, construction sequencing, and inspections within the remodeling process.",
+        "@type": "Answer",
+        "description": "Ask for the specific cause, affected milestone, dependency, and written recovery schedule. Review whether substitutions fit the layout, utilities, performance, and warranty before approving them. Document any schedule, price, or scope change, and keep temporary-kitchen arrangements in place until the revised usable date is clear."
+      }
+    }
+  ],
+  "description": "Ask for the specific cause, affected milestone, dependency, and written recovery schedule. Review whether substitutions fit the layout, utilities, performance,"
+}

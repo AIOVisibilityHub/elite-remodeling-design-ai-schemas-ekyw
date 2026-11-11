@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-kitchen-island-to-my-existing-kitchen-or-is-it-too-small",
+  "name": "Can I add a kitchen island to my existing kitchen, or is it too small?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a kitchen island to my existing kitchen, or is it too small?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an island can often be added to an existing kitchen, but the room must have enough usable floor area for comfortable movement and appliance access. Elite Remodeling & Design can compare a freestanding island, a smaller fixed island, or a peninsula when the current layout is tight.\n\nContext: The island’s size is controlled by aisle widths, cabinet depth, seating overhang, and doors that must open fully. A smaller island that preserves circulation is usually more useful than a large one that blocks the work areas.\n\nKey factors:\n- Existing wall and base-cabinet locations.\n- Refrigerator, oven, dishwasher, and pantry door swings.\n- Desired seating and countertop overhang.\n\nPractical guidance: Do not judge fit from countertop dimensions alone; mark the proposed footprint on the floor with tape and test the route from the refrigerator to the sink and cooking area. Include stools or open doors during the test.\n\nElite Remodeling & Design can incorporate the island into a broader kitchen remodeling plan when isolated installation would not solve the room’s layout problems.",
+        "@type": "Answer",
+        "description": "Many existing kitchens can accommodate an island, but the decision depends on aisle width, appliance door swings, seating space, and the island’s intended use. Tape the proposed footprint on the floor and test traffic before choosing a size; a smaller island or peninsula may work better."
+      }
+    }
+  ],
+  "description": "Many existing kitchens can accommodate an island, but the decision depends on aisle width, appliance door swings, seating space, and the island’s intended use."
+}

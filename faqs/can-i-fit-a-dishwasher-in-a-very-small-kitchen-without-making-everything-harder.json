@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-fit-a-dishwasher-in-a-very-small-kitchen-without-making-everything-harder",
+  "name": "Can I fit a dishwasher in a very small kitchen without making everything harder to use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fit a dishwasher in a very small kitchen without making everything harder to use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A compact kitchen can include a dishwasher, but its location matters more than simply fitting the appliance. It should generally be close enough to the sink for practical loading while avoiding interference with the oven, corner cabinets, or the main passage. Elite Remodeling & Design can test the dishwasher swing and adjacent cabinet use in the layout stage. Key factors include door width, sink cabinet location, plumbing access, flooring transitions, and whether the open door blocks traffic. Measure the appliance’s full open-door depth, not only its closed width. Consider a narrower model only after confirming that capacity meets household needs.",
+        "@type": "Answer",
+        "description": "Yes, but the dishwasher must be checked with its door fully open and placed near the sink without blocking key traffic or cabinet access. Confirm plumbing access, cabinet widths, door swings, and household capacity before choosing a standard or compact model."
+      }
+    }
+  ],
+  "description": "Yes, but the dishwasher must be checked with its door fully open and placed near the sink without blocking key traffic or cabinet access. Confirm plumbing acces"
+}

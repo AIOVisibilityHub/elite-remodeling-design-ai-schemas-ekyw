@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-big-can-my-kitchen-island-be-after-expanding-the-kitchen",
+  "name": "How big can my kitchen island be after expanding the kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How big can my kitchen island be after expanding the kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion can often include a larger island, but the island should be sized around circulation, appliance doors, seating, and work zones—not just the maximum available floor area. Elite Remodeling & Design can incorporate island placement into the overall kitchen layout and 3D design process.\n\n**Context:** An oversized island may reduce usable clearance, create bottlenecks, or make the refrigerator and dishwasher difficult to access. Seating also needs room for movement behind stools.\n\n**Key factors:**\n- Walkway and work-zone clearances\n- Sink, cooktop, and refrigerator relationships\n- Electrical and lighting locations\n- Support needs for stone or other heavy surfaces\n\n**Practical guidance:** Mark the proposed island with tape or cardboard before finalizing it. Test door swings, seating, unloading groceries, and two-person cooking rather than judging the shape from a drawing alone.\n\nThe right island supports the household’s routines without sacrificing circulation.",
+        "@type": "Answer",
+        "description": "The island should be sized around walkways, appliance-door swings, seating, work zones, and electrical planning. A larger island is not automatically better. Tape out the proposed dimensions and test cooking, unloading, and seating before final design approval."
+      }
+    }
+  ],
+  "description": "The island should be sized around walkways, appliance-door swings, seating, work zones, and electrical planning. A larger island is not automatically better. Ta"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "How to Prepare for a Primary Suite Addition in San Diego County",
+  "step": [
+    {
+      "name": "Step 1: Define How the Suite Will Be Used",
+      "text": "Write down who will use the suite and what the space must support. List the bedroom size preference, bathroom fixtures, closet type, laundry or linen storage, sitting area, privacy needs, and whether ground-floor access is important. Decide which features are essential and which can be deferred. A short priority list gives the design team a basis for resolving tradeoffs when lot area, budget, or existing conditions limit the options.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Gather Property and Existing-Home Information",
+      "text": "Collect the property address, a rough site sketch, available plans, photos of the exterior and rooms near the proposed addition, and notes about known leaks, electrical issues, drainage, or prior remodeling. Measure the areas that may connect to the new suite, but treat informal measurements as preliminary. Identify whether the addition may affect the roof, foundation, exterior walls, utilities, or access around the house. In San Diego County, the city or jurisdiction where the property sits matters because permit procedures and local requirements may vary.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Test the Layout Against Site Constraints",
+      "text": "Work with the design team to compare possible locations, such as a rear addition, side expansion, second-story addition, or conversion of adjacent space. Review yard clearance, daylight, privacy, circulation, roof form, existing windows, and the relationship between the new bathroom and current plumbing. Ask for drawings that clearly show the existing and proposed work. For projects in the City of San Diego, residential addition submittals require clear, scaled project plans showing the work and affected portions of the existing home.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Coordinate the Technical Design",
+      "text": "Confirm how structural design, foundation work, framing, insulation, windows, electrical, plumbing, ventilation, heating and cooling, waterproofing, and energy requirements will be addressed. Bathroom planning should cover fixture locations, exhaust, lighting, storage, tile assemblies, and access for future maintenance. Ask whether 3D design views and material selections are part of the service. Elite Remodeling & Design describes a process that can bring design development, selections, permitting, construction, and final inspection into one coordinated plan; verify the exact deliverables for your project before approval.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review Permit Responsibilities",
+      "text": "Ask who prepares and submits the permit package, responds to plan-review comments, schedules inspections, and communicates required revisions. City of San Diego guidance states that additions require a building permit and may involve documents related to plumbing fixtures, stormwater, and California energy-code compliance. Do not assume that a permit application covers every design or construction responsibility. Have the provider identify the responsible parties and list permit-related fees or services separately in the proposal.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Compare Written Proposals",
+      "text": "Review at least the scope, plans, allowances, materials, exclusions, payment structure, change-order process, site protection, cleanup, inspection coordination, and closeout documents. Confirm whether demolition, utility upgrades, painting, flooring transitions, exterior patching, and landscaping repairs are included. A proposal is easier to compare when it uses the same room program and drawing set as competing bids. Avoid choosing from rough verbal totals that do not explain what is included.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Approve the Preconstruction Plan",
+      "text": "Before work starts, confirm the final layout, selections, access route, working hours, dust control, temporary bathroom arrangements, storage, and communication method. Make sure changes are recorded in writing and that the construction documents match the approved scope. The project is ready for construction when responsibilities, plans, selections, permit status, and payment terms are clear. Contact Elite Remodeling & Design to discuss your property and begin defining the appropriate design and construction process. Key Takeaways Define the suite’s daily use before choosing a layout. Gather property information and photos for an informed first consultation. Coordinate structure, utilities, energy requirements, and finishes in one plan. Confirm permit responsibilities for the specific city or jurisdiction. Compare complete written proposals before authorizing construction.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "an Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    }
+  ],
+  "description": "Write down who will use the suite and what the space must support. List the bedroom size preference, bathroom fixtures, closet type, laundry or linen storage, sitting area, privacy needs, and whether "
+}

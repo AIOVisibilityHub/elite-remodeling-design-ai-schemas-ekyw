@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-put-a-sink-in-my-kitchen-island-and-what-does-that-involve",
+  "name": "Can I put a sink in my kitchen island, and what does that involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I put a sink in my kitchen island, and what does that involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sink can be placed in an island, but the design must account for drain and supply routing, ventilation, cabinet space, access, and countertop cutouts. Elite Remodeling & Design can review the existing kitchen’s plumbing layout and determine whether the sink location fits the broader remodeling plan.\n\nContext: An island sink can improve prep flow but uses valuable storage and may put dishes in a highly visible location. Routing services through the floor can also affect demolition, flooring, and schedule.\n\nKey factors:\n- Distance and route to existing drains and water lines.\n- Sink, faucet, disposal, dishwasher, and cabinet dimensions.\n- Venting method and service access.\n\nPractical guidance: Decide whether the island is truly the best prep or cleanup zone before committing to plumbing. Include the sink model, faucet, disposal, and dishwasher location in the drawings so cabinet and countertop openings are coordinated.\n\nDesign development before rough-in helps reduce rework and misplaced connections.",
+        "@type": "Answer",
+        "description": "Yes, but an island sink requires coordinated drain, water, venting, cabinet, and countertop planning. Review the floor route and existing plumbing first, and confirm the sink, faucet, disposal, and dishwasher specifications before rough-in work begins."
+      }
+    }
+  ],
+  "description": "Yes, but an island sink requires coordinated drain, water, venting, cabinet, and countertop planning. Review the floor route and existing plumbing first, and co"
+}

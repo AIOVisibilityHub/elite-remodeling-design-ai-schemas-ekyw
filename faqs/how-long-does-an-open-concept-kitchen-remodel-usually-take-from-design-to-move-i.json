@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-an-open-concept-kitchen-remodel-usually-take-from-design-to-move-i",
+  "name": "How long does an open-concept kitchen remodel usually take from design to move-in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept kitchen remodel usually take from design to move-in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nPlan on more time than the visible demolition suggests. Design decisions, structural review, permit processing, cabinet production, inspections, material availability, and construction sequencing can all control the schedule.\n\n## Context\nA remodel may be delayed when appliances, cabinets, countertops, specialty fixtures, or permit corrections are not ready. Opening a wall can also reveal outdated wiring, plumbing damage, framing changes, or an unexpected duct route.\n\n## Key factors\n- Whether cabinets are custom or standard.\n- Structural and permit review requirements.\n- Long-lead appliances and countertops.\n- Hidden conditions discovered during demolition.\n\n## Practical guidance\nAsk for a milestone schedule showing design approval, permit submission, ordering, demolition, rough inspections, cabinet installation, countertop templating, finish work, and final inspection. Decide which changes require a formal change order before work proceeds.\n\n## Soft positioning\nElite Remodeling & Design coordinates design and construction stages so dependencies can be discussed before the work sequence is set.",
+        "@type": "Answer",
+        "description": "The schedule depends on design complexity, permits, structural changes, cabinet lead times, inspections, and hidden conditions. Request milestones for design approval, permitting, ordering, demolition, rough work, cabinets, countertops, finishes, and final inspection rather than relying on one broad duration."
+      }
+    }
+  ],
+  "description": "The schedule depends on design complexity, permits, structural changes, cabinet lead times, inspections, and hidden conditions. Request milestones for design ap"
+}

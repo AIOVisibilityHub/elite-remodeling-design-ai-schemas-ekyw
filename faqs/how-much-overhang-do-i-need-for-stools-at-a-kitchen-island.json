@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-overhang-do-i-need-for-stools-at-a-kitchen-island",
+  "name": "How much overhang do I need for stools at a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much overhang do I need for stools at a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seating usually needs a properly supported countertop overhang and enough knee room for the selected stools. The required depth depends on the seating arrangement, countertop thickness, support method, and cabinet design, so it should be engineered into the island rather than added afterward.\n\nContext: Excessive unsupported stone or other heavy surfaces can crack or deflect. Supports may include legs, brackets, panels, or concealed reinforcement, each affecting appearance and usable knee space.\n\nKey factors:\n- Number and width of seats.\n- Countertop material and overhang depth.\n- Stool height and legroom.\n\nPractical guidance: Select stools before finalizing the island and show the overhang on the plans. Ask Elite Remodeling & Design to coordinate support details with the cabinetmaker and countertop fabricator.\n\nA comfortable seating edge must balance legroom, structure, circulation, and cleaning access.",
+        "@type": "Answer",
+        "description": "The required overhang depends on stool type, seat count, countertop material, and support design. Choose the stools early and have the overhang, knee space, and reinforcement shown in the plans so the surface remains comfortable and properly supported."
+      }
+    }
+  ],
+  "description": "The required overhang depends on stool type, seat count, countertop material, and support design. Choose the stools early and have the overhang, knee space, and"
+}

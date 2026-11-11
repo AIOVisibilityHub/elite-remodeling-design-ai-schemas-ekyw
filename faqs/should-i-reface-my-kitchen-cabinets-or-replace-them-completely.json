@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-reface-my-kitchen-cabinets-or-replace-them-completely",
+  "name": "Should I reface my kitchen cabinets or replace them completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I reface my kitchen cabinets or replace them completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet replacement is usually the better fit when the boxes are sound, the layout works, and you mainly want new doors, hardware, or finishes. Full replacement is more suitable when cabinets are damaged, poorly configured, undersized, or incompatible with a new layout. Context: Refacing may preserve existing storage but limits changes to internal organization and cabinet dimensions. New cabinetry offers more flexibility but introduces measurement, ordering, installation, and finish decisions. Key factors: - Box condition and moisture exposure. - Need for pantry storage, deep drawers, or specialty inserts. - Whether walls, appliances, or countertops are changing. Practical guidance: Have the existing boxes inspected and compare the cost of refacing, partial replacement, and a new cabinet plan. Confirm how each option handles fillers, end panels, uneven walls, and appliance gaps. Soft positioning: Elite Remodeling & Design can incorporate cabinetry, storage, layout, and finish decisions into a coordinated kitchen plan.",
+        "@type": "Answer",
+        "description": "Refacing can work when cabinet boxes and the layout are sound. Replace cabinets when they are damaged, poorly organized, or the kitchen needs different dimensions, storage, or appliance locations. Compare box condition, drawer function, filler panels, countertop changes, and the effect on the room’s overall layout."
+      }
+    }
+  ],
+  "description": "Refacing can work when cabinet boxes and the layout are sound. Replace cabinets when they are damaged, poorly organized, or the kitchen needs different dimensio"
+}

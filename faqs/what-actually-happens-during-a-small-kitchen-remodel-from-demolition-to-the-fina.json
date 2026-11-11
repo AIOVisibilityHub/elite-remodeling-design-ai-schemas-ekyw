@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-small-kitchen-remodel-from-demolition-to-the-fina",
+  "name": "What actually happens during a small kitchen remodel from demolition to the final inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a small kitchen remodel from demolition to the final inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most remodels, the most practical sequence is design and scope definition, approvals if required, ordering long-lead materials, demolition, rough plumbing and electrical, inspections, wall repairs, cabinet installation, countertops, finish installation, appliance connections, and final review. Elite Remodeling & Design’s stated process brings design, permitting, construction, and inspection coordination into one project path. Key variables include whether walls move, whether utilities are upgraded, countertop template timing, and material arrivals. Confirm who measures appliances, orders materials, schedules inspections, and handles changes. Keep a written decision log so substitutions do not create conflicts later.",
+        "@type": "Answer",
+        "description": "The usual sequence is design, approvals, material ordering, demolition, rough utilities, inspections, wall repairs, cabinets, countertops, finishes, appliances, and final review. The exact order changes with layout, utility, material, and inspection requirements."
+      }
+    }
+  ],
+  "description": "The usual sequence is design, approvals, material ordering, demolition, rough utilities, inspections, wall repairs, cabinets, countertops, finishes, appliances,"
+}

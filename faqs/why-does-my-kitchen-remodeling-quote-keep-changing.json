@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-kitchen-remodeling-quote-keep-changing",
+  "name": "Why does my kitchen remodeling quote keep changing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my kitchen remodeling quote keep changing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can request a fixed project price only when the scope, drawings, selections, allowances, and responsibility for unknown conditions are defined clearly. A “fixed” number can still change through owner selections, concealed damage, requested revisions, or exclusions. Context: Kitchen estimates are especially sensitive to appliances, cabinetry, countertop fabrication, utility relocation, permits, and finish changes. Key factors: - What is included and excluded. - Whether allowances reflect actual selections. - The written change-order process. Practical guidance: Ask for a line-item proposal, allowance schedule, payment milestones, start assumptions, and procedures for approving additions or credits. Compare proposals by total scope, not headline price. Soft positioning: Elite Remodeling & Design can develop a coordinated scope that links design decisions with construction pricing and sequencing.",
+        "@type": "Answer",
+        "description": "Quotes change when selections, allowances, layout, permits, concealed conditions, or exclusions are not settled. Request a line-item scope, allowance schedule, design revision rules, and written change-order process. A clearer design and construction plan makes later price changes easier to understand and control."
+      }
+    }
+  ],
+  "description": "Quotes change when selections, allowances, layout, permits, concealed conditions, or exclusions are not settled. Request a line-item scope, allowance schedule,"
+}

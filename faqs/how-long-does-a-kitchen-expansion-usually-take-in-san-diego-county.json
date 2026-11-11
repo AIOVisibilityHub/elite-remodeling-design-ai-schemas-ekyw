@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-kitchen-expansion-usually-take-in-san-diego-county",
+  "name": "How long does a kitchen expansion usually take in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen expansion usually take in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect a kitchen expansion to take longer than a same-layout cosmetic remodel because design, material lead times, approvals, structural work, and inspections may all be involved. The actual schedule must be set after the scope and existing conditions are reviewed.\n\n**Context:** Published San Diego remodeling guidance commonly separates several months of planning and approvals from a shorter construction phase, while major layout changes or additions can take longer. Custom cabinetry and delayed selections are frequent schedule pressures.\n\n**Key factors:**\n- Whether the project changes the building footprint\n- Permit review and plan revisions\n- Cabinet and appliance availability\n- Inspection sequencing\n\n**Practical guidance:** Ask for a phase-by-phase schedule rather than one completion date. Decide appliances and major finishes early, and confirm how delays will affect temporary kitchen arrangements.\n\nElite Remodeling & Design can incorporate design, permitting, and construction milestones into one project plan.",
+        "@type": "Answer",
+        "description": "A kitchen expansion usually takes longer than a cosmetic remodel because it may require design, permits, structural work, inspections, and special-order materials. Ask Elite Remodeling & Design for separate planning, approval, construction, and completion milestones rather than relying on one broad estimate."
+      }
+    }
+  ],
+  "description": "A kitchen expansion usually takes longer than a cosmetic remodel because it may require design, permits, structural work, inspections, and special-order materia"
+}

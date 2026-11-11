@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-kitchen-island-need-to-be-anchored-to-the-floor",
+  "name": "Does a kitchen island need to be anchored to the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a kitchen island need to be anchored to the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen island should be securely anchored when it is intended to function as permanent cabinetry, support a heavy countertop, or contain plumbing, appliances, or electrical components. The anchoring method depends on the cabinet construction, flooring, wall conditions, and countertop design.\n\nContext: An unsecured island can shift, damage connections, or create problems at the countertop seams. A movable furniture piece is a different product and may be intentionally left unattached.\n\nKey factors:\n- Cabinet base, toe-kick, and fastening surfaces.\n- Countertop weight and overhang supports.\n- Floor material and access to the subfloor.\n\nPractical guidance: Ask for the attachment and support method in the installation scope, especially for stone surfaces or seating overhangs. Elite Remodeling & Design can coordinate cabinet, surface, and trade details so the finished island operates as one assembly.\n\nProper support matters more than simply placing cabinets in the desired location.",
+        "@type": "Answer",
+        "description": "A permanent island generally needs secure attachment, especially with heavy countertops, seating overhangs, plumbing, or appliances. The installer should specify how cabinets and supports will attach to the floor and how that method works with the existing flooring."
+      }
+    }
+  ],
+  "description": "A permanent island generally needs secure attachment, especially with heavy countertops, seating overhangs, plumbing, or appliances. The installer should specif"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-kitchen-island-in-san-diego-county",
+  "name": "Do I need a permit for a kitchen island in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a kitchen island in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A permit may be needed when the island adds or relocates electrical, plumbing, gas, mechanical, or structural work; requirements depend on the jurisdiction and project scope. In the City of San Diego, the city states that construction and alterations, including trade work such as added circuits, generally require permits, while limited interior remodels may qualify for a no-plan building permit.\n\nContext: A cabinet-only island may be treated differently from one with a sink, dishwasher, cooktop, gas connection, or new receptacles. Chula Vista, Coronado, National City, Imperial Beach, and other jurisdictions may apply their own review procedures.\n\nKey factors:\n- City or county jurisdiction and property type.\n- New circuits, outlets, plumbing, gas, or ventilation.\n- Structural changes, wall removal, historic review, or HOA requirements.\n\nPractical guidance: Confirm permit needs before demolition or rough-in work. Elite Remodeling & Design’s stated process includes permit coordination and final inspection planning when the project requires them.\n\nDo not rely on a cabinet installer’s assumption that a utility-connected island is permit-free.",
+        "@type": "Answer",
+        "description": "Possibly. An island with new or relocated electrical, plumbing, gas, ventilation, or structural work commonly requires review, while limited cabinet-only work may follow a different path. Requirements vary by city, so confirm with the applicable building department before work begins."
+      }
+    }
+  ],
+  "description": "Possibly. An island with new or relocated electrical, plumbing, gas, ventilation, or structural work commonly requires review, while limited cabinet-only work m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-owners-of-older-san-diego-homes-check-before-renovating-a-kitchen",
+  "name": "What should owners of older San Diego homes check before renovating a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should owners of older San Diego homes check before renovating a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older San Diego homes, investigate prior alterations, uneven floors, aging utilities, ventilation, wall conditions, and historic-review considerations before finalizing the kitchen plan. A house’s age alone does not prove a problem, but it can make documentation and concealed-condition review more valuable. Context: San Diego guidance indicates that historic resources or districts may affect otherwise limited work, and code compliance still applies when certain permits are not required. Key factors: - Whether the property is designated or within a historic district. - Evidence of unpermitted prior work. - Utility capacity and moisture history. Practical guidance: Gather prior plans, permits, inspection records, and appliance information if available, and disclose known leaks or alterations during consultation. Ask which changes are cosmetic and which may trigger broader review. Soft positioning: Elite Remodeling & Design can incorporate existing conditions, design development, permit coordination, and construction planning into one project path.",
+        "@type": "Answer",
+        "description": "Review prior permits and alterations, wiring and plumbing, ventilation, floor and wall conditions, moisture history, and any historic designation or district status. Gather available records before design begins. Older-home surprises are easier to manage when the scope, contingencies, and review path are discussed before demolition."
+      }
+    }
+  ],
+  "description": "Review prior permits and alterations, wiring and plumbing, ventilation, floor and wall conditions, moisture history, and any historic designation or district st"
+}

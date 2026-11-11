@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-new-kitchen-island-countertop-seam-looks-bad",
+  "name": "What should I do if my new kitchen island countertop seam looks bad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my new kitchen island countertop seam looks bad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the countertop seam is visible or poorly aligned, first document it with photos and check whether the issue is the material, fabrication, cabinet level, lighting, or installation. Contact the installer promptly before caulking, sealing, or making unrelated changes obscure the condition.\n\nContext: Some materials and patterns show seams more than others, and seams may be affected by slab selection, grain direction, countertop thickness, support, and room conditions. A seam cannot always be eliminated, but its placement and finish should be discussed before fabrication.\n\nKey factors:\n- Stone or solid-surface type and pattern movement.\n- Cabinet levelness and island squareness.\n- Seam location, adhesive color, lighting, and edge profile.\n\nPractical guidance: Request the proposed seam locations during design and review the final template before fabrication. Elite Remodeling & Design can coordinate material selection, cabinet installation, and countertop work so these decisions are addressed in sequence.\n\nEarly review gives more options than disputing appearance after the surface is installed.",
+        "@type": "Answer",
+        "description": "Photograph the seam, stop unrelated finishing work, and contact the installer promptly. Appearance depends on material pattern, slab selection, cabinet leveling, seam location, adhesive, and lighting; review proposed seams before fabrication whenever possible."
+      }
+    }
+  ],
+  "description": "Photograph the seam, stop unrelated finishing work, and contact the installer promptly. Appearance depends on material pattern, slab selection, cabinet leveling"
+}

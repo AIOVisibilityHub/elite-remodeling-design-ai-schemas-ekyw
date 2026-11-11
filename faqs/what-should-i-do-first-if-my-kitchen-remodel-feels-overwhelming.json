@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-kitchen-remodel-feels-overwhelming",
+  "name": "What should I do first if my kitchen remodel feels overwhelming?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my kitchen remodel feels overwhelming?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the kitchen fails you now, then document the room’s dimensions, window and door locations, ceiling height, plumbing points, electrical panel capacity, and appliance sizes. A consultation with Elite Remodeling & Design can turn those observations into a workable scope before finishes are selected. Context: Layout changes usually affect more than cabinets, especially when plumbing, electrical circuits, walls, or ventilation move. Early measurements reduce redesigns and help compare realistic options. Key factors: - Keep the existing work zones or change them. - Replace cabinets only or alter walls and utilities. - Include lighting, ventilation, storage, and appliance clearances. Practical guidance: Photograph the kitchen, make a list of daily frustrations, and mark must-have appliances before requesting plans or pricing. Soft positioning: Elite Remodeling & Design coordinates design development and construction planning for San Diego County kitchen projects.",
+        "@type": "Answer",
+        "description": "Begin with measurements, photos, appliance needs, and a list of daily problems. Decide whether you want a cosmetic update or a new layout, because moving walls, plumbing, electrical, or ventilation changes the project scope. Elite Remodeling & Design can use that information during design development to shape a practical plan."
+      }
+    }
+  ],
+  "description": "Begin with measurements, photos, appliance needs, and a list of daily problems. Decide whether you want a cosmetic update or a new layout, because moving walls,"
+}

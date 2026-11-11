@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-pick-cabinets-appliances-or-countertops-first-for-a-tiny-kitchen",
+  "name": "Should I pick cabinets, appliances, or countertops first for a tiny kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I pick cabinets, appliances, or countertops first for a tiny kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing cabinets first is not always best; begin with the layout and appliance plan, then select cabinets that fit the required storage, dimensions, and budget. Elite Remodeling & Design can use layout development and 3D design visualization to test cabinet arrangements before selections are finalized. Key factors include door and drawer conflicts, filler panels, corner access, trash storage, microwave location, ceiling height, and the size of plumbing or electrical chases. Bring appliance cut sheets and identify items you plan to keep. Approve a dimensioned plan before ordering custom or semi-custom cabinetry.",
+        "@type": "Answer",
+        "description": "Start with the layout and appliance plan, then choose cabinets that fit the required storage and clearances. Countertop selection follows the cabinet plan, while appliance specifications should be confirmed early so cabinet sizes and utility locations are accurate."
+      }
+    }
+  ],
+  "description": "Start with the layout and appliance plan, then choose cabinets that fit the required storage and clearances. Countertop selection follows the cabinet plan, whil"
+}

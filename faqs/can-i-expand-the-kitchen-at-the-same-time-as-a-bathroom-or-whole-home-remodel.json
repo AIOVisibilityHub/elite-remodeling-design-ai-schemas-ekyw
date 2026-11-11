@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-expand-the-kitchen-at-the-same-time-as-a-bathroom-or-whole-home-remodel",
+  "name": "Can I expand the kitchen at the same time as a bathroom or whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I expand the kitchen at the same time as a bathroom or whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but the kitchen should be planned as part of the home’s overall circulation, structure, lighting, and mechanical systems. Elite Remodeling & Design can coordinate a kitchen expansion with broader remodeling or an addition when the projects share design and construction work.\n\n**Context:** Combining projects may reduce repeated demolition and create a more cohesive result, but it also increases decisions, budget, approvals, and time. Some work can be phased if the plans are coordinated from the beginning.\n\n**Key factors:**\n- Shared walls, floors, utilities, and finishes\n- Whether one approval package covers the work\n- Household priorities and available budget\n- Construction access and temporary living arrangements\n\n**Practical guidance:** Identify must-complete areas and possible later phases before signing a scope. Ask how completing one area first could affect future flooring, electrical, cabinetry, or wall work.\n\nA coordinated plan can prevent one project from limiting the next.",
+        "@type": "Answer",
+        "description": "Yes, but combined work should be coordinated around shared walls, utilities, flooring, approvals, access, budget, and household disruption. Define must-have phases early and ask how completing one area first could affect later electrical, flooring, cabinetry, or wall work."
+      }
+    }
+  ],
+  "description": "Yes, but combined work should be coordinated around shared walls, utilities, flooring, approvals, access, budget, and household disruption. Define must-have pha"
+}

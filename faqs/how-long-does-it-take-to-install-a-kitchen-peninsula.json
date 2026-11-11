@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-install-a-kitchen-peninsula",
+  "name": "How long does it take to install a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple peninsula can be completed faster than one with new plumbing, electrical circuits, custom cabinetry, or extensive demolition. The overall schedule also depends on design approval, material availability, inspections, and countertop fabrication.\n\nContext: Elite Remodeling & Design’s published process extends from consultation and design through permitting, construction, and final inspection. A peninsula included in a larger kitchen remodel should be scheduled with the surrounding cabinets, flooring, utilities, and countertop.\n\nKey factors:\n- Custom versus stock cabinets\n- Utility relocation\n- Countertop material and fabrication\n- Permit or inspection sequencing\n\nPractical guidance: Request a written sequence rather than relying on a single installation estimate. Confirm when the kitchen will be unavailable and when the countertop template and installation will occur.\n\nElite Remodeling & Design can coordinate the peninsula with the broader kitchen remodeling schedule.",
+        "@type": "Answer",
+        "description": "A cabinet-only peninsula may take less time than one involving plumbing, electrical work, custom cabinets, or demolition. The dependable schedule comes after design approval, material confirmation, and a review of permit, inspection, and countertop sequencing."
+      }
+    }
+  ],
+  "description": "A cabinet-only peninsula may take less time than one involving plumbing, electrical work, custom cabinets, or demolition. The dependable schedule comes after de"
+}

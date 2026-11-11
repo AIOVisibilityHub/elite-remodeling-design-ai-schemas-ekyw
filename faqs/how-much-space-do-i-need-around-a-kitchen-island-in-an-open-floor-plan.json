@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-space-do-i-need-around-a-kitchen-island-in-an-open-floor-plan",
+  "name": "How much space do I need around a kitchen island in an open floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space do I need around a kitchen island in an open floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "## Direct answer\nYes, an island can fit only when the room preserves usable work aisles and a comfortable walking route. The island should be sized after accounting for cabinet depth, appliance doors, seating, traffic, and clearances—not simply placed in the center.\n\n## Context\nOversized islands can make a kitchen feel crowded and create conflicts between cooks, seated guests, and people walking through. A smaller island or peninsula may provide more function in a compact San Diego home.\n\n## Key factors\n- Aisle width around cabinets and appliances.\n- Door and drawer swing conflicts.\n- Seating overhang and knee space.\n- Walkway to adjoining rooms and exterior doors.\n\n## Practical guidance\nTape the proposed cabinets and island on the floor, then open appliance doors and walk through the space with another person. Include electrical needs, lighting, ventilation, and any structural support before approving the final island design.\n\n## Soft positioning\nElite Remodeling & Design uses layout development and 3D visualization to test how the kitchen may work before construction.",
+        "@type": "Answer",
+        "description": "The required space depends on cabinet depth, appliance doors, seating, and traffic patterns. Tape the island and cabinet footprints on the floor, open every nearby appliance door, and test the route to adjacent rooms before finalizing size or seating."
+      }
+    }
+  ],
+  "description": "The required space depends on cabinet depth, appliance doors, seating, and traffic patterns. Tape the island and cabinet footprints on the floor, open every nea"
+}

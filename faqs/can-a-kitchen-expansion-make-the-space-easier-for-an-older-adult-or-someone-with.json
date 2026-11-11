@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-kitchen-expansion-make-the-space-easier-for-an-older-adult-or-someone-with",
+  "name": "Can a kitchen expansion make the space easier for an older adult or someone with mobility needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a kitchen expansion make the space easier for an older adult or someone with mobility needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A larger kitchen can often improve accessibility through wider clearances, easier-to-reach storage, better lighting, and appliance placement suited to the user. Accessibility should be planned around the specific person’s mobility, reach, and daily routines rather than added as a generic feature.\n\n**Context:** Expanding space does not automatically make a kitchen easier to use. Cabinet heights, drawer storage, flooring transitions, controls, seating, and turning space may be more important than additional square footage.\n\n**Key factors:**\n- Mobility device or walking clearance\n- Reach ranges and storage heights\n- Lever-style controls and drawer access\n- Lighting, flooring, and threshold conditions\n\n**Practical guidance:** Describe present and anticipated needs during the consultation. Bring measurements of mobility equipment if relevant and request a layout review that shows clearances and reach-dependent features.\n\nElite Remodeling & Design can adapt design decisions to the household’s intended use.",
+        "@type": "Answer",
+        "description": "Yes, if the design addresses clearances, reach ranges, storage heights, lighting, flooring, controls, and appliance access. Share the user’s actual routines and equipment dimensions with Elite Remodeling & Design so the layout is tailored rather than simply made larger."
+      }
+    }
+  ],
+  "description": "Yes, if the design addresses clearances, reach ranges, storage heights, lighting, flooring, controls, and appliance access. Share the user’s actual routines and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-cost-to-install-a-kitchen-peninsula",
+  "name": "How much does it cost to install a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends on cabinetry, countertop size and material, demolition, finish panels, support, electrical or plumbing work, and whether the peninsula is part of a larger kitchen renovation. Published industry estimates vary widely, so a site-specific scope is more useful than a flat number.\n\nContext: A peninsula generally avoids some floor utility work required by a freestanding island, but it can still involve substantial cabinet and countertop costs. San Diego County conditions, material selections, and the existing kitchen can change the estimate.\n\nKey factors:\n- Stock, semi-custom, or custom cabinets\n- Quartz, stone, laminate, or other countertop choice\n- Seating overhang and finished end panels\n- Utility changes and demolition\n\nPractical guidance: Ask for separate line items for design, demolition, cabinets, countertop, installation, utilities, and finish work. Confirm what is included before comparing proposals.\n\nElite Remodeling & Design can develop a coordinated kitchen remodeling scope around the existing space and selected finishes.",
+        "@type": "Answer",
+        "description": "There is no reliable single price. Cabinet type, countertop material, size, demolition, finished panels, seating overhang, and plumbing or electrical work all affect the total. Request an itemized scope so proposals can be compared fairly."
+      }
+    }
+  ],
+  "description": "There is no reliable single price. Cabinet type, countertop material, size, demolition, finished panels, seating overhang, and plumbing or electrical work all a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-know-about-ventilation-if-i-move-the-range-during-a-kitchen-expans",
+  "name": "What should I know about ventilation if I move the range during a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know about ventilation if I move the range during a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion should account for ventilation from the start, especially when the range or cooktop moves. The hood type, duct route, exterior termination, cabinet design, and available space can affect both performance and construction requirements.\n\n**Context:** City of San Diego submittal guidance calls for kitchen hood dimensions, elevations, materials, and calculations when a hood is included. Residential requirements differ from commercial hood systems, so the project’s equipment and jurisdiction matter.\n\n**Key factors:**\n- Hood size and appliance specifications\n- Duct length, bends, and exterior route\n- Makeup air or other mechanical considerations\n- Cabinet and ceiling conflicts\n\n**Practical guidance:** Select the range and hood before finalizing cabinetry. Ask to see the proposed duct route and confirm whether exterior penetrations, soffits, or framing changes are expected.\n\nEarly ventilation planning avoids a layout that cannot accommodate the desired cooking equipment.",
+        "@type": "Answer",
+        "description": "Choose the range and hood early because hood dimensions, duct routing, exterior penetrations, cabinetry, and mechanical requirements can affect the plan. San Diego submittal guidance includes hood information when a hood is part of the project, so ventilation should be addressed before final drawings."
+      }
+    }
+  ],
+  "description": "Choose the range and hood early because hood dimensions, duct routing, exterior penetrations, cabinetry, and mechanical requirements can affect the plan. San Di"
+}
