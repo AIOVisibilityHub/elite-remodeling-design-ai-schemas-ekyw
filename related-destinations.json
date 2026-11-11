@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-11T18:35:58.526Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Elite Remodeling & Design",
+    "canonicalUrl": "https://eliteremodelingsd.aiovisibility.net",
+    "primaryWebsiteUrl": "eliteremodelingsd.com",
+    "aiDataHub": "https://eliteremodelingsd.aiovisibility.net/ai-data.html",
+    "sameAs": []
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Elite Remodeling & Design — canonical website",
+      "url": "https://eliteremodelingsd.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Elite Remodeling & Design — AI Data Hub",
+      "url": "https://eliteremodelingsd.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw"
+    }
+  }
+}
