@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-shower-during-tile-installation",
+  "name": "How long will I be without my shower during tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my shower during tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A straightforward shower tile project often takes several working days, while a full bathroom remodel can take substantially longer. The tile-setting portion is only one stage; demolition, substrate repairs, waterproofing, curing, inspections, fixtures, and glass may control the schedule. Context: Elite Remodeling & Design combines design and construction coordination, which can reduce handoff confusion but requires selections early. Key factors: - Custom patterns and small mosaics take longer to set. - Hidden water damage can extend the work. - Material availability and inspection timing can affect the calendar. Practical guidance: Ask for a milestone schedule rather than one completion date. Confirm when the shower will be unavailable and whether tile, trim, plumbing fixtures, and glass are all in hand. Early design development and material selection can reduce avoidable delays.",
+        "@type": "Answer",
+        "description": "A basic shower tile installation may take several working days, but a complete bathroom remodel can take longer. Waterproofing, curing, substrate repairs, inspections, custom patterns, material availability, and glass installation can all affect the schedule, so request milestone dates."
+      }
+    }
+  ],
+  "description": "A basic shower tile installation may take several working days, but a complete bathroom remodel can take longer. Waterproofing, curing, substrate repairs, inspe"
+}

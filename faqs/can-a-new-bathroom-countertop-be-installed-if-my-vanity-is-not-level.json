@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-new-bathroom-countertop-be-installed-if-my-vanity-is-not-level",
+  "name": "Can a new bathroom countertop be installed if my vanity is not level?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new bathroom countertop be installed if my vanity is not level?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A countertop can be installed over a vanity that is slightly out of level only if the condition is corrected or properly accommodated; a visibly unstable or substantially uneven base should not be covered. Level support helps prevent gaps, stress, poor sink fit, and drainage problems.\n\n**Context:** Older homes and remodeled bathrooms can have uneven floors, walls, or cabinets. Shimming may solve a limited condition, while damaged framing, flooring, or cabinet panels may require more extensive correction.\n\n**Key factors:**\n- Check level across the cabinet and front-to-back.\n- Inspect wall plumbness where the top will meet the backsplash.\n- Identify whether the floor or cabinet causes the unevenness.\n- Confirm the sink will sit correctly and drain properly.\n\n**Practical guidance:** Ask how leveling will be handled before the top is fabricated. Do not rely on thick caulk to hide a structural gap or unstable cabinet.\n\nElite Remodeling & Design can include existing-condition corrections in a coordinated bathroom scope.",
+        "@type": "Answer",
+        "description": "Only after the uneven condition is assessed and properly corrected or accommodated. A level, stable base reduces gaps, stress, poor sink fit, and drainage issues. Ask whether the problem comes from the cabinet, wall, floor, or framing before ordering the replacement top."
+      }
+    }
+  ],
+  "description": "Only after the uneven condition is assessed and properly corrected or accommodated. A level, stable base reduces gaps, stress, poor sink fit, and drainage issue"
+}

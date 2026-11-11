@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-the-shower-controls-and-handheld-sprayer-go-in-a-curbless-shower",
+  "name": "Where should the shower controls and handheld sprayer go in a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should the shower controls and handheld sprayer go in a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can include a handheld shower and wall controls, but their height and location should be set for the intended users before plumbing is installed. Controls that are reachable from outside the spray zone may improve comfort and safety, while a handheld outlet can support seated use and easier cleaning.\n\nFixture placement also affects wall reinforcement, glass, bench position, spray containment, and waterproofing penetrations. Elite Remodeling & Design can coordinate customized fixtures and the surrounding bathroom layout during design and construction planning.\n\nKey factors:\n- Decide whether controls should be reachable before entering the wet area.\n- Plan blocking for grab bars, seats, or future accessories before wall finishes.\n- Keep spray aimed away from the opening and vulnerable dry-area materials.\n\nBring a list of users, heights, mobility needs, and preferred showering positions to the design meeting. Ask for a fixture layout with dimensions rather than choosing locations only from a showroom display.\n\nThoughtful fixture placement can improve usability without requiring a larger bathroom.",
+        "@type": "Answer",
+        "description": "Place controls where they are easy to reach, ideally without stepping fully into the spray, and position the handheld outlet for standing or seated use as needed. Decide locations before plumbing rough-in, especially if adding a bench, grab bars, or future mobility features."
+      }
+    }
+  ],
+  "description": "Place controls where they are easy to reach, ideally without stepping fully into the spray, and position the handheld outlet for standing or seated use as neede"
+}

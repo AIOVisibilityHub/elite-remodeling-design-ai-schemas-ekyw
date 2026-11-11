@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-bathroom-vanity-replacement-estimate",
+  "name": "What should be included in a bathroom vanity replacement estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a bathroom vanity replacement estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional estimate should be based on measurements, photographs, product selections, plumbing conditions, and the exact finish scope. A vague quote that lists only “install vanity” may not show who handles demolition, disposal, plumbing, countertop work, patching, or inspection coordination.\n\nContext: Elite Remodeling & Design may approach a vanity replacement as part of a larger design-build bathroom project, so the estimate can include design development, material selections, construction, and related trades when applicable.\n\nKey factors:\n- Clearly identified products and quantities\n- Labor separated from allowances\n- Plumbing and electrical assumptions\n- Exclusions, change orders, and cleanup\n\nPractical guidance: Give each contractor the same measurements, photos, and product list. Ask what happens if concealed damage or incompatible plumbing appears after removal.\n\nComparable scopes produce more meaningful estimates than competing headline prices.",
+        "@type": "Answer",
+        "description": "Look for measurements, named products, removal and disposal, cabinet and countertop installation, sink and faucet connections, plumbing assumptions, repairs, cleanup, exclusions, allowances, and change-order terms. Give every bidder the same information so estimates can be compared fairly."
+      }
+    }
+  ],
+  "description": "Look for measurements, named products, removal and disposal, cabinet and countertop installation, sink and faucet connections, plumbing assumptions, repairs, cl"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-just-the-bathroom-countertop-without-replacing-the-vanity",
+  "name": "Can I replace just the bathroom countertop without replacing the vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the bathroom countertop without replacing the vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing only the countertop can make sense when the vanity cabinet is structurally sound, the layout works, and the plumbing and sink location do not need to move. It is less suitable when the cabinet is swollen, poorly sized, badly damaged, or unable to support the new top.\n\n**Context:** A new surface can refresh an older bathroom without removing every component. However, installing an attractive top on a failing cabinet may hide the problem temporarily and lead to another replacement later.\n\n**Key factors:**\n- Inspect the cabinet floor, side panels, doors, and sink opening.\n- Check whether the cabinet is level and securely attached.\n- Confirm that the new top’s weight and dimensions suit the base.\n- Consider whether faucet holes and backsplash height will change.\n\n**Practical guidance:** Have the cabinet examined before ordering a custom top. If storage, accessibility, or layout is also a problem, compare countertop-only work with a coordinated vanity replacement.\n\nElite Remodeling & Design can evaluate the countertop and surrounding bathroom elements as part of a design-build consultation.",
+        "@type": "Answer",
+        "description": "Yes, if the existing vanity is dry, level, structurally sound, and properly sized. Replace or repair the cabinet first if it is swollen, soft, unstable, or poorly laid out. Confirm the new top’s dimensions, weight, sink cutout, faucet holes, and backsplash requirements."
+      }
+    }
+  ],
+  "description": "Yes, if the existing vanity is dry, level, structurally sound, and properly sized. Replace or repair the cabinet first if it is swollen, soft, unstable, or poor"
+}

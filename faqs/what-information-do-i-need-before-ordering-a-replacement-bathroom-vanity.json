@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-do-i-need-before-ordering-a-replacement-bathroom-vanity",
+  "name": "What information do I need before ordering a replacement bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before ordering a replacement bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The vanity should be ordered only after the final dimensions, sink type, faucet configuration, finish, countertop, and delivery condition are confirmed. A low price is not useful if the product is the wrong size, arrives damaged, or cannot accommodate the room’s plumbing.\n\nContext: Elite Remodeling & Design’s design-build process can include material selections before construction, which helps connect product decisions with installation requirements. Stock units may arrive faster, while custom pieces may offer better fit but require more planning.\n\nKey factors:\n- Final measured dimensions\n- Product lead time and return policy\n- Sink and faucet compatibility\n- Damage inspection and replacement process\n\nPractical guidance: Keep a written selection schedule with model numbers, colors, hole patterns, and delivery dates. Photograph cartons before opening and inspect tops, corners, doors, and hardware immediately.\n\nA documented order reduces delays when multiple components must fit together.",
+        "@type": "Answer",
+        "description": "Gather the smallest room dimensions, plumbing locations, cabinet footprint, sink and faucet configuration, countertop details, finish preferences, delivery timing, and return policy. Record model numbers and inspect every component for damage before installation."
+      }
+    }
+  ],
+  "description": "Gather the smallest room dimensions, plumbing locations, cabinet footprint, sink and faucet configuration, countertop details, finish preferences, delivery timi"
+}

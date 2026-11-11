@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-an-undermount-or-drop-in-sink-better-for-a-replacement-bathroom-countertop",
+  "name": "Is an undermount or drop-in sink better for a replacement bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is an undermount or drop-in sink better for a replacement bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An undermount sink can provide a clean, easy-to-wipe countertop edge, but it requires a precisely fabricated opening, appropriate support, and careful sealing. A drop-in sink is often simpler to replace later because its rim covers the countertop opening.\n\n**Context:** The sink choice affects fabrication, countertop edge appearance, cabinet clearance, plumbing access, and future service. It can also change the project price because cutout and finishing requirements differ.\n\n**Key factors:**\n- Undermount openings must match the exact sink model.\n- Drop-in rims conceal some edge imperfections but remain visible.\n- Vessel sinks alter faucet height and splash patterns.\n- Integrated sinks reduce seams but may be harder to replace independently.\n\n**Practical guidance:** Select the sink before templating and ask how it will be supported during and after installation. Confirm whether the replacement plan preserves access to the drain and supply connections.\n\nElite Remodeling & Design can coordinate sink style with the bathroom’s design and construction requirements.",
+        "@type": "Answer",
+        "description": "Undermount sinks offer a streamlined edge but need exact cutouts, support, and sealing. Drop-in sinks are often simpler to install or replace because the rim covers the opening. Compare cleaning preferences, cabinet clearance, future service, and the exact sink model before fabrication."
+      }
+    }
+  ],
+  "description": "Undermount sinks offer a streamlined edge but need exact cutouts, support, and sealing. Drop-in sinks are often simpler to install or replace because the rim co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-curbless-showers-durable-or-do-they-cause-problems-later",
+  "name": "Are curbless showers durable, or do they cause problems later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are curbless showers durable, or do they cause problems later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can be comfortable and durable when the floor assembly, waterproofing, drainage, tile, and ventilation are designed together. The absence of a curb does not itself determine quality; the hidden construction details and maintenance plan matter more than the appearance of a level entry.\n\nDurability depends on the bathroom’s use, cleaning habits, water exposure, fixture placement, and the condition of the existing structure. Elite Remodeling & Design can tailor the bathroom design to the homeowner’s intended use, preferences, existing space, and construction requirements.\n\nKey factors:\n- Porous or highly textured finishes may require more cleaning and sealing.\n- Grout joints, drain covers, glass seals, and caulk need periodic inspection.\n- A shower that is too open for its size may expose more of the room to water.\n\nAsk for care instructions for the selected tile, grout, glass, drain, and hardware. Keep records of product names and installation details for future repairs or replacement.\n\nA well-documented installation is easier to maintain than one based only on a finished appearance.",
+        "@type": "Answer",
+        "description": "They can be durable when the slope, drain, waterproofing, substrate, tile, glass, and ventilation are properly coordinated. Longevity also depends on choosing maintainable finishes, cleaning the drain, inspecting joints, and addressing moisture or movement early."
+      }
+    }
+  ],
+  "description": "They can be durable when the slope, drain, waterproofing, substrate, tile, glass, and ventilation are properly coordinated. Longevity also depends on choosing m"
+}

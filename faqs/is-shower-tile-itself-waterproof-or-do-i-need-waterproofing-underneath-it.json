@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-shower-tile-itself-waterproof-or-do-i-need-waterproofing-underneath-it",
+  "name": "Is shower tile itself waterproof, or do I need waterproofing underneath it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is shower tile itself waterproof, or do I need waterproofing underneath it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. A reliable shower tile installation starts with a properly sloped shower base, suitable solid backing, and a continuous waterproofing system beneath the tile. Tile and grout resist water but are not the primary waterproof barrier. Context: Elite Remodeling & Design coordinates bathroom design, tile selections, and related construction work, so the waterproofing approach should be decided before the tile pattern. Key factors: - Confirm how wall corners, niches, benches, curb, and drain will be sealed. - Ask which membrane and compatible backer system will be used. - Verify that penetrations for valves and showerheads are sealed. Practical guidance: Request a written shower assembly description before demolition or tile ordering. Photograph the waterproofing before it is covered if the project allows. A coordinated bathroom remodeling team can address waterproofing before finish choices lock in the layout.",
+        "@type": "Answer",
+        "description": "Tile and grout are not the primary waterproof barrier. The shower needs a continuous waterproofing system beneath the tile, properly tied into the drain and sealed around corners, niches, benches, curbs, and plumbing penetrations."
+      }
+    }
+  ],
+  "description": "Tile and grout are not the primary waterproof barrier. The shower needs a continuous waterproofing system beneath the tile, properly tied into the drain and sea"
+}

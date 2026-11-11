@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-put-new-bathroom-flooring-over-the-old-flooring-to-save-money",
+  "name": "Can I put new bathroom flooring over the old flooring to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I put new bathroom flooring over the old flooring to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom floor can sometimes be installed over an existing surface, but only when the old material is firmly bonded, clean, dry, stable, and compatible with the new installation system. Loose tile, damaged sheet goods, excessive height, wax or adhesive residue, and moisture problems usually require removal or more preparation. Ask the installer to state why the existing surface is suitable and how edges, toilet areas, and transitions will be handled. Elite Remodeling & Design can evaluate whether overlaying the floor fits the project’s broader construction conditions.",
+        "@type": "Answer",
+        "description": "Possibly, but only if the existing surface is stable, dry, clean, sufficiently flat, and compatible with the new material. Overlaying can save demolition but may create height, transition, adhesion, or fixture-clearance problems. Ask for a written assessment of the old floor and the finished height before approving that approach."
+      }
+    }
+  ],
+  "description": "Possibly, but only if the existing surface is stable, dry, clean, sufficiently flat, and compatible with the new material. Overlaying can save demolition but ma"
+}

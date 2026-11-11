@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-use-large-format-tile-small-mosaic-tile-porcelain-or-natural-stone-in-m",
+  "name": "Should I use large-format tile, small mosaic tile, porcelain, or natural stone in my shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use large-format tile, small mosaic tile, porcelain, or natural stone in my shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format porcelain can reduce grout lines and create a clean appearance, but it requires careful wall preparation, handling, cutting, and layout. Smaller mosaics are often practical for shower floors because they can follow a sloped surface, although they require more grout and cleaning. Context: Elite Remodeling & Design can incorporate tile selections into the broader bathroom design instead of treating the tile as an isolated purchase. Key factors: - Floor tile must provide appropriate traction and conform to the shower slope. - Stone may require more maintenance and sealing than porcelain. - Pattern direction and niche placement affect visual balance and cuts. Practical guidance: Bring the room dimensions, drain location, preferred style, and maintenance tolerance to the design discussion. Request a layout showing major cuts before approving an expensive tile order. The best choice balances appearance, slip resistance, maintenance, and installation complexity.",
+        "@type": "Answer",
+        "description": "Porcelain is generally lower-maintenance than natural stone, while large-format tile reduces grout lines but demands flatter walls and careful handling. Small mosaics are often useful on sloped shower floors. Choose based on traction, maintenance, wall conditions, pattern, drain placement, and installation complexity."
+      }
+    }
+  ],
+  "description": "Porcelain is generally lower-maintenance than natural stone, while large-format tile reduces grout lines but demands flatter walls and careful handling. Small m"
+}

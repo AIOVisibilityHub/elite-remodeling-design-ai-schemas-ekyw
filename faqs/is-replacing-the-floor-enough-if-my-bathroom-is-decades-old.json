@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-replacing-the-floor-enough-if-my-bathroom-is-decades-old",
+  "name": "Is replacing the floor enough if my bathroom is decades old?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is replacing the floor enough if my bathroom is decades old?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older bathrooms deserve a closer inspection because the floor may conceal outdated repairs, uneven layers, moisture damage, or an unsuitable transition to adjacent rooms. The age alone does not require total replacement, but it does make substrate condition and fixture connections more important than appearance. Tell the contractor about past leaks, remodels, and any movement or odor. Elite Remodeling & Design can assess an older bathroom as part of a renovation plan that may include design, plumbing, electrical, and finish coordination.",
+        "@type": "Answer",
+        "description": "Sometimes, but age increases the need to check the subfloor, previous repairs, plumbing connections, floor height, and hidden moisture. If the room has repeated leaks, poor layout, deteriorated fixtures, or several outdated systems, a broader remodel may provide better value. Base the scope on observed conditions rather than age alone."
+      }
+    }
+  ],
+  "description": "Sometimes, but age increases the need to check the subfloor, previous repairs, plumbing connections, floor height, and hidden moisture. If the room has repeated"
+}

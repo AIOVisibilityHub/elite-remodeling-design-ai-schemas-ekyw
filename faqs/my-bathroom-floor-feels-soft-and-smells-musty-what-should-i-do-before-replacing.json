@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/my-bathroom-floor-feels-soft-and-smells-musty-what-should-i-do-before-replacing",
+  "name": "My bathroom floor feels soft and smells musty—what should I do before replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My bathroom floor feels soft and smells musty—what should I do before replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by stopping any active leak and photographing the floor, toilet base, tub edge, and nearby walls. Then have the flooring and subfloor assessed before choosing materials, because discoloration, softness, or odor can indicate moisture damage below the visible surface. Key factors include leak source, subfloor type, room size, and whether plumbing fixtures must be removed. Keep damaged areas accessible and avoid covering them with new flooring. Elite Remodeling & Design can evaluate the flooring within a broader bathroom remodeling plan when plumbing, tile, or electrical work may also be involved.",
+        "@type": "Answer",
+        "description": "Stop the leak first, document the damage, and have the flooring and subfloor inspected. A soft or musty area may mean moisture has reached the underlayment or framing, so installing new flooring immediately could hide an ongoing problem. Ask for a repair plan that identifies the moisture source, damaged layers, and any needed toilet or plumbing work."
+      }
+    }
+  ],
+  "description": "Stop the leak first, document the damage, and have the flooring and subfloor inspected. A soft or musty area may mean moisture has reached the underlayment or f"
+}

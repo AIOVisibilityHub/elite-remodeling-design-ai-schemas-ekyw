@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-add-a-shower-niche-without-creating-a-leak-or-ugly-tile-cuts",
+  "name": "How do I add a shower niche without creating a leak or ugly tile cuts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I add a shower niche without creating a leak or ugly tile cuts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche should be planned before waterproofing and tile layout, not cut into a finished wall casually. Its size, height, framing, slope, waterproofing, trim, and shelf material all affect the installation. Context: Elite Remodeling & Design includes layout development and material selections in its remodeling process, making early niche planning practical. Key factors: - The niche needs a slight slope so water does not sit on the shelf. - Its location should avoid plumbing and exterior-wall complications where possible. - Tile dimensions should determine the niche width and trim details. Practical guidance: Decide what bottles must fit, whether the niche will be horizontal or vertical, and whether a corner shelf is sufficient. Ask for the niche dimensions on the design or tile layout before materials are ordered. Early coordination reduces awkward cuts and helps keep the niche watertight.",
+        "@type": "Answer",
+        "description": "Plan the niche before framing and waterproofing. Its shelf should slope slightly toward the shower, corners and penetrations must be sealed, and dimensions should coordinate with the tile pattern. Decide what bottles must fit and confirm the niche location avoids plumbing conflicts."
+      }
+    }
+  ],
+  "description": "Plan the niche before framing and waterproofing. Its shelf should slope slightly toward the shower, corners and penetrations must be sealed, and dimensions shou"
+}

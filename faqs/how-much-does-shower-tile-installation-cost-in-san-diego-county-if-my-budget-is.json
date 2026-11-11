@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-shower-tile-installation-cost-in-san-diego-county-if-my-budget-is",
+  "name": "How much does shower tile installation cost in San Diego County if my budget is limited?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does shower tile installation cost in San Diego County if my budget is limited?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Diego County, cost depends more on demolition, waterproofing, layout changes, tile complexity, and finish selections than on tile area alone. A published 2026 local guide places a standard complete shower with mid-range ceramic or porcelain tile around $3,500–$6,500, but project-specific estimates can vary widely. Context: Elite Remodeling & Design handles bathroom design and construction coordination, so the estimate should separate design, demolition, plumbing, waterproofing, tile, fixtures, and related work. Key factors: - Large-format, natural stone, mosaics, niches, benches, and curbless details increase labor. - Relocating plumbing can add construction and permit-related scope. - Hidden damage is not always visible before demolition. Practical guidance: Compare itemized estimates and ask whether waterproofing, substrate repair, disposal, sealing, and final inspection are included. A detailed scope is more useful than a low square-foot price.",
+        "@type": "Answer",
+        "description": "San Diego shower tile costs vary by demolition, waterproofing, plumbing, tile type, layout, and custom features. A 2026 local guide estimates roughly $3,500–$6,500 for a standard complete shower with mid-range tile, but request an itemized estimate because hidden damage and design changes can alter the total."
+      }
+    }
+  ],
+  "description": "San Diego shower tile costs vary by demolition, waterproofing, plumbing, tile type, layout, and custom features. A 2026 local guide estimates roughly $3,500–$6,"
+}

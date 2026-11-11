@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I inspect after bathroom wall tile installation is finished?",
+  "description": "Check tile alignment, lippage, chipped edges, grout consistency, sealant at corners and fixtures, niche and window details, fixture operation, cleanup, and any",
+  "url": "eliteremodelingsd.com/faq/what-should-i-inspect-after-bathroom-wall-tile-installation-is-finished",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I inspect after bathroom wall tile installation is finished?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bathroom wall can appear finished before the work is fully complete. After tile setting, grout, sealant, fixture installation, cleanup, and any required inspection or touch-up may remain.\n\nThe room should be checked for hollow or loose tile, uneven joints, chipped edges, incomplete sealant, poor transitions, damaged fixtures, and debris. Wet areas also deserve close review at corners, penetrations, niches, and tub or shower connections.\n\nKey factors:\n- Tile alignment, lippage, chips, and visible cracks\n- Grout coverage, color consistency, and pinholes\n- Sealant at changes of plane and fixture transitions\n- Fixture operation, cleanup, and final documentation\n\nUse good lighting and inspect from normal standing and shower positions. Elite Remodeling & Design’s published process extends through construction and final inspection, allowing remaining items to be identified before the project is closed.",
+        "description": "Check tile alignment, lippage, chipped edges, grout consistency, sealant at corners and fixtures, niche and window details, fixture operation, cleanup, and any required inspection. Review the work under normal bathroom lighting and record touch-ups before final closeout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

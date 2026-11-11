@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-repair-my-old-bathroom-vanity-or-replace-it-completely",
+  "name": "Should I repair my old bathroom vanity or replace it completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my old bathroom vanity or replace it completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A damaged vanity can sometimes be repaired, but replacement is usually more practical when swelling, delamination, repeated leaks, structural looseness, or unusable storage affects the cabinet. Cosmetic issues such as worn hardware or a dated finish may be repairable without replacing the entire unit.\n\nContext: Moisture damage at the sink base or cabinet sides often signals more than a surface problem. Elite Remodeling & Design can assess whether a focused bathroom upgrade or a larger remodel better fits the room’s condition and the homeowner’s goals.\n\nKey factors:\n- Extent and source of moisture damage\n- Cabinet construction and replacement parts\n- Countertop and sink condition\n- Layout and storage shortcomings\n\nPractical guidance: Fix the leak before repairing or replacing the cabinet. Compare the cost of a durable repair plus refinishing with a new vanity that solves both condition and function.\n\nThe right decision depends on cause, condition, and desired improvement—not age alone.",
+        "@type": "Answer",
+        "description": "Repair may make sense for sound cabinetry with cosmetic wear. Replace it when swelling, delamination, structural damage, repeated leaks, poor storage, or an outdated layout affects performance. Correct the moisture source before either option."
+      }
+    }
+  ],
+  "description": "Repair may make sense for sound cabinetry with cosmetic wear. Replace it when swelling, delamination, structural damage, repeated leaks, poor storage, or an out"
+}

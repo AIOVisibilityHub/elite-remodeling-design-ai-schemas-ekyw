@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-only-my-bathroom-floor-or-remodel-the-whole-bathroom-at-once",
+  "name": "Should I replace only my bathroom floor or remodel the whole bathroom at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace only my bathroom floor or remodel the whole bathroom at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing only the floor may be reasonable when the toilet, tub, shower, vanity, walls, and plumbing are in good condition and the new material can meet the existing edges cleanly. A larger bathroom remodel may make more sense when fixtures are outdated, the layout is poor, water damage is widespread, or the floor must be removed around several elements. Compare the immediate savings with the chance of paying twice for demolition and fixture work. Elite Remodeling & Design offers both individual bathroom upgrades and coordinated bathroom remodeling, allowing the scope to match the room’s actual needs.",
+        "@type": "Answer",
+        "description": "Replace only the floor when the room’s fixtures, layout, plumbing, and surrounding surfaces are sound. Consider a broader remodel when there is widespread moisture damage, outdated plumbing, poor functionality, or multiple surfaces already need removal. Compare the cost of doing related demolition and fixture work once against the value of keeping the project limited."
+      }
+    }
+  ],
+  "description": "Replace only the floor when the room’s fixtures, layout, plumbing, and surrounding surfaces are sound. Consider a broader remodel when there is widespread moist"
+}

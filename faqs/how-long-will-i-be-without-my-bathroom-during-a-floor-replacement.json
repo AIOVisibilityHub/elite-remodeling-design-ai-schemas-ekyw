@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-bathroom-during-a-floor-replacement",
+  "name": "How long will I be without my bathroom during a floor replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my bathroom during a floor replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical replacement may take about one to several working days when the subfloor is sound and the work is limited to removal, preparation, flooring installation, and fixture reset. The schedule can extend if the toilet must be removed, adhesive or mortar needs curing time, or hidden moisture damage requires subfloor repair. Before booking, confirm whether demolition, disposal, leveling, baseboards, transitions, and toilet reset are included. Elite Remodeling & Design can place flooring work within a larger bathroom schedule when design, plumbing, or electrical coordination is needed.",
+        "@type": "Answer",
+        "description": "A straightforward bathroom floor replacement may take one to several working days, but moisture damage, subfloor repairs, leveling, curing, or plumbing changes can extend the schedule. Ask whether the estimate includes demolition, disposal, toilet removal and reset, trim, transitions, and final cleanup so the usable downtime is clear."
+      }
+    }
+  ],
+  "description": "A straightforward bathroom floor replacement may take one to several working days, but moisture damage, subfloor repairs, leveling, curing, or plumbing changes"
+}

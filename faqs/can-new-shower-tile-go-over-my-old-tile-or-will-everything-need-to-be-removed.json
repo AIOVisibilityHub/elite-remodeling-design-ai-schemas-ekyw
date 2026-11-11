@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-new-shower-tile-go-over-my-old-tile-or-will-everything-need-to-be-removed",
+  "name": "Can new shower tile go over my old tile, or will everything need to be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new shower tile go over my old tile, or will everything need to be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retiling over existing shower tile is only reasonable when the existing assembly is sound, flat, dry, properly bonded, and already waterproofed. New tile does not correct a failed shower pan, loose substrate, mold, movement, or hidden leaks. Context: A bathroom remodeling assessment by Elite Remodeling & Design should distinguish a cosmetic refresh from a shower rebuild. Key factors: - Hollow, cracked, loose, or bulging tile suggests underlying problems. - The drain, curb, corners, and penetrations must still work with the added thickness. - Door clearances and fixture trim may need adjustment. Practical guidance: Do not approve an overlay solely because it appears faster or cheaper. Ask whether the existing waterproofing can be verified and whether the added tile thickness affects the drain, glass, and plumbing trim. Rebuilding may provide better long-term control when the assembly is uncertain.",
+        "@type": "Answer",
+        "description": "New tile can sometimes go over old tile, but only when the existing surface is firmly bonded, flat, dry, and part of a sound waterproofed assembly. Loose tile, leaks, movement, damaged backing, uncertain waterproofing, drain problems, or clearance issues usually favor removal and rebuilding."
+      }
+    }
+  ],
+  "description": "New tile can sometimes go over old tile, but only when the existing surface is firmly bonded, flat, dry, and part of a sound waterproofed assembly. Loose tile,"
+}

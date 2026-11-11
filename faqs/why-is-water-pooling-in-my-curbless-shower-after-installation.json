@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-water-pooling-in-my-curbless-shower-after-installation",
+  "name": "Why is water pooling in my curbless shower after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is water pooling in my curbless shower after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly built curbless shower should drain without leaving persistent puddles, although small residual droplets can remain on textured tile or around grout lines. Standing water usually points to an inadequate slope, an uneven substrate, a blocked or poorly set drain, or water escaping the intended drainage area.\n\nThe issue should be checked before the glass and final finishes make repairs harder. Elite Remodeling & Design can coordinate floor preparation, drain installation, tile work, and final inspection as connected parts of the remodel.\n\nKey factors:\n- Verify the floor with a level or documented elevation measurements rather than judging only by appearance.\n- Check whether the drain grate is level and free of construction debris.\n- Confirm that the showerhead is not directing water beyond the sloped area.\n\nPhotograph puddles after use, note where they form, and report the pattern promptly. Do not apply extra caulk or build up grout as a substitute for correcting the underlying slope or drainage issue.\n\nEarly reporting gives the installer a better chance to correct the cause before more finishes are affected.",
+        "@type": "Answer",
+        "description": "Pooling may result from insufficient slope, an uneven base, a blocked or improperly set drain, or spray leaving the intended wet area. Document where water collects and report it promptly; added caulk or grout will not correct a floor or drain problem."
+      }
+    }
+  ],
+  "description": "Pooling may result from insufficient slope, an uneven base, a blocked or improperly set drain, or spray leaving the intended wet area. Document where water coll"
+}

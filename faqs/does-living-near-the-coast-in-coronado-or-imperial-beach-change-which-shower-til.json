@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-which-shower-til",
+  "name": "Does living near the coast in Coronado or Imperial Beach change which shower tile I should install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change which shower tile I should install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal conditions do not automatically require a different tile, but they make material selection and moisture management worth discussing, especially in homes near the water. Porcelain, grout type, sealers, ventilation, and substrate condition should be chosen for the shower’s exposure and maintenance needs. Context: Elite Remodeling & Design serves coastal communities including Coronado, Imperial Beach, and parts of San Diego County, where homeowners may prioritize durability and low maintenance. Key factors: - Natural stone may require more frequent sealing. - Poor bathroom ventilation can contribute to persistent dampness. - Existing salt-air or moisture-related deterioration should be assessed during demolition. Practical guidance: Tell the designer whether the home is near the coast, whether the bathroom stays damp, and how much maintenance is acceptable. Ask for recommendations that account for ventilation and the existing substrate, not just appearance. Location matters most when it changes exposure, maintenance, or existing-condition risk.",
+        "@type": "Answer",
+        "description": "Coastal location does not automatically dictate one tile, but moisture exposure, ventilation, substrate condition, and maintenance tolerance matter. Porcelain is often considered for lower maintenance, while natural stone may need more sealing. Tell the remodeling team about dampness and coastal exposure before selecting materials."
+      }
+    }
+  ],
+  "description": "Coastal location does not automatically dictate one tile, but moisture exposure, ventilation, substrate condition, and maintenance tolerance matter. Porcelain i"
+}

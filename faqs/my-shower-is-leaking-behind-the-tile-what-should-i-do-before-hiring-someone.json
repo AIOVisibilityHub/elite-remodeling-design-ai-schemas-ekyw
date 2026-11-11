@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/my-shower-is-leaking-behind-the-tile-what-should-i-do-before-hiring-someone",
+  "name": "My shower is leaking behind the tile—what should I do before hiring someone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My shower is leaking behind the tile—what should I do before hiring someone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking shower should be treated as a water-management problem, not just a grout problem. Stop or limit use if water is reaching adjacent walls, ceilings, flooring, or cabinetry, and arrange an inspection to identify whether the issue is the membrane, pan, drain, plumbing, sealant, or surface damage. Context: Elite Remodeling & Design can evaluate shower conditions as part of a bathroom remodeling project, including related substrate and layout work. Key factors: - The location of visible staining may not be the leak’s source. - Recaulking can mask symptoms without repairing concealed damage. - Demolition may be needed to inspect wet backing or framing. Practical guidance: Document when the leak occurs, where water appears, and whether it happens only during shower use. Avoid covering damaged areas with new tile until the source is confirmed. A repair plan should state what will be opened, tested, replaced, and waterproofed.",
+        "@type": "Answer",
+        "description": "Limit shower use if water is reaching adjacent finishes, document where and when the leak appears, and arrange an inspection before replacing grout or tile. The source may be the plumbing, drain, pan, membrane, sealant, or damaged substrate, so surface patching can hide rather than solve the problem."
+      }
+    }
+  ],
+  "description": "Limit shower use if water is reaching adjacent finishes, document where and when the leak appears, and arrange an inspection before replacing grout or tile. The"
+}

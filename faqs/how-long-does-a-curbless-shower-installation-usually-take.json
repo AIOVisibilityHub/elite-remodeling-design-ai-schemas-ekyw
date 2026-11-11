@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-curbless-shower-installation-usually-take",
+  "name": "How long does a curbless shower installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a curbless shower installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower may require more planning time than a standard shower because the floor height, drain, waterproofing, fixtures, materials, and inspections must be coordinated before tile begins. The total schedule depends on demolition findings, product availability, permit review, plumbing changes, glass fabrication, and inspection timing.\n\nElite Remodeling & Design’s process can extend from consultation and design through permitting, construction, and final inspection. The exact duration should be provided as a project-specific schedule rather than a generic promise.\n\nKey factors:\n- Hidden damage or unsuitable framing can add work after demolition.\n- Custom glass is typically measured after the finished tile is established.\n- Specialty tile, drains, fixtures, and vanities can affect sequencing.\n\nBefore work starts, ask for milestones covering design approval, material ordering, demolition, rough plumbing, waterproofing, tile, glass, and closeout. Confirm which homeowner decisions must be made by each milestone.\n\nA clear schedule is more useful when it identifies dependencies and decision deadlines.",
+        "@type": "Answer",
+        "description": "The schedule varies with demolition, floor preparation, plumbing, permits, inspections, tile, and custom glass. Ask for milestones rather than one broad number, and make material and design decisions early so the shower does not wait on selections or fabrication."
+      }
+    }
+  ],
+  "description": "The schedule varies with demolition, floor preparation, plumbing, permits, inspections, tile, and custom glass. Ask for milestones rather than one broad number,"
+}

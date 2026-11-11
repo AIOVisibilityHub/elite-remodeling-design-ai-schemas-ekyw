@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-move-the-sink-plumbing-during-a-bathroom-countertop-replacement",
+  "name": "Should I move the sink plumbing during a bathroom countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move the sink plumbing during a bathroom countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep the plumbing in place when possible if the goal is a faster, more predictable countertop replacement. Moving the sink or faucet can improve the layout, but it adds design coordination, wall or cabinet changes, and possible plumbing or permit considerations.\n\n**Context:** A countertop-only project is most straightforward when the new top fits the existing vanity footprint and drain location. A move may be justified if the current sink is off-center, inaccessible, crowded, or incompatible with the desired vanity.\n\n**Key factors:**\n- Existing drain and supply locations.\n- Wall access and cabinet interior space.\n- Sink centerline and faucet reach.\n- Effects on backsplash, mirror, lighting, and storage.\n\n**Practical guidance:** Mark the desired sink centerline on the vanity and review it with the full bathroom layout. Ask for separate pricing and scheduling if relocation is being considered.\n\nElite Remodeling & Design can evaluate fixture placement within a broader bathroom remodeling plan.",
+        "@type": "Answer",
+        "description": "Leave plumbing in place for a simpler, more predictable replacement unless the current layout is cramped, off-center, or dysfunctional. Moving the sink can affect the cabinet, wall, backsplash, mirror, schedule, cost, and possible approval requirements."
+      }
+    }
+  ],
+  "description": "Leave plumbing in place for a simpler, more predictable replacement unless the current layout is cramped, off-center, or dysfunctional. Moving the sink can affe"
+}

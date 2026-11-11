@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-a-bathroom-countertop-replacement-estimate-include",
+  "name": "What should a bathroom countertop replacement estimate include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should a bathroom countertop replacement estimate include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask each contractor who will measure, fabricate, remove, install, reconnect plumbing, seal the joints, and handle unexpected cabinet or wall damage. The quote should identify the material, thickness, edge, sink cutout, backsplash, schedule, exclusions, payment terms, and cleanup.\n\n**Context:** Two estimates can look very different because one includes only installation while another includes demolition, sink mounting, faucet work, and related repairs. Comparing only the bottom line may hide scope differences.\n\n**Key factors:**\n- Exact countertop and sink specifications.\n- Site verification and fabrication responsibility.\n- Warranty or correction process for fit and leaks.\n- Disposal, protection of the bathroom, and final cleanup.\n\n**Practical guidance:** Give every bidder the same photos, dimensions, and fixture information. Ask how concealed water damage will be documented and priced before authorizing extra work.\n\nElite Remodeling & Design’s broader design-build process can be useful when the countertop is part of a larger bathroom renovation.",
+        "@type": "Answer",
+        "description": "A useful estimate should list the material, thickness, edge, sink cutout, backsplash, measuring, fabrication, demolition, disposal, installation, plumbing reconnection, sealant, cleanup, schedule, exclusions, and handling of hidden damage. Give each bidder the same project information for a fair comparison."
+      }
+    }
+  ],
+  "description": "A useful estimate should list the material, thickness, edge, sink cutout, backsplash, measuring, fabrication, demolition, disposal, installation, plumbing recon"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-tile-works-best-on-a-curbless-shower-floor",
+  "name": "What tile works best on a curbless shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tile works best on a curbless shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Large-format tile can be used in some curbless showers, but the tile must conform to the planned slope and the installer must manage the drain and transitions carefully. A multi-directional slope may require smaller pieces or a layout that avoids lippage and awkward cuts.\n\nTile selection should happen after the floor geometry is understood, not only from a color sample. Elite Remodeling & Design includes material selections within its design-build planning, allowing tile size, pattern, drain style, and floor preparation to be considered together.\n\nKey factors:\n- Smaller mosaics can follow complex slopes more easily but create more grout joints.\n- Large tile can reduce grout maintenance but may require a one-direction slope or different drain arrangement.\n- Slip resistance, texture, cleaning, and barefoot comfort matter in wet areas.\n\nAsk for a tile layout showing cuts around the drain and shower entry. Confirm that the selected product is approved or suitable for the intended wet-floor application.\n\nThe best tile choice balances appearance, slope compatibility, traction, and upkeep.",
+        "@type": "Answer",
+        "description": "Small-format mosaics often follow multi-directional slopes more easily, while large tile may work with a one-direction slope and a suitable drain layout. Compare traction, grout maintenance, comfort, drain cuts, and the floor geometry before choosing by appearance alone."
+      }
+    }
+  ],
+  "description": "Small-format mosaics often follow multi-directional slopes more easily, while large tile may work with a one-direction slope and a suitable drain layout. Compar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-i-find-water-damage-behind-my-old-bathroom-vanity",
+  "name": "What if I find water damage behind my old bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I find water damage behind my old bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A damaged wall or floor should be assessed before the replacement vanity is installed. A cabinet can hide minor cosmetic defects, but it should not conceal active leaks, soft subflooring, deteriorated drywall, or mold-like damage.\n\nContext: Water damage often appears after the old cabinet is removed, especially around supply valves, the trap, sink edges, and flooring seams. Elite Remodeling & Design can include repair and finish coordination when the condition extends beyond a cabinet swap.\n\nKey factors:\n- Moisture readings or visible dampness\n- Soft, swollen, or discolored materials\n- Source of any active leak\n- Need to match tile, flooring, or paint\n\nPractical guidance: Stop installation until the leak source is corrected and affected materials are evaluated. Photograph the exposed area and document repairs before covering it.\n\nAddressing the cause first protects the new vanity and the surrounding bathroom.",
+        "@type": "Answer",
+        "description": "Pause installation and identify the leak before covering the area. Check the shutoff valves, supply lines, trap, sink, wall, and floor for moisture or soft materials. Repair damaged areas and confirm they are dry before installing the new cabinet."
+      }
+    }
+  ],
+  "description": "Pause installation and identify the leak before covering the area. Check the shutoff valves, supply lines, trap, sink, wall, and floor for moisture or soft mate"
+}

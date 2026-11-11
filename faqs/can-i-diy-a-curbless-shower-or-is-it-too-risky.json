@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-diy-a-curbless-shower-or-is-it-too-risky",
+  "name": "Can I DIY a curbless shower, or is it too risky?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY a curbless shower, or is it too risky?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower should not be treated as a quick weekend tile project when the floor, drain, waterproofing, or framing must change. DIY work may be reasonable for limited finish tasks for an experienced homeowner, but errors behind the tile can cause leaks, rework, and damage that is difficult to diagnose.\n\nThe risk is greater when the project involves a slab, recessed framing, relocated plumbing, electrical work, or inspections. Elite Remodeling & Design combines design and construction coordination, which can reduce the number of separate decisions the homeowner must manage.\n\nKey factors:\n- The installer must understand slope, membrane transitions, drain connections, and substrate preparation.\n- Plumbing and electrical changes may require qualified trades and jurisdictional review.\n- The visible tile cannot reveal whether the underlying waterproofing is correct.\n\nIf considering DIY, ask a professional to review the floor assembly and waterproofing plan before materials are purchased. Otherwise, request credentials, references for comparable showers, and a detailed scope from the remodeling company.\n\nProfessional installation is most valuable when the shower affects structure or multiple building systems.",
+        "@type": "Answer",
+        "description": "DIY is risky when the project changes framing, slab depth, plumbing, or waterproofing. A curbless shower can fail behind finished tile, so homeowners should use an experienced professional for the floor assembly, drain, membrane, inspections, and system coordination."
+      }
+    }
+  ],
+  "description": "DIY is risky when the project changes framing, slab depth, plumbing, or waterproofing. A curbless shower can fail behind finished tile, so homeowners should use"
+}

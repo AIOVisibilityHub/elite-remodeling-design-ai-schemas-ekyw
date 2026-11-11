@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/if-the-flooring-says-waterproof-can-water-still-damage-my-bathroom-subfloor",
+  "name": "If the flooring says waterproof, can water still damage my bathroom subfloor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "If the flooring says waterproof, can water still damage my bathroom subfloor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor that is waterproof at the surface is not necessarily protected beneath the surface. Tile grout, seams, toilet openings, tub edges, and vinyl plank joints can still permit water to reach the underlayment or subfloor if water sits there or the installation is defective. Ask how the floor perimeter, toilet area, transitions, and any adjacent wet zones will be detailed. Elite Remodeling & Design can coordinate flooring decisions with bathroom plumbing and tile work so the selected surface fits the room’s actual water exposure.",
+        "@type": "Answer",
+        "description": "Yes. A waterproof plank or tile surface does not guarantee a waterproof installation. Water can reach the subfloor through plank joints, cracked grout, toilet openings, tub edges, and transitions. Ask what protects the subfloor, how perimeter details are sealed, and whether the moisture source has been corrected before installation."
+      }
+    }
+  ],
+  "description": "Yes. A waterproof plank or tile surface does not guarantee a waterproof installation. Water can reach the subfloor through plank joints, cracked grout, toilet o"
+}

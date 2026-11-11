@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-to-replace-the-backsplash-with-my-bathroom-countertop",
+  "name": "Do I need to replace the backsplash with my bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the backsplash with my bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The existing backsplash may stay if it is sound, cleanly meets the old top, and works with the new thickness and height. It should be removed or altered when it is cracked, loose, water-damaged, poorly sealed, or incompatible with the replacement surface.\n\n**Context:** Removing a top can expose the wall joint and may damage tile or paint. A different countertop thickness can create a visible gap or change the height available for the backsplash and faucet.\n\n**Key factors:**\n- Inspect tile adhesion and grout condition.\n- Check for stains, mold-like growth, swollen drywall, or soft substrate.\n- Compare the new top’s thickness and rear edge with the existing backsplash.\n- Plan new caulk at every countertop-to-wall transition.\n\n**Practical guidance:** Decide whether the backsplash stays before demolition, and ask how damaged wall areas will be repaired. Use moisture-appropriate sealant at the sink and wall joints after installation.\n\nElite Remodeling & Design can include backsplash and wall conditions in the bathroom scope instead of treating them as surprises.",
+        "@type": "Answer",
+        "description": "Not always. Keep it if it is secure, undamaged, properly sealed, and compatible with the new top’s thickness. Replace or repair it if it is loose, cracked, stained, water-damaged, or likely to leave a gap behind the new countertop."
+      }
+    }
+  ],
+  "description": "Not always. Keep it if it is secure, undamaged, properly sealed, and compatible with the new top’s thickness. Replace or repair it if it is loose, cracked, stai"
+}

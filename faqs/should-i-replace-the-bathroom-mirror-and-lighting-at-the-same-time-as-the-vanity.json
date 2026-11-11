@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-the-bathroom-mirror-and-lighting-at-the-same-time-as-the-vanity",
+  "name": "Should I replace the bathroom mirror and lighting at the same time as the vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace the bathroom mirror and lighting at the same time as the vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A replacement vanity can include a new mirror, lighting, outlets, or wall finishes, but those items should be planned before the cabinet is installed. The vanity’s height, sink position, backsplash, and countertop can change the correct mirror size and light placement.\n\nContext: Electrical and finish work may expand the scope beyond cabinetry, particularly when the existing light or outlet is poorly positioned. Elite Remodeling & Design can coordinate bathroom design with plumbing, electrical, tile, and construction work when these elements are part of the project.\n\nKey factors:\n- Mirror width and mounting height\n- Light location relative to the sink\n- Outlet access and splash exposure\n- Backsplash and wall-finish transitions\n\nPractical guidance: Select the vanity, sink, faucet, mirror, and lighting as a group. Mark fixture centers on the wall before finalizing rough-in locations.\n\nEarly coordination creates a more balanced and functional finished wall.",
+        "@type": "Answer",
+        "description": "Often, yes, if the new vanity changes the sink position, counter height, or wall proportions. Select the vanity, mirror, lighting, backsplash, and outlets together so fixture centers and clearances are set before installation."
+      }
+    }
+  ],
+  "description": "Often, yes, if the new vanity changes the sink position, counter height, or wall proportions. Select the vanity, mirror, lighting, backsplash, and outlets toget"
+}

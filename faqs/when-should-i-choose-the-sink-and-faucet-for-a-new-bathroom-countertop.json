@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-choose-the-sink-and-faucet-for-a-new-bathroom-countertop",
+  "name": "When should I choose the sink and faucet for a new bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose the sink and faucet for a new bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually, the countertop should be selected before final faucet and sink installation, but the sink and faucet specifications should be chosen before the top is fabricated. This sequence helps ensure the cutouts, clearances, supports, and plumbing connections match.\n\n**Context:** Ordering the surface first and deciding on fixtures later can cause incompatible openings or require extra modification. The reverse also has limits because the selected top may restrict sink size, faucet spacing, or edge options.\n\n**Key factors:**\n- Choose the sink type and exact model early.\n- Confirm faucet-hole count and spacing.\n- Check cabinet clearance for the basin and plumbing.\n- Coordinate backsplash height with faucet reach.\n\n**Practical guidance:** Create a selections list containing the countertop, sink, faucet, backsplash, edge profile, and accessories before fabrication. Keep product boxes and specifications available for the installer.\n\nElite Remodeling & Design can bring material selections into the bathroom design and construction plan.",
+        "@type": "Answer",
+        "description": "Choose the sink and faucet before the countertop is fabricated, even if they are installed afterward. Their exact dimensions determine the cutouts, hole spacing, cabinet clearance, faucet reach, backsplash relationship, and plumbing connections."
+      }
+    }
+  ],
+  "description": "Choose the sink and faucet before the countertop is fabricated, even if they are installed afterward. Their exact dimensions determine the cutouts, hole spacing"
+}

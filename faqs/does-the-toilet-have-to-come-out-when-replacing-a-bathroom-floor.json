@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-the-toilet-have-to-come-out-when-replacing-a-bathroom-floor",
+  "name": "Does the toilet have to come out when replacing a bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does the toilet have to come out when replacing a bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet usually needs to be removed for a clean floor installation, especially when flooring will extend beneath its footprint. Leaving it in place can create awkward cuts, visible seams, and a compromised seal. Confirm who removes and resets the toilet, supplies a new seal if needed, tests for leaks, and handles disposal or storage. Elite Remodeling & Design can coordinate fixture handling with flooring and other bathroom construction tasks.",
+        "@type": "Answer",
+        "description": "Usually, yes, for a cleaner installation and proper coverage beneath the toilet footprint. Confirm whether removal and reset, a new seal, leak testing, and disposal are included. If the toilet flange or surrounding subfloor is damaged, that condition should be addressed before the new flooring is installed."
+      }
+    }
+  ],
+  "description": "Usually, yes, for a cleaner installation and proper coverage beneath the toilet footprint. Confirm whether removal and reset, a new seal, leak testing, and disp"
+}

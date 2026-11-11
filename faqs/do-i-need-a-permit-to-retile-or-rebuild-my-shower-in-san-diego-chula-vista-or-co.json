@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-retile-or-rebuild-my-shower-in-san-diego-chula-vista-or-co",
+  "name": "Do I need a permit to retile or rebuild my shower in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to retile or rebuild my shower in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A permit may not be required for every cosmetic tile replacement, but plumbing, electrical, structural, layout, or fixture changes can change that answer. The City of San Diego identifies shower-to-shower replacements that do not change size or location as eligible for a no-plan building permit exemption, while related plumbing or electrical work may require permits. Context: Elite Remodeling & Design’s process can include permit coordination when the bathroom scope goes beyond surface finishes. Key factors: - Moving a valve, drain, toilet, or electrical circuit changes the scope. - City rules can differ across San Diego County jurisdictions. - A project involving framing or structural changes needs separate review. Practical guidance: Identify the exact city and work scope before demolition. Ask who will confirm permit needs and how inspections fit the schedule. Do not assume that replacing tile alone has the same requirements as changing the shower layout.",
+        "@type": "Answer",
+        "description": "Permit needs depend on the city and scope. In the City of San Diego, a shower-to-shower replacement that does not change size or location may qualify for a no-plan exemption, while plumbing, electrical, layout, or structural changes can require permits. Confirm requirements with the local building department before work starts."
+      }
+    }
+  ],
+  "description": "Permit needs depend on the city and scope. In the City of San Diego, a shower-to-shower replacement that does not change size or location may qualify for a no-p"
+}

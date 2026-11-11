@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-a-bathroom-vanity-in-san-diego-or-chula-vista",
+  "name": "Do I need a permit to replace a bathroom vanity in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a bathroom vanity in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanity replacement may require plumbing or electrical review when fixtures, drains, outlets, or lighting are added, moved, or substantially altered. A same-place, like-for-like replacement may be treated differently, but local requirements depend on the exact work and jurisdiction.\n\nContext: The City of San Diego’s published guidance distinguishes maintenance-like replacements from work that changes plumbing fixtures or other building systems. Elite Remodeling & Design can identify the project scope and coordinate permit-related steps when the vanity is part of a permitted bathroom remodel.\n\nKey factors:\n- Whether water or drain lines move\n- Whether an outlet or lighting changes\n- Whether walls are opened\n- Which city has jurisdiction over the property\n\nPractical guidance: Ask for a written scope showing who determines permit needs and who handles applications, inspections, and closeout. Do not assume a cabinet replacement has the same requirements as a layout change.\n\nEarly scope review is especially useful in San Diego County communities with different permitting offices.",
+        "@type": "Answer",
+        "description": "Possibly. A same-place replacement may differ from work that moves plumbing, changes electrical fixtures, opens walls, or alters the layout. San Diego guidance treats plumbing and electrical changes differently from certain like-for-like maintenance work, so confirm the exact scope before starting."
+      }
+    }
+  ],
+  "description": "Possibly. A same-place replacement may differ from work that moves plumbing, changes electrical fixtures, opens walls, or alters the layout. San Diego guidance"
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will replacing bathroom wall tile require moving the plumbing?",
+  "description": "Not necessarily. Plumbing can often remain in place when the layout and fixtures work, but moving valves, showerheads, sinks, or toilets expands the scope and m",
+  "url": "eliteremodelingsd.com/faq/will-replacing-bathroom-wall-tile-require-moving-the-plumbing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will replacing bathroom wall tile require moving the plumbing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing bathroom wall tile does not automatically require moving plumbing, but fixture locations often affect the tile layout and may expose hidden problems during demolition. A tile-only project can remain limited if the existing plumbing, wall, and waterproofing conditions are sound.\n\nMoving a valve, showerhead, tub, toilet, or sink changes the scope and may involve access through walls, additional trades, and possible permit review. It can be efficient to coordinate those changes before the new tile is installed rather than removing finished work later.\n\nKey factors:\n- Existing fixture locations and desired clearances\n- Valve depth and trim compatibility\n- Access to plumbing behind the wall\n- Whether the layout is being improved at the same time\n\nMark fixture centerlines and provide the preferred fittings before final tile layout. Elite Remodeling & Design can coordinate tile with plumbing and electrical work as part of a complete bathroom remodeling plan.",
+        "description": "Not necessarily. Plumbing can often remain in place when the layout and fixtures work, but moving valves, showerheads, sinks, or toilets expands the scope and may require wall access and permit review. Decide fixture locations before finalizing tile cuts and waterproofing details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

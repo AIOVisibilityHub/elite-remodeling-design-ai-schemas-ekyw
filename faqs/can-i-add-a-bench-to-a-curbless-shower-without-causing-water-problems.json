@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bench-to-a-curbless-shower-without-causing-water-problems",
+  "name": "Can I add a bench to a curbless shower without causing water problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bench to a curbless shower without causing water problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower bench can be included in a curbless shower, but it must be planned with the slope, waterproofing, clearance, and entry location. A built-in bench affects framing and membrane detailing, while a fold-down seat may preserve more open floor space.\n\nThe right choice depends on whether the seat is for daily use, occasional support, shaving, or future mobility needs. Elite Remodeling & Design can incorporate the bench, fixtures, tile, and wall reinforcement into the bathroom design before construction begins.\n\nKey factors:\n- The bench surface needs to shed water toward the drain.\n- Wall blocking may be required for a fold-down seat or future grab bars.\n- A bench can reduce usable shower width and influence glass placement.\n\nState the desired seat size, height, location, and expected user during design. Ask how the bench will be waterproofed and how it will affect cleaning and access.\n\nPlanning the seat before rough plumbing and wall closure avoids awkward retrofits.",
+        "@type": "Answer",
+        "description": "Yes, but the bench must be framed, sloped, and waterproofed as part of the shower assembly. Its size and location affect clearance, glass, fixtures, cleaning, and future grab-bar or mobility needs, so decide on it before walls are closed."
+      }
+    }
+  ],
+  "description": "Yes, but the bench must be framed, sloped, and waterproofed as part of the shower assembly. Its size and location affect clearance, glass, fixtures, cleaning, a"
+}

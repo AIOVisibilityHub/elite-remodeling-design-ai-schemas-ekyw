@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-i-have-only-one-bathroom-and-the-floor-needs-to-be-replaced",
+  "name": "What should I do if I have only one bathroom and the floor needs to be replaced urgently?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have only one bathroom and the floor needs to be replaced urgently?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the replacement affects only the floor, the room may be usable sooner than a full bathroom renovation, but the toilet may be unavailable during removal, subfloor repair, adhesive or mortar work, and reset. A second bathroom can reduce disruption, while a single-bath home requires a clearly planned schedule and daily cleanup. Ask when the toilet will be disconnected and when the floor will support normal use. Elite Remodeling & Design can coordinate the flooring sequence with other bathroom trades and the project’s overall schedule.",
+        "@type": "Answer",
+        "description": "Ask for a written sequence showing demolition, drying or repairs, installation, curing, toilet reset, and the first safe-use time. Move toiletries and provide access to shutoff valves before work starts. If the floor is actively leaking or unsafe, address the source and temporary protection first rather than rushing into a finish installation."
+      }
+    }
+  ],
+  "description": "Ask for a written sequence showing demolition, drying or repairs, installation, curing, toilet reset, and the first safe-use time. Move toiletries and provide a"
+}

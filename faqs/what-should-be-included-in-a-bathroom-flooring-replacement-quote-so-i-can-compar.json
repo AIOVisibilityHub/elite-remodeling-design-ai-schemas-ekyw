@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-bathroom-flooring-replacement-quote-so-i-can-compar",
+  "name": "What should be included in a bathroom flooring replacement quote so I can compare contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a bathroom flooring replacement quote so I can compare contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flooring quote should identify the exact material, quantity, pattern or layout, removal method, subfloor preparation, underlayment, adhesive or mortar, grout, baseboards, transitions, toilet handling, disposal, and warranty terms. It should also state how concealed moisture or structural damage will be handled and whether the price includes permits when the larger scope requires them. Compare estimates line by line rather than choosing the lowest total. Elite Remodeling & Design can define flooring within a broader design-build proposal when multiple bathroom trades are involved.",
+        "@type": "Answer",
+        "description": "Look for the material and quantity, demolition, disposal, subfloor inspection and repair allowance, underlayment, adhesive or mortar, grout, trim, transitions, toilet removal and reset, cleanup, schedule, warranty, and change-order process. Also confirm permit responsibility if plumbing, electrical, structural, or broader remodeling work is included."
+      }
+    }
+  ],
+  "description": "Look for the material and quantity, demolition, disposal, subfloor inspection and repair allowance, underlayment, adhesive or mortar, grout, trim, transitions,"
+}

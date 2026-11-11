@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-a-bathroom-vanity-myself-or-should-i-hire-a-remodeling-company",
+  "name": "Can I replace a bathroom vanity myself, or should I hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a bathroom vanity myself, or should I hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a homeowner can replace a vanity when the unit fits, the shutoff valves work, and no plumbing, electrical, or structural changes are needed. The project becomes less suitable for DIY when the drain must move, water lines are corroded, the wall is damaged, or the countertop requires precise cutting.\n\nContext: Removing a vanity can expose leaks, mold-like staining, soft flooring, or plumbing that does not align with the replacement. Elite Remodeling & Design can combine cabinet installation with bathroom design, finish repairs, and required coordination when a simple swap becomes a broader renovation.\n\nKey factors:\n- Ability to shut off and test water safely\n- Weight and fragility of the countertop\n- Need to modify the P-trap or supply lines\n- Experience leveling and anchoring cabinets\n\nPractical guidance: Shut off water, protect the floor, disconnect plumbing carefully, and verify the new unit before removing the old one. Stop if a valve will not close or a hidden leak appears.\n\nDIY may save labor, but professional help can reduce damage and rework when conditions are uncertain.",
+        "@type": "Answer",
+        "description": "DIY may work for a straightforward, same-size replacement with accessible shutoffs and matching plumbing. Hire a professional when pipes must move, the wall or floor is damaged, the countertop needs cutting, or you are combining the vanity with tile, lighting, or other bathroom remodeling."
+      }
+    }
+  ],
+  "description": "DIY may work for a straightforward, same-size replacement with accessible shutoffs and matching plumbing. Hire a professional when pipes must move, the wall or"
+}

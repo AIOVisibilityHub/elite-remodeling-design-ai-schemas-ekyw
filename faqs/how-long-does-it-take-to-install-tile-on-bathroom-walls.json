@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install tile on bathroom walls?",
+  "description": "Plan for several workdays for a straightforward wall-tile project, with additional time for demolition, wall repair, waterproofing, complex layouts, material de",
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-install-tile-on-bathroom-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install tile on bathroom walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bathroom wall tile project can take from several workdays to longer when demolition, wall repair, waterproofing, custom layout, plumbing, or inspections are involved. Tile setting itself is only one stage of the work.\n\nThe schedule may also include material ordering, substrate preparation, waterproofing, tile cuts, grout, sealant, fixture installation, and cure periods. A full bathroom remodel can extend the timeline because tile work must coordinate with plumbing, electrical, design decisions, and final inspection.\n\nKey factors:\n- Existing tile removal and disposal\n- Wall repairs or replacement\n- Tile size, pattern, niche, window, and corner details\n- Material availability and inspection requirements\n\nChoose tile and trim before the construction start whenever possible. Elite Remodeling & Design can incorporate selections into design development and provide a project sequence based on the actual bathroom scope.",
+        "description": "Plan for several workdays for a straightforward wall-tile project, with additional time for demolition, wall repair, waterproofing, complex layouts, material delays, plumbing, or inspections. Tile setting is only part of the schedule, so confirm the sequence after the room’s full scope is defined."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-my-existing-plumbing-work-with-a-replacement-bathroom-vanity",
+  "name": "Will my existing plumbing work with a replacement bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my existing plumbing work with a replacement bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new vanity can use the existing plumbing only when the cabinet dimensions, sink location, drain height, and faucet arrangement align closely enough. If the vanity is deeper, narrower, shifted, or converted to two sinks, the drain and supply connections may need adjustment.\n\nContext: The P-trap, shutoff valves, and wall openings should remain accessible after installation. Elite Remodeling & Design can coordinate plumbing with the vanity design instead of treating cabinet selection and pipe placement as separate decisions.\n\nKey factors:\n- Centerline of the existing drain\n- Height and spacing of supply lines\n- Single-basin versus double-basin layout\n- Cabinet back and drawer clearances\n\nPractical guidance: Photograph and measure the plumbing before ordering, including the distance from the finished wall and floor. Do not rely solely on the old vanity’s exterior dimensions.\n\nMatching the plumbing to the cabinet early can prevent drawer conflicts, leaks, and last-minute changes.",
+        "@type": "Answer",
+        "description": "It may, if the new vanity keeps the same footprint and sink position. Measure the drain, shutoff valves, wall location, cabinet back, and drawer clearances first; wider or double-sink vanities often require plumbing adjustments."
+      }
+    }
+  ],
+  "description": "It may, if the new vanity keeps the same footprint and sink position. Measure the drain, shutoff valves, wall location, cabinet back, and drawer clearances firs"
+}

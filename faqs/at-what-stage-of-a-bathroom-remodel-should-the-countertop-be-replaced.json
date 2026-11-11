@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/at-what-stage-of-a-bathroom-remodel-should-the-countertop-be-replaced",
+  "name": "At what stage of a bathroom remodel should the countertop be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what stage of a bathroom remodel should the countertop be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually, the countertop should be replaced before final wall painting and after any demolition or cabinet changes that could affect its fit. Backsplash installation, final caulking, mirror adjustments, and finish touch-ups typically follow the top so the new joint remains clean.\n\n**Context:** Installing too early can expose the surface to dust, impact, adhesive, or paint. Installing after all finishes may require removing completed work if the top needs access to the wall or cabinet.\n\n**Key factors:**\n- Complete cabinet repairs and layout changes first.\n- Confirm sink, faucet, and top specifications before fabrication.\n- Protect the surface during remaining construction.\n- Plan backsplash and paint transitions after placement.\n\n**Practical guidance:** In a larger bathroom remodel, ask for the sequence in writing, including inspection or approval points. Keep final caulk and plumbing checks on the punch list.\n\nElite Remodeling & Design can coordinate countertop timing with design development, construction, and final project completion.",
+        "@type": "Answer",
+        "description": "Replace the countertop after demolition, cabinet changes, and structural repairs, but before final backsplash, painting touch-ups, and mirror adjustments. Confirm the sink and faucet first, protect the new surface during remaining work, and include final caulking and leak checks on the completion list."
+      }
+    }
+  ],
+  "description": "Replace the countertop after demolition, cabinet changes, and structural repairs, but before final backsplash, painting touch-ups, and mirror adjustments. Confi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-to-replace-the-countertop-and-sink-when-i-replace-the-vanity",
+  "name": "Do I need to replace the countertop and sink when I replace the vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the countertop and sink when I replace the vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The countertop, sink, faucet, and cabinet should be selected as a coordinated set unless the existing components are confirmed compatible. Hole spacing, sink mounting style, basin position, counter thickness, and backsplash height can all affect installation.\n\nContext: A replacement top may arrive with predrilled holes that do not suit the faucet, while a vessel sink may change the finished counter height. Elite Remodeling & Design can coordinate these decisions through bathroom design and construction planning.\n\nKey factors:\n- Centerset, widespread, or single-hole faucet\n- Undermount, drop-in, or vessel sink\n- Countertop length and side splashes\n- Faucet reach and backsplash clearance\n\nPractical guidance: Confirm templates and manufacturer specifications before fabrication. Keep the faucet, sink, top, and cabinet labels together so installers can verify compatibility.\n\nCoordinated selections reduce field cutting and installation surprises.",
+        "@type": "Answer",
+        "description": "Not always, but compatibility must be confirmed. Check cabinet dimensions, sink cutout, faucet holes, counter thickness, overhang, and backsplash details. Reusing components can save money, while a matched cabinet, top, sink, and faucet can simplify fit and finish."
+      }
+    }
+  ],
+  "description": "Not always, but compatibility must be confirmed. Check cabinet dimensions, sink cutout, faucet holes, counter thickness, overhang, and backsplash details. Reusi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-during-a-bathroom-countertop-replacement",
+  "name": "What can go wrong during a bathroom countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong during a bathroom countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common failures are inaccurate measurements, poor support, damaged cabinets, leaking sink or faucet seals, incompatible sink cutouts, cracked material during handling, and water entering unsealed joints. Each risk can be reduced through accurate field verification and a clear installation scope.\n\n**Context:** Bathroom surfaces face frequent splashes, cleaning chemicals, temperature changes, and movement at wall and sink joints. A visually attractive installation can still fail if water reaches the substrate.\n\n**Key factors:**\n- Verify the vanity is level and adequately supported.\n- Confirm cutouts before fabrication.\n- Use suitable wet-area sealant at sink and wall joints.\n- Follow the material’s cleaning and maintenance instructions.\n\n**Practical guidance:** Ask who measures, who fabricates, who removes the old top, and who reconnects plumbing. Clarify responsibility for hidden damage discovered after demolition.\n\nElite Remodeling & Design can coordinate design, construction, and related bathroom work when several risk points overlap.",
+        "@type": "Answer",
+        "description": "Common problems include wrong measurements, unsupported cabinets, incompatible cutouts, cracked material, damaged backsplash, plumbing leaks, and failed seals. Reduce risk by verifying field dimensions, inspecting the vanity, confirming sink specifications, and assigning responsibility for hidden damage before work starts."
+      }
+    }
+  ],
+  "description": "Common problems include wrong measurements, unsupported cabinets, incompatible cutouts, cracked material, damaged backsplash, plumbing leaks, and failed seals."
+}

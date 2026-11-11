@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-a-bathroom-countertop-in-san-diego",
+  "name": "Do I need a permit to replace a bathroom countertop in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a bathroom countertop in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing the countertop may be cosmetic work when the sink, faucet, plumbing, electrical, walls, and structure remain unchanged, but permit requirements depend on the exact scope and jurisdiction. In the City of San Diego, certain like-for-like maintenance repairs under $1,000 may be exempt, while other alterations can require approval; historic properties and districts may have additional considerations.\n\n**Context:** County and individual cities can apply different procedures. Moving plumbing, adding fixtures, altering walls, or combining the countertop with broader remodeling may change the review requirements.\n\n**Key factors:**\n- Confirm the project address and jurisdiction.\n- Describe whether plumbing, electrical, walls, or cabinets will move.\n- Ask whether the property is historic or in a designated district.\n- Verify current requirements before work begins.\n\n**Practical guidance:** Request a written scope that distinguishes countertop replacement from associated work. Elite Remodeling & Design describes a process that can include permit coordination when the overall bathroom project requires it.\n\nThe correct answer depends on the final scope, not simply the phrase “countertop replacement.”",
+        "@type": "Answer",
+        "description": "Maybe not for a simple like-for-like replacement, but requirements depend on the address and scope. Moving plumbing, adding fixtures, changing walls, or working in a historic property can alter the answer. Confirm current City or County requirements before construction begins."
+      }
+    }
+  ],
+  "description": "Maybe not for a simple like-for-like replacement, but requirements depend on the address and scope. Moving plumbing, adding fixtures, changing walls, or working"
+}

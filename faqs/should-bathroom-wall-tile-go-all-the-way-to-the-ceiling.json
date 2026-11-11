@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should bathroom wall tile go all the way to the ceiling?",
+  "description": "Often, but not always. Full-height tile works well in many shower and tub areas, while a lower finish may suit dry walls or a specific trim design. Consider cei",
+  "url": "eliteremodelingsd.com/faq/should-bathroom-wall-tile-go-all-the-way-to-the-ceiling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should bathroom wall tile go all the way to the ceiling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, tile can often extend to the ceiling, but the decision should reflect the shower’s water exposure, ceiling height, ventilation, trim plan, and desired visual proportion. Full-height tile can create a continuous appearance, while a lower stopping point may simplify transitions outside wet areas.\n\nThe top edge needs a deliberate finish, especially where walls are not perfectly square or the ceiling changes height. Tile height also affects material quantities, cuts, lighting, mirrors, and ventilation access.\n\nKey factors:\n- Whether the wall is a shower or tub surround\n- Ceiling slope and out-of-level conditions\n- Edge trim, crown molding, or painted transition\n- Tile availability and added installation area\n\nDecide the stopping height before final material quantities are ordered. Elite Remodeling & Design can coordinate the height with the bathroom’s layout, fixtures, and broader finish selections.",
+        "description": "Often, but not always. Full-height tile works well in many shower and tub areas, while a lower finish may suit dry walls or a specific trim design. Consider ceiling conditions, ventilation, tile quantity, edge treatment, fixtures, and how the tile height fits the complete bathroom layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-bathroom-during-a-countertop-replacement",
+  "name": "How long will I be without my bathroom during a countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my bathroom during a countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many straightforward vanity-top replacements can be completed in a day once the replacement is fabricated and available, but the full project may take longer when measurements, custom cutting, material ordering, removal, or related bathroom work is involved.\n\n**Context:** Custom stone commonly requires a template before fabrication, so the installation date is not necessarily the consultation date. A top may also need time before the sink and backsplash joints are exposed to heavy water use.\n\n**Key factors:**\n- Prefabricated versus custom material.\n- Sink and faucet cutouts.\n- Existing top removal and disposal.\n- Cabinet leveling, wall conditions, and added tile or plumbing work.\n\n**Practical guidance:** If the bathroom is needed for a deadline, ask when field measuring, fabrication, installation, and final plumbing connection will occur. Keep a backup bathroom available until the sink, faucet, drains, and sealant are fully ready.\n\nElite Remodeling & Design can place the countertop within a broader design-and-construction schedule when other bathroom improvements are planned.",
+        "@type": "Answer",
+        "description": "A simple installation may take about a day after the top is ready, but custom fabrication and related repairs can extend the schedule. Ask for separate dates for measuring, fabrication, removal, installation, plumbing reconnection, and sealant curing before setting a deadline."
+      }
+    }
+  ],
+  "description": "A simple installation may take about a day after the top is ready, but custom fabrication and related repairs can extend the schedule. Ask for separate dates fo"
+}

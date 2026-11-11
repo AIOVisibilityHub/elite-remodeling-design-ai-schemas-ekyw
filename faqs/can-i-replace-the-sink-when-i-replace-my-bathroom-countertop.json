@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-the-sink-when-i-replace-my-bathroom-countertop",
+  "name": "Can I replace the sink when I replace my bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace the sink when I replace my bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sink can often be replaced at the same time, but compatibility must be confirmed before the countertop is fabricated. The sink type, cutout dimensions, faucet-hole arrangement, cabinet clearance, drain position, and countertop thickness all matter.\n\n**Context:** A drop-in, undermount, and vessel sink each creates different installation and sealing requirements. Changing the sink may also require different faucet plumbing or a countertop edge that does not match the original opening.\n\n**Key factors:**\n- Undermount sinks generally require the cutout before installation.\n- Vessel sinks may need a smaller opening but change faucet height and splash exposure.\n- Existing drain and supply locations can limit fixture choices.\n- Integrated sinks may simplify cleaning but restrict later replacement.\n\n**Practical guidance:** Choose the sink and faucet before final fabrication, not after the top arrives. Provide product specifications or model numbers so the cutouts and clearances can be checked.\n\nElite Remodeling & Design can coordinate sink, fixture, surface, and bathroom design decisions within one project plan.",
+        "@type": "Answer",
+        "description": "Usually, but select the sink before the countertop is fabricated. The sink style, cutout, faucet holes, cabinet clearance, drain location, and top thickness must match. Undermount and integrated sinks require especially careful coordination because their openings and supports are prepared before installation."
+      }
+    }
+  ],
+  "description": "Usually, but select the sink before the countertop is fabricated. The sink style, cutout, faucet holes, cabinet clearance, drain location, and top thickness mus"
+}

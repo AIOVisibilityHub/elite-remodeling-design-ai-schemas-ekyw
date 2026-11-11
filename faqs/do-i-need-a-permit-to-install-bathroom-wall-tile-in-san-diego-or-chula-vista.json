@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to install bathroom wall tile in San Diego or Chula Vista?",
+  "description": "A simple finish replacement may be treated differently from work involving plumbing, electrical, ventilation, walls, or layout changes. Requirements depend on t",
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-install-bathroom-wall-tile-in-san-diego-or-chula-vista",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to install bathroom wall tile in San Diego or Chula Vista?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Do not assume a permit is or is not needed from the tile choice alone. A tile-only finish replacement may be treated differently from work that alters plumbing, electrical systems, walls, ventilation, or the building layout, and requirements can vary by jurisdiction.\n\nFor homes within the City of San Diego, official guidance distinguishes maintenance and like-for-like work from construction or alterations, while plumbing, electrical, and other scope changes can trigger permit requirements. Other communities in San Diego County may apply their own processes.\n\nKey factors:\n- Whether plumbing fixtures or lines move\n- Electrical, lighting, or ventilation changes\n- Wall removal, framing, or structural work\n- The project’s city and exact scope\n\nDescribe every planned change, not only the tile, when asking about permits. Elite Remodeling & Design includes permitting coordination within its broader remodeling process when the project scope requires it.",
+        "description": "A simple finish replacement may be treated differently from work involving plumbing, electrical, ventilation, walls, or layout changes. Requirements depend on the city and complete project scope. In San Diego, official guidance says plumbing and electrical work can require permits, so confirm requirements before demolition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-last-bathroom-vanity-installation-was-done-badly",
+  "name": "What should I do if my last bathroom vanity installation was done badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my last bathroom vanity installation was done badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior contractor’s poor work should be documented before new installation begins. Photograph leaks, uneven cabinet lines, damaged finishes, inaccessible shutoffs, and any areas that were patched or altered, then ask for a written plan showing what will be corrected.\n\nContext: Replacing the visible cabinet without addressing defective plumbing, level surfaces, or concealed damage can repeat the original problem. Elite Remodeling & Design can assess existing conditions and define the construction scope before coordinating a new bathroom installation.\n\nKey factors:\n- Source of the original failure\n- Whether the substrate is level and sound\n- Plumbing and electrical accessibility\n- Written exclusions and correction responsibilities\n\nPractical guidance: Do not approve a final design until the underlying condition is understood. Request confirmation of testing, cleanup, product specifications, and how unexpected damage will be handled.\n\nClear documentation protects the quality of the next installation without relying on assumptions.",
+        "@type": "Answer",
+        "description": "Document the defects, identify the underlying cause, and obtain a written correction scope before installing another vanity. Check level surfaces, plumbing connections, shutoff access, wall and floor damage, product fit, testing, cleanup, and change-order terms."
+      }
+    }
+  ],
+  "description": "Document the defects, identify the underlying cause, and obtain a written correction scope before installing another vanity. Check level surfaces, plumbing conn"
+}

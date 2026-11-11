@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-bathroom-countertop-is-leaking-underneath-the-sink",
+  "name": "What if my bathroom countertop is leaking underneath the sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my bathroom countertop is leaking underneath the sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not install the new top until the leak is repaired and the cabinet, wall, and subfloor areas are checked for moisture damage. A countertop replacement can improve the appearance but will not correct a leaking supply line, drain, faucet, or failed seal.\n\n**Context:** Water commonly reaches the cabinet through the sink rim, faucet base, backsplash joint, plumbing connections, or countertop seams. Swollen particleboard or soft framing may require repair before the new surface is supported.\n\n**Key factors:**\n- Identify whether the moisture source is active or historical.\n- Check cabinet flooring and side panels beneath the sink.\n- Inspect the wall behind the vanity for staining or deterioration.\n- Confirm the new sink and faucet will receive fresh seals.\n\n**Practical guidance:** Photograph the damage and avoid covering it before the cause is documented. Ask for the repair scope, drying needs, and cabinet-support plan in writing.\n\nElite Remodeling & Design can coordinate bathroom repair and replacement decisions when the issue extends beyond the countertop.",
+        "@type": "Answer",
+        "description": "Repair the leak and inspect the cabinet, wall, and surrounding materials before installing a new top. A failed sink seal, faucet base, drain connection, or countertop seam may be the source. Swollen or soft cabinet material may need replacement so the new surface has reliable support."
+      }
+    }
+  ],
+  "description": "Repair the leak and inspect the cabinet, wall, and surrounding materials before installing a new top. A failed sink seal, faucet base, drain connection, or coun"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-really-cost-to-replace-a-bathroom-vanity",
+  "name": "How much does it really cost to replace a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it really cost to replace a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends less on the cabinet alone than on the complete scope: removal, disposal, vanity and top, sink, faucet, plumbing connections, wall or floor repairs, and any electrical or finish work. Public homeowner discussions show wide variation, so a site-specific estimate is more useful than a single flat number.\n\nContext: Keeping the same size and plumbing arrangement generally limits labor. A wider cabinet, double sink, custom top, relocated drain, or concealed damage can raise the total substantially. Elite Remodeling & Design can assess whether the vanity should be treated as an isolated upgrade or included in a coordinated bathroom remodel.\n\nKey factors:\n- Stock, semi-custom, or custom cabinetry\n- Single or double sink configuration\n- Countertop and backsplash material\n- Plumbing and finish repairs\n\nPractical guidance: Request an itemized estimate that separates products, demolition, installation, plumbing, disposal, and possible allowances. Confirm whether painting, mirror replacement, and lighting are included.\n\nComparing complete scopes prevents a low initial quote from becoming an incomplete project.",
+        "@type": "Answer",
+        "description": "There is no reliable single price because the total includes the cabinet, top, sink, faucet, removal, disposal, plumbing, and repairs. Same-size replacements usually cost less than double-sink conversions, custom cabinetry, relocated plumbing, or work that reveals damaged walls or flooring."
+      }
+    }
+  ],
+  "description": "There is no reliable single price because the total includes the cabinet, top, sink, faucet, removal, disposal, plumbing, and repairs. Same-size replacements us"
+}

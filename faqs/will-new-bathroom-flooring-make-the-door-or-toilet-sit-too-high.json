@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-new-bathroom-flooring-make-the-door-or-toilet-sit-too-high",
+  "name": "Will new bathroom flooring make the door or toilet sit too high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new bathroom flooring make the door or toilet sit too high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor height matters because a thicker tile assembly or underlayment can interfere with doors, toilet flange height, vanity clearances, transitions, and adjacent rooms. A thinner material may reduce those issues but can involve different preparation and durability tradeoffs. Ask for the proposed finished-floor height and how it will meet the hallway or bedroom flooring. Elite Remodeling & Design can include transitions and surrounding design decisions when coordinating a bathroom renovation.",
+        "@type": "Answer",
+        "description": "It can. New tile, underlayment, leveling compounds, or layered flooring may raise the finished floor and affect door clearance, toilet flange height, vanity fit, and transitions. Ask for the planned finished-floor height before installation and confirm who will adjust doors, transitions, or fixture details if needed."
+      }
+    }
+  ],
+  "description": "It can. New tile, underlayment, leveling compounds, or layered flooring may raise the finished floor and affect door clearance, toilet flange height, vanity fit"
+}

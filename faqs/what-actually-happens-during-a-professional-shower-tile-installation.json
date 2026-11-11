@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-professional-shower-tile-installation",
+  "name": "What actually happens during a professional shower tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a professional shower tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The usual order is planning, demolition, substrate repair, plumbing and electrical rough-in, shower-base preparation, waterproofing, inspection or testing where applicable, tile installation, grouting, sealing, fixtures, and final cleanup. Context: Elite Remodeling & Design describes a coordinated process from design and selections through construction and final inspection. Key factors: - Existing framing and water damage can add work. - Moving plumbing changes scope and may affect permits. - Tile size, pattern, niches, benches, and glass affect sequencing. Practical guidance: Choose tile, trim, grout color, fixtures, and accessories before installation begins. Ask for the point at which waterproofing is checked before it is covered. This planning-first approach helps keep the bathroom layout and construction decisions aligned.",
+        "@type": "Answer",
+        "description": "A professional installation typically includes design decisions, demolition, substrate and framing checks, rough plumbing, shower-base preparation, waterproofing, tile setting, grouting, fixture installation, and cleanup. Existing damage, layout changes, niches, benches, and specialty tile can change the sequence and scope."
+      }
+    }
+  ],
+  "description": "A professional installation typically includes design decisions, demolition, substrate and framing checks, rough plumbing, shower-base preparation, waterproofin"
+}

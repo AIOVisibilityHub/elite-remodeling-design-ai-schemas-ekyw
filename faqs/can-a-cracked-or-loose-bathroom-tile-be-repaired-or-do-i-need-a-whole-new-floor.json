@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-cracked-or-loose-bathroom-tile-be-repaired-or-do-i-need-a-whole-new-floor",
+  "name": "Can a cracked or loose bathroom tile be repaired, or do I need a whole new floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a cracked or loose bathroom tile be repaired, or do I need a whole new floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor can sometimes be repaired instead of fully replaced when the damage is localized, the surrounding material is still available, and the original installation can be matched cleanly. Full replacement is more appropriate when moisture is widespread, the material is discontinued, the subfloor is compromised, or the floor has repeated failures. Before deciding, identify whether the visible defect is the cause or merely the symptom. Elite Remodeling & Design can evaluate the floor in relation to nearby plumbing, tile, and the bathroom’s overall condition.",
+        "@type": "Answer",
+        "description": "A localized repair may work when the subfloor is sound, the cause is corrected, and matching tile is available. Replace more broadly when tiles are failing across the room, the subfloor moves, moisture is widespread, or the original material cannot be matched. Have the installer check beneath the tile before treating the crack as cosmetic."
+      }
+    }
+  ],
+  "description": "A localized repair may work when the subfloor is sound, the cause is corrected, and matching tile is available. Replace more broadly when tiles are failing acro"
+}

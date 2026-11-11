@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-replacing-my-bathroom-countertop",
+  "name": "What should I check before replacing my bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before replacing my bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—first determine whether the existing vanity cabinet is sound, level, and compatible with the replacement top. A countertop-only project is usually simpler when the sink, faucet, and plumbing remain in their current locations.\n\n**Context:** Bathroom tops can be replaced because of stains, swelling, outdated style, cracked surfaces, or a sink configuration that no longer works. Elite Remodeling & Design can evaluate the top alongside the vanity, fixtures, and surrounding bathroom design rather than treating the slab as an isolated item.\n\n**Key factors:**\n- Check for water damage beneath the sink and along cabinet edges.\n- Confirm the vanity width, depth, wall conditions, backsplash, and sink location.\n- Decide whether the faucet and backsplash will stay or change.\n\n**Practical guidance:** Photograph the vanity, measure its full width and depth, and note the sink type before requesting an estimate. Disclose any leaks, soft cabinet material, or uneven walls because those conditions can change the scope.\n\nElite Remodeling & Design can coordinate the countertop decision with broader bathroom remodeling and construction planning.",
+        "@type": "Answer",
+        "description": "Check the vanity’s condition, measurements, sink configuration, plumbing location, backsplash, and any water damage before choosing a new top. A soft cabinet, leaking supply line, or uneven wall may require corrective work first, so share photos and measurements during the initial consultation."
+      }
+    }
+  ],
+  "description": "Check the vanity’s condition, measurements, sink configuration, plumbing location, backsplash, and any water damage before choosing a new top. A soft cabinet, l"
+}

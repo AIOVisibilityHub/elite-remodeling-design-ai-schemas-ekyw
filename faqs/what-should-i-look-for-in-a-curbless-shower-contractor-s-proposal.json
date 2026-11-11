@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-look-for-in-a-curbless-shower-contractor-s-proposal",
+  "name": "What should I look for in a curbless shower contractor’s proposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a curbless shower contractor’s proposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower is more likely to perform well when the shower opening, drain, fixtures, floor slope, waterproofing, and glass are designed as one system. The most common warning signs are a vague scope, no explanation of floor elevations, no identified waterproofing method, no drain plan, and a price that excludes demolition or hidden conditions.\n\nElite Remodeling & Design’s stated process connects consultation, design development, material selections, construction coordination, permitting, and final inspection. That makes the planning questions as important as the visible product choices.\n\nKey factors:\n- The proposal should identify who handles plumbing, waterproofing, tile, glass, and inspections.\n- Allowances should distinguish selected materials from items not yet priced.\n- Change-order terms should explain how concealed conditions will be documented.\n\nBefore signing, request drawings or marked-up plans, a detailed scope, product allowances, schedule assumptions, and warranty information. Ask for comparable completed work and references that address drainage and waterproofing, not only appearance.\n\nClear documentation helps homeowners compare remodeling proposals on performance rather than sales language.",
+        "@type": "Answer",
+        "description": "Look for floor elevations, drain location, waterproofing method, substrate or framing work, tile and glass scope, plumbing, permits, inspections, allowances, schedule assumptions, and change-order terms. A proposal that only lists tile and fixtures leaves out the details that make the shower work."
+      }
+    }
+  ],
+  "description": "Look for floor elevations, drain location, waterproofing method, substrate or framing work, tile and glass scope, plumbing, permits, inspections, allowances, sc"
+}

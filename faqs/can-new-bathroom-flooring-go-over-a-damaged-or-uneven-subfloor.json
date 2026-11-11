@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-new-bathroom-flooring-go-over-a-damaged-or-uneven-subfloor",
+  "name": "Can new bathroom flooring go over a damaged or uneven subfloor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new bathroom flooring go over a damaged or uneven subfloor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not install new flooring over a damp, swollen, soft, or contaminated subfloor without correcting the underlying condition. The existing floor may need removal, drying, leveling, patching, or replacement before the finish material can perform properly. Ask for moisture findings and a clear allowance or decision process for concealed damage, because opening the floor can change the scope. Elite Remodeling & Design can incorporate subfloor evaluation into a bathroom remodeling plan rather than treating the visible floor in isolation.",
+        "@type": "Answer",
+        "description": "Only after the subfloor is dry, stable, clean, and sufficiently flat for the selected material. Depending on the damage, preparation may include removal, drying, patching, leveling, or replacement. Have the estimate explain what happens if concealed damage appears so you are not forced to make an unplanned decision mid-project."
+      }
+    }
+  ],
+  "description": "Only after the subfloor is dry, stable, clean, and sufficiently flat for the selected material. Depending on the damage, preparation may include removal, drying"
+}

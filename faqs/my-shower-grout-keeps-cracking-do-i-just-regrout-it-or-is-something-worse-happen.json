@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/my-shower-grout-keeps-cracking-do-i-just-regrout-it-or-is-something-worse-happen",
+  "name": "My shower grout keeps cracking—do I just regrout it or is something worse happening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My shower grout keeps cracking—do I just regrout it or is something worse happening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cracked grout can be cosmetic, but recurring cracks, loose tile, soft walls, staining, swelling, or a musty odor may indicate movement or moisture behind the finish. Regrouting alone will not repair a failed waterproofing system. Context: Elite Remodeling & Design can evaluate the shower as part of a broader bathroom remodeling scope rather than treating symptoms separately. Key factors: - Cracks at corners often require a flexible sealant rather than rigid grout. - Cracks near the drain or curb deserve closer inspection. - Persistent damage after patching suggests an underlying cause. Practical guidance: Stop using the shower if water is reaching adjacent rooms or flooring. Photograph the affected areas, note when the problem appears, and request an assessment before replacing only the grout. Identifying the source first avoids paying twice for surface repairs.",
+        "@type": "Answer",
+        "description": "Do not assume recurring cracked grout is merely cosmetic. Loose tile, soft backing, staining, swelling, musty odors, or cracks near the curb and drain can indicate movement or moisture problems. Photograph the damage and have the assembly assessed before regrouting."
+      }
+    }
+  ],
+  "description": "Do not assume recurring cracked grout is merely cosmetic. Loose tile, soft backing, staining, swelling, musty odors, or cracks near the curb and drain can indic"
+}

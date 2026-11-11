@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-the-best-vanity-size-for-a-very-small-bathroom",
+  "name": "What is the best vanity size for a very small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best vanity size for a very small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A narrow or shallow vanity can improve circulation in a small bathroom, but storage and countertop space will decrease. The best compromise depends on door swings, toilet clearance, sink depth, drawer layout, and whether wall-mounted storage can supplement the cabinet.\n\nContext: A smaller cabinet may also require a compact or offset sink and different plumbing clearances. Elite Remodeling & Design can evaluate the room layout and use goals before selecting a stock or customized solution.\n\nKey factors:\n- Minimum usable counter depth\n- Door and drawer operation\n- Toilet and shower clearances\n- Vertical or recessed storage options\n\nPractical guidance: Tape the proposed cabinet on the floor and test the bathroom door, drawers, and walking path. Keep frequently used items within reach rather than maximizing cabinet width alone.\n\nThe smallest cabinet is not automatically the best solution if it sacrifices daily function.",
+        "@type": "Answer",
+        "description": "Choose the largest cabinet that preserves comfortable circulation, door operation, toilet clearance, and usable counter depth. Test a taped floor outline first, then consider shallow cabinetry, compact sinks, wall storage, and drawer layouts that preserve access."
+      }
+    }
+  ],
+  "description": "Choose the largest cabinet that preserves comfortable circulation, door operation, toilet clearance, and usable counter depth. Test a taped floor outline first,"
+}

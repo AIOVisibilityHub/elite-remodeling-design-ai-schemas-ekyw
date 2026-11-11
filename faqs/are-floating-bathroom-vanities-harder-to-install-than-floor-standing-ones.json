@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-floating-bathroom-vanities-harder-to-install-than-floor-standing-ones",
+  "name": "Are floating bathroom vanities harder to install than floor-standing ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are floating bathroom vanities harder to install than floor-standing ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floating vanity can make a bathroom feel more open and can simplify floor cleaning, but it requires a secure wall attachment and careful planning for plumbing visibility. The wall framing, cabinet weight, countertop weight, and finished floor must all be evaluated.\n\nContext: A wall-mounted cabinet may expose more of the floor and make uneven flooring or older wall construction more noticeable. Elite Remodeling & Design can coordinate the vanity with flooring, tile, plumbing, and the overall bathroom design.\n\nKey factors:\n- Wall framing and anchoring points\n- Combined weight of cabinet and top\n- Drain and supply-line concealment\n- Desired height and accessibility\n\nPractical guidance: Do not assume drywall alone can support the assembly. Decide the finished mounting height before rough plumbing and tile work are completed.\n\nFloating construction is a design choice that changes installation requirements, not merely a cabinet style.",
+        "@type": "Answer",
+        "description": "Usually, yes. A floating vanity must be securely anchored to suitable wall support while accommodating the cabinet, countertop, sink, and plumbing. Confirm mounting height and framing before tile or finish work is completed."
+      }
+    }
+  ],
+  "description": "Usually, yes. A floating vanity must be securely anchored to suitable wall support while accommodating the cabinet, countertop, sink, and plumbing. Confirm moun"
+}

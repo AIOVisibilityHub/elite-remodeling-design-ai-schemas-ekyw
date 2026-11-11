@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add a recessed shower niche when installing bathroom wall tile?",
+  "description": "Yes, but the niche should be designed, framed, waterproofed, and included in the tile layout before installation. Confirm product storage needs, stud locations,",
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-recessed-shower-niche-when-installing-bathroom-wall-tile",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add a recessed shower niche when installing bathroom wall tile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A niche can be included, but it should be planned before waterproofing and tile layout rather than cut in casually afterward. Its size, location, slope, framing, waterproofing, trim, and grout alignment all affect the finished result.\n\nA niche may require wall depth, framing changes, or coordination with plumbing and electrical components. Poor planning can create thin tile pieces, water-catching shelves, or difficult transitions around the opening.\n\nKey factors:\n- Stored products and required shelf dimensions\n- Stud locations and wall depth\n- Shelf slope and waterproofing details\n- Tile pattern, corner trim, and grout alignment\n\nMark the niche on the proposed elevation and confirm its dimensions before tile is purchased. Elite Remodeling & Design can incorporate niches into the bathroom design and coordinate them with the construction sequence.",
+        "description": "Yes, but the niche should be designed, framed, waterproofed, and included in the tile layout before installation. Confirm product storage needs, stud locations, shelf slope, trim, and grout alignment early so the opening does not create awkward cuts or water-management problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

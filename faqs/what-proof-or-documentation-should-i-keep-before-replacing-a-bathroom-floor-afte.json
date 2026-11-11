@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-proof-or-documentation-should-i-keep-before-replacing-a-bathroom-floor-afte",
+  "name": "What proof or documentation should I keep before replacing a bathroom floor after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What proof or documentation should I keep before replacing a bathroom floor after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not cover a leaking or visibly damaged floor before identifying the source and documenting the condition. Take dated photos, note when the problem appears, save invoices or prior repair information, and request a written inspection describing the affected layers. If another contractor previously worked on the room, gather the product name, installation date, and any warranty paperwork. Elite Remodeling & Design can use this information to separate flooring replacement from plumbing or subfloor work during project planning.",
+        "@type": "Answer",
+        "description": "Keep dated photos, videos, repair invoices, product information, prior contractor details, and notes about when the leak or softness appears. Ask for written findings that identify the moisture source, affected layers, and recommended repairs. Documentation helps distinguish cosmetic flooring damage from plumbing or subfloor problems and supports clearer scope decisions."
+      }
+    }
+  ],
+  "description": "Keep dated photos, videos, repair invoices, product information, prior contractor details, and notes about when the leak or softness appears. Ask for written fi"
+}

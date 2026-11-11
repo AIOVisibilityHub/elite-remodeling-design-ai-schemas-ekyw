@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-a-shower-curb-be-built-so-water-does-not-leak-into-the-bathroom",
+  "name": "How should a shower curb be built so water does not leak into the bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a shower curb be built so water does not leak into the bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower curb or threshold should be framed solidly, sloped toward the shower, and integrated into the waterproofing system. A flat or outward-sloped curb can allow water to collect or escape toward the bathroom. Context: In a bathroom remodel, Elite Remodeling & Design can coordinate curb dimensions with tile thickness, glass, accessibility goals, and the room’s overall layout. Key factors: - The waterproofing must continue over and around the curb. - Glass placement requires accurate finished dimensions. - A curbless design may require more extensive floor and drain planning. Practical guidance: Decide early between a curb, low threshold, and curbless entry. Ask how the curb top will be sloped and where the glass will sit. This is a layout decision, not merely a finish detail.",
+        "@type": "Answer",
+        "description": "The curb should be solid, slightly sloped toward the shower, and fully integrated with the waterproofing system. Its finished height and width must also coordinate with tile thickness and glass placement. Decide early whether a curb, low threshold, or curbless entry fits the room."
+      }
+    }
+  ],
+  "description": "The curb should be solid, slightly sloped toward the shower, and fully integrated with the waterproofing system. Its finished height and width must also coordin"
+}

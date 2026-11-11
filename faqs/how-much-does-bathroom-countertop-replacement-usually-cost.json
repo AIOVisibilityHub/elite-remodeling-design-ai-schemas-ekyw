@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-bathroom-countertop-replacement-usually-cost",
+  "name": "How much does bathroom countertop replacement usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom countertop replacement usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement cost depends mainly on the countertop material, custom cutting, sink style, backsplash, demolition, and whether the vanity needs repair. A broad planning range is roughly $150–$400 for some prefabricated laminate or cultured-marble tops and about $900–$2,500 or more for custom stone with an undermount cutout, before unusual project conditions.\n\n**Context:** Actual pricing can differ substantially for small bathrooms because fabrication, delivery, and installation may create minimum charges. A coordinated bathroom project may also include plumbing, electrical, tile, or cabinet work that is separate from the top itself.\n\n**Key factors:**\n- Material and edge profile.\n- Drop-in, vessel, or undermount sink cutout.\n- Backsplash, side splash, demolition, and disposal.\n- Cabinet repairs or wall corrections.\n\n**Practical guidance:** Request an itemized estimate that separates the top, cutouts, sink installation, removal, disposal, labor, and related work. Compare quotes using the same material thickness, sink specification, and finish.\n\nElite Remodeling & Design can assess whether a countertop-only replacement or a broader bathroom update better fits the existing space.",
+        "@type": "Answer",
+        "description": "Bathroom countertop replacement may range from roughly $150–$400 for some prefabricated tops to $900–$2,500 or more for custom stone, depending on cutouts, sink style, backsplash, removal, and installation. Ask for an itemized estimate because cabinet repairs or plumbing work can add cost."
+      }
+    }
+  ],
+  "description": "Bathroom countertop replacement may range from roughly $150–$400 for some prefabricated tops to $900–$2,500 or more for custom stone, depending on cutouts, sink"
+}

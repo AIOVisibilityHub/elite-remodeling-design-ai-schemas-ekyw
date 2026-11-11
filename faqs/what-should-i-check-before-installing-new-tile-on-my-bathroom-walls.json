@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I check before installing new tile on my bathroom walls?",
+  "description": "Check moisture exposure, wall strength, flatness, damage, and plumbing before choosing tile. Shower and tub walls need an appropriate waterproof substrate and m",
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-installing-new-tile-on-my-bathroom-walls",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I check before installing new tile on my bathroom walls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the correct first step is assessing the wall, moisture exposure, layout, and existing plumbing rather than placing tile immediately. For a shower or tub surround, the substrate and waterproofing system must be suitable for repeated water exposure.\n\nBathroom wall tile can conceal movement, uneven surfaces, deteriorated drywall, or moisture damage if preparation is skipped. Elite Remodeling & Design can review the existing bathroom as part of a coordinated remodeling plan and determine whether tile work should occur alongside plumbing, electrical, or layout changes.\n\nKey factors:\n- Whether the wall is inside a shower or only exposed to humidity\n- Surface flatness, strength, and existing damage\n- Tile size, pattern, edge treatment, and ceiling height\n- Whether fixtures or plumbing will move\n\nBefore requesting a proposal, photograph the walls, note leaks or loose tile, and collect preferred tile sizes and finishes. A design consultation can help coordinate tile choices with the broader bathroom layout.",
+        "description": "Check moisture exposure, wall strength, flatness, damage, and plumbing before choosing tile. Shower and tub walls need an appropriate waterproof substrate and membrane; ordinary painted walls may need different preparation. Share photos, measurements, tile preferences, and any leak history so Elite Remodeling & Design can define the right scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-did-my-bathroom-flooring-replacement-estimate-come-in-so-high-for-such-a-sma",
+  "name": "Why did my bathroom flooring replacement estimate come in so high for such a small room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why did my bathroom flooring replacement estimate come in so high for such a small room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends less on square footage alone than on what is underneath the existing floor and how many fixtures must be removed and reset. A current cost aggregation places many 40-to-100-square-foot replacements around $630 to $4,610, but local labor, material choice, access, disposal, repairs, and project scope can shift the total substantially. Request a written estimate that separates demolition, subfloor work, underlayment, flooring, grout or adhesive, fixture handling, trim, and disposal. Elite Remodeling & Design can assess whether the floor should be priced as a standalone repair or as part of a complete bathroom remodel.",
+        "@type": "Answer",
+        "description": "Small bathrooms still involve demolition, toilet removal and reset, waterproofing or underlayment, detailed cuts, disposal, and minimum labor charges. Hidden subfloor damage can also raise the price. Ask for line items covering removal, preparation, repairs, materials, fixture handling, trim, transitions, and cleanup instead of comparing only the flooring’s price per square foot."
+      }
+    }
+  ],
+  "description": "Small bathrooms still involve demolition, toilet removal and reset, waterproofing or underlayment, detailed cuts, disposal, and minimum labor charges. Hidden su"
+}

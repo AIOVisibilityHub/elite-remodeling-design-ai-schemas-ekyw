@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to tile over old bathroom wall tile or remove it first?",
+  "description": "Removing old tile is usually the safer choice when it is loose, cracked, uneven, water-damaged, or attached to a failing substrate. Tiling over it may work only",
+  "url": "eliteremodelingsd.com/faq/is-it-better-to-tile-over-old-bathroom-wall-tile-or-remove-it-first",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to tile over old bathroom wall tile or remove it first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile removal is often worthwhile when the existing finish is loose, cracked, water-damaged, poorly bonded, or hiding an unsuitable substrate. Keeping it may be possible only when the surface is stable, flat, clean, and compatible with the planned installation.\n\nRemoving old tile can reveal damaged backing, mold-like staining, plumbing issues, or uneven framing that changes the scope. It also affects wall thickness around doors, trim, valves, niches, and electrical boxes.\n\nKey factors:\n- Bond and condition of existing tile\n- Wall flatness and structural stability\n- Added thickness and fixture clearance\n- Disposal, dust, and repair requirements\n\nDo not decide based solely on avoiding demolition cost. Have the existing assembly assessed, especially around wet areas. Elite Remodeling & Design can determine whether overlay, selective removal, or full preparation best fits the bathroom remodel.",
+        "description": "Removing old tile is usually the safer choice when it is loose, cracked, uneven, water-damaged, or attached to a failing substrate. Tiling over it may work only when the existing surface is stable, flat, clean, and compatible, with enough clearance for fixtures and trim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

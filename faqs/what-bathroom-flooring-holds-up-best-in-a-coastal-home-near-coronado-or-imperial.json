@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-bathroom-flooring-holds-up-best-in-a-coastal-home-near-coronado-or-imperial",
+  "name": "What bathroom flooring holds up best in a coastal home near Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What bathroom flooring holds up best in a coastal home near Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right material for a coastal home depends on water exposure, ventilation, entry of sand or moisture, cleaning habits, and the condition of the existing floor—not simply proximity to the ocean. In Imperial Beach, Coronado, and coastal parts of San Diego County, discuss how the product handles frequent cleaning, wet feet, grit, and transitions near doors. Confirm the manufacturer’s care requirements and the installer’s preparation method. Elite Remodeling & Design serves coastal and inland San Diego County and can incorporate the room’s environment into material selection without assuming one product fits every home.",
+        "@type": "Answer",
+        "description": "Choose based on moisture exposure, ventilation, sand or grit, cleaning habits, and subfloor condition. Porcelain tile and sheet goods can be strong options, while vinyl products vary in how their seams and edges handle standing water. In coastal homes, pay special attention to door transitions, perimeter details, and easy cleaning rather than choosing solely by appearance."
+      }
+    }
+  ],
+  "description": "Choose based on moisture exposure, ventilation, sand or grit, cleaning habits, and subfloor condition. Porcelain tile and sheet goods can be strong options, whi"
+}

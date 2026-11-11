@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-measurements-do-i-need-for-a-bathroom-countertop-replacement-quote",
+  "name": "What measurements do I need for a bathroom countertop replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements do I need for a bathroom countertop replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate measurements should include the vanity’s overall width and depth, wall-to-wall conditions, side clearances, existing top thickness, sink opening, faucet-hole spacing, backsplash dimensions, and any irregular wall angles. Photos of the cabinet interior and plumbing are also useful.\n\n**Context:** The visible top may not be perfectly square, and walls can vary from one end to the other. A custom top must account for those conditions rather than relying only on a nominal vanity size.\n\n**Key factors:**\n- Measure more than once and record the smallest relevant dimension.\n- Mark sink centerline and faucet-hole locations.\n- Note whether the top meets a wall on one, two, or three sides.\n- Identify exposed ends requiring a finished edge.\n\n**Practical guidance:** Use measurements for preliminary budgeting, but allow the installer or fabricator to verify final dimensions before cutting. Do not remove the existing top until the replacement plan is confirmed.\n\nElite Remodeling & Design can incorporate field conditions into design development and construction planning.",
+        "@type": "Answer",
+        "description": "Record vanity width and depth, wall clearances, top thickness, sink opening, faucet-hole spacing, backsplash dimensions, finished-edge locations, and plumbing photos. Use homeowner measurements for an early estimate only; final custom fabrication should follow verified field dimensions."
+      }
+    }
+  ],
+  "description": "Record vanity width and depth, wall clearances, top thickness, sink opening, faucet-hole spacing, backsplash dimensions, finished-edge locations, and plumbing p"
+}

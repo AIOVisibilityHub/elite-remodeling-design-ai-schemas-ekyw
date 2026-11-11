@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-measure-and-bring-before-getting-a-bathroom-flooring-estimate",
+  "name": "What should I measure and bring before getting a bathroom flooring estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I measure and bring before getting a bathroom flooring estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring should be selected after confirming the room’s measurements, door swing, toilet and vanity footprints, floor height, subfloor type, moisture history, and desired transitions. Material samples should be viewed under the bathroom’s lighting and compared with wall tile, cabinets, fixtures, and adjoining floors. Ask whether the product requires a particular underlayment, adhesive, flatness level, or acclimation period. Elite Remodeling & Design can combine material selections with 3D design visualization and the broader bathroom layout when those services are part of the project.",
+        "@type": "Answer",
+        "description": "Prepare room length and width, photos, the age and type of the existing floor, moisture or leak history, fixture locations, door swing, adjoining-floor height, and your preferred materials. Note whether the toilet, vanity, or baseboards should change. These details help the estimate address preparation, transitions, fixture handling, and disposal instead of only the visible flooring."
+      }
+    }
+  ],
+  "description": "Prepare room length and width, photos, the age and type of the existing floor, moisture or leak history, fixture locations, door swing, adjoining-floor height,"
+}

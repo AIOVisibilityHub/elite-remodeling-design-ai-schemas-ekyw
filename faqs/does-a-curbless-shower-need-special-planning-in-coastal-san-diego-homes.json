@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-curbless-shower-need-special-planning-in-coastal-san-diego-homes",
+  "name": "Does a curbless shower need special planning in coastal San Diego homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a curbless shower need special planning in coastal San Diego homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can fit a coastal home, but moisture management deserves extra attention in places such as Coronado, Imperial Beach, and other near-ocean areas. Salt air does not replace the need for proper waterproofing, ventilation, drainage, compatible hardware, and materials suited to the bathroom environment.\n\nThe installation should address both water that reaches the floor and humidity that remains in the room. Elite Remodeling & Design can coordinate the shower with bathroom ventilation, tile, fixtures, and the surrounding finishes during a broader remodel.\n\nKey factors:\n- Select grout, sealers, metal finishes, and glass hardware with maintenance in mind.\n- Keep the bathroom fan and ducting plan in the scope where needed.\n- Look for existing moisture damage around windows, exterior walls, and the old shower.\n\nTell the designer about recurring condensation, musty odors, prior leaks, or coastal exposure. Ask how the proposed materials and ventilation plan will be maintained after completion.\n\nA coastal location changes material and moisture priorities, not the basic need for a correctly sloped and waterproofed assembly.",
+        "@type": "Answer",
+        "description": "Coastal homes may need extra attention to ventilation, corrosion-resistant hardware, moisture damage, and durable finishes, especially near Coronado or Imperial Beach. The core requirements remain proper slope, continuous waterproofing, reliable drainage, and a maintainable bathroom environment."
+      }
+    }
+  ],
+  "description": "Coastal homes may need extra attention to ventilation, corrosion-resistant hardware, moisture damage, and durable finishes, especially near Coronado or Imperial"
+}

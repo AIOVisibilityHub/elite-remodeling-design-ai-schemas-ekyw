@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-changes-when-i-replace-a-pedestal-sink-with-a-bathroom-vanity",
+  "name": "What changes when I replace a pedestal sink with a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What changes when I replace a pedestal sink with a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Changing from a pedestal sink to a vanity usually adds storage but may require more than attaching a cabinet to the wall. The room must accommodate the cabinet footprint, plumbing concealment, countertop, sink, backsplash, and any floor or wall repairs exposed by the former pedestal.\n\nContext: The existing drain and supply lines may be visible or positioned for a different sink style. Elite Remodeling & Design can develop the new bathroom arrangement and coordinate plumbing and finish work as one scope.\n\nKey factors:\n- Width and depth of the new cabinet\n- Location of drain and shutoff valves\n- Floor condition below the pedestal\n- Mirror, lighting, and outlet placement\n\nPractical guidance: Confirm rough plumbing dimensions before purchasing the cabinet. Check whether the pedestal left unfinished flooring or wall surfaces that will remain visible.\n\nThe storage gain is worthwhile when the new footprint fits both the room and its service connections.",
+        "@type": "Answer",
+        "description": "You gain storage, but the cabinet must fit the room and conceal or accommodate the existing drain and supply lines. Check unfinished flooring, wall condition, mirror height, lighting, outlet placement, and plumbing alignment before ordering."
+      }
+    }
+  ],
+  "description": "You gain storage, but the cabinet must fit the room and conceal or accommodate the existing drain and supply lines. Check unfinished flooring, wall condition, m"
+}

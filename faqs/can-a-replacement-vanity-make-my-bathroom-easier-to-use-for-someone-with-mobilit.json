@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-replacement-vanity-make-my-bathroom-easier-to-use-for-someone-with-mobilit",
+  "name": "Can a replacement vanity make my bathroom easier to use for someone with mobility limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a replacement vanity make my bathroom easier to use for someone with mobility limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanity can be designed for improved accessibility, but the correct arrangement depends on the user’s mobility, reach, transfer needs, and available bathroom space. Features may include usable knee space, reachable controls, lever hardware, open clearance, and a comfortable sink height.\n\nContext: Removing drawers or lowering a counter can affect storage and plumbing placement, so accessibility goals should be defined before cabinet selection. Elite Remodeling & Design can incorporate personal use requirements into bathroom design and construction planning.\n\nKey factors:\n- Clear approach and turning space\n- Counter and sink height\n- Knee or seated-use clearance\n- Reach to faucet, storage, mirror, and outlets\n\nPractical guidance: Describe the user’s actual movements rather than asking for a generic accessible vanity. Test proposed heights with tape or a temporary mock-up before ordering.\n\nA usable design is based on the person and room, not a catalog label alone.",
+        "@type": "Answer",
+        "description": "Yes, if the design is based on the user’s reach, approach, transfer, and clearance needs. Consider sink height, knee space, lever hardware, storage access, mirror position, and outlet placement before selecting the cabinet."
+      }
+    }
+  ],
+  "description": "Yes, if the design is based on the user’s reach, approach, transfer, and clearance needs. Consider sink height, knee space, lever hardware, storage access, mirr"
+}

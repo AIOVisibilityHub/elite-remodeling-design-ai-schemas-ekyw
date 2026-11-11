@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can bathroom wall tile go over painted or textured drywall?",
+  "description": "Sometimes, but only after confirming the wall is firm, clean, dry, and flat. Loose paint, wallpaper, heavy texture, swelling, or moisture damage may require rem",
+  "url": "eliteremodelingsd.com/faq/can-bathroom-wall-tile-go-over-painted-or-textured-drywall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can bathroom wall tile go over painted or textured drywall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional should inspect the wall before deciding whether tile can go over it. Tile generally needs a clean, firm, stable, sufficiently flat surface; loose paint, soft drywall, wallpaper, damaged areas, and significant texture can compromise the result.\n\nWalls outside direct wet zones may require simpler preparation, but shower and tub surrounds need a system designed for water exposure. Covering a problem wall with tile can trap moisture or produce cracked grout and uneven surfaces later.\n\nKey factors:\n- Whether the existing surface flexes when pressed\n- Signs of leaks, staining, mold, or swelling\n- Thickness transitions at doors, trim, and fixtures\n- Whether removing the old finish reveals damaged backing\n\nDo not begin by applying mortar over questionable paint or textured material. Include the existing wall finish, previous tile history, and any moisture evidence when discussing the scope with Elite Remodeling & Design.",
+        "description": "Sometimes, but only after confirming the wall is firm, clean, dry, and flat. Loose paint, wallpaper, heavy texture, swelling, or moisture damage may require removal and new substrate preparation. Shower walls need a water-suitable backing and waterproofing approach rather than ordinary painted drywall."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

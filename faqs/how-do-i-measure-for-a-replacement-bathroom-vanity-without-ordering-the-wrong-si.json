@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-measure-for-a-replacement-bathroom-vanity-without-ordering-the-wrong-si",
+  "name": "How do I measure for a replacement bathroom vanity without ordering the wrong size?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure for a replacement bathroom vanity without ordering the wrong size?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The vanity should be measured against the finished room, not just the old cabinet. Account for baseboards, side walls, doors, drawers, toilet clearance, countertop overhang, sink depth, and the location of outlets and plumbing.\n\nContext: A cabinet that fits the opening may still block a door, collide with a toilet, or leave drawers unable to open. Elite Remodeling & Design can incorporate these measurements into bathroom layout development and material selection.\n\nKey factors:\n- Finished wall-to-wall width\n- Depth at the countertop and cabinet\n- Door, drawer, and bathroom-door swings\n- Plumbing and electrical obstacles\n\nPractical guidance: Measure width at the floor, countertop, and wall; record the smallest dimension. Use painter’s tape to represent the full cabinet and counter footprint before ordering.\n\nClearance checks are inexpensive and can prevent an unusable installation.",
+        "@type": "Answer",
+        "description": "Measure the smallest finished width, available depth, height, wall location, plumbing centerline, door swings, toilet clearance, and outlet position. Tape the complete cabinet and countertop footprint on the floor to test drawers, doors, and circulation before ordering."
+      }
+    }
+  ],
+  "description": "Measure the smallest finished width, available depth, height, wall location, plumbing centerline, door swings, toilet clearance, and outlet position. Tape the c"
+}

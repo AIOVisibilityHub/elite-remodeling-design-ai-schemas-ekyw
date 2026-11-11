@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-to-the-old-countertop-during-replacement",
+  "name": "What happens to the old countertop during replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the old countertop during replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The old countertop should usually be removed carefully so the cabinet, wall, plumbing, and backsplash can be inspected before the new top is installed. Removal may reveal hidden water damage, adhesive, uneven supports, or wall repairs that were not visible beforehand.\n\n**Context:** A top that appears easy to lift may be bonded, screwed, tiled, or connected to an integrated sink and backsplash. Demolition can also damage surrounding finishes if the removal method is not planned.\n\n**Key factors:**\n- How the existing top and sink are attached.\n- Whether backsplash and wall finishes will remain.\n- Cabinet condition beneath the sink.\n- Disposal and protection of flooring and fixtures.\n\n**Practical guidance:** Ask whether removal is included and how unexpected damage will be handled. Do not assume the old top can be reused as a template for a custom replacement.\n\nElite Remodeling & Design can coordinate removal, inspection, replacement, and related bathroom repairs within one scope.",
+        "@type": "Answer",
+        "description": "The existing top is typically disconnected and removed, then the cabinet, wall, plumbing, and backsplash are inspected before installation. Removal may uncover hidden water damage or uneven support, so confirm whether demolition, disposal, protection, and unexpected repairs are included."
+      }
+    }
+  ],
+  "description": "The existing top is typically disconnected and removed, then the cabinet, wall, plumbing, and backsplash are inspected before installation. Removal may uncover"
+}

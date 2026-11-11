@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How high should tile go behind a bathroom vanity?",
+  "description": "It can stop at the countertop, rise behind the mirror, or extend higher depending on the design and moisture exposure. Coordinate the height with the vanity, co",
+  "url": "eliteremodelingsd.com/faq/how-high-should-tile-go-behind-a-bathroom-vanity",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How high should tile go behind a bathroom vanity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A backsplash behind a vanity is usually simpler than a shower surround because it has less direct water exposure, but the wall still needs to be sound and the edges should be finished neatly. The height can be limited to the countertop, extended behind the mirror, or carried higher as a design feature.\n\nThe vanity, faucet, outlets, mirror, sconces, and countertop should be coordinated before tile is installed. Incorrect sequencing can leave outlets, trim, or mirror edges sitting awkwardly against the tile.\n\nKey factors:\n- Countertop and vanity dimensions\n- Faucet and electrical outlet locations\n- Mirror and lighting size\n- Edge trim, side returns, and cleaning access\n\nMeasure the installed or selected vanity and countertop before finalizing the tile area. Elite Remodeling & Design can coordinate the backsplash with cabinetry, lighting, plumbing, and the broader bathroom design.",
+        "description": "It can stop at the countertop, rise behind the mirror, or extend higher depending on the design and moisture exposure. Coordinate the height with the vanity, countertop, faucet, outlets, mirror, sconces, and edge trim so the tile does not create awkward cuts or unfinished returns."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

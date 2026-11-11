@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-a-bathroom-vanity-without-replacing-the-floor",
+  "name": "Can I replace a bathroom vanity without replacing the floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a bathroom vanity without replacing the floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanity can often be replaced without changing the bathroom floor, but the result depends on the new footprint and the condition of the exposed area. A smaller cabinet may reveal unfinished flooring, while a different leg or toe-kick design may create visible gaps.\n\nContext: Removing the old unit can also reveal damaged flooring around leaks or a floor that was installed only up to the original cabinet. Elite Remodeling & Design can coordinate flooring and cabinet work when the replacement is part of a broader bathroom renovation.\n\nKey factors:\n- New cabinet width, depth, and base design\n- Existing flooring beneath the old unit\n- Moisture damage and levelness\n- Future replacement flexibility\n\nPractical guidance: Inspect the entire footprint before ordering and keep matching flooring materials if available. Decide whether floor repairs should happen before cabinet installation.\n\nPreserving the floor is easiest when the new vanity covers the same area and the substrate is sound.",
+        "@type": "Answer",
+        "description": "Often, yes, when the new vanity covers the same footprint and the existing floor is sound. Inspect beneath the old cabinet for unfinished areas, water damage, unevenness, and gaps created by a different base or smaller replacement."
+      }
+    }
+  ],
+  "description": "Often, yes, when the new vanity covers the same footprint and the existing floor is sound. Inspect beneath the old cabinet for unfinished areas, water damage, u"
+}

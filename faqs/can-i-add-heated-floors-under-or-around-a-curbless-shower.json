@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-heated-floors-under-or-around-a-curbless-shower",
+  "name": "Can I add heated floors under or around a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add heated floors under or around a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can usually be planned with heated bathroom flooring, but the heating system must be kept out of areas where it is not allowed and coordinated with the shower’s waterproofing, tile, electrical work, and floor elevations. The heating layout should not compromise the shower slope or drain assembly.\n\nAdding heat may improve comfort, but it adds design, electrical, control, material, and sequencing decisions. Elite Remodeling & Design can coordinate electrical and tile work as part of the bathroom remodel when the selected scope calls for it.\n\nKey factors:\n- Confirm where heating elements may be placed relative to drains, fixtures, and wet-area details.\n- The final floor buildup can affect the transition and door clearance.\n- Electrical protection and inspection requirements should be addressed by qualified professionals.\n\nDecide on floor heating before the substrate and tile plan are finalized. Ask for the heating zone layout, control location, and effect on finished elevations.\n\nEarly coordination prevents the heating system from conflicting with the zero-threshold floor design.",
+        "@type": "Answer",
+        "description": "Often, heated bathroom flooring can be coordinated with a curbless shower, but the heating layout, waterproofing, drain, electrical work, tile, and finished elevations must be planned together. Decide before installation so the system does not interfere with slope or wet-area details."
+      }
+    }
+  ],
+  "description": "Often, heated bathroom flooring can be coordinated with a curbless shower, but the heating layout, waterproofing, drain, electrical work, tile, and finished ele"
+}

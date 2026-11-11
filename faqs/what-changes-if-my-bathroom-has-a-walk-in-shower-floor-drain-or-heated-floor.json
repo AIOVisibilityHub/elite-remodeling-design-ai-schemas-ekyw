@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-changes-if-my-bathroom-has-a-walk-in-shower-floor-drain-or-heated-floor",
+  "name": "What changes if my bathroom has a walk-in shower, floor drain, or heated floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What changes if my bathroom has a walk-in shower, floor drain, or heated floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom flooring replacement becomes more complex when the room includes a curbless shower, wet-room area, radiant heat, unusual floor drains, or a low-threshold transition. Those conditions can require careful elevations, compatible waterproofing, and coordination between flooring, plumbing, and shower construction. Tell the contractor about any floor drain, heated floor, or accessibility requirement before pricing. Elite Remodeling & Design can incorporate customized bathroom design and construction coordination when the floor is part of a larger remodel.",
+        "@type": "Answer",
+        "description": "Wet-room areas, drains, radiant heat, and low-threshold transitions require more than a standard floor covering. Elevations, waterproofing, heating components, and plumbing must be coordinated before installation. Disclose these features during the estimate and ask for a detail showing how the new floor will meet the shower and adjacent room."
+      }
+    }
+  ],
+  "description": "Wet-room areas, drains, radiant heat, and low-threshold transitions require more than a standard floor covering. Elevations, waterproofing, heating components,"
+}

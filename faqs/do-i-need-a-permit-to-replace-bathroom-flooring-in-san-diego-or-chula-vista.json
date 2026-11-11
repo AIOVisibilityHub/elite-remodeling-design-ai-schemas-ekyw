@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-bathroom-flooring-in-san-diego-or-chula-vista",
+  "name": "Do I need a permit to replace bathroom flooring in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace bathroom flooring in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom floor replacement does not automatically require a permit, but the answer depends on the work’s scope and local jurisdiction. The City of San Diego identifies like-for-like flooring maintenance as an exemption in certain circumstances, while remodel work involving broader building, plumbing, electrical, structural, or fixture changes may require review or permits. Ask the contractor to identify the jurisdiction, exact scope, and permit responsibility in writing before work starts. Elite Remodeling & Design’s published process includes permitting coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "A simple like-for-like flooring replacement may be exempt in some circumstances, but adding or relocating plumbing fixtures, changing walls, altering structure, or combining the floor with broader remodeling can change the permit question. Confirm the exact scope with the applicable city before work begins, and ask who handles any required applications and inspections."
+      }
+    }
+  ],
+  "description": "A simple like-for-like flooring replacement may be exempt in some circumstances, but adding or relocating plumbing fixtures, changing walls, altering structure,"
+}

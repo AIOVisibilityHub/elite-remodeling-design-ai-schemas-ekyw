@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-a-small-bathroom-floor-myself-or-is-hiring-a-remodeler-worth-it",
+  "name": "Can I replace a small bathroom floor myself, or is hiring a remodeler worth it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a small bathroom floor myself, or is hiring a remodeler worth it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often replace a bathroom floor yourself if the room is small, the subfloor is sound, the material is suitable, and you can make accurate cuts around fixtures. Professional help becomes more valuable when there is moisture damage, tile demolition, floor leveling, a questionable toilet flange, or coordination with plumbing and electrical work. DIY savings can disappear if the floor is uneven, transitions fail, or a toilet seal leaks afterward. Elite Remodeling & Design can handle flooring as part of a coordinated design-build bathroom project when the work exceeds a simple surface update.",
+        "@type": "Answer",
+        "description": "DIY may work for a simple, dry, level room with manageable flooring, but professional help is safer when the subfloor, toilet flange, moisture, tile removal, leveling, or plumbing is uncertain. The full comparison should include tools, disposal, fixture handling, correction of mistakes, and the risk of covering hidden damage—not just material savings."
+      }
+    }
+  ],
+  "description": "DIY may work for a simple, dry, level room with manageable flooring, but professional help is safer when the subfloor, toilet flange, moisture, tile removal, le"
+}

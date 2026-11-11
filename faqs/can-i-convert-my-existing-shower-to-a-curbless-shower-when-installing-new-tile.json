@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-convert-my-existing-shower-to-a-curbless-shower-when-installing-new-tile",
+  "name": "Can I convert my existing shower to a curbless shower when installing new tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing shower to a curbless shower when installing new tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower is possible, but it usually requires more planning than replacing tile in a standard shower. The floor structure, drain location, waterproofing transitions, finished elevations, and bathroom entry must be coordinated before construction. Context: Elite Remodeling & Design develops bathroom layouts and coordinates construction, which is useful when an accessible or open shower changes the room’s floor plan. Key factors: - The shower floor must drain without creating a step. - Waterproofing must extend through the transition into the bathroom floor. - Existing framing and slab conditions can limit the approach. Practical guidance: Request a section or elevation showing finished floor heights before approving the design. Discuss splash control, glass, linear or center drains, and cleaning preferences. A curbless shower is a construction decision as much as a tile decision.",
+        "@type": "Answer",
+        "description": "Often, yes, but feasibility depends on floor structure, drain location, finished elevations, waterproofing transitions, and splash control. Ask for a section showing the shower and bathroom floor heights before approving the design; existing framing or slab conditions may limit the available approach."
+      }
+    }
+  ],
+  "description": "Often, yes, but feasibility depends on floor structure, drain location, finished elevations, waterproofing transitions, and splash control. Ask for a section sh"
+}

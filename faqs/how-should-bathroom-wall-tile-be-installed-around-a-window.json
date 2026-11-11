@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should bathroom wall tile be installed around a window?",
+  "description": "Plan the sill, jambs, corners, waterproofing, and edge trim as one detail. A shower window needs especially careful water management, and the sill should not cr",
+  "url": "eliteremodelingsd.com/faq/how-should-bathroom-wall-tile-be-installed-around-a-window",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should bathroom wall tile be installed around a window?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tile around a bathroom window requires careful detailing at the sill, jambs, corners, and transition to the surrounding wall. The window area must be protected from moisture, and the tile layout should avoid tiny pieces or unsealed edges.\n\nThe sill often needs a slight slope toward the wet area, while the window trim or replacement unit may affect thickness and waterproofing. A window in a shower can turn a simple wall into a detailed waterproofing and finish condition.\n\nKey factors:\n- Whether the window receives direct spray\n- Sill slope and waterproofing continuity\n- Frame depth, trim, and edge profile\n- Tile cuts and grout-joint alignment\n\nProvide window measurements and photographs during planning. Elite Remodeling & Design can coordinate the window detail with the bathroom’s tile, wall assembly, and any related construction changes.",
+        "description": "Plan the sill, jambs, corners, waterproofing, and edge trim as one detail. A shower window needs especially careful water management, and the sill should not create a place for water to remain. Confirm window depth and tile thickness before finalizing the layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

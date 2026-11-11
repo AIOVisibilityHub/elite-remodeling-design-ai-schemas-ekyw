@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-replace-my-bathtub-with-a-tiled-shower-or-will-i-regret-losing-the-tub",
+  "name": "Should I replace my bathtub with a tiled shower, or will I regret losing the tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my bathtub with a tiled shower, or will I regret losing the tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a tub and installing a tiled shower can be worthwhile when the household needs easier entry, more standing space, or a different bathroom layout, but it is not automatically the best choice. The decision depends on available bathrooms, resale priorities, plumbing changes, storage, and the desired entry type. Context: Elite Remodeling & Design offers bathroom remodeling with layout development, fixture coordination, and tile work, so the conversion can be considered as part of the whole room. Key factors: - A tub-to-shower conversion may expose damaged framing or require drain changes. - A low threshold or curbless design can affect floor construction and waterproofing. - Storage, glass, ventilation, and fixture placement need planning. Practical guidance: Decide whether the household still needs a tub elsewhere before removing the only one. Compare a standard shower, low-threshold shower, and tub-shower combination by daily use and project scope. A layout drawing can clarify the tradeoff before demolition begins.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion can improve entry and standing space, but consider whether another bathroom still has a tub, whether plumbing or floor work will change, and how much storage and splash control you need. Compare standard, low-threshold, and curbless layouts before demolition."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion can improve entry and standing space, but consider whether another bathroom still has a tub, whether plumbing or floor work will chan"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-existing-shower-be-converted-to-curbless-without-remodeling-the-whole-bat",
+  "name": "Can my existing shower be converted to curbless without remodeling the whole bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my existing shower be converted to curbless without remodeling the whole bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An existing shower can sometimes be converted to curbless without moving the walls, but the drain and floor assembly still need evaluation. Keeping walls and fixtures in place may reduce scope, yet it may not provide enough depth for the required slope or a comfortable opening.\n\nThe conversion also depends on whether the current shower has a pan, mortar bed, raised platform, slab, or framed floor. Elite Remodeling & Design can assess the existing bathroom and determine whether a targeted conversion or broader bathroom remodel makes more sense.\n\nKey factors:\n- The current drain location may control the new slope.\n- Old waterproofing generally should not be assumed to remain suitable after demolition.\n- Existing leaks, mold-like odors, soft walls, or damaged subfloor should be disclosed.\n\nProvide photos of the shower, drain, threshold, adjacent floor, and ceiling below if accessible. Request two scopes when appropriate: a limited conversion and a complete bathroom update.\n\nComparing both scopes can clarify whether preserving the old layout actually saves money.",
+        "@type": "Answer",
+        "description": "Sometimes, but the drain depth, floor structure, shower pan, waterproofing, and surrounding floor height must be checked. Keeping the walls and fixtures may limit scope, yet a targeted conversion is not always cheaper if the floor assembly must be rebuilt."
+      }
+    }
+  ],
+  "description": "Sometimes, but the drain depth, floor structure, shower pan, waterproofing, and surrounding floor height must be checked. Keeping the walls and fixtures may lim"
+}

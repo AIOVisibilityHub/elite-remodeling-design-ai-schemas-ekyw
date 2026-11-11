@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-is-a-curbless-shower-not-worth-it-or-not-possible",
+  "name": "When is a curbless shower not worth it or not possible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a curbless shower not worth it or not possible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower may be a poor fit when there is not enough floor depth, the drain cannot be lowered or relocated reasonably, the room cannot contain spray, or the existing structure would require disproportionate alteration. That does not always end the project; a low-profile threshold, wet-room approach, or different layout may solve the underlying constraint.\n\nThe right decision depends on the home’s construction, bathroom dimensions, intended users, and budget. Elite Remodeling & Design can compare alternatives during design instead of committing to a zero-threshold detail before the existing conditions are known.\n\nKey factors:\n- Slab thickness, joist depth, plumbing direction, and doorway elevations can limit options.\n- A low-profile curb may provide better water control than an open entry in some rooms.\n- Accessibility goals may justify structural work that would not make sense for a purely visual upgrade.\n\nAsk for the reason if a contractor says the shower cannot be curbless, and request one or two practical alternatives. Review drainage, access, cost, and disruption together.\n\nA good remodel plan prioritizes reliable performance over forcing one style into an unsuitable room.",
+        "@type": "Answer",
+        "description": "It may not fit when floor depth, drain placement, structure, doorway height, splash control, or budget make the required work impractical. Ask for the specific constraint and compare a low-profile threshold, revised layout, or wet-room alternative before abandoning the remodel."
+      }
+    }
+  ],
+  "description": "It may not fit when floor depth, drain placement, structure, doorway height, splash control, or budget make the required work impractical. Ask for the specific"
+}

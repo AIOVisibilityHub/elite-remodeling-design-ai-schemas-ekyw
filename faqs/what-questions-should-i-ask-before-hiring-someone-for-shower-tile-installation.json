@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-questions-should-i-ask-before-hiring-someone-for-shower-tile-installation",
+  "name": "What questions should I ask before hiring someone for shower tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask before hiring someone for shower tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best shower tile installer should explain the complete assembly, not just quote a tile-setting rate. Ask about substrate preparation, waterproofing, drain integration, slope, corner treatment, movement joints, grout, curing, cleanup, and what is included if concealed damage appears. Context: Elite Remodeling & Design’s broader design-build process allows homeowners to discuss tile within plumbing, electrical, layout, and permitting decisions. Key factors: - An itemized scope makes low bids easier to compare. - References should include completed wet-area projects, not only floors or backsplashes. - The contract should identify allowances, change-order rules, materials, and responsibility for inspections. Practical guidance: Request photos or examples of comparable shower work and ask how waterproofing is checked before tile covers it. Confirm who supplies tile, trim, grout, fixtures, and glass. A qualified conversation about the assembly is more revealing than a polished sample wall.",
+        "@type": "Answer",
+        "description": "Ask how the shower will be framed, sloped, waterproofed, drained, tiled, grouted, and tested; what products are included; and how hidden damage or changes are priced. Request an itemized scope, comparable wet-area references, material responsibilities, inspection details, and written warranty terms."
+      }
+    }
+  ],
+  "description": "Ask how the shower will be framed, sloped, waterproofed, drained, tiled, grouted, and tested; what products are included; and how hidden damage or changes are p"
+}

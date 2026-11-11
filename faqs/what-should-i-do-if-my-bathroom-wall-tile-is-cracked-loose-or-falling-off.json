@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my bathroom wall tile is cracked, loose, or falling off?",
+  "description": "Stop treating the symptom and inspect the wall behind the failed tile. Look for movement, soft backing, stains, swelling, leaks, or cracks at corners and plumbi",
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-bathroom-wall-tile-is-cracked-loose-or-falling-off",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my bathroom wall tile is cracked, loose, or falling off?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Loose or cracked tile should be removed far enough to determine whether the problem is limited to the finish or reflects movement, moisture, or damaged backing. Installing new tile over a failed surface usually hides the cause rather than fixing it.\n\nCracked grout may result from movement, poor joints, substrate problems, or water exposure. Repeated failure around a tub, shower valve, corner, or floor transition deserves a broader inspection before patching.\n\nKey factors:\n- Whether the wall feels soft or moves\n- Staining, swelling, odor, or recurring dampness\n- Cracks concentrated at corners or changes of plane\n- Condition behind the removed tile\n\nPhotograph the failed areas and avoid sealing over active moisture. Elite Remodeling & Design can assess whether the bathroom needs localized repair or a larger renovation scope involving wall, plumbing, or waterproofing work.",
+        "description": "Stop treating the symptom and inspect the wall behind the failed tile. Look for movement, soft backing, stains, swelling, leaks, or cracks at corners and plumbing points. Remove only enough material to identify the cause, then repair the substrate or moisture problem before reinstalling tile."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

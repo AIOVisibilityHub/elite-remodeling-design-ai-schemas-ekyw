@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-built-in-shower-bench-worth-the-extra-cost-and-waterproofing-work",
+  "name": "Is a built-in shower bench worth the extra cost and waterproofing work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a built-in shower bench worth the extra cost and waterproofing work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower bench can improve comfort and storage, but it adds framing, waterproofing, slope, tile cuts, and more corners that must be sealed correctly. It should be designed before the wall assembly is closed. Context: Elite Remodeling & Design can incorporate a bench into the bathroom layout and coordinate it with fixtures, tile, and the intended use of the room. Key factors: - The seat needs a slight slope toward the shower. - Its height and depth should match the user’s needs and available space. - A freestanding or corner option may reduce wall reconstruction compared with a framed bench. Practical guidance: Decide whether the bench is for sitting, shaving, storage, or accessibility. Ask how its top, front, corners, and wall connection will be waterproofed. Compare a built-in bench with a movable seat if budget or space is limited.",
+        "@type": "Answer",
+        "description": "A built-in bench can add comfort and useful storage, but it increases framing, waterproofing, tile cuts, and sealed corners. Decide its purpose and dimensions early, then compare it with a corner shelf or movable seat. The top should slope toward the shower and be fully integrated into the waterproofing."
+      }
+    }
+  ],
+  "description": "A built-in bench can add comfort and useful storage, but it increases framing, waterproofing, tile cuts, and sealed corners. Decide its purpose and dimensions e"
+}

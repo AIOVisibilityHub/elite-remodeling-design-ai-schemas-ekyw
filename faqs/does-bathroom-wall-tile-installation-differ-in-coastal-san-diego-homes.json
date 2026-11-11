@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does bathroom wall tile installation differ in coastal San Diego homes?",
+  "description": "The basic tile process is similar, but coastal homes may need closer attention to humidity, ventilation, corrosion, and existing moisture damage. Inspect the su",
+  "url": "eliteremodelingsd.com/faq/does-bathroom-wall-tile-installation-differ-in-coastal-san-diego-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does bathroom wall tile installation differ in coastal San Diego homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Coastal conditions do not automatically change the tile installation method, but they can make material selection, ventilation, corrosion resistance, and moisture management more relevant. Homes in Coronado, Imperial Beach, National City, and nearby coastal areas may also have site-specific existing conditions that should be inspected rather than assumed.\n\nA bathroom with frequent humidity, limited ventilation, salt-laden air, or recurring leaks needs durable finishes and properly detailed wet areas. Metal trim, fixtures, fasteners, and ventilation components should be selected for the room’s environment and manufacturer compatibility.\n\nKey factors:\n- Indoor humidity and bathroom ventilation\n- Existing corrosion or moisture damage\n- Direct water exposure and waterproofing continuity\n- Product compatibility for trim and fixtures\n\nShare the home’s location, ventilation situation, and any corrosion or moisture history during planning. Elite Remodeling & Design can adapt the bathroom remodeling scope to the existing home conditions across San Diego County.",
+        "description": "The basic tile process is similar, but coastal homes may need closer attention to humidity, ventilation, corrosion, and existing moisture damage. Inspect the substrate and choose compatible trim and fixtures rather than assuming location alone determines the installation method."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

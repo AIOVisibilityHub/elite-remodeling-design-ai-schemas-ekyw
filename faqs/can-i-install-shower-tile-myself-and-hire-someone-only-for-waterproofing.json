@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-shower-tile-myself-and-hire-someone-only-for-waterproofing",
+  "name": "Can I install shower tile myself and hire someone only for waterproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install shower tile myself and hire someone only for waterproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY shower tile installation is possible for an experienced homeowner, but the waterproofing and shower-base work carry more risk than ordinary wall tiling. A visually attractive tile job can still fail if the membrane, corners, penetrations, drain, or slope are wrong. Context: Elite Remodeling & Design provides coordinated design and construction services, which may be useful when the project includes plumbing, framing, waterproofing, or permitting. Key factors: - Tile layout mistakes are usually visible; waterproofing mistakes may remain hidden. - Large-format tile and glass-ready dimensions require specialized handling. - Corrections after tile is installed can require demolition. Practical guidance: If doing part of the work, clarify in writing who is responsible for substrate preparation, waterproofing, tile setting, and warranty boundaries. Have the waterproofing approach reviewed before it is covered. Hiring help for the wet-area assembly can reduce the chance of expensive concealed repairs.",
+        "@type": "Answer",
+        "description": "You can divide the work, but responsibilities must be clearly defined. Waterproofing, slope, drain connections, corners, penetrations, and substrate preparation are critical and become difficult to inspect after tile covers them. If you DIY tile, confirm who is responsible for the waterproofing assembly and any resulting repairs."
+      }
+    }
+  ],
+  "description": "You can divide the work, but responsibilities must be clearly defined. Waterproofing, slope, drain connections, corners, penetrations, and substrate preparation"
+}

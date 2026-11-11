@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-need-to-replace-my-bathroom-vanity",
+  "name": "What should I do first if I need to replace my bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I need to replace my bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom vanity replacement usually starts with measuring the existing cabinet, checking the plumbing locations, and deciding whether the new vanity will keep the same footprint. The safest first step is to photograph the supply lines, drain, wall, floor, and surrounding trim before ordering anything.\n\nContext: A same-size replacement is generally simpler than changing from a pedestal sink to a cabinet, adding a second basin, or relocating the sink. Elite Remodeling & Design can evaluate the vanity as part of a coordinated bathroom remodeling plan when finish work, plumbing, or electrical changes are also involved.\n\nKey factors:\n- Cabinet width, depth, and height\n- Drain and water-line locations\n- Wall condition and floor level\n- Countertop, sink, faucet, mirror, and lighting choices\n\nPractical guidance: Measure in several places because walls are not always square. Keep the old vanity available until the new unit, top, sink, and hardware have been inspected for damage and fit.\n\nA careful site review helps prevent an attractive vanity from creating plumbing or clearance problems.",
+        "@type": "Answer",
+        "description": "Measure the opening, photograph the plumbing, and confirm the new vanity’s width, depth, height, sink position, and faucet configuration before ordering. A same-footprint replacement is usually simpler than changing the layout, but uneven walls, damaged flooring, or relocated plumbing can expand the work."
+      }
+    }
+  ],
+  "description": "Measure the opening, photograph the plumbing, and confirm the new vanity’s width, depth, height, sink position, and faucet configuration before ordering. A same"
+}

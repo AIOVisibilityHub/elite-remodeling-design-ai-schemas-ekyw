@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-water-pool-on-my-shower-floor-after-tile-installation",
+  "name": "Why does water pool on my shower floor after tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does water pool on my shower floor after tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower floor should slope consistently toward the drain, with no low spots where water remains. The tile itself does not create the slope; the underlying shower base does, and small-format tile often makes it easier to follow that slope. Context: Elite Remodeling & Design can coordinate the drain, floor tile, and overall bathroom layout during design development. Key factors: - Drain position affects tile cuts and slope transitions. - Uneven or oversized tile can create lippage or pooling. - The curb or entry must not direct water outside the shower. Practical guidance: Before tile is installed, inspect the prepared base for visible low areas and confirm the drain connection. After installation, check that water flows toward the drain without lingering at edges. Discuss drain style and tile size before approving the final floor layout.",
+        "@type": "Answer",
+        "description": "Pooling usually points to an issue with the underlying shower-base slope, drain connection, low spots, or tile layout—not simply the grout. Confirm the base slopes consistently toward the drain before tile is set, and choose a floor tile size that can follow the slope."
+      }
+    }
+  ],
+  "description": "Pooling usually points to an issue with the underlying shower-base slope, drain connection, low spots, or tile layout—not simply the grout. Confirm the base slo"
+}

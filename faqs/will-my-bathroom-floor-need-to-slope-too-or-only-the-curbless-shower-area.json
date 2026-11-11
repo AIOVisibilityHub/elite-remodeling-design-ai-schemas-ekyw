@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-my-bathroom-floor-need-to-slope-too-or-only-the-curbless-shower-area",
+  "name": "Will my bathroom floor need to slope too, or only the curbless shower area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my bathroom floor need to slope too, or only the curbless shower area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The bathroom floor outside the shower can usually remain level, but the shower floor itself must create the necessary fall toward the drain. The transition should be planned so the shower entry is smooth without allowing water to cross into the dry area.\n\nThe finished floor heights depend on the structural recess, shower length, drain position, tile thickness, underlayment, and surrounding flooring. Elite Remodeling & Design can address these elevations during layout development and material selection.\n\nKey factors:\n- Thick tile, stone, or heated-floor assemblies can change the final height.\n- Doorways and adjacent rooms may expose any poorly planned transition.\n- The slope must be continuous rather than interrupted by a ridge at the opening.\n\nAsk for a section drawing or marked elevation at the entry, drain, bathroom floor, and doorway. Confirm how the selected flooring will meet the shower tile before materials are ordered.\n\nEarly elevation planning prevents an attractive shower from creating a trip or drainage problem elsewhere.",
+        "@type": "Answer",
+        "description": "Usually, only the shower area is sloped, while the surrounding bathroom remains level. The entry must connect those elevations smoothly and keep water in the wet area. Tile thickness, drain position, floor recess, and doorway height all affect the final transition."
+      }
+    }
+  ],
+  "description": "Usually, only the shower area is sloped, while the surrounding bathroom remains level. The entry must connect those elevations smoothly and keep water in the we"
+}
