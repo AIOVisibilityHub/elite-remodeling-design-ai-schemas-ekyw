@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-pantry-problems-are-common-in-older-san-diego-homes-near-the-coast",
+  "name": "What pantry problems are common in older San Diego homes near the coast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What pantry problems are common in older San Diego homes near the coast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In older or compact homes, the biggest pantry challenge is often finding space without damaging kitchen workflow. Elite Remodeling & Design can evaluate existing walls, utility locations, door swings, and structural conditions before recommending a layout. A pantry may fit better as tall cabinetry or a converted nook than as a new room. In coastal areas such as Coronado or Imperial Beach, material choices and ventilation should also be discussed in relation to the home’s conditions, but the correct solution remains property-specific. Photograph hidden utility locations if known and disclose previous remodels before design begins. Avoid committing to demolition until the existing conditions have been assessed.",
+        "@type": "Answer",
+        "description": "Limited floor area, unusual wall conditions, hidden utilities, and awkward door locations can affect pantry design. A tall cabinet or converted nook may work better than a new room. Elite Remodeling & Design can assess the existing kitchen and tailor materials and layout to the home’s conditions."
+      }
+    }
+  ],
+  "description": "Limited floor area, unusual wall conditions, hidden utilities, and awkward door locations can affect pantry design. A tall cabinet or converted nook may work be"
+}

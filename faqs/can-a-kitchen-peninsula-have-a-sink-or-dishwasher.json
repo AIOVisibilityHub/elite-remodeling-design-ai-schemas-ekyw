@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-kitchen-peninsula-have-a-sink-or-dishwasher",
+  "name": "Can a kitchen peninsula have a sink or dishwasher?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a kitchen peninsula have a sink or dishwasher?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula can include a sink or dishwasher, but the project becomes more complex because plumbing, drainage, cabinet interiors, countertop cutouts, and electrical connections must be coordinated. The existing sink location and route through the adjacent cabinet run can strongly affect feasibility.\n\nContext: Keeping fixtures near existing connections may reduce demolition, while moving them can require more construction and a longer sequence. The final plan should show appliance dimensions and service access.\n\nKey factors:\n- Existing supply and drain locations\n- Dishwasher clearance and door swing\n- Electrical requirements\n- Countertop cutouts and support\n\nPractical guidance: Choose the sink and dishwasher models before final cabinet drawings. Ask how shutoffs, connections, and future service access will remain reachable.\n\nElite Remodeling & Design coordinates plumbing, electrical, cabinetry, and countertop planning within kitchen remodeling projects.",
+        "@type": "Answer",
+        "description": "Yes, but adding a sink or dishwasher requires coordinated plumbing, drainage, electrical work, cabinet planning, and countertop cutouts. Existing connection locations matter, so select the fixtures early and confirm service access before finalizing the peninsula."
+      }
+    }
+  ],
+  "description": "Yes, but adding a sink or dishwasher requires coordinated plumbing, drainage, electrical work, cabinet planning, and countertop cutouts. Existing connection loc"
+}

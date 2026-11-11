@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-cabinet-materials-and-finishes-hold-up-best-in-a-busy-or-coastal-san-diego",
+  "name": "What cabinet materials and finishes hold up best in a busy or coastal San Diego kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet materials and finishes hold up best in a busy or coastal San Diego kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best cabinet material depends on moisture exposure, cleaning habits, desired appearance, budget, and how much customization the kitchen requires. Ask for the construction, finish, edge details, hardware, and care requirements rather than judging only by the door sample.\n\n**Context:** Coastal areas such as Coronado and Imperial Beach may make moisture management and finish maintenance especially relevant, though every home still needs an assessment of ventilation and existing conditions. Material choice should match actual use.\n\n**Key factors:**\n- Resistance to moisture, heat, and wear\n- Door and box construction\n- Finish repairability and cleaning method\n- Availability of replacement parts\n\n**Practical guidance:** Request sample doors and written care instructions. Discuss areas exposed to steam, splashes, pets, children, or heavy daily use before finalizing finishes.\n\nElite Remodeling & Design can coordinate material selections with the room’s design and construction conditions.",
+        "@type": "Answer",
+        "description": "Choose based on moisture exposure, daily wear, cleaning habits, budget, and repairability—not appearance alone. Ask about box and door construction, finish care, hardware, and replacement parts, especially in humid or heavily used kitchens."
+      }
+    }
+  ],
+  "description": "Choose based on moisture exposure, daily wear, cleaning habits, budget, and repairability—not appearance alone. Ask about box and door construction, finish care"
+}

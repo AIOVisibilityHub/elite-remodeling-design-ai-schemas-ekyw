@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-my-appliances-need-to-be-removed-during-countertop-replacement",
+  "name": "Will my appliances need to be removed during countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my appliances need to be removed during countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A countertop can usually be replaced while appliances remain, but appliances may need temporary removal when they block access, share the countertop opening, or must be repositioned. Slide-in ranges, cooktops, dishwashers, refrigerators, and wall conditions can affect measurements and installation clearance. Confirm appliance models and opening dimensions before the template visit, and protect or disconnect appliances only through the appropriate qualified trade. Do not assume a new countertop will fit an old cooktop opening without verification. Elite Remodeling & Design can coordinate countertop planning with kitchen layout, cabinetry, and related construction requirements.",
+        "@type": "Answer",
+        "description": "Sometimes. Appliances may need temporary removal when they block access, affect cabinet measurements, or share a cooktop or range opening. Confirm appliance dimensions and clearances before templating, and plan qualified disconnection and reconnection where required. A layout change can turn a simple replacement into broader kitchen work."
+      }
+    }
+  ],
+  "description": "Sometimes. Appliances may need temporary removal when they block access, affect cabinet measurements, or share a cooktop or range opening. Confirm appliance dim"
+}

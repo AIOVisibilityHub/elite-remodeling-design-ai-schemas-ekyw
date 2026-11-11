@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-materials-should-i-choose-for-custom-kitchen-cabinet-boxes-and-doors",
+  "name": "What materials should I choose for custom kitchen cabinet boxes and doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials should I choose for custom kitchen cabinet boxes and doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose cabinet material based on moisture exposure, expected wear, finish requirements, budget, and the kind of repairability you want. A strong proposal should clearly identify the box, door, drawer, back, edge, and finish materials rather than using only broad terms such as “wood cabinets.”\n\nContext: Cabinet problems often arise when materials, hardware, and installation methods are not clearly agreed upon. The right specification matters more than a label that sounds premium.\n\nKey factors:\n- Plywood, engineered board, or mixed construction\n- Solid wood versus veneer or laminate components\n- Paint durability and touch-up expectations\n- Hinge and drawer-slide quality\n\nPractical guidance: Request a written materials schedule and sample doors. Ask how exposed ends, sink bases, interior shelves, and replacement parts will be handled.\n\nElite Remodeling & Design can coordinate material selections with the kitchen’s overall design and use.",
+        "@type": "Answer",
+        "description": "Choose materials by moisture exposure, wear, finish, budget, and repair needs. Request written specifications for boxes, doors, drawers, backs, edges, and finishes, plus samples of the actual door and interior materials."
+      }
+    }
+  ],
+  "description": "Choose materials by moisture exposure, wear, finish, budget, and repair needs. Request written specifications for boxes, doors, drawers, backs, edges, and finis"
+}

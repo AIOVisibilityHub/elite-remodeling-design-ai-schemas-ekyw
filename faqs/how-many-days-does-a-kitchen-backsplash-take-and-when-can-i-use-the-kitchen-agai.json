@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-many-days-does-a-kitchen-backsplash-take-and-when-can-i-use-the-kitchen-agai",
+  "name": "How many days does a kitchen backsplash take, and when can I use the kitchen again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many days does a kitchen backsplash take, and when can I use the kitchen again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A straightforward backsplash often takes about two to three working days, but the schedule can expand when demolition reveals damaged drywall, the wall needs leveling, tile has complex cuts, or electrical and plumbing work is added.\n\n**Context:** The visible tile work may be quick, while preparation and curing determine when the kitchen is genuinely usable. Material availability and design changes can also delay the start.\n\n**Key factors:**\n- Small mosaic pieces may require extensive grout work.\n- Large tile needs flatter walls and careful handling.\n- Custom patterns, niches, trim, and many outlets increase cutting time.\n\n**Practical guidance:** Ask for separate dates for preparation, setting, grouting, and final use. Confirm that the schedule includes drying or curing periods rather than treating cleanup as the final milestone.\n\n**Soft positioning:** Elite Remodeling & Design can place backsplash work within a larger kitchen remodeling schedule when multiple trades are involved.",
+        "@type": "Answer",
+        "description": "A basic backsplash may take roughly two to three working days, but wall repairs, intricate patterns, many outlets, large-format tile, or added electrical and plumbing work can extend the schedule. Ask when setting, grouting, sealing, and curing will be complete before resuming normal kitchen use."
+      }
+    }
+  ],
+  "description": "A basic backsplash may take roughly two to three working days, but wall repairs, intricate patterns, many outlets, large-format tile, or added electrical and pl"
+}

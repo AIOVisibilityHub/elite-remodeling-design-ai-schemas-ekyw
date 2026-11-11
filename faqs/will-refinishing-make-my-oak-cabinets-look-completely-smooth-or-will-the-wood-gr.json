@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-refinishing-make-my-oak-cabinets-look-completely-smooth-or-will-the-wood-gr",
+  "name": "Will refinishing make my oak cabinets look completely smooth, or will the wood grain still show?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will refinishing make my oak cabinets look completely smooth, or will the wood grain still show?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A smooth finish is possible on many wood cabinets, but open grain, routed details, and existing surface damage affect the result. Context: “Smooth” can mean uniform color and touch, or it can mean no visible wood pores; those are different expectations. Grain filling adds labor and may change the character of the doors. Key factors: - Oak and other open-grain woods may retain texture without grain filler. - Raised panels and decorative profiles will still show their shape. - Strong side lighting can reveal sanding marks or uneven film build. Practical guidance: Define whether you want smooth color, smooth touch, or a fully grain-filled appearance. Review a sample under the same lighting used in the kitchen. Elite Remodeling & Design can align finish expectations with the chosen design style and surrounding materials.",
+        "@type": "Answer",
+        "description": "Refinishing can create an even color and finish, but open-grain wood may still show texture unless the grain is filled. Ask for a sample and clarify whether you want smooth color, smooth touch, or a fully grain-free appearance."
+      }
+    }
+  ],
+  "description": "Refinishing can create an even color and finish, but open-grain wood may still show texture unless the grain is filled. Ask for a sample and clarify whether you"
+}

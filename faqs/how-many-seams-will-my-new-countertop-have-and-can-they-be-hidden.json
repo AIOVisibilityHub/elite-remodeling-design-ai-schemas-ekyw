@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-many-seams-will-my-new-countertop-have-and-can-they-be-hidden",
+  "name": "How many seams will my new countertop have, and can they be hidden?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many seams will my new countertop have, and can they be hidden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop seams are normal in many kitchens and are influenced by slab size, room dimensions, corners, sink openings, access routes, and the material’s fabrication limits. A seam may be less noticeable when placed away from a sink or high-visibility area, but the best location depends on the layout and slab pattern. Ask where seams will be placed, how the pattern will align, and what the finished joint will look like. Inspect the selected slab and approve the layout before cutting when possible. Elite Remodeling & Design can account for the room’s existing geometry and design priorities during countertop planning.",
+        "@type": "Answer",
+        "description": "Seams depend on countertop length, corners, slab size, access, sink openings, and material. They cannot always be eliminated, but placement and pattern alignment can make them less noticeable. Ask for the proposed seam locations before fabrication and discuss whether the sink or another low-visibility area is suitable."
+      }
+    }
+  ],
+  "description": "Seams depend on countertop length, corners, slab size, access, sink openings, and material. They cannot always be eliminated, but placement and pattern alignmen"
+}

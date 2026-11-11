@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-cabinet-refinishing-quote-so-i-do-not-get-surprise",
+  "name": "What should be included in a cabinet refinishing quote so I do not get surprise charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a cabinet refinishing quote so I do not get surprise charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A refinishing estimate should identify the exact surfaces, preparation method, finish system, repairs, schedule, protection, cleanup, and exclusions. Context: Vague proposals make it difficult to compare one contractor with another because “cabinet painting” may mean anything from a quick coat on doors to a complete restoration. A written scope also helps prevent misunderstandings about interiors, hardware, and damaged materials. Key factors: - Count doors, drawer fronts, exposed ends, frames, and interiors. - Specify stain or paint, sheen, color approval, and number of coats when known. - List who handles removal, transport, masking, reinstallation, and adjustments. Practical guidance: Ask what happens if hidden damage appears and how added work is approved. Request a sample and a final walkthrough before the project begins. Elite Remodeling & Design can incorporate cabinet scope into a larger design-build proposal when other kitchen work is planned.",
+        "@type": "Answer",
+        "description": "A complete quote should list every surface, preparation method, repairs, coating, sheen, hardware work, removal, transport, reinstallation, protection, cleanup, schedule, and exclusions. Ask how hidden damage and added work will be handled before signing."
+      }
+    }
+  ],
+  "description": "A complete quote should list every surface, preparation method, repairs, coating, sheen, hardware work, removal, transport, reinstallation, protection, cleanup,"
+}

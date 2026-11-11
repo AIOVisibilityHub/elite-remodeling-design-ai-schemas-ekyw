@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-change-my-sink-when-replacing-my-countertops",
+  "name": "Can I change my sink when replacing my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my sink when replacing my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An undermount sink is often installed with the countertop and requires a precise cutout, while a drop-in sink may be easier to replace without changing the cabinet or surface design. Sink choice affects countertop fabrication, support, faucet placement, plumbing access, and installation timing. Confirm the sink model, dimensions, reveal, faucet holes, and disposal arrangement before the final template. If the sink cabinet has water damage, repair it before the new surface is installed. Elite Remodeling & Design can coordinate sink, countertop, cabinetry, and plumbing decisions within a kitchen remodeling scope.",
+        "@type": "Answer",
+        "description": "Yes, but the sink type and dimensions must be chosen before final templating. Undermount sinks usually require a precise countertop cutout and careful cabinet support, while drop-in sinks may involve different installation requirements. Check the sink cabinet for water damage and confirm faucet and disposal details before fabrication."
+      }
+    }
+  ],
+  "description": "Yes, but the sink type and dimensions must be chosen before final templating. Undermount sinks usually require a precise countertop cutout and careful cabinet s"
+}

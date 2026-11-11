@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-if-my-old-cabinets-are-good-enough-to-reface-instead-of-replace",
+  "name": "How do I know if my old cabinets are good enough to reface instead of replace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my old cabinets are good enough to reface instead of replace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—cabinet refacing can be a strong choice when the existing cabinet boxes are square, dry, securely attached, and laid out in a way that already works. The service typically updates exposed cabinet surfaces while replacing doors, drawer fronts, and hardware, rather than removing the cabinet boxes.\n\nContext: This approach can refresh an outdated kitchen without committing to a full cabinet tear-out. It is less suitable when storage, cabinet locations, or the overall kitchen layout must change.\n\nKey factors:\n- Inspect boxes for swelling, delamination, water damage, sagging, and loose joints.\n- Confirm the current layout supports your appliances, storage needs, and countertop plans.\n- Compare veneer, laminate, painted finishes, door profiles, and hardware before choosing.\n\nPractical guidance: Photograph every cabinet interior, note damage near sinks and dishwashers, and ask Elite Remodeling & Design to evaluate the boxes before discussing finishes. A design consultation can also reveal whether refacing alone solves the functional problems.\n\nElite Remodeling & Design can coordinate cabinet decisions with broader kitchen remodeling work when the project involves countertops, lighting, plumbing, or layout changes.",
+        "@type": "Answer",
+        "description": "Refacing works when cabinet boxes are structurally sound, dry, securely attached, and arranged in a usable layout. Replacement is usually more appropriate for swollen particleboard, water damage, sagging boxes, or a kitchen that needs a new footprint. Have the boxes inspected before selecting doors and finishes."
+      }
+    }
+  ],
+  "description": "Refacing works when cabinet boxes are structurally sound, dry, securely attached, and arranged in a usable layout. Replacement is usually more appropriate for s"
+}

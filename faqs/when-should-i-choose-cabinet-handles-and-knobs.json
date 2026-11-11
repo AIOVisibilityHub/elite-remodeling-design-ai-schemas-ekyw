@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-choose-cabinet-handles-and-knobs",
+  "name": "When should I choose cabinet handles and knobs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose cabinet handles and knobs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardware placement should be decided with the door style, user comfort, appliance clearances, and visual balance in mind. Marking locations on elevations or sample doors helps prevent pulls from colliding with adjacent doors, walls, windows, or appliances.\n\nContext: Hardware installed late can create avoidable mistakes, especially when multiple installers or vendors are involved. It can also affect accessibility and how easily drawers and doors are opened.\n\nKey factors:\n- Door and drawer sizes\n- Corner clearances and appliance swings\n- Handle length and grip style\n- Consistent placement across elevations\n\nPractical guidance: Bring preferred hardware or exact specifications before final drawings are approved. Request a sample installation on one door and drawer if placement is uncertain.\n\nEarly hardware decisions make the finished cabinetry more cohesive and usable.",
+        "@type": "Answer",
+        "description": "Choose hardware before final cabinet drawings and installation. Check grip, placement, corner clearances, appliance swings, and visual consistency, then approve locations on elevations or a sample door and drawer."
+      }
+    }
+  ],
+  "description": "Choose hardware before final cabinet drawings and installation. Check grip, placement, corner clearances, appliance swings, and visual consistency, then approve"
+}

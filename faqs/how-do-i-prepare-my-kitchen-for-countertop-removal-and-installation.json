@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-prepare-my-kitchen-for-countertop-removal-and-installation",
+  "name": "How do I prepare my kitchen for countertop removal and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my kitchen for countertop removal and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop replacement can create dust, debris, noise, and temporary loss of sink access, so preparation reduces disruption. Clear drawers and cabinets near the work area, remove fragile items, protect nearby rooms, arrange a temporary food-preparation area, and plan for water service interruption if plumbing is disconnected. Confirm whether the contractor handles removal, disposal, floor protection, and final cleanup. Keep children and pets away from the active work zone. Elite Remodeling & Design can coordinate the countertop work with other kitchen construction so preparation is based on the full project sequence.",
+        "@type": "Answer",
+        "description": "Clear nearby cabinets and counters, remove fragile items, create a temporary food area, and plan for limited sink or water access. Confirm who handles appliance disconnection, demolition, disposal, floor protection, and cleanup. Keep pets and children away from the work zone while the old surface is removed and the new one is installed."
+      }
+    }
+  ],
+  "description": "Clear nearby cabinets and counters, remove fragile items, create a temporary food area, and plan for limited sink or water access. Confirm who handles appliance"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-kitchen-floor-replacement-is-needed-because-of-water-damage",
+  "name": "What if my kitchen floor replacement is needed because of water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my kitchen floor replacement is needed because of water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor that feels soft, smells musty, stains repeatedly, or has swollen edges should be checked for moisture before replacement. Fixing the leak and replacing affected substrate may be necessary before installing a new finish. Context: Common kitchen sources include sink plumbing, dishwasher connections, refrigerator supply lines, and flooring-edge spills, but the visible damage may not show the full affected area. Key factors: - Active or historic leaks - Subfloor swelling or rot-like deterioration - Moisture readings and drying - Appliance access Practical guidance: Stop recurring leaks, document the affected area, and avoid sealing in damp material. Elite Remodeling & Design can coordinate flooring work with related kitchen construction when the scope extends beyond the finish surface.",
+        "@type": "Answer",
+        "description": "Find and correct the leak before replacing the floor. Inspect the surrounding substrate for swelling, soft areas, odor, or trapped moisture, and include appliance access and drying in the scope so the new finish is not installed over damaged material."
+      }
+    }
+  ],
+  "description": "Find and correct the leak before replacing the floor. Inspect the surrounding substrate for swelling, soft areas, odor, or trapped moisture, and include applian"
+}

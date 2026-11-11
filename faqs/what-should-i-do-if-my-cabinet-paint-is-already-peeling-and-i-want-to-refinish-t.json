@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-cabinet-paint-is-already-peeling-and-i-want-to-refinish-t",
+  "name": "What should I do if my cabinet paint is already peeling and I want to refinish them again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my cabinet paint is already peeling and I want to refinish them again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the finish is peeling, the cause should be identified before applying another coat. Context: Common causes include grease contamination, inadequate sanding or bonding, incompatible coatings, moisture damage, impact, or insufficient cure time. Painting over loose material usually leaves the underlying problem in place. Key factors: - Determine whether failure is localized or widespread. - Check sink, dishwasher, and high-touch areas for moisture or impact. - Identify the previous coating if possible. Practical guidance: Photograph peeling areas, avoid scraping beyond what is loose, and gather any prior product information. Ask for a written repair plan that explains removal, substrate repair, preparation, replacement of damaged parts, and the new coating system. Elite Remodeling & Design can assess whether repair, refacing, or replacement is more appropriate than another cosmetic coat.",
+        "@type": "Answer",
+        "description": "Do not simply paint over peeling areas. Find the cause, such as grease, poor adhesion, incompatible coatings, impact, or moisture damage; remove failing material, repair the substrate, and use a compatible preparation and finish system."
+      }
+    }
+  ],
+  "description": "Do not simply paint over peeling areas. Find the cause, such as grease, poor adhesion, incompatible coatings, impact, or moisture damage; remove failing materia"
+}

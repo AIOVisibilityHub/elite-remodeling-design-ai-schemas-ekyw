@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-do-custom-kitchen-cabinets-cost-in-san-diego-county",
+  "name": "How much do custom kitchen cabinets cost in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do custom kitchen cabinets cost in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reliable budget requires more than a cabinet price because installation, fillers, finished panels, hardware, countertop work, demolition, design, and related construction may be separate. For San Diego County projects, the final amount also depends on whether the layout, plumbing, electrical, or walls change.\n\nContext: Published pricing can vary widely, and online figures are not a substitute for a room-specific scope. Elite Remodeling & Design develops kitchen plans around the existing space and intended use, which helps identify cost drivers early.\n\nKey factors:\n- Cabinet construction and finish\n- Number of drawers, accessories, and specialty units\n- Installation complexity and wall condition\n- Countertops, appliances, flooring, lighting, and permits\n\nPractical guidance: Request a written scope with allowances and exclusions. Ask which items could change after field measurements and which selections must be made before ordering.\n\nA design consultation can turn a broad budget into a more useful project range.",
+        "@type": "Answer",
+        "description": "There is no dependable single price for custom kitchen cabinets. The total depends on construction, finish, storage accessories, installation, wall conditions, countertops, and related remodeling. Request a written, itemized scope rather than relying on a per-cabinet estimate."
+      }
+    }
+  ],
+  "description": "There is no dependable single price for custom kitchen cabinets. The total depends on construction, finish, storage accessories, installation, wall conditions,"
+}

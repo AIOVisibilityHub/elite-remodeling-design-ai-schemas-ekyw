@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-get-more-kitchen-storage-without-making-the-room-feel-cramped",
+  "name": "How do I get more kitchen storage without making the room feel cramped?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get more kitchen storage without making the room feel cramped?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan storage around what you actually own and use rather than filling every wall with standard cabinets. Measure tall appliances, cookware, baking equipment, food stock, recycling, cleaning supplies, and small appliances before assigning cabinet types. Deep corner cabinets can become difficult to use, while drawer banks and a properly sized pantry may provide better access. Protect enough counter space for preparation rather than sacrificing it for storage alone. Elite Remodeling & Design’s kitchen remodeling scope includes layout, cabinetry, and storage decisions that can be coordinated together.",
+        "@type": "Answer",
+        "description": "Inventory your cookware, appliances, food, cleaning supplies, and recycling first. Use accessible drawers, appropriately sized pantry storage, and carefully planned corners while protecting preparation space. More cabinets are not always better if they reduce circulation or usable counters."
+      }
+    }
+  ],
+  "description": "Inventory your cookware, appliances, food, cleaning supplies, and recycling first. Use accessible drawers, appropriately sized pantry storage, and carefully pla"
+}

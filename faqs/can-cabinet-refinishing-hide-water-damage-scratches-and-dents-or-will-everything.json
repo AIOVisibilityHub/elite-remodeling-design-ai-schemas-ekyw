@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-cabinet-refinishing-hide-water-damage-scratches-and-dents-or-will-everything",
+  "name": "Can cabinet refinishing hide water damage, scratches, and dents, or will everything still show?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cabinet refinishing hide water damage, scratches, and dents, or will everything still show?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new color can cover some visual wear, but it will not reliably hide warped panels, swollen edges, broken joints, or deep damage. Context: Painting may conceal minor scratches after proper filling and sanding, while stain often leaves more of the underlying grain and repair history visible. Structural defects should be addressed before the final finish is applied. Key factors: - Inspect door edges, hinge mounts, drawer bottoms, and face-frame joints. - Check for water damage around the sink and dishwasher. - Determine whether damaged doors should be repaired, replaced, or refinished. Practical guidance: Take close-up photographs and ask the estimator to identify every repair included in the proposal. Do not approve a finish based only on a sample over a perfect door. Elite Remodeling & Design can evaluate repair needs within a kitchen remodeling scope rather than treating cosmetic coating as a substitute for carpentry.",
+        "@type": "Answer",
+        "description": "Minor scratches and dents may improve with filling and sanding, but refinishing will not correct warped panels, swollen edges, loose joints, or serious water damage. Have repairs identified and priced before the final coating is approved."
+      }
+    }
+  ],
+  "description": "Minor scratches and dents may improve with filling and sanding, but refinishing will not correct warped panels, swollen edges, loose joints, or serious water da"
+}

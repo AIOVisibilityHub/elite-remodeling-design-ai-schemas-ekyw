@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-whether-custom-cabinet-installation-was-done-correctly",
+  "name": "How do I know whether custom cabinet installation was done correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether custom cabinet installation was done correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cabinet should be considered ready for acceptance when doors and drawers operate correctly, reveals are reasonably consistent, panels and fillers are complete, hardware matches the approved selections, and appliances and countertops fit as planned. Minor adjustment is normal; unexplained damage, wrong parts, or persistent misalignment should be documented.\n\nContext: Installation quality includes more than attaching boxes to walls. Community reports describe problems involving loose hardware, incorrect panels, scratches, and unfinished trim.\n\nKey factors:\n- Level, plumb, and secure boxes\n- Consistent reveals and functioning hardware\n- Correct doors, panels, shelves, and accessories\n- Completed trim, touch-ups, and cleanup\n\nPractical guidance: Use the approved drawings for a room-by-room walkthrough. Photograph defects, list responsible corrections, and agree on a completion date before final acceptance.\n\nA defined punch list gives both homeowner and contractor a clear closeout process.",
+        "@type": "Answer",
+        "description": "Check that cabinets are secure and level, doors and drawers align and operate smoothly, panels and fillers are complete, hardware matches the approved selections, and the room is free of avoidable damage. Record remaining corrections in a punch list."
+      }
+    }
+  ],
+  "description": "Check that cabinets are secure and level, doors and drawers align and operate smoothly, panels and fillers are complete, hardware matches the approved selection"
+}

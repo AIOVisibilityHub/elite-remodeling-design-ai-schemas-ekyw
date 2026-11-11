@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-is-a-pantry-a-bad-idea-for-a-small-or-awkward-kitchen",
+  "name": "When is a pantry a bad idea for a small or awkward kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a pantry a bad idea for a small or awkward kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry is not always the best use of a narrow or awkward space; a tall cabinet run, drawer storage, utility closet, or mixed-use zone may provide more accessible capacity. Elite Remodeling & Design can compare these alternatives based on the room’s shape, door location, utilities, and what you need to store. A narrow walk-in can create wasted corners and difficult access if shelves are too deep. Cabinet pull-outs may provide better visibility in a tight footprint, while a broader room may justify a walk-in. Measure the narrowest point and identify obstructions before choosing the pantry type. The goal is usable storage, not simply a separate room labeled pantry.",
+        "@type": "Answer",
+        "description": "A pantry may be a poor choice when it creates a cramped aisle, blocks circulation, or sacrifices more useful counter and drawer space. Tall cabinets or pull-outs may work better. Elite Remodeling & Design can compare the actual storage gained against the floor area and workflow lost."
+      }
+    }
+  ],
+  "description": "A pantry may be a poor choice when it creates a cramped aisle, blocks circulation, or sacrifices more useful counter and drawer space. Tall cabinets or pull-out"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-countertop-repla",
+  "name": "Does living near the coast in Coronado or Imperial Beach change countertop replacement choices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change countertop replacement choices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal conditions in Coronado, Imperial Beach, and nearby areas do not automatically determine the countertop material, but moisture exposure, ventilation, maintenance habits, and the condition of existing cabinets deserve close attention. Inspect for swelling, leaks, corrosion, or water damage before covering the base with a new surface. Material selection should also consider cleaning routines, heat exposure, impact risk, and the desired appearance. Ask how seams, sink edges, and cabinet supports will be protected from water intrusion. Elite Remodeling & Design can incorporate existing-condition review into a kitchen remodeling plan for coastal homes.",
+        "@type": "Answer",
+        "description": "Coastal location does not automatically require one countertop material, but moisture, ventilation, leaks, cabinet swelling, and sink-area protection deserve extra attention. Inspect the cabinet bases and plumbing before installation, then compare materials by maintenance, durability, and seam and edge detailing rather than location alone."
+      }
+    }
+  ],
+  "description": "Coastal location does not automatically require one countertop material, but moisture, ventilation, leaks, cabinet swelling, and sink-area protection deserve ex"
+}

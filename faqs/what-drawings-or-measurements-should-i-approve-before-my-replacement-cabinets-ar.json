@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-drawings-or-measurements-should-i-approve-before-my-replacement-cabinets-ar",
+  "name": "What drawings or measurements should I approve before my replacement cabinets are ordered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What drawings or measurements should I approve before my replacement cabinets are ordered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cabinet layout should be approved before final countertop, backsplash, lighting, and utility decisions are locked in. Changing cabinet locations late can force revisions to several connected elements and create extra work.\n\n**Context:** A measured design should show appliance openings, fillers, corners, doors, drawers, countertop areas, and relevant utility points. Three-dimensional visualization can help reveal proportion and clearance issues before construction.\n\n**Key factors:**\n- Appliance and sink locations\n- Work aisles and door swings\n- Storage priorities\n- Lighting, outlets, and hood position\n\n**Practical guidance:** Review elevations and a floor plan, not just samples. Mark any “must keep” items and obtain written approval before ordering cabinets.\n\nElite Remodeling & Design includes design development as part of its coordinated remodeling approach.",
+        "@type": "Answer",
+        "description": "Approve a measured floor plan and elevations showing cabinet sizes, fillers, corners, appliance openings, countertop areas, doors, drawers, and utility points. Review the design in plan and 3D form before ordering to catch clearance and proportion problems."
+      }
+    }
+  ],
+  "description": "Approve a measured floor plan and elevations showing cabinet sizes, fillers, corners, appliance openings, countertop areas, doors, drawers, and utility points."
+}

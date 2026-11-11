@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-a-cabinet-refacing-estimate-include-so-i-do-not-get-surprised-later",
+  "name": "What should a cabinet-refacing estimate include so I do not get surprised later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should a cabinet-refacing estimate include so I do not get surprised later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional estimate should include measurements, photos or drawings, the condition of the boxes, selected materials, door and drawer quantities, hardware, repairs, accessories, countertops, demolition, cleanup, and any related trade work. It should also state exclusions and payment milestones.\n\nContext: Comparing only the total price can hide major scope differences. One estimate may include new doors and end panels while another covers only visible face frames.\n\nKey factors:\n- Exact materials and finish locations.\n- Whether labor includes removal, disposal, installation, adjustment, and touch-up.\n- Allowances for concealed damage or changes discovered after removal.\n\nPractical guidance: Ask each provider to quote the same cabinet areas and accessories, then compare line by line. Keep the approved design, finish samples, and change-order process with the agreement.\n\nElite Remodeling & Design can develop cabinet decisions within a larger design-build estimate when countertops, lighting, or layout work is also under consideration.",
+        "@type": "Answer",
+        "description": "Look for measurements, box-condition notes, doors, drawer fronts, veneers or coatings, end panels, hardware, repairs, accessories, countertops, installation, cleanup, exclusions, and change-order terms. Compare matching scopes line by line instead of relying on the lowest total."
+      }
+    }
+  ],
+  "description": "Look for measurements, box-condition notes, doors, drawer fronts, veneers or coatings, end panels, hardware, repairs, accessories, countertops, installation, cl"
+}

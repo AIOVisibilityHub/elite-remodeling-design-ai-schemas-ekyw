@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-to-replace-kitchen-countertops-in-san-diego",
+  "name": "How much should I budget to replace kitchen countertops in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget to replace kitchen countertops in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no single reliable price because material, square footage, demolition, edge details, sink cuts, backsplash work, seams, cabinet repairs, and plumbing can change the total substantially. Published estimates commonly place typical kitchen replacements in the low-thousands, with laminate generally below quartz, granite, marble, and quartzite; premium stone can cost considerably more. Treat broad online ranges as planning figures, not a quote for a San Diego home. Request an itemized estimate showing material, templating, fabrication, removal, disposal, cutouts, installation, sink work, plumbing, backsplash, taxes, and contingencies. Elite Remodeling & Design can assess countertop scope alongside kitchen remodeling decisions so related work is not omitted from the initial plan.",
+        "@type": "Answer",
+        "description": "Budget depends on material, size, demolition, cutouts, edges, seams, backsplash work, cabinet repairs, and plumbing. Laminate is typically less costly than quartz, granite, marble, or quartzite, while premium stone can raise the total substantially. Ask for an itemized San Diego estimate rather than relying on a national per-square-foot range."
+      }
+    }
+  ],
+  "description": "Budget depends on material, size, demolition, cutouts, edges, seams, backsplash work, cabinet repairs, and plumbing. Laminate is typically less costly than quar"
+}

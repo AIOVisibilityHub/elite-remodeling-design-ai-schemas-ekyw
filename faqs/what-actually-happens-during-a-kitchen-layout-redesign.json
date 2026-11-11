@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-kitchen-layout-redesign",
+  "name": "What actually happens during a kitchen layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a kitchen layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually begins with consultation and existing-condition measurements, followed by layout concepts, design development, material selections, and construction planning. If the project changes utilities, walls, or other permitted work, permit coordination may be needed before construction. The sequence matters because cabinet dimensions, appliance choices, lighting, plumbing, and ventilation can affect one another. Prepare a priority list and identify which features are essential versus optional. Elite Remodeling & Design describes a coordinated path from design through permitting, construction, and final inspection.",
+        "@type": "Answer",
+        "description": "Expect consultation, measurements, layout concepts, design development, material selections, construction planning, and—when applicable—permit coordination. Appliance sizes and utility locations should be settled before cabinets are ordered. Elite Remodeling & Design coordinates design and construction stages through final inspection."
+      }
+    }
+  ],
+  "description": "Expect consultation, measurements, layout concepts, design development, material selections, construction planning, and—when applicable—permit coordination. App"
+}

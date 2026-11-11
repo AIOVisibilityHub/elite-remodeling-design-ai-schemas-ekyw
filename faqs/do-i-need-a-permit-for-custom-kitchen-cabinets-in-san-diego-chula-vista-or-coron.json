@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-custom-kitchen-cabinets-in-san-diego-chula-vista-or-coron",
+  "name": "Do I need a permit for custom kitchen cabinets in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for custom kitchen cabinets in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet work alone may be exempt from a permit in some situations, but a kitchen remodel involving plumbing, electrical, mechanical, structural, or exterior changes can require permits and inspections. City rules vary, so confirm requirements with the applicable jurisdiction before work begins.\n\nContext: The City of San Diego states that relocating cabinets and countertops in certain single-family, duplex, and townhouse projects may be exempt, while other remodel work can require a permit. Chula Vista, Coronado, National City, and Imperial Beach may have different procedures.\n\nKey factors:\n- Whether walls or openings change\n- Sink, gas, electrical, or lighting relocation\n- Hood ducting and mechanical work\n- Structural conditions and property type\n\nPractical guidance: Ask for a written scope identifying permit-related work and who coordinates applications, inspections, and corrections. Do not assume that “cabinet replacement” covers every part of a kitchen remodel.\n\nElite Remodeling & Design’s published process includes permit coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "Cabinet replacement alone may be exempt in some cases, but utility, structural, mechanical, or layout changes can require permits. Confirm the rules for your city and ask the project team to identify and coordinate any permit-related work."
+      }
+    }
+  ],
+  "description": "Cabinet replacement alone may be exempt in some cases, but utility, structural, mechanical, or layout changes can require permits. Confirm the rules for your ci"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-countertops-without-replacing-my-cabinets",
+  "name": "Can I replace my countertops without replacing my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my countertops without replacing my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most countertop materials can be replaced without replacing the cabinets, provided the cabinets are structurally sound, adequately supported, and reasonably level. Keeping the cabinets can reduce demolition and preserve the existing kitchen layout, but damaged boxes, weak supports, water damage, or major unevenness may require cabinet repairs or replacement first. The decision depends on cabinet condition, the new countertop’s weight, sink configuration, and whether you want different overhangs or appliance locations. Ask for the cabinets to be inspected before fabrication rather than relying only on room measurements. Elite Remodeling & Design can coordinate countertop choices with cabinet and layout work when the existing base needs more than a surface update.",
+        "@type": "Answer",
+        "description": "Usually, yes, if the cabinets are sound, supported, and level enough for the new surface. Water damage, weak cabinet boxes, uneven runs, or a changed layout may require repairs or replacement first. Have the cabinet bases checked before final measurements so the new countertop is fabricated for actual site conditions."
+      }
+    }
+  ],
+  "description": "Usually, yes, if the cabinets are sound, supported, and level enough for the new surface. Water damage, weak cabinet boxes, uneven runs, or a changed layout may"
+}

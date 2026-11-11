@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-refacing-fix-my-bad-kitchen-layout-and-lack-of-storage-or-just-make-it-look",
+  "name": "Will refacing fix my bad kitchen layout and lack of storage, or just make it look newer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will refacing fix my bad kitchen layout and lack of storage, or just make it look newer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing can improve appearance, but it will not make damaged boxes structurally sound or fix poor cabinet placement. It also will not automatically improve storage, countertop height, appliance clearances, plumbing, lighting, or electrical capacity.\n\nContext: Homeowners sometimes expect new doors to solve functional issues that originate inside the cabinet system or elsewhere in the room. A design review helps separate cosmetic goals from construction needs.\n\nKey factors:\n- Whether shelves, drawer boxes, and hinges still operate properly.\n- Whether the sink base has moisture damage.\n- Whether appliance openings and walkways are adequate.\n\nPractical guidance: Write down recurring frustrations—crowded drawers, inaccessible corners, damaged sink areas, or insufficient lighting—and discuss them before the scope is finalized. Include organizers or layout changes only when they address a specific problem.\n\nElite Remodeling & Design can coordinate cabinet decisions with storage, countertop, plumbing, and electrical planning when a cosmetic update is not enough.",
+        "@type": "Answer",
+        "description": "Refacing mainly updates appearance and selected components. It does not automatically fix poor layout, insufficient storage, damaged boxes, appliance clearances, lighting, plumbing, or electrical issues. Identify your functional problems first and ask whether refacing, modifications, or replacement solves them."
+      }
+    }
+  ],
+  "description": "Refacing mainly updates appearance and selected components. It does not automatically fix poor layout, insufficient storage, damaged boxes, appliance clearances"
+}

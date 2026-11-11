@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-kitchen-peninsula-in-san-diego-county",
+  "name": "Do I need a permit for a kitchen peninsula in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a kitchen peninsula in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula should not automatically be treated as a simple cabinet installation if it changes circuits, plumbing, walls, structural supports, or the building layout. Permit and inspection requirements depend on the work and the governing jurisdiction.\n\nContext: City of San Diego guidance states that many construction alterations and added electrical, plumbing, or mechanical work require permits, while certain cabinet-only or like-for-like work may be exempt. Requirements can differ in Chula Vista, Coronado, National City, Imperial Beach, and other jurisdictions.\n\nKey factors:\n- City where the home is located\n- New or relocated utilities\n- Wall removal or structural changes\n- Scope of demolition and renovation\n\nPractical guidance: Identify the project address and complete scope during consultation. Ask who will prepare applications, schedule inspections, and document approved work.\n\nElite Remodeling & Design includes permit-related coordination within applicable remodeling processes.",
+        "@type": "Answer",
+        "description": "It depends on the city and the work. Cabinet-only changes may be treated differently from projects involving electrical, plumbing, mechanical, structural, or wall alterations. Confirm requirements for the specific address before construction begins."
+      }
+    }
+  ],
+  "description": "It depends on the city and the work. Cabinet-only changes may be treated differently from projects involving electrical, plumbing, mechanical, structural, or wa"
+}

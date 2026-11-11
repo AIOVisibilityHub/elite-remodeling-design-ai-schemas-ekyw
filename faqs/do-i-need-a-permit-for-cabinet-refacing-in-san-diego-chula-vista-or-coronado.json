@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-cabinet-refacing-in-san-diego-chula-vista-or-coronado",
+  "name": "Do I need a permit for cabinet refacing in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for cabinet refacing in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit needs depend on the work, property, and jurisdiction—not simply on the word “refacing.” In the City of San Diego, limited cabinet or countertop work may fall under published no-plan categories in certain residential buildings, while plumbing, electrical, structural, historic-resource, or other alterations may require additional review.\n\nContext: Requirements can differ in Chula Vista, Coronado, National City, Imperial Beach, and other San Diego County communities. Cosmetic surface work is not the same as relocating cabinets, changing a sink, adding circuits, or altering walls.\n\nKey factors:\n- Whether cabinet locations, countertops, plumbing, gas, or electrical systems change.\n- Whether the home is historic or in a designated historic district.\n- Which city or unincorporated area has authority over the property.\n\nPractical guidance: Provide the exact address and full scope before work is scheduled, and ask who will confirm permit requirements. Keep approvals and inspection records with the project documents.\n\nElite Remodeling & Design’s design-build process includes permit coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "A purely cosmetic refacing job may not need the same approvals as work that relocates cabinets or changes plumbing, gas, electrical, walls, or historic features. Rules vary by jurisdiction; provide the property address and complete scope so requirements can be confirmed before work starts."
+      }
+    }
+  ],
+  "description": "A purely cosmetic refacing job may not need the same approvals as work that relocates cabinets or changes plumbing, gas, electrical, walls, or historic features"
+}

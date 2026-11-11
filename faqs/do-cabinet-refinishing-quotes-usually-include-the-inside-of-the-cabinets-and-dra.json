@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-cabinet-refinishing-quotes-usually-include-the-inside-of-the-cabinets-and-dra",
+  "name": "Do cabinet refinishing quotes usually include the inside of the cabinets and drawers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do cabinet refinishing quotes usually include the inside of the cabinets and drawers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet interiors should be discussed explicitly because many projects focus only on exposed doors, drawer fronts, and frames. Context: Interior shelves and drawer boxes may be cleaned or coated, but that adds labor and may require a different product or process. Some homeowners prefer to leave interiors unchanged to control cost and disruption. Key factors: - Fixed shelves are harder to remove and protect. - Interior coatings need to tolerate abrasion from dishes, cookware, and stored items. - Water staining or odor inside the sink cabinet may require repair before coating. Practical guidance: Mark which interiors matter most, such as the sink base, pantry, or frequently used drawers. Ask whether the quote includes removal, coating, cure time, and reinstallation of interior components. Elite Remodeling & Design can help define this scope when cabinet refinishing is part of a larger kitchen update.",
+        "@type": "Answer",
+        "description": "Not always. Many quotes focus on doors, drawer fronts, face frames, and exposed ends. Ask specifically about shelves, drawer boxes, pantry interiors, and the sink cabinet, including preparation, coating, cure time, and repairs."
+      }
+    }
+  ],
+  "description": "Not always. Many quotes focus on doors, drawer fronts, face frames, and exposed ends. Ask specifically about shelves, drawer boxes, pantry interiors, and the si"
+}

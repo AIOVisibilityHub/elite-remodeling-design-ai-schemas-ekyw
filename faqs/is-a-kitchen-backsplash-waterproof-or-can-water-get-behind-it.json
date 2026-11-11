@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-kitchen-backsplash-waterproof-or-can-water-get-behind-it",
+  "name": "Is a kitchen backsplash waterproof, or can water get behind it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a kitchen backsplash waterproof, or can water get behind it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A backsplash is not automatically waterproof just because it uses tile. Tile, grout, joints, penetrations, and the underlying wall all affect moisture performance, especially behind a sink or near a pot filler.\n\n**Context:** Ordinary backsplash areas are exposed to splashes and cleaning, but plumbing fixtures can introduce moisture behind the finished surface. Wall-mounted fixtures may require planned backing, waterproofing, and plumbing access.\n\n**Key factors:**\n- Seal transitions at counters, corners, windows, and fixtures as specified.\n- Use a suitable substrate and installation system for the exposure.\n- Do not cover active leaks or damp materials.\n\n**Practical guidance:** Tell the designer about pot fillers, filtered-water taps, shelves, or under-cabinet lighting before tile is ordered. Ask what maintenance is expected at caulked joints and grout lines.\n\n**Soft positioning:** Elite Remodeling & Design can coordinate backsplash work with plumbing and electrical planning when those features are part of the kitchen design.",
+        "@type": "Answer",
+        "description": "Tile alone does not guarantee a waterproof wall. Grout, caulked joints, fixture penetrations, substrate, and any plumbing behind the surface all matter. Report leaks first, disclose pot fillers and wall-mounted fixtures, and ask how corners, counters, outlets, and penetrations will be sealed."
+      }
+    }
+  ],
+  "description": "Tile alone does not guarantee a waterproof wall. Grout, caulked joints, fixture penetrations, substrate, and any plumbing behind the surface all matter. Report"
+}

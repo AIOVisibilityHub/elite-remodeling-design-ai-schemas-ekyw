@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-my-cabinet-refacing-job-was-done-correctly",
+  "name": "How can I tell whether my cabinet refacing job was done correctly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether my cabinet refacing job was done correctly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A successful refacing project should end with doors and drawers aligned, hardware securely installed, finished panels consistent, edges clean, and all cabinet functions tested. The crew should also address debris removal, touch-ups, adjustments, and any agreed repairs.\n\nContext: A final walkthrough catches problems that are harder to resolve after dishes and appliances return. Appearance and operation should both be checked in normal use.\n\nKey factors:\n- Even reveals, level doors, smooth drawer movement, and consistent gaps.\n- Secure hinges, pulls, organizers, and end panels.\n- Clean seams, protected edges, and no exposed unfinished substrate.\n\nPractical guidance: Use the approved design and finish sample during the walkthrough, photograph deficiencies, and record a completion list with target dates for corrections. Avoid signing off on uncompleted items without documenting them.\n\nElite Remodeling & Design can include final adjustments and completion review within a coordinated remodeling closeout.",
+        "@type": "Answer",
+        "description": "Check that doors and drawers align, gaps are consistent, hardware is secure, panels match, edges are finished, drawers move smoothly, and organizers work under normal use. Compare the result with approved samples and document touch-ups or adjustments during the final walkthrough."
+      }
+    }
+  ],
+  "description": "Check that doors and drawers align, gaps are consistent, hardware is secure, panels match, edges are finished, drawers move smoothly, and organizers work under"
+}

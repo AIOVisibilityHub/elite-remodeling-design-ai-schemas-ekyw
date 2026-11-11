@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-are-the-biggest-mistakes-people-make-when-installing-a-kitchen-peninsula",
+  "name": "What are the biggest mistakes people make when installing a kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the biggest mistakes people make when installing a kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula should be delayed or redesigned when the proposed footprint blocks a required passage, conflicts with an appliance, depends on uncertain wall support, or has no clear utility plan. It is better to resolve those issues during design than after cabinets arrive.\n\nContext: Other warning signs include an unusually large overhang, missing flooring under the footprint, unclear permit responsibility, or a quote that excludes finish panels and countertop support. These gaps can lead to changes and delays.\n\nKey factors:\n- Unresolved measurements or concealed conditions\n- Missing appliance specifications\n- Unclear scope and exclusions\n- Unconfirmed support or utility routes\n\nPractical guidance: Request a written design revision and scope clarification before paying for final materials. Do not approve fabrication until dimensions, openings, supports, and finishes are documented.\n\nElite Remodeling & Design’s design-to-construction process is intended to resolve these decisions before installation.",
+        "@type": "Answer",
+        "description": "Common mistakes include ignoring traffic flow, ordering the countertop too early, underestimating seating clearance, omitting finished end panels, and failing to plan utilities or permits. Resolve measurements, appliance details, support, finishes, and scope before fabrication."
+      }
+    }
+  ],
+  "description": "Common mistakes include ignoring traffic flow, ordering the countertop too early, underestimating seating clearance, omitting finished end panels, and failing t"
+}

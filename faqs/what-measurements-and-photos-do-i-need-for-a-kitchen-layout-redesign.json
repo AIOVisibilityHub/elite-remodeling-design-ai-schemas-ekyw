@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-measurements-and-photos-do-i-need-for-a-kitchen-layout-redesign",
+  "name": "What measurements and photos do I need for a kitchen layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements and photos do I need for a kitchen layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate evidence of the existing space is the best protection against an attractive but unbuildable layout. Provide measurements, photos, ceiling and floor conditions, appliance specifications, outlet locations, plumbing access, and any known previous remodel information. A professional should also verify conditions rather than relying only on homeowner sketches, especially before removing walls or relocating a range. Bring a list of cooking routines, storage items, seating requirements, and accessibility concerns. Elite Remodeling & Design can incorporate measured conditions into layout development and 3D visualization.",
+        "@type": "Answer",
+        "description": "Gather wall-to-wall measurements, ceiling height, doors, windows, openings, outlets, plumbing points, appliance dimensions, and clear photos of every wall. Also list storage items, cooking habits, seating needs, and daily frustrations. Verified existing conditions are more reliable than a rough sketch."
+      }
+    }
+  ],
+  "description": "Gather wall-to-wall measurements, ceiling height, doors, windows, openings, outlets, plumbing points, appliance dimensions, and clear photos of every wall. Also"
+}

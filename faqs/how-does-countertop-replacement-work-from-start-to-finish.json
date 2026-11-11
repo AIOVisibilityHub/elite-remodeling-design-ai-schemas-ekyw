@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-countertop-replacement-work-from-start-to-finish",
+  "name": "How does countertop replacement work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does countertop replacement work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Countertop replacement generally involves design decisions, site measurement, material fabrication, removal of the old surface, installation, and sink or plumbing coordination. The cabinets usually need to be complete and level before final templating, and the sink, faucet, cooktop, edge, seams, and backsplash must be confirmed before fabrication. The material is then cut and finished to the measured conditions rather than simply sized from a floor plan. Plan for temporary loss of the sink and counter workspace during removal and installation. Elite Remodeling & Design describes a broader design-build process that can include consultation, design development, material selections, permitting coordination where applicable, construction, and final inspection.",
+        "@type": "Answer",
+        "description": "The usual sequence is consultation, cabinet and site evaluation, material selection, detailed templating, fabrication, removal of the old countertop, installation, and sink or plumbing reconnection. Cabinets must generally be finished and level before final measurements. The exact sequence changes if the backsplash, cabinetry, layout, or electrical and plumbing work also changes."
+      }
+    }
+  ],
+  "description": "The usual sequence is consultation, cabinet and site evaluation, material selection, detailed templating, fabrication, removal of the old countertop, installati"
+}

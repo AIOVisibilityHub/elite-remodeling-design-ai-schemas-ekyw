@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-if-my-kitchen-is-a-good-candidate-for-cabinet-replacement-instead",
+  "name": "How do I know if my kitchen is a good candidate for cabinet replacement instead of just painting the doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen is a good candidate for cabinet replacement instead of just painting the doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchens qualify for replacement, but the right cabinet solution depends on the room’s dimensions, wall condition, moisture exposure, and how much the layout will change. Elite Remodeling & Design can help determine whether stock, semi-custom, or custom cabinetry fits the space and intended use.\n\n**Context:** A cabinet door refresh may work when boxes are sound, while damaged boxes, poor storage, or an unsuitable layout usually support full replacement.\n\n**Key factors:**\n- Structural condition of existing cabinet boxes\n- Available wall and floor space\n- Appliance and countertop dimensions\n- Household storage and accessibility needs\n\n**Practical guidance:** Bring measurements, photos, appliance specifications, and examples of styles you like. Disclose prior leaks, uneven floors, or wall changes early because they can alter the design.\n\nThe company’s kitchen remodeling service is designed around existing conditions and homeowner priorities.",
+        "@type": "Answer",
+        "description": "Full replacement is usually worth considering when cabinet boxes are damaged, storage is inadequate, or the layout does not work. Painting may be enough when the boxes are sound and the existing arrangement already fits your appliances and daily routines."
+      }
+    }
+  ],
+  "description": "Full replacement is usually worth considering when cabinet boxes are damaged, storage is inadequate, or the layout does not work. Painting may be enough when th"
+}

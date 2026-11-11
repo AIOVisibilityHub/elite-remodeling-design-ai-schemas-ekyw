@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-kitchen-peninsula-installation-quote",
+  "name": "What should be included in a kitchen peninsula installation quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a kitchen peninsula installation quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Request an itemized proposal, scaled layout, material specifications, installation sequence, utility scope, permit responsibilities, and warranty or correction process. A price alone does not show whether two peninsula proposals cover the same work.\n\nContext: Differences often hide in finished end panels, countertop edges, demolition, floor repair, electrical work, painting, cleanup, and appliance reconnection. Elite Remodeling & Design offers coordinated design and construction, so the proposal should clearly identify which stages are included.\n\nKey factors:\n- Cabinet and countertop specifications\n- Included demolition and finish work\n- Utility and inspection responsibilities\n- Change-order assumptions\n\nPractical guidance: Give every contractor the same measurements, appliance list, and finish selections. Ask what could cause the scope or price to change before signing.\n\nA clear written scope makes the project easier to compare and manage.",
+        "@type": "Answer",
+        "description": "Look for cabinet details, countertop material and edge, finished panels, demolition, flooring or trim work, utilities, permits, inspections, installation, cleanup, and exclusions. Give each contractor the same plan and appliance list so proposals are genuinely comparable."
+      }
+    }
+  ],
+  "description": "Look for cabinet details, countertop material and edge, finished panels, demolition, flooring or trim work, utilities, permits, inspections, installation, clean"
+}

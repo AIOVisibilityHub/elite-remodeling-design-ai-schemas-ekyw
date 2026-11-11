@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-replace-my-kitchen-cabinets-but-have-no-idea",
+  "name": "What should I do first if I want to replace my kitchen cabinets but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to replace my kitchen cabinets but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by deciding whether you need a cosmetic update or a full cabinet replacement. A consultation with Elite Remodeling & Design can review the layout, cabinet condition, storage problems, and related countertop, plumbing, or electrical work before materials are chosen.\n\n**Context:** Replacing cabinets in the same general locations is simpler than changing walls, appliances, or utility connections. Hidden water damage, uneven floors, and out-of-square walls can affect the plan.\n\n**Key factors:**\n- Cabinet box condition and moisture damage\n- Desired storage, door style, and accessibility\n- Appliance dimensions and clearances\n- Whether the sink, lighting, gas, or electrical service will move\n\n**Practical guidance:** Photograph the existing kitchen, measure appliances, and list the problems you want solved. Ask for a written scope that separates cabinets from countertops, finish work, and trade changes.\n\nElite Remodeling & Design can coordinate design development and construction planning as one residential remodeling project.",
+        "@type": "Answer",
+        "description": "Begin with a layout and condition review, not cabinet shopping. Document your kitchen, appliances, storage problems, and preferred style, then have Elite Remodeling & Design determine whether the project needs only cabinets or also countertops, plumbing, electrical, or layout changes."
+      }
+    }
+  ],
+  "description": "Begin with a layout and condition review, not cabinet shopping. Document your kitchen, appliances, storage problems, and preferred style, then have Elite Remode"
+}

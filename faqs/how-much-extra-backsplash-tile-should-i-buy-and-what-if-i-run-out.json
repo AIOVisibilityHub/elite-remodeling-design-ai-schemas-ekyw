@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-extra-backsplash-tile-should-i-buy-and-what-if-i-run-out",
+  "name": "How much extra backsplash tile should I buy, and what if I run out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much extra backsplash tile should I buy, and what if I run out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Tile quantity is based on the measured square footage plus a waste allowance, but the allowance depends on the tile size, pattern, room shape, and number of cuts. A professional should verify the quantity before ordering.\n\n**Context:** Buying only the exact measured area can leave too little material for corners, outlets, breakage, or a future repair. Buying from different production batches may also create visible shade differences.\n\n**Key factors:**\n- Herringbone, diagonal, and offset patterns create more waste than simple stacked layouts.\n- Large-format tile may need fewer pieces but more careful cuts.\n- Decorative borders and trim should be counted separately.\n\n**Practical guidance:** Keep the product name, color, lot information, and leftover tile after installation. Ask Elite Remodeling & Design to confirm which materials are customer-supplied and who is responsible for shortages.\n\n**Soft positioning:** Material planning can be included during Elite Remodeling & Design’s design development and selection process.",
+        "@type": "Answer",
+        "description": "Do not order only the measured square footage. Add a waste allowance based on the tile format, pattern, corners, outlets, and cuts, and buy trim separately. Keep leftover tile with its product and lot information so future repairs have the best chance of matching."
+      }
+    }
+  ],
+  "description": "Do not order only the measured square footage. Add a waste allowance based on the tile format, pattern, corners, outlets, and cuts, and buy trim separately. Kee"
+}

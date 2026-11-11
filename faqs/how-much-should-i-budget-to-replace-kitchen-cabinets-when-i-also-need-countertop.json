@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-to-replace-kitchen-cabinets-when-i-also-need-countertop",
+  "name": "How much should I budget to replace kitchen cabinets when I also need countertops and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget to replace kitchen cabinets when I also need countertops and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends on cabinet quantity, construction quality, customization, installation, demolition, countertops, hardware, repairs, and related trade work. Published national guidance places cabinet replacement for a typical kitchen in a broad range, with labor often priced separately; a site-specific estimate is more useful than a generic figure.\n\n**Context:** A same-layout replacement generally costs less than relocating a sink, adding an island, moving appliances, or opening a wall. Cabinet selections can also change the budget significantly.\n\n**Key factors:**\n- Linear footage and cabinet type\n- Door material, finish, hardware, and accessories\n- Countertop and backsplash scope\n- Plumbing, electrical, flooring, and disposal work\n\n**Practical guidance:** Request an itemized proposal showing allowances, installation, demolition, delivery, taxes, permits if applicable, and change-order terms. Compare complete scopes, not cabinet prices alone.\n\nElite Remodeling & Design can develop the design and construction scope together for clearer budgeting.",
+        "@type": "Answer",
+        "description": "There is no reliable single price because cabinet type, quantity, installation, countertops, demolition, repairs, and utility changes all affect the total. Ask for an itemized estimate that separates cabinets, labor, countertops, related trades, disposal, and allowances."
+      }
+    }
+  ],
+  "description": "There is no reliable single price because cabinet type, quantity, installation, countertops, demolition, repairs, and utility changes all affect the total. Ask"
+}

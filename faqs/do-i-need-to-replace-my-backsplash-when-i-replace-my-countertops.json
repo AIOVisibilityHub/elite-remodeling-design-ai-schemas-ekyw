@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-to-replace-my-backsplash-when-i-replace-my-countertops",
+  "name": "Do I need to replace my backsplash when I replace my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my backsplash when I replace my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new countertop can often fit existing cabinets, but the backsplash may need removal or replacement if it sits on the countertop, conflicts with the new thickness, or must match the new material. Removing an attached backsplash can damage drywall or tile and may reveal uneven wall conditions. Decide whether the backsplash is staying before final measurements and clarify who will repair exposed walls. If you want a continuous stone backsplash, confirm its height, seams, and added fabrication scope. Elite Remodeling & Design can coordinate countertop and finish selections when the backsplash is part of a broader kitchen update.",
+        "@type": "Answer",
+        "description": "Not always. Keep the backsplash only if it is sound, compatible with the new countertop thickness, and not damaged during removal. Replace or repair it when it sits on the old surface, conflicts with the new design, or leaves exposed and uneven walls. Confirm this decision before templating and pricing."
+      }
+    }
+  ],
+  "description": "Not always. Keep the backsplash only if it is sound, compatible with the new countertop thickness, and not damaged during removal. Replace or repair it when it"
+}

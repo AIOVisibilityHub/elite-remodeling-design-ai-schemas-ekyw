@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-when-replacing-kitchen-cabinets-especially-in-an-older-san-die",
+  "name": "What can go wrong when replacing kitchen cabinets, especially in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when replacing kitchen cabinets, especially in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are ordering incorrect sizes, discovering moisture or wall damage after removal, overlooking appliance clearances, and assuming utility changes are included. A written scope and field verification reduce these problems.\n\n**Context:** Cabinets may conceal plumbing leaks, uneven floors, or non-square walls. Moving a sink, adding circuits, changing gas service, or altering a wall can change both the work sequence and permit needs.\n\n**Key factors:**\n- Measure appliances before final cabinet approval\n- Inspect for leaks and moisture damage\n- Confirm filler panels, corner clearances, and door swings\n- Identify utility changes before demolition\n\n**Practical guidance:** Do not approve final cabinet orders until measurements and appliance specifications are checked. Keep a contingency for concealed conditions and ask how discovered issues will be documented.\n\nElite Remodeling & Design can review existing conditions during design and coordinate related construction work.",
+        "@type": "Answer",
+        "description": "Common problems include incorrect measurements, hidden leaks, uneven floors, out-of-square walls, appliance-clearance errors, and unplanned utility work. Verify appliances and wall conditions before ordering, and use a written process for documenting concealed conditions and changes."
+      }
+    }
+  ],
+  "description": "Common problems include incorrect measurements, hidden leaks, uneven floors, out-of-square walls, appliance-clearance errors, and unplanned utility work. Verify"
+}

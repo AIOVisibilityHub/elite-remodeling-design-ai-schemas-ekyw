@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-put-my-cooktop-or-range-on-the-kitchen-peninsula",
+  "name": "Should I put my cooktop or range on the kitchen peninsula?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I put my cooktop or range on the kitchen peninsula?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula can be added while keeping a gas range or cooktop elsewhere, and that is often simpler than moving the cooking appliance. Moving the range onto the peninsula adds ventilation, gas or electrical, countertop, clearance, and safety-planning requirements.\n\nContext: The best location depends on the existing kitchen services and how the household cooks. A peninsula used for prep and seating may provide more benefit with fewer construction changes than one carrying a major appliance.\n\nKey factors:\n- Existing fuel and electrical connections\n- Ventilation approach\n- Clearance from seating and traffic\n- Countertop cutout and appliance dimensions\n\nPractical guidance: Decide whether the peninsula needs an appliance before finalizing its cabinet layout. Confirm the manufacturer’s clearances and service access for any selected unit.\n\nElite Remodeling & Design can coordinate kitchen layout, appliance placement, and construction planning.",
+        "@type": "Answer",
+        "description": "Only if the layout, ventilation, utility connections, seating, and clearances support it. Keeping the range in place may simplify construction, while using the peninsula for prep and seating can deliver function with fewer changes. Choose the appliance location during design."
+      }
+    }
+  ],
+  "description": "Only if the layout, ventilation, utility connections, seating, and clearances support it. Keeping the range in place may simplify construction, while using the"
+}

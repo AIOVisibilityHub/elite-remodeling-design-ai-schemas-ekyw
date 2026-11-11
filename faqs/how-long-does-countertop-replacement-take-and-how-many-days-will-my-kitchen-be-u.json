@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-countertop-replacement-take-and-how-many-days-will-my-kitchen-be-u",
+  "name": "How long does countertop replacement take, and how many days will my kitchen be unusable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does countertop replacement take, and how many days will my kitchen be unusable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical stone countertop project may take roughly two to four weeks from approved selection to completion, while the kitchen may be unusable for only part of that period. Measurement, slab selection, fabrication, demolition, installation, adhesive curing, and plumbing reconnection all affect the schedule. Busy fabrication periods, unusual layouts, large slabs, multiple seams, or delayed material selections can extend the timeline. Ask for milestone dates rather than only a total duration, and confirm when the sink and water service will be unavailable. Elite Remodeling & Design can place countertop work within a larger kitchen schedule when cabinetry, backsplash, or other remodeling tasks are included.",
+        "@type": "Answer",
+        "description": "Many stone countertop projects take about two to four weeks from selection through completion, although the kitchen itself may be disrupted for only a few days. Fabrication, cabinet readiness, material availability, seams, sink work, and plumbing reconnection can change the schedule. Request milestone dates and plan temporary meal preparation space."
+      }
+    }
+  ],
+  "description": "Many stone countertop projects take about two to four weeks from selection through completion, although the kitchen itself may be disrupted for only a few days."
+}

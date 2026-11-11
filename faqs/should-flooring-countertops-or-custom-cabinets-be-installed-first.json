@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-flooring-countertops-or-custom-cabinets-be-installed-first",
+  "name": "Should flooring, countertops, or custom cabinets be installed first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should flooring, countertops, or custom cabinets be installed first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet installation should generally be coordinated with flooring and countertops rather than treated as an isolated task. The correct sequence depends on the flooring type, appliance plan, cabinet construction, and whether the kitchen layout changes.\n\nContext: Countertop templating requires cabinets to be securely installed and level. Flooring height can affect appliance clearances, toe-kicks, and dishwasher removal, so the project plan should settle sequencing before work begins.\n\nKey factors:\n- Flooring thickness and installation method\n- Appliance openings and service access\n- Countertop template and support requirements\n- Whether existing floors remain\n\nPractical guidance: Ask for a written trade sequence and confirm who verifies cabinet level and countertop readiness. Photograph concealed utility locations before walls or backs are closed.\n\nElite Remodeling & Design can coordinate these stages as part of a broader kitchen remodel.",
+        "@type": "Answer",
+        "description": "The sequence depends on flooring, appliances, cabinet construction, and the countertop plan. Cabinets must be secure and level before templating, while flooring height can affect toe-kicks and appliance clearances, so confirm the order in writing."
+      }
+    }
+  ],
+  "description": "The sequence depends on flooring, appliances, cabinet construction, and the countertop plan. Cabinets must be secure and level before templating, while flooring"
+}

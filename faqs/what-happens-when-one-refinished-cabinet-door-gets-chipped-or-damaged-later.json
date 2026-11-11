@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-when-one-refinished-cabinet-door-gets-chipped-or-damaged-later",
+  "name": "What happens when one refinished cabinet door gets chipped or damaged later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens when one refinished cabinet door gets chipped or damaged later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor wear can often be touched up, but touch-up success depends on keeping the original color, sheen, coating, and preparation information. Context: Sun exposure, cleaning, and normal aging can make a new spot look different from the surrounding surface. Repairs are harder when the finish was mixed without a recorded formula or when the damage reaches the substrate. Key factors: - Keep the final color name, product system, sheen, and application date. - Address chips early before moisture reaches vulnerable material. - Consider whether a single door or larger section should be refinished for a uniform result. Practical guidance: Ask whether the contractor provides leftover material or touch-up instructions. Photograph damage and avoid using household paint as an untested repair. Elite Remodeling & Design can assess whether localized repair or a broader cabinet refresh is the more consistent solution.",
+        "@type": "Answer",
+        "description": "Small damage may be touchable, but the match depends on the original color, sheen, coating, and substrate. Keep finish information and ask about approved touch-up materials. Larger or visible damage may look better with the whole door or section refinished."
+      }
+    }
+  ],
+  "description": "Small damage may be touchable, but the match depends on the original color, sheen, coating, and substrate. Keep finish information and ask about approved touch-"
+}

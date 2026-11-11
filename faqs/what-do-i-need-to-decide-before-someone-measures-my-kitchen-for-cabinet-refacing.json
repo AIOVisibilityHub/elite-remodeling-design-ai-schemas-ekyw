@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-do-i-need-to-decide-before-someone-measures-my-kitchen-for-cabinet-refacing",
+  "name": "What do I need to decide before someone measures my kitchen for cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to decide before someone measures my kitchen for cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not approve final cabinet measurements until the room’s planned countertop, flooring, backsplash, and appliance changes are understood. Even small changes can affect finished heights, side clearances, reveals, and panel dimensions.\n\nContext: Refacing relies on close alignment with existing conditions, so assumptions about future work can create gaps or interference. A clear sequence reduces rework.\n\nKey factors:\n- Finished floor height and countertop thickness.\n- Appliance sizes and opening requirements.\n- Backsplash, wall conditions, and the location of outlets and plumbing.\n\nPractical guidance: Make a written list of every planned change and ask which decisions must be finalized before measuring. Photograph walls, corners, outlets, and cabinet interiors to support the design review.\n\nElite Remodeling & Design can organize design development, material selections, and construction coordination when cabinet refacing is part of a wider renovation.",
+        "@type": "Answer",
+        "description": "Before measuring, identify planned changes to countertops, flooring, backsplash, appliances, hardware, storage, plumbing, and electrical work. Gather appliance specifications and photos of cabinet interiors, walls, outlets, corners, and sink areas so the design reflects the finished room."
+      }
+    }
+  ],
+  "description": "Before measuring, identify planned changes to countertops, flooring, backsplash, appliances, hardware, storage, plumbing, and electrical work. Gather appliance"
+}

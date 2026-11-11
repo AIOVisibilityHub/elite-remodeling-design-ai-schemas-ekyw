@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-home-while-custom-kitchen-cabinets-are-being-installed",
+  "name": "Can I stay in my home while custom kitchen cabinets are being installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while custom kitchen cabinets are being installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cabinet-only project can sometimes be completed while keeping the existing layout, but a full kitchen remodel usually causes temporary disruption. The biggest factors are sink and appliance disconnection, demolition, flooring, utility work, inspections, countertops, and cabinet delivery.\n\nContext: Trying to keep a kitchen operating can influence sequencing and may increase labor or temporary protection needs. Elite Remodeling & Design can plan the work around the actual project scope rather than assuming every remodel follows the same schedule.\n\nKey factors:\n- Whether the sink and refrigerator can remain connected\n- Number of construction stages\n- Availability of a temporary food-preparation area\n- Dust, noise, and access restrictions\n\nPractical guidance: Ask for a phase-by-phase plan and prepare a temporary kitchen with water, refrigeration, and safe food storage. Confirm how the work area will be protected and cleaned each day.\n\nPlanning household logistics early makes the disruption easier to manage.",
+        "@type": "Answer",
+        "description": "Often, but expect disruption if the sink, appliances, flooring, utilities, or countertops are involved. Ask for a phase-by-phase schedule, prepare a temporary food area, and confirm daily protection and cleanup procedures."
+      }
+    }
+  ],
+  "description": "Often, but expect disruption if the sink, appliances, flooring, utilities, or countertops are involved. Ask for a phase-by-phase schedule, prepare a temporary f"
+}

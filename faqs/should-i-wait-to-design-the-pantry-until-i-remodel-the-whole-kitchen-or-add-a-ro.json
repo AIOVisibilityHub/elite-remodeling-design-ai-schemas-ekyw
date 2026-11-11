@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-wait-to-design-the-pantry-until-i-remodel-the-whole-kitchen-or-add-a-ro",
+  "name": "Should I wait to design the pantry until I remodel the whole kitchen or add a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I wait to design the pantry until I remodel the whole kitchen or add a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry can be incorporated into a kitchen addition or broader home remodel, and that timing may provide more layout flexibility than retrofitting it later. Elite Remodeling & Design can coordinate the pantry with room dimensions, cabinet locations, electrical work, lighting, and the overall construction sequence. Even in a larger project, the pantry should be planned around actual storage behavior rather than treated as leftover space. Decide whether it needs a countertop, appliance parking, food prep, or only shelving before plans are finalized. Review door locations and delivery paths while the room layout is still adjustable. Coordinating it early can prevent expensive changes after walls and utilities are established.",
+        "@type": "Answer",
+        "description": "Plan it early, especially when walls, utilities, or room dimensions may change. Elite Remodeling & Design can coordinate the pantry with the kitchen, addition, electrical plan, lighting, and construction sequence. Waiting until cabinets are finalized may limit the best storage and door options."
+      }
+    }
+  ],
+  "description": "Plan it early, especially when walls, utilities, or room dimensions may change. Elite Remodeling & Design can coordinate the pantry with the kitchen, addition,"
+}

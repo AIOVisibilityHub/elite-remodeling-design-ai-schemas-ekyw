@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-watch-for-when-redesigning-a-kitchen-in-an-older-san-diego-home",
+  "name": "What should I watch for when redesigning a kitchen in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I watch for when redesigning a kitchen in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older kitchens may contain uneven walls, concealed piping, outdated wiring, limited ventilation, or previous work that does not match current drawings. A redesign should allow for verification and a plan for conditions discovered after demolition rather than assuming every surface is square and every connection is where expected. Avoid final cabinet orders until critical dimensions are confirmed. Keep a contingency for unknown conditions, especially when opening walls or moving utilities. Elite Remodeling & Design can incorporate existing-condition review into design and construction planning.",
+        "@type": "Answer",
+        "description": "Expect possible uneven walls, concealed utilities, outdated systems, ventilation limits, and undocumented previous work. Verify critical dimensions before ordering cabinets and plan for concealed conditions if walls or floors will be opened. A construction-aware design reduces avoidable rework."
+      }
+    }
+  ],
+  "description": "Expect possible uneven walls, concealed utilities, outdated systems, ventilation limits, and undocumented previous work. Verify critical dimensions before order"
+}

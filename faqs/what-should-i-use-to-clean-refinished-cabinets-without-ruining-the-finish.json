@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-use-to-clean-refinished-cabinets-without-ruining-the-finish",
+  "name": "What should I use to clean refinished cabinets without ruining the finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I use to clean refinished cabinets without ruining the finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most cabinet finishes need gentle cleaning and protection from standing water, steam, heat, and abrasive products. Context: Even a durable coating can be damaged by scouring pads, strong solvents, prolonged dampness, and slamming doors or drawers. Maintenance requirements vary by the coating system used. Key factors: - Use a soft cloth and the cleaner approved by the contractor. - Wipe spills near sinks and dishwashers promptly. - Keep cabinet doors from rubbing while the finish fully cures. Practical guidance: Request written care instructions and the product or color information needed for future touch-ups. Avoid testing new cleaners on visible areas; test only where the contractor permits. Elite Remodeling & Design can explain maintenance expectations as part of the final project walkthrough.",
+        "@type": "Answer",
+        "description": "Use a soft cloth and only the cleaner approved for the coating system. Avoid abrasive pads, harsh solvents, excess water, steam, and prolonged moisture. Wipe spills promptly and follow the contractor’s cure and care instructions."
+      }
+    }
+  ],
+  "description": "Use a soft cloth and only the cleaner approved for the coating system. Avoid abrasive pads, harsh solvents, excess water, steam, and prolonged moisture. Wipe sp"
+}

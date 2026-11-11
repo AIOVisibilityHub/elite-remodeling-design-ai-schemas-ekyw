@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-kitchens-near-the-coast-like-coronado-or-imperial-beach-need-different-storag",
+  "name": "Do kitchens near the coast, like Coronado or Imperial Beach, need different storage materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do kitchens near the coast, like Coronado or Imperial Beach, need different storage materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storage improvements may require more planning when a kitchen is in an older home, coastal environment, or property with unusual existing conditions. The project team should verify the condition of walls, floors, cabinets, utilities, and finishes before finalizing the design. Context: Homes in coastal areas such as Coronado or Imperial Beach may have site-specific wear or moisture concerns, but the correct response depends on inspection rather than neighborhood alone. Elite Remodeling & Design can incorporate existing-condition findings into design and construction planning. Key factors: moisture or corrosion signs; wall condition; floor level; utility locations; material durability. Practical guidance: Report leaks, staining, swelling, or corroded hardware before selecting new storage. Ask how proposed materials and hardware will be maintained in the actual kitchen environment. Keep location-specific assumptions out of the plan until the property is assessed.",
+        "@type": "Answer",
+        "description": "They may need closer attention to moisture, corrosion, and existing-condition issues, but material choices should follow an inspection rather than a neighborhood assumption. Report leaks or swelling and ask how proposed cabinetry and hardware will hold up in the home."
+      }
+    }
+  ],
+  "description": "They may need closer attention to moisture, corrosion, and existing-condition issues, but material choices should follow an inspection rather than a neighborhoo"
+}

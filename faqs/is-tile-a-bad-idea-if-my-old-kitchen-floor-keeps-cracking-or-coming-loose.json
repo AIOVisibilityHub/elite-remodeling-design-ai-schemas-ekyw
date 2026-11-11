@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-tile-a-bad-idea-if-my-old-kitchen-floor-keeps-cracking-or-coming-loose",
+  "name": "Is tile a bad idea if my old kitchen floor keeps cracking or coming loose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is tile a bad idea if my old kitchen floor keeps cracking or coming loose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile is worth considering when you want a highly durable, water-resistant surface and are comfortable with a harder feel underfoot. It performs best over a properly prepared, stable, and sufficiently flat base with correctly planned joints and transitions. Context: Loose tiles and recurring grout failure can indicate movement, poor preparation, moisture, or an underlying base problem. The replacement scope should address that cause. Key factors: - Subfloor stability - Tile and grout maintenance - Slip resistance and texture - Added floor height Practical guidance: Ask how the installer will prepare the substrate and align tile height with adjoining rooms. Elite Remodeling & Design can incorporate tile selection into the broader kitchen layout and finish plan.",
+        "@type": "Answer",
+        "description": "Tile is not automatically a bad choice, but recurring cracks or loose pieces must be investigated first. Movement, moisture, poor leveling, or inadequate substrate preparation can cause the same failure again unless corrected."
+      }
+    }
+  ],
+  "description": "Tile is not automatically a bad choice, but recurring cracks or loose pieces must be investigated first. Movement, moisture, poor leveling, or inadequate substr"
+}

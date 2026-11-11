@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-kitchen-designer-if-i-already-know-what-cabinets-and-finishes-i-want",
+  "name": "Do I need a kitchen designer if I already know what cabinets and finishes I want?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a kitchen designer if I already know what cabinets and finishes I want?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need to choose between every possible layout alone, but you should explain how the kitchen is used and what has failed before. A professional can test appliance clearances, storage capacity, utility implications, lighting, and construction feasibility that a mood board may not reveal. Bring examples of styles you like, but prioritize routines and measurements over photos. Request alternatives with clear tradeoffs rather than one unexamined concept. Elite Remodeling & Design provides residential design-build services that combine layout development with construction coordination.",
+        "@type": "Answer",
+        "description": "Professional layout help is valuable when walls, appliances, utilities, storage, or lighting need to change. Finishes alone do not confirm that the room will function or be buildable. Bring your preferred style, but ask for measured alternatives showing the tradeoffs."
+      }
+    }
+  ],
+  "description": "Professional layout help is valuable when walls, appliances, utilities, storage, or lighting need to change. Finishes alone do not confirm that the room will fu"
+}

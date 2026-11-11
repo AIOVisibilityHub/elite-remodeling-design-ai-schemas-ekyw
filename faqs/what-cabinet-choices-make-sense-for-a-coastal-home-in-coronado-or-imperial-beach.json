@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-cabinet-choices-make-sense-for-a-coastal-home-in-coronado-or-imperial-beach",
+  "name": "What cabinet choices make sense for a coastal home in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet choices make sense for a coastal home in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal homes in Coronado and Imperial Beach may need extra attention to moisture, salt air, ventilation, and cleaning because environmental exposure can affect hardware and finishes. The material choice should still be based on the kitchen’s actual conditions, not a blanket coastal label.\n\nContext: Coastal exposure is one factor among many, including leaks, steam, sunlight, and household use. Good detailing around sinks, dishwashers, walls, and ventilation is as important as the cabinet material.\n\nKey factors:\n- Corrosion-resistant hardware\n- Moisture-resistant construction and edge treatment\n- Ventilation near cooking and dishwashing\n- Sealant and maintenance requirements\n\nPractical guidance: Tell the designer about coastal exposure and any history of condensation or leaks. Ask how sink bases, exposed ends, toe-kicks, and hardware will be protected and maintained.\n\nElite Remodeling & Design can incorporate site conditions into the cabinet and kitchen remodeling plan.",
+        "@type": "Answer",
+        "description": "Coastal kitchens may benefit from corrosion-resistant hardware, careful moisture detailing, suitable edge treatments, and effective ventilation. Discuss salt air, condensation, leaks, and maintenance before selecting materials and finishes."
+      }
+    }
+  ],
+  "description": "Coastal kitchens may benefit from corrosion-resistant hardware, careful moisture detailing, suitable edge treatments, and effective ventilation. Discuss salt ai"
+}

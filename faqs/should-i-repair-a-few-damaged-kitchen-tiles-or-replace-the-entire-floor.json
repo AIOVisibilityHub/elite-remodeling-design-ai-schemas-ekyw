@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-repair-a-few-damaged-kitchen-tiles-or-replace-the-entire-floor",
+  "name": "Should I repair a few damaged kitchen tiles or replace the entire floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair a few damaged kitchen tiles or replace the entire floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing only damaged pieces may make sense when matching material is available, the base is sound, and the damage is isolated. Full replacement is more appropriate when the floor has widespread wear, moisture damage, poor leveling, unavailable materials, or an outdated layout that conflicts with planned remodeling. Context: A small repair can preserve budget, but mismatched aging materials may remain visible and the original cause may continue. Key factors: - Extent and cause of damage - Availability of matching material - Remaining service life - Planned cabinet or kitchen changes Practical guidance: Have the damaged area and surrounding substrate inspected before choosing a patch. Elite Remodeling & Design can help determine whether a limited repair fits the intended kitchen renovation or merely postpones a larger scope.",
+        "@type": "Answer",
+        "description": "Repair isolated damage when matching material is available and the substrate is sound. Replace more broadly when moisture, movement, poor leveling, widespread wear, or unavailable matching material makes a small patch unlikely to last or look consistent."
+      }
+    }
+  ],
+  "description": "Repair isolated damage when matching material is available and the substrate is sound. Replace more broadly when moisture, movement, poor leveling, widespread w"
+}

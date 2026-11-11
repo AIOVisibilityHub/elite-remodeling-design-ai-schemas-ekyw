@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-one-kitchen-cabinet-replacement-quote-so-much-cheaper-than-the-others",
+  "name": "Why is one kitchen cabinet replacement quote so much cheaper than the others?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is one kitchen cabinet replacement quote so much cheaper than the others?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A quote that is much lower may exclude demolition, installation, delivery, hardware, countertop work, repairs, permits, or final trim. It can also use lower-grade specifications or broad allowances that increase after selections are made.\n\n**Context:** Two proposals are comparable only when they describe the same quantities, materials, finishes, construction, and related work. A low initial number is not necessarily a low final cost.\n\n**Key factors:**\n- Cabinet construction and finish specifications\n- Allowances and excluded items\n- Warranty and correction responsibilities\n- Change-order pricing\n\n**Practical guidance:** Create a side-by-side scope comparison and ask each provider to price missing items. Do not approve based on the headline total alone.\n\nElite Remodeling & Design can develop a coordinated scope covering design decisions and construction components.",
+        "@type": "Answer",
+        "description": "The lower quote may exclude demolition, installation, delivery, hardware, repairs, countertops, permits, or final trim, or use broad allowances. Compare cabinet specifications and every included and excluded task before deciding which proposal offers better value."
+      }
+    }
+  ],
+  "description": "The lower quote may exclude demolition, installation, delivery, hardware, repairs, countertops, permits, or final trim, or use broad allowances. Compare cabinet"
+}

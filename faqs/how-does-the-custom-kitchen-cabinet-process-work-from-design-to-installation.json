@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-the-custom-kitchen-cabinet-process-work-from-design-to-installation",
+  "name": "How does the custom kitchen cabinet process work from design to installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the custom kitchen cabinet process work from design to installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically moves from consultation and field measurements to layout development, design visualization, material selections, ordering, site preparation, installation, and final adjustments. If the kitchen includes plumbing, electrical, structural, or other construction changes, those items must be coordinated with the cabinet plan.\n\nContext: Elite Remodeling & Design describes a design-build process that can include 3D visualization, permit coordination, construction, and final inspection. Cabinet installation is only one stage of a functioning kitchen remodel.\n\nKey factors:\n- Accuracy of existing measurements\n- Appliance and sink decisions\n- Material availability and manufacturing lead times\n- Whether walls, utilities, or flooring change\n\nPractical guidance: Approve drawings that show elevations, fillers, panels, appliance openings, and hardware locations. Keep a written record of selections and revisions before fabrication.\n\nA coordinated process reduces conflicts between cabinetry and adjacent work.",
+        "@type": "Answer",
+        "description": "The process usually includes consultation, measurements, layout design, 3D visualization, selections, ordering, preparation, installation, and final adjustments. Utility changes and permits may add steps, so approve detailed drawings before fabrication."
+      }
+    }
+  ],
+  "description": "The process usually includes consultation, measurements, layout design, 3D visualization, selections, ordering, preparation, installation, and final adjustments"
+}

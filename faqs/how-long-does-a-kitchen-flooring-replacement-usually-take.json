@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-kitchen-flooring-replacement-usually-take",
+  "name": "How long does a kitchen flooring replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen flooring replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen floor replacement often takes longer than the visible installation because removal, substrate repairs, material delivery, cabinet or appliance coordination, and curing time can affect the schedule. The duration should be confirmed after the floor and project scope are reviewed. Context: Flooring installed during a larger kitchen remodel may be sequenced around cabinetry, plumbing, electrical work, countertops, and inspections. Key factors: - Demolition and disposal - Subfloor condition - Material availability - Whether the kitchen remains usable Practical guidance: Ask for milestone dates, access requirements, dust protection, and when appliances can be returned. Elite Remodeling & Design describes a process that can coordinate design, material selections, construction, and final project steps.",
+        "@type": "Answer",
+        "description": "Timing depends on demolition, subfloor repairs, material availability, cabinet and appliance coordination, and whether the flooring is part of a larger kitchen remodel. Request milestone dates for removal, preparation, installation, curing, and appliance return."
+      }
+    }
+  ],
+  "description": "Timing depends on demolition, subfloor repairs, material availability, cabinet and appliance coordination, and whether the flooring is part of a larger kitchen"
+}

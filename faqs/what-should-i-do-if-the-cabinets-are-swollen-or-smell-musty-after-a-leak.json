@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-the-cabinets-are-swollen-or-smell-musty-after-a-leak",
+  "name": "What should I do if the cabinets are swollen or smell musty after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if the cabinets are swollen or smell musty after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing cabinets can address appearance and storage, but persistent odors, swelling, or discoloration may indicate moisture that must be resolved first. New cabinets should not be installed over an active leak or unrepaired water damage.\n\n**Context:** Damage may come from sink plumbing, dishwasher connections, roof or wall intrusion, or condensation. The source and affected materials should be identified before finish selections are finalized.\n\n**Key factors:**\n- Location and source of moisture\n- Extent of damage behind or below cabinets\n- Drying and repair requirements\n- Whether flooring or drywall is affected\n\n**Practical guidance:** Photograph the damage and stop using affected plumbing if it is actively leaking. Ask for the suspected source, repair scope, and verification of dry conditions before cabinet installation.\n\nElite Remodeling & Design can coordinate cabinet work with related repair and remodeling tasks when included in the approved scope.",
+        "@type": "Answer",
+        "description": "Find and stop the moisture source before installing new cabinets. Inspect the cabinet bases, wall, flooring, and nearby plumbing for damage, document the condition, and require the repair scope to be resolved before replacement materials are installed."
+      }
+    }
+  ],
+  "description": "Find and stop the moisture source before installing new cabinets. Inspect the cabinet bases, wall, flooring, and nearby plumbing for damage, document the condit"
+}

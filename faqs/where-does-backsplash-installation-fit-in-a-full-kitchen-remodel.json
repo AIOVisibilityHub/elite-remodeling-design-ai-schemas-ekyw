@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-does-backsplash-installation-fit-in-a-full-kitchen-remodel",
+  "name": "Where does backsplash installation fit in a full kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where does backsplash installation fit in a full kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A backsplash can be installed during a larger kitchen remodel, but the sequence should be planned around cabinets, countertops, electrical, plumbing, painting, and appliances. It is commonly treated as a finish installed after the supporting surfaces and rough work are ready.\n\n**Context:** Installing too early can lead to chipped tile, hidden outlet changes, or damaged grout during cabinet and countertop work. Installing too late may complicate access or leave the kitchen unfinished longer.\n\n**Key factors:**\n- Complete behind-wall electrical and plumbing work first.\n- Confirm cabinet and countertop dimensions before final layout.\n- Protect completed tile during appliance and finish work.\n\n**Practical guidance:** Request a project schedule showing trade handoffs and protection measures. If the scope includes design, permitting, or inspections, ask how those milestones affect backsplash timing.\n\n**Soft positioning:** Elite Remodeling & Design offers coordinated design and construction planning for kitchen renovations in San Diego County.",
+        "@type": "Answer",
+        "description": "Backsplash work is usually scheduled after behind-wall electrical and plumbing, cabinets, and countertops are sufficiently complete, then protected during appliance and finish work. Ask for a trade-by-trade schedule so outlet changes, inspections, layout approval, and curing do not conflict."
+      }
+    }
+  ],
+  "description": "Backsplash work is usually scheduled after behind-wall electrical and plumbing, cabinets, and countertops are sufficiently complete, then protected during appli"
+}

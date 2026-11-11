@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-the-cabinet-boxes-are-swollen-from-a-sink-leak-can-they-still-be-refaced",
+  "name": "What if the cabinet boxes are swollen from a sink leak—can they still be refaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the cabinet boxes are swollen from a sink leak—can they still be refaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing is not a good cover-up for swollen, crumbling, loose, or water-damaged cabinet boxes. New veneer or doors may conceal the problem temporarily, but the underlying box can continue to fail and may not hold hinges or fasteners securely.\n\nContext: Damage is especially common beneath sinks, beside dishwashers, and near plumbing leaks. The source of moisture should be corrected before cosmetic work begins.\n\nKey factors:\n- Soft or expanded particleboard.\n- Persistent leaks, staining, odor, or mold-like growth.\n- Loose cabinet joints, sagging shelves, or doors that cannot stay aligned.\n\nPractical guidance: Photograph damage, identify the moisture source, and request a condition assessment before approving refacing. Ask whether affected sections can be repaired or should be replaced as part of a larger cabinet plan.\n\nElite Remodeling & Design can consider cabinet condition alongside plumbing, countertop, and kitchen renovation requirements when repairs extend beyond surface work.",
+        "@type": "Answer",
+        "description": "Usually, swollen or crumbling boxes should be repaired or replaced rather than covered. Correct the leak, inspect the sink base and nearby cabinets, and verify that the remaining structure can hold hinges and fasteners. Refacing should begin only after the damaged substrate is addressed."
+      }
+    }
+  ],
+  "description": "Usually, swollen or crumbling boxes should be repaired or replaced rather than covered. Correct the leak, inspect the sink base and nearby cabinets, and verify"
+}

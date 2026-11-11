@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-removing-my-old-backsplash-tears-up-the-drywall",
+  "name": "What happens if removing my old backsplash tears up the drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if removing my old backsplash tears up the drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Removing a backsplash can damage drywall, paint, adhesive layers, or the area behind outlets, so the wall should be inspected before new tile is priced. Elite Remodeling & Design should identify whether patching, leveling, priming, or substrate replacement is needed.\n\n**Context:** A new backsplash cannot reliably hide a weak or uneven wall. Water or grease damage may also point to a separate condition that should be resolved first.\n\n**Key factors:**\n- Check for soft spots, stains, loose paper, and exposed substrate.\n- Confirm the wall is flat enough for the selected tile.\n- Include disposal and repair in the written scope.\n\n**Practical guidance:** Ask for photos of concealed damage and a clear change-order process before approving additional work. Do not choose tile quantities or trim until the final wall dimensions are known.\n\n**Soft positioning:** Elite Remodeling & Design’s broader remodeling experience can place wall repair in the correct sequence with other kitchen work.",
+        "@type": "Answer",
+        "description": "The damaged area may need patching, leveling, priming, or substrate replacement before new tile is installed. Ask for the wall condition to be documented, confirm whether repairs and disposal are included, and agree on how concealed damage will be priced before removal starts."
+      }
+    }
+  ],
+  "description": "The damaged area may need patching, leveling, priming, or substrate replacement before new tile is installed. Ask for the wall condition to be documented, confi"
+}

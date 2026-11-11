@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-change-the-handles-and-add-soft-close-hinges-during-cabinet-refacing",
+  "name": "Can I change the handles and add soft-close hinges during cabinet refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the handles and add soft-close hinges during cabinet refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New hardware can make refaced cabinets feel substantially different, but the holes and hardware type must match the door and drawer design. Changing from knobs to pulls, altering hole spacing, or adding soft-close hinges may require accurate drilling and compatible components.\n\nContext: Hardware is both a visual choice and a daily-use decision. Pull placement affects comfort, door clearance, and whether old holes remain visible.\n\nKey factors:\n- Knob versus pull placement and hole spacing.\n- Hinge overlay, opening angle, and soft-close compatibility.\n- Cabinet thickness, drawer construction, and appliance clearances.\n\nPractical guidance: Hold full-size hardware samples against the doors before ordering, and make a drilling template for consistent placement. Include hinges and drawer slides in the written scope if they are being replaced.\n\nElite Remodeling & Design can coordinate hardware, door style, and cabinet layout selections through its kitchen design process.",
+        "@type": "Answer",
+        "description": "Yes, hardware and hinges can often be changed during refacing, but door thickness, overlay, hole spacing, drawer construction, and clearance must be checked. Test full-size samples and confirm whether new hinges, slides, pulls, drilling, and patching are included."
+      }
+    }
+  ],
+  "description": "Yes, hardware and hinges can often be changed during refacing, but door thickness, overlay, hole spacing, drawer construction, and clearance must be checked. Te"
+}

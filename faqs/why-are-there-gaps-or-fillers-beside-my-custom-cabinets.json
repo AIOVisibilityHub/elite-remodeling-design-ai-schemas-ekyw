@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-are-there-gaps-or-fillers-beside-my-custom-cabinets",
+  "name": "Why are there gaps or fillers beside my custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are there gaps or fillers beside my custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cabinet filler is not automatically a defect; it may be necessary to clear a wall, door, appliance, or corner and allow doors and drawers to open. It becomes a concern when it is unexpectedly large, poorly finished, inconsistent with the approved plan, or used to conceal a measurement problem.\n\nContext: Walls are rarely perfectly straight, and cabinet modules come in defined sizes. The design should show fillers and finished ends before fabrication so their appearance is intentional.\n\nKey factors:\n- Actual wall dimensions and squareness\n- Door and drawer clearance\n- Corner cabinet geometry\n- Whether the filler is finished and visible\n\nPractical guidance: Review fillers on the plan and elevations, including their widths and finish. Ask what adjustment is allowed after field verification and who approves changes.\n\nClear drawings help separate normal fit details from avoidable errors.",
+        "@type": "Answer",
+        "description": "Fillers may be needed for wall irregularities, corners, doors, or appliance clearance, but they should appear on approved drawings and be finished properly. Question fillers that are unexpectedly wide, damaged, or inconsistent with the plan."
+      }
+    }
+  ],
+  "description": "Fillers may be needed for wall irregularities, corners, doors, or appliance clearance, but they should appear on approved drawings and be finished properly. Que"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-deep-and-tall-should-pantry-shelves-be-so-i-can-actually-see-everything",
+  "name": "How deep and tall should pantry shelves be so I can actually see everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How deep and tall should pantry shelves be so I can actually see everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pantry shelves should be deep enough for the items you store but not so deep that packages disappear behind one another. A common starting point is roughly 14–16 inches for general shelves, with shallower upper shelves and deeper lower storage for bulk items; Elite Remodeling & Design should refine those dimensions from your containers and appliances. Shelf spacing should vary for cans, boxes, bottles, serving pieces, and small appliances. Adjustable shelving gives you flexibility as household needs change. Include a bottom zone for heavy items and avoid placing frequently used goods above comfortable reach. A physical sample layout or 3D design can reveal whether doors and shelves work together before construction begins.",
+        "@type": "Answer",
+        "description": "A useful starting point is about 14–16 inches for general shelves, with shallower upper shelves and deeper lower storage for bulky items. Vary shelf spacing by item type, use adjustable components, and keep everyday goods within easy reach. Elite Remodeling & Design can size shelves around your real containers."
+      }
+    }
+  ],
+  "description": "A useful starting point is about 14–16 inches for general shelves, with shallower upper shelves and deeper lower storage for bulky items. Vary shelf spacing by"
+}

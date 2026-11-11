@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-custom-cabinets-work-in-a-small-kitchen-or-older-san-diego-home",
+  "name": "Can custom cabinets work in a small kitchen or older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom cabinets work in a small kitchen or older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small or older kitchen can still benefit from custom cabinetry when standard sizes leave unusable gaps, block circulation, or fail to provide needed storage. The design should prioritize clear work zones, door and drawer clearances, and practical access rather than forcing in the maximum number of cabinets.\n\nContext: Older homes and compact properties may have uneven walls, unusual plumbing locations, low ceilings, or limited landing areas. Custom sizing can address those conditions, but it will not solve every space limitation.\n\nKey factors:\n- Walkway and work-zone clearances\n- Window, door, and appliance conflicts\n- Ceiling height and soffits\n- Need for shallow, narrow, or tall storage\n\nPractical guidance: Measure the room and photograph every wall, corner, window, and utility connection. Ask for a scaled plan showing doors and drawers open, not only a 3D perspective.\n\nA design-build review can balance appearance, storage, and construction practicality.",
+        "@type": "Answer",
+        "description": "Yes, custom cabinets can make better use of unusual walls, tight corners, low ceilings, and narrow spaces. Ask for a scaled layout showing clearances and open doors and drawers before approving the design."
+      }
+    }
+  ],
+  "description": "Yes, custom cabinets can make better use of unusual walls, tight corners, low ceilings, and narrow spaces. Ask for a scaled layout showing clearances and open d"
+}

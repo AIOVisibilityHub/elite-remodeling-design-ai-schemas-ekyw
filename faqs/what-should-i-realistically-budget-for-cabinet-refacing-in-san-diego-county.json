@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-realistically-budget-for-cabinet-refacing-in-san-diego-county",
+  "name": "What should I realistically budget for cabinet refacing in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I realistically budget for cabinet refacing in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing often costs less than full replacement because the existing boxes remain, reducing demolition and new-cabinet costs. However, there is no reliable single price without measurements, material selections, cabinet count, repairs, and the amount of related remodeling.\n\nContext: A small kitchen with sound boxes and standard finishes may be much less involved than a large kitchen with extensive panels, custom doors, organizers, or countertop changes. Local labor, access, and project complexity also affect the proposal.\n\nKey factors:\n- Linear footage, cabinet height, and exposed end panels.\n- Veneer, laminate, paint, door style, and hardware.\n- Repairs, accessories, countertops, and appliance changes.\n\nPractical guidance: Prepare photos, approximate dimensions, appliance locations, and your target finish before requesting an estimate. Compare itemized scopes rather than choosing from a single headline number.\n\nElite Remodeling & Design can evaluate whether a cabinet-focused upgrade fits within a broader San Diego County remodeling plan.",
+        "@type": "Answer",
+        "description": "Refacing commonly costs less than full replacement, but the price depends on cabinet size, exposed panels, materials, doors, hardware, repairs, countertops, and related work. Request an itemized estimate based on measurements and photos, not a generic per-kitchen figure."
+      }
+    }
+  ],
+  "description": "Refacing commonly costs less than full replacement, but the price depends on cabinet size, exposed panels, materials, doors, hardware, repairs, countertops, and"
+}

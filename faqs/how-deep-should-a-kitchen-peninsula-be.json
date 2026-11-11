@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-deep-should-a-kitchen-peninsula-be",
+  "name": "How deep should a kitchen peninsula be?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How deep should a kitchen peninsula be?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right peninsula depth depends on whether it is for storage, prep, seating, or appliances. Standard base-cabinet depth may work for storage, while seating or opposing cabinets can require additional countertop depth and careful clearance planning.\n\nContext: Homeowner discussions show that two-sided cabinet arrangements may need a deeper worktop and precise field measurements. A deeper peninsula can improve function but reduce walk space.\n\nKey factors:\n- Cabinet orientation and access from each side\n- Seating overhang\n- Appliance dimensions\n- Remaining aisle width\n\nPractical guidance: Decide which side needs drawers, doors, or seating before selecting depth. Have the countertop fabricated only after the installed cabinets are measured.\n\nElite Remodeling & Design can coordinate cabinet configuration and countertop dimensions in the design phase.",
+        "@type": "Answer",
+        "description": "Depth depends on cabinet orientation, storage, seating, appliances, and remaining aisle space. Standard base-cabinet depth may be enough for one-sided storage, while seating or cabinets on both sides can require more depth. Confirm the full footprint before ordering the top."
+      }
+    }
+  ],
+  "description": "Depth depends on cabinet orientation, storage, seating, appliances, and remaining aisle space. Standard base-cabinet depth may be enough for one-sided storage,"
+}

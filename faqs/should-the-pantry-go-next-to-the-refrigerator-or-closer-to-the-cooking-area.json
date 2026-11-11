@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-the-pantry-go-next-to-the-refrigerator-or-closer-to-the-cooking-area",
+  "name": "Should the pantry go next to the refrigerator or closer to the cooking area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should the pantry go next to the refrigerator or closer to the cooking area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry near the refrigerator is often convenient because it shortens the path for groceries and frequently used ingredients, but the best position depends on the kitchen work triangle, door clearance, and available wall space. Elite Remodeling & Design can evaluate pantry placement alongside the refrigerator, prep counter, sink, and cooking area. Putting the pantry too close to a high-traffic entry may create congestion, while placing it far away can add unnecessary walking. Consider who unloads groceries and whether more than one person cooks at once. Test the proposed path on a floor plan before committing to cabinetry or framing.",
+        "@type": "Answer",
+        "description": "Usually, convenient access to both the refrigerator and prep zone matters more than a fixed rule. Elite Remodeling & Design can test each location against traffic, door swings, counter space, and the way groceries move through your kitchen before selecting the pantry position."
+      }
+    }
+  ],
+  "description": "Usually, convenient access to both the refrigerator and prep zone matters more than a fixed rule. Elite Remodeling & Design can test each location against traff"
+}

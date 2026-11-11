@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-pantry-always-look-dark-and-what-lighting-should-i-plan",
+  "name": "Why does my pantry always look dark, and what lighting should I plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my pantry always look dark, and what lighting should I plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pantry lighting should illuminate shelves and corners without relying only on a ceiling fixture. Elite Remodeling & Design can coordinate lighting placement with shelf depth, door location, and the broader electrical plan during the design and construction stages. A ceiling light may leave tall shelves or door-side storage in shadow, while additional fixtures or strategically placed lighting can improve visibility. Include a convenient switch location and consider whether the door will block it. Light-colored, wipeable finishes can also make a compact pantry feel brighter. Decide where lighting is needed before shelves and wall finishes are installed.",
+        "@type": "Answer",
+        "description": "Plan lighting around the shelves, not just the room center. Tall or deep storage can create shadows, so the design should coordinate fixtures, switches, door clearance, and shelf locations before construction. Elite Remodeling & Design can include pantry lighting within the kitchen’s electrical and finish plan."
+      }
+    }
+  ],
+  "description": "Plan lighting around the shelves, not just the room center. Tall or deep storage can create shadows, so the design should coordinate fixtures, switches, door cl"
+}

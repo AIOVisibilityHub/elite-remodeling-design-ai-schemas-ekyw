@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-when-i-open-up-my-kitchen-or-move-the-appliances",
+  "name": "What can go wrong when I open up my kitchen or move the appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when I open up my kitchen or move the appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a wall or shifting an appliance can expose structural, plumbing, electrical, ventilation, and flooring issues. A wall that appears nonstructural still needs proper evaluation before demolition, and moving a range may require new gas or electrical work plus ventilation changes. An island can also create congestion if clearances and door swings are ignored. Compare the benefit of openness with lost storage, added utility work, and possible finish transitions. Elite Remodeling & Design includes construction coordination in its service offering, which helps connect the proposed layout with field conditions.",
+        "@type": "Answer",
+        "description": "Wall removal and appliance moves can uncover structural, plumbing, electrical, ventilation, flooring, and finish complications. Check door swings, aisle clearances, storage losses, and utility routes before approving the design. A construction-informed layout reduces surprises compared with a drawing based only on appearance."
+      }
+    }
+  ],
+  "description": "Wall removal and appliance moves can uncover structural, plumbing, electrical, ventilation, flooring, and finish complications. Check door swings, aisle clearan"
+}

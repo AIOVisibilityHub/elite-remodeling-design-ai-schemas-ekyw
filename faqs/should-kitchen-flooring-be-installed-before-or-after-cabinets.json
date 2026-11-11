@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-kitchen-flooring-be-installed-before-or-after-cabinets",
+  "name": "Should kitchen flooring be installed before or after cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should kitchen flooring be installed before or after cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan flooring before final cabinet and appliance decisions when the replacement may change finished floor height or extend under fixtures. The correct sequence depends on the selected material, cabinet condition, layout, and whether the kitchen is being remodeled at the same time. Context: Installing too early or too late can create height, trim, transition, or appliance-clearance problems. Key factors: - Floating versus bonded flooring - Cabinet replacement or reuse - Appliance openings - Adjacent-room transitions Practical guidance: Confirm the floor boundary and finished height in the design plan before demolition. Elite Remodeling & Design can coordinate flooring with kitchen layout development, material selections, and construction sequencing.",
+        "@type": "Answer",
+        "description": "There is no single answer. The sequence depends on the flooring system, cabinet plans, appliance clearances, and whether the floor runs beneath fixtures. Confirm finished height, boundaries, and transitions before work begins."
+      }
+    }
+  ],
+  "description": "There is no single answer. The sequence depends on the flooring system, cabinet plans, appliance clearances, and whether the floor runs beneath fixtures. Confir"
+}

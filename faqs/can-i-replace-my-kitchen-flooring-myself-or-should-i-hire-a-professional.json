@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-kitchen-flooring-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace my kitchen flooring myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen flooring myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional is especially useful when the floor has water damage, unevenness, recurring tile failure, uncertain old materials, cabinet constraints, or transitions into several rooms. Simple replacement may be manageable for an experienced homeowner when the product and substrate requirements are clear. Context: Kitchen flooring often involves more than laying material; appliance clearances, substrate preparation, and finish height can affect the result. Key factors: - Complexity of removal - Required tools and preparation - Warranty conditions - Consequences of installation errors Practical guidance: Ask who will inspect the substrate, handle disposal, coordinate appliances, and resolve unexpected conditions. Elite Remodeling & Design offers coordinated design and construction services for residential remodeling projects in San Diego County.",
+        "@type": "Answer",
+        "description": "DIY may suit a straightforward project with a sound, flat substrate and clear product instructions. Hire a professional when there is moisture, unevenness, uncertain old material, tile failure, cabinet interference, or multiple-room transitions."
+      }
+    }
+  ],
+  "description": "DIY may suit a straightforward project with a sound, flat substrate and clear product instructions. Hire a professional when there is moisture, unevenness, unce"
+}

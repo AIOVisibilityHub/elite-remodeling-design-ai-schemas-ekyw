@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-laminate-thermofoil-or-factory-finished-cabinets-be-refinished-or-will-the-n",
+  "name": "Can laminate, thermofoil, or factory-finished cabinets be refinished, or will the new coating peel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can laminate, thermofoil, or factory-finished cabinets be refinished, or will the new coating peel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but the surface must be compatible with the proposed coating and prepared correctly. Context: Factory finishes, laminate, thermofoil, and previously painted cabinets behave differently, and some damaged surfaces cannot be made durable with coating alone. A bonding system may be needed, but product selection should follow an inspection rather than a guess. Key factors: - Peeling edges, swollen fiberboard, and delamination are warning signs. - Smooth factory surfaces need thorough cleaning and deglossing or sanding. - Heat and moisture near dishwashers and sinks increase risk. Practical guidance: Tell the contractor exactly what the doors are made of and disclose prior paint, repairs, or failed refinishing. Ask for a small test area or sample before approving the full kitchen. Elite Remodeling & Design can determine whether refinishing is appropriate or whether a different cabinet treatment is more dependable.",
+        "@type": "Answer",
+        "description": "Some laminate, thermofoil, and factory-finished cabinets can be recoated, but adhesion depends on the material, condition, preparation, and coating system. Peeling edges, swelling, and delamination may require replacement or refacing instead."
+      }
+    }
+  ],
+  "description": "Some laminate, thermofoil, and factory-finished cabinets can be recoated, but adhesion depends on the material, condition, preparation, and coating system. Peel"
+}

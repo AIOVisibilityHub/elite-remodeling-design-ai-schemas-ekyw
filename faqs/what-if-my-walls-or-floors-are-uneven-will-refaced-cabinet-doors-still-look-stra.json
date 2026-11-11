@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-walls-or-floors-are-uneven-will-refaced-cabinet-doors-still-look-stra",
+  "name": "What if my walls or floors are uneven—will refaced cabinet doors still look straight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my walls or floors are uneven—will refaced cabinet doors still look straight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing can address appearance, but a crooked wall, uneven floor, shifted cabinet box, or damaged adjacent surface may remain visible after installation. Existing conditions should be measured and corrected or accepted before new doors and panels are ordered.\n\nContext: New components are made to fit measured conditions, not to eliminate every issue in the surrounding room. A precise scope should identify what the refacing team will and will not alter.\n\nKey factors:\n- Level and plumb of cabinet runs.\n- Wall corners, flooring transitions, and countertop alignment.\n- Adjacent appliances, filler strips, crown molding, and side panels.\n\nPractical guidance: Ask for a field-measurement review and mark uneven areas in the proposal. Decide whether cosmetic corrections, trim adjustments, or broader carpentry are needed before fabrication.\n\nElite Remodeling & Design can coordinate cabinet work with room-level design and construction when surrounding conditions affect the finished result.",
+        "@type": "Answer",
+        "description": "New doors may align with the cabinet boxes, but uneven walls, floors, boxes, countertops, or trim can still affect the finished appearance. Request a field-condition review, document uneven areas, and decide whether carpentry or trim corrections are needed before fabrication."
+      }
+    }
+  ],
+  "description": "New doors may align with the cabinet boxes, but uneven walls, floors, boxes, countertops, or trim can still affect the finished appearance. Request a field-cond"
+}

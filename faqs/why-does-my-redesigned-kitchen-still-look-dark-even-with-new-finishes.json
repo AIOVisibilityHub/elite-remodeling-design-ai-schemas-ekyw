@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-redesigned-kitchen-still-look-dark-even-with-new-finishes",
+  "name": "Why does my redesigned kitchen still look dark even with new finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my redesigned kitchen still look dark even with new finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A redesign should include lighting as part of the layout, not as an afterthought. Identify general illumination, task lighting at counters and the sink, lighting near the range, and controls that prevent shadows from cabinets or nearby walls. Window location, ceiling height, cabinet depth, and open-plan sightlines influence fixture placement. Review lighting positions before cabinetry, drywall, and finish selections are finalized. Elite Remodeling & Design can coordinate design decisions with the electrical and construction stages when the scope requires changes.",
+        "@type": "Answer",
+        "description": "Dark kitchens often need better-planned task and general lighting, not just lighter cabinets or countertops. Review shadows from upper cabinets, window placement, ceiling fixtures, and controls before construction. Lighting locations should be coordinated with the final cabinet and appliance layout."
+      }
+    }
+  ],
+  "description": "Dark kitchens often need better-planned task and general lighting, not just lighter cabinets or countertops. Review shadows from upper cabinets, window placemen"
+}

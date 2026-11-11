@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-home-while-the-kitchen-cabinets-are-being-replaced",
+  "name": "Can I stay in my home while the kitchen cabinets are being replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while the kitchen cabinets are being replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can remain in the home during cabinet replacement, but the kitchen may be unavailable and the project can create dust, noise, access restrictions, and temporary utility interruptions. The impact depends on demolition, flooring, countertop work, and whether plumbing or electrical systems are changed.\n\n**Context:** A temporary food-preparation area is often useful, but it should be placed away from construction dust and protected from workers’ access. Families with children, pets, or mobility concerns may need additional planning.\n\n**Key factors:**\n- Length of kitchen disconnection\n- Dust barriers and ventilation\n- Refrigerator and microwave access\n- Safe routes around the work area\n\n**Practical guidance:** Ask for the planned shutoff periods and protection measures before work begins. Remove fragile items and establish where deliveries, tools, and waste will be kept.\n\nElite Remodeling & Design can coordinate the construction sequence around the home’s occupied conditions.",
+        "@type": "Answer",
+        "description": "Often yes, but expect periods without normal kitchen access, plus noise, dust, deliveries, and possible utility interruptions. Set up a temporary food area, protect children and pets, and confirm shutoff periods and work-zone boundaries before demolition."
+      }
+    }
+  ],
+  "description": "Often yes, but expect periods without normal kitchen access, plus noise, dust, deliveries, and possible utility interruptions. Set up a temporary food area, pro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-pantry-door-is-best-if-my-kitchen-is-already-tight",
+  "name": "What pantry door is best if my kitchen is already tight?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What pantry door is best if my kitchen is already tight?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry door should make the space easy to access without blocking a major kitchen path, appliance, or cabinet. Elite Remodeling & Design can compare a hinged door, pocket door, double door, or open entry based on wall space and the surrounding kitchen layout. A hinged door needs room to swing, while pocket doors require suitable wall conditions and can complicate construction. An open entry improves access but leaves stored items visible and may reduce separation from cooking areas. Consider whether more than one person will use the pantry at once. Confirm the door choice in the design phase before framing, electrical, and finish work are finalized.",
+        "@type": "Answer",
+        "description": "Choose the door that preserves the clearest kitchen path. Hinged doors need swing space, pocket doors need compatible wall conditions, and open entries improve access but expose storage. Elite Remodeling & Design can test each option against nearby cabinets, appliances, and traffic before construction."
+      }
+    }
+  ],
+  "description": "Choose the door that preserves the clearest kitchen path. Hinged doors need swing space, pocket doors need compatible wall conditions, and open entries improve"
+}

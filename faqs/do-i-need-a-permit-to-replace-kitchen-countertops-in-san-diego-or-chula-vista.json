@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-kitchen-countertops-in-san-diego-or-chula-vista",
+  "name": "Do I need a permit to replace kitchen countertops in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace kitchen countertops in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A countertop replacement may not require a permit when it is a like-for-like maintenance repair, but the answer can change when the work alters cabinets, plumbing, electrical systems, walls, layout, or other building components. City of San Diego guidance identifies an exemption for certain like-for-like repairs under its stated conditions, while broader work may require review; unincorporated county areas can follow different procedures. Ask the project professional to confirm the applicable jurisdiction and scope before work starts. Do not assume a countertop-only label settles the question when connected remodeling is included. Elite Remodeling & Design’s published process includes coordination of permit applications where the project requires them.",
+        "@type": "Answer",
+        "description": "A simple like-for-like surface replacement may be exempt in some circumstances, but permits or other approvals can become relevant when cabinets, plumbing, electrical, walls, layout, or related construction changes. Requirements vary by jurisdiction, including City of San Diego versus county areas. Confirm the scope and local requirements before starting work."
+      }
+    }
+  ],
+  "description": "A simple like-for-like surface replacement may be exempt in some circumstances, but permits or other approvals can become relevant when cabinets, plumbing, elec"
+}

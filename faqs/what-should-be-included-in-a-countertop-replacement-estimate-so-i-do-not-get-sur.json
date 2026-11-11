@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-countertop-replacement-estimate-so-i-do-not-get-sur",
+  "name": "What should be included in a countertop replacement estimate so I do not get surprise charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a countertop replacement estimate so I do not get surprise charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good countertop estimate should identify the material and thickness, square footage or measured scope, edge profile, cutouts, seams, backsplash work, demolition, disposal, installation, sink work, plumbing, cabinet repairs, taxes, and exclusions. It should also explain payment stages, material selection, templating, lead times, warranty coverage, and what happens if site conditions differ from initial measurements. Compare itemized scopes rather than bottom-line totals alone. Ask whether the quoted price changes after templating and how change orders are approved. Elite Remodeling & Design can place these details within a broader design-build proposal when the kitchen includes related remodeling work.",
+        "@type": "Answer",
+        "description": "Look for material, thickness, edges, cutouts, seams, backsplash, demolition, disposal, installation, sink and plumbing work, cabinet repairs, taxes, exclusions, lead times, and change-order terms. Ask whether templating can alter the price and who approves added work. Compare itemized scopes, not just the lowest total."
+      }
+    }
+  ],
+  "description": "Look for material, thickness, edges, cutouts, seams, backsplash, demolition, disposal, installation, sink and plumbing work, cabinet repairs, taxes, exclusions,"
+}

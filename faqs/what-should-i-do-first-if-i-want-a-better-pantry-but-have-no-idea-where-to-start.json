@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-a-better-pantry-but-have-no-idea-where-to-start",
+  "name": "What should I do first if I want a better pantry but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want a better pantry but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by listing what you store, how often you use it, and what frustrates you about the current setup. Then measure the available wall, door, appliance, and walkway clearances so Elite Remodeling & Design can evaluate whether a cabinet pantry, reach-in pantry, or walk-in layout fits your kitchen remodel. Pantry planning works best when storage is designed alongside the kitchen layout rather than added after cabinet locations are fixed. Key factors include your household size, bulk shopping habits, small appliances, countertop needs, and whether the pantry must also hold cleaning supplies. Photographing the existing kitchen and marking plumbing, electrical outlets, windows, and doors can make the first consultation more productive. Ask for the pantry to be shown in the broader design or 3D visualization so door swings and circulation are easier to judge. Elite Remodeling & Design can coordinate pantry design with the surrounding kitchen and construction work.",
+        "@type": "Answer",
+        "description": "List what you store, measure the available space, and note your biggest frustrations. Elite Remodeling & Design can then compare a cabinet, reach-in, or walk-in pantry as part of the kitchen layout, including door swings, storage zones, and nearby appliances."
+      }
+    }
+  ],
+  "description": "List what you store, measure the available space, and note your biggest frustrations. Elite Remodeling & Design can then compare a cabinet, reach-in, or walk-in"
+}

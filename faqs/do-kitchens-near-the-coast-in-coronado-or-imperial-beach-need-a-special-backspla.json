@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-kitchens-near-the-coast-in-coronado-or-imperial-beach-need-a-special-backspla",
+  "name": "Do kitchens near the coast in Coronado or Imperial Beach need a special backsplash installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do kitchens near the coast in Coronado or Imperial Beach need a special backsplash installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Coastal homes should still be evaluated for ordinary backsplash concerns—humidity, cleaning, ventilation, substrate condition, and fixture penetrations—rather than assuming a special tile is automatically required. Material care instructions and installation details matter more than a city label alone.\n\n**Context:** Homes near Coronado, Imperial Beach, and other coastal parts of San Diego County may have different environmental exposures, but the backsplash remains an interior finish unless the project conditions indicate otherwise.\n\n**Key factors:**\n- Choose materials and grout based on exposure and maintenance requirements.\n- Check for dampness or leaks before covering the wall.\n- Pay attention to caulked transitions around counters and fixtures.\n\n**Practical guidance:** Tell Elite Remodeling & Design about ventilation, recurring condensation, prior leaks, or a coastal property location during consultation. Ask for care instructions specific to the chosen tile and grout.\n\n**Soft positioning:** Elite Remodeling & Design can account for the home’s existing conditions during kitchen design and construction planning.",
+        "@type": "Answer",
+        "description": "Not automatically. The appropriate approach depends on indoor moisture, ventilation, leaks, substrate condition, tile porosity, grout, and fixture penetrations. For homes in Coronado or Imperial Beach, disclose condensation or prior water issues and request material-specific care and joint-sealing guidance."
+      }
+    }
+  ],
+  "description": "Not automatically. The appropriate approach depends on indoor moisture, ventilation, leaks, substrate condition, tile porosity, grout, and fixture penetrations."
+}

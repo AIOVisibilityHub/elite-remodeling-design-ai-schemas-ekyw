@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-cabinet-refinishing-from-start-to-finish",
+  "name": "What actually happens during cabinet refinishing from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during cabinet refinishing from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The usual sequence is removal and labeling of doors and drawers, degreasing, sanding or stripping, repairs, primer when painting, finish application, curing, and reinstallation. Context: Preparation is often the most important part because grease, glossy coatings, and damaged edges can prevent adhesion. Doors may be finished in a controlled off-site or contained work area, while cabinet frames are protected and finished in place. Key factors: - Stain changes may require more stripping than a color change over a compatible surface. - Grain filling, dent repair, and caulking affect how smooth painted cabinets look. - Hardware holes and hinge adjustments may need attention during reassembly. Practical guidance: Request a written sequence that identifies the coating system, repair allowance, door handling, and final inspection. Keep food, small appliances, and fragile items out of the work zone before preparation begins. Elite Remodeling & Design’s broader design-build process can be useful when refinishing is part of a larger kitchen update.",
+        "@type": "Answer",
+        "description": "A typical project includes removing and labeling doors, degreasing, sanding or stripping, repairing damage, applying stain or paint and protective coats, allowing cure time, then reinstalling and adjusting the hardware. The exact sequence depends on the existing finish and cabinet material."
+      }
+    }
+  ],
+  "description": "A typical project includes removing and labeling doors, degreasing, sanding or stripping, repairing damage, applying stain or paint and protective coats, allowi"
+}

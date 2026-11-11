@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-refinish-cabinets-before-or-after-new-countertops-backsplash-and-applia",
+  "name": "Should I refinish cabinets before or after new countertops, backsplash, and appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I refinish cabinets before or after new countertops, backsplash, and appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing can be scheduled with countertops, backsplash, lighting, or flooring, but the order matters. Context: Cabinets may need to be removed or protected, and new counters or tile can affect edges, fillers, and final adjustments. Planning trades together reduces the chance of damaging a completed finish or paying for repeated masking. Key factors: - Decide whether cabinet dimensions or layout will change first. - Coordinate appliance removal, countertop templating, backsplash work, and hardware installation. - Leave appropriate time for coatings to cure before adjacent construction. Practical guidance: Tell the contractor about every planned kitchen change before work starts, even if another company will perform it. Request a written sequence showing what happens before refinishing, after refinishing, and at final adjustment. Elite Remodeling & Design can coordinate design, material selections, construction, and final inspection for a broader kitchen project.",
+        "@type": "Answer",
+        "description": "The correct order depends on whether cabinet dimensions, layout, counters, or backsplash will change. Coordinate all planned work before refinishing so edges are protected, appliances fit, and the finished coating is not damaged by later construction."
+      }
+    }
+  ],
+  "description": "The correct order depends on whether cabinet dimensions, layout, counters, or backsplash will change. Coordinate all planned work before refinishing so edges ar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-keep-my-existing-countertops-when-i-reface-my-cabinets",
+  "name": "Can I keep my existing countertops when I reface my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing countertops when I reface my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often keep existing countertops during refacing, but removal may be needed for certain cabinet modifications, countertop replacement, damage repairs, or changes at sinks and appliances. The answer depends on how the countertop is supported and what the project changes.\n\nContext: Keeping the countertop can reduce disruption, while replacing it at the same time may create a more unified result. Countertop thickness and overhangs also affect door and drawer clearances.\n\nKey factors:\n- Countertop condition, seams, overhangs, and backsplash relationship.\n- Whether cabinet height or location will change.\n- Sink, cooktop, dishwasher, and plumbing connections.\n\nPractical guidance: Ask the remodeler to document whether the countertop is protected, removed, reused, or replaced, and who handles reconnection work. Do not assume a new door profile will clear the existing countertop or backsplash.\n\nElite Remodeling & Design can evaluate cabinet and countertop decisions together within a coordinated kitchen remodeling plan.",
+        "@type": "Answer",
+        "description": "Often yes, if the cabinet boxes and countertop remain in the same position and the new doors clear the countertop. Removal may be needed for repairs, cabinet modifications, countertop replacement, or changes around the sink and appliances. Confirm protection and reconnection details in writing."
+      }
+    }
+  ],
+  "description": "Often yes, if the cabinet boxes and countertop remain in the same position and the new doors clear the countertop. Removal may be needed for repairs, cabinet mo"
+}

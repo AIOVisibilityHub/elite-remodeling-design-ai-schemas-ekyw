@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-reface-cabinets-and-replace-my-appliances-at-the-same-time",
+  "name": "Can I reface cabinets and replace my appliances at the same time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I reface cabinets and replace my appliances at the same time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but appliances can expose the limits of a refacing plan. New refrigerators, dishwashers, ranges, and microwaves may require different openings, panels, filler strips, electrical connections, ventilation, or countertop adjustments.\n\nContext: A new appliance can also reveal uneven floors, outdated connections, or insufficient clearance after the cabinet finish is updated. Appliance specifications should be available before final cabinet measurements.\n\nKey factors:\n- Exact appliance dimensions and manufacturer clearances.\n- Electrical, gas, water, ventilation, and drain locations.\n- Integrated or panel-ready appliance requirements.\n\nPractical guidance: Choose or shortlist appliances before doors and panels are finalized, and provide the specification sheets to the design team. Confirm who coordinates deliveries, installation, and trade connections.\n\nElite Remodeling & Design can coordinate cabinetry with kitchen construction and appliance-related planning when the project goes beyond surface updates.",
+        "@type": "Answer",
+        "description": "Yes, but appliance dimensions, clearances, panels, filler strips, ventilation, and utility connections must be coordinated before cabinet fabrication. Provide appliance specification sheets early and confirm who handles delivery, installation, and plumbing, gas, or electrical connections."
+      }
+    }
+  ],
+  "description": "Yes, but appliance dimensions, clearances, panels, filler strips, ventilation, and utility connections must be coordinated before cabinet fabrication. Provide a"
+}

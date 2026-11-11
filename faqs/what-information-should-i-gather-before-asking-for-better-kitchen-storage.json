@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-gather-before-asking-for-better-kitchen-storage",
+  "name": "What information should I gather before asking for better kitchen storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before asking for better kitchen storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful evidence is a record of what does not work in daily use: crowded drawers, inaccessible corners, countertop appliances, and items stored far from where they are used. Photos, measurements, and a simple inventory help Elite Remodeling & Design evaluate the space and develop a more precise design. Context: A cabinet may appear large but provide little practical capacity if shelves are fixed, too deep, or difficult to reach. Showing actual items and routines produces better decisions than relying on inspiration photos alone. Key factors: item dimensions; frequency of use; reach requirements; appliance locations. Practical guidance: Photograph open cabinets, measure shelf heights and widths, and mark where small appliances are plugged in. Include bulky cookware and specialty equipment that must remain accessible. Use these details during layout and 3D design discussions.",
+        "@type": "Answer",
+        "description": "Gather cabinet measurements, photos of problem areas, appliance dimensions, outlet locations, and a list of items that must remain accessible. Note where cooking, prep, cleanup, and food storage happen so the design reflects real routines."
+      }
+    }
+  ],
+  "description": "Gather cabinet measurements, photos of problem areas, appliance dimensions, outlet locations, and a list of items that must remain accessible. Note where cookin"
+}

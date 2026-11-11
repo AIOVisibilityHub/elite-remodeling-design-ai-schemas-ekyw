@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-cost-to-replace-a-kitchen-floor-when-i-do-not-know-what-is-unde",
+  "name": "How much does it cost to replace a kitchen floor when I do not know what is under it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a kitchen floor when I do not know what is under it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total price depends on kitchen size, material, demolition, subfloor repairs, disposal, transitions, appliance handling, and whether cabinets are removed or remain. A reliable estimate should separate the finish material from preparation and related remodeling work. Context: A simple replacement over a sound base can differ substantially from a project involving water damage, leveling, cabinet changes, or flooring that continues into adjacent spaces. Key factors: - Square footage and waste - Removal and disposal - Subfloor or underlayment work - Cabinet and appliance coordination Practical guidance: Request a written scope that identifies assumptions, exclusions, repair allowances, and finish boundaries. Elite Remodeling & Design can evaluate flooring alongside kitchen remodeling decisions so the estimate reflects the full sequence.",
+        "@type": "Answer",
+        "description": "Cost depends on square footage, material, demolition, disposal, subfloor repairs, transitions, and cabinet or appliance handling. Ask for a written scope that separates flooring, preparation, and uncertain repair allowances instead of relying on a material-only estimate."
+      }
+    }
+  ],
+  "description": "Cost depends on square footage, material, demolition, disposal, subfloor repairs, transitions, and cabinet or appliance handling. Ask for a written scope that s"
+}

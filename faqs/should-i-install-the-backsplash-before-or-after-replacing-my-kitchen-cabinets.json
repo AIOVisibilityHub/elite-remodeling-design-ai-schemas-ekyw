@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-install-the-backsplash-before-or-after-replacing-my-kitchen-cabinets",
+  "name": "Should I install the backsplash before or after replacing my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install the backsplash before or after replacing my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** The backsplash can often remain if new cabinets are the same size and position, but cabinet replacement may expose unfinished wall areas or change the countertop and outlet relationship. The backsplash should be evaluated after the cabinet plan is finalized.\n\n**Context:** Removing upper or lower cabinets can reveal paint differences, old tile edges, or gaps that a partial backsplash replacement will not hide. New cabinet depth and height can also change the visual stopping points.\n\n**Key factors:**\n- Compare cabinet dimensions and exact locations.\n- Check whether countertops, fillers, and appliances are changing.\n- Decide whether a continuous new backsplash is preferable to patching exposed areas.\n\n**Practical guidance:** Do not install the backsplash before approving cabinet elevations if cabinets are being replaced. Ask for a sequence that minimizes demolition and avoids paying twice for tile work.\n\n**Soft positioning:** Elite Remodeling & Design can coordinate cabinets, counters, backsplash, and layout decisions as part of a kitchen remodel.",
+        "@type": "Answer",
+        "description": "Finalize cabinet dimensions and locations first. New cabinets can expose unfinished wall areas, alter backsplash stopping points, or change countertop and outlet relationships. Coordinating cabinets, counters, and backsplash in one sequence can reduce patching and prevent paying for tile work twice."
+      }
+    }
+  ],
+  "description": "Finalize cabinet dimensions and locations first. New cabinets can expose unfinished wall areas, alter backsplash stopping points, or change countertop and outle"
+}

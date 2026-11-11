@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-buy-kitchen-cabinets-myself-and-hire-someone-only-for-installation",
+  "name": "Can I buy kitchen cabinets myself and hire someone only for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I buy kitchen cabinets myself and hire someone only for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can select cabinets yourself, but accurate measurements, appliance clearances, fillers, corners, and installation details make professional design support valuable. A cabinet that looks correct online may not fit the room or coordinate with countertops and utilities.\n\n**Context:** DIY ordering can reduce design fees but shifts responsibility for measurements, substitutions, damaged parts, and compatibility to the homeowner. Professional coordination can be especially useful when the layout changes.\n\n**Key factors:**\n- Confidence measuring irregular walls\n- Cabinet assembly and installation requirements\n- Countertop and backsplash coordination\n- Need for plumbing, electrical, or structural work\n\n**Practical guidance:** If ordering independently, obtain exact appliance specifications and have measurements verified before purchase. Ask who handles corrections if a cabinet arrives incorrectly sized.\n\nElite Remodeling & Design can combine cabinet design with construction coordination for a more unified process.",
+        "@type": "Answer",
+        "description": "Yes, but you assume responsibility for measurements, cabinet compatibility, missing parts, delivery damage, and coordination with countertops and utilities. Have the layout and appliance specifications verified before ordering, and clarify who handles errors."
+      }
+    }
+  ],
+  "description": "Yes, but you assume responsibility for measurements, cabinet compatibility, missing parts, delivery damage, and coordination with countertops and utilities. Hav"
+}

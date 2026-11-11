@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-custom-kitchen-cabinets",
+  "name": "What should I do first if I want custom kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want custom kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the kitchen must work before choosing door styles or finishes. Elite Remodeling & Design can evaluate the existing layout, storage needs, appliance locations, and desired changes as part of a coordinated design and construction plan.\n\nContext: Cabinet decisions affect countertops, lighting, plumbing, electrical work, flooring, and appliance clearances. A beautiful cabinet plan can still disappoint if it creates poor circulation or insufficient landing space.\n\nKey factors:\n- Household size and cooking habits\n- Existing wall conditions and window locations\n- Appliance dimensions and door swings\n- Accessibility, trash, pantry, and small-appliance storage\n\nPractical guidance: Gather room measurements, appliance specifications, inspiration photos, and a list of daily frustrations. Ask for a layout review and 3D design visualization before approving cabinet orders.\n\nElite Remodeling & Design’s design-build process helps connect cabinet choices with the broader kitchen remodel.",
+        "@type": "Answer",
+        "description": "Start with how you use the kitchen, not cabinet colors. Gather measurements, appliance specifications, storage frustrations, and inspiration photos, then have Elite Remodeling & Design review the layout before finalizing cabinet details."
+      }
+    }
+  ],
+  "description": "Start with how you use the kitchen, not cabinet colors. Gather measurements, appliance specifications, storage frustrations, and inspiration photos, then have E"
+}

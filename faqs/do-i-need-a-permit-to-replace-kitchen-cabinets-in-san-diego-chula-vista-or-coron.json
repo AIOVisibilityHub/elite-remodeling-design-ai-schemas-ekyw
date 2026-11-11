@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-replace-kitchen-cabinets-in-san-diego-chula-vista-or-coron",
+  "name": "Do I need a permit to replace kitchen cabinets in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace kitchen cabinets in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A San Diego City home may not need a building permit for cabinets installed in the same general arrangement, but the city distinguishes cabinet work from changes to plumbing, electrical, mechanical, structural, or exterior elements. Other jurisdictions in San Diego County may use different procedures.\n\n**Context:** Moving cabinets and countertops in certain single-dwelling, duplex, and townhouse projects may qualify for a no-plan permit path when the work meets applicable conditions. Permit-exempt work still must comply with applicable requirements.\n\n**Key factors:**\n- City boundary and property type\n- Sink, dishwasher, gas, hood, or circuit relocation\n- Wall removal, framing, or structural changes\n- Whether the project includes only finish replacement\n\n**Practical guidance:** Confirm the scope with the permitting department serving the property before demolition. Ask Elite Remodeling & Design to identify which portions of the planned work may require coordination or inspection.\n\nThe company’s published process includes permit coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "Cabinet replacement alone may be exempt in some San Diego City situations, but moving plumbing, gas, electrical, mechanical systems, or structural elements can change the permit requirements. Confirm with the jurisdiction serving the property before work starts."
+      }
+    }
+  ],
+  "description": "Cabinet replacement alone may be exempt in some San Diego City situations, but moving plumbing, gas, electrical, mechanical systems, or structural elements can"
+}

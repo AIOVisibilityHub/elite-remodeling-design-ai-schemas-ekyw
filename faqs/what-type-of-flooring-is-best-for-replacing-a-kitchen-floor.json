@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-type-of-flooring-is-best-for-replacing-a-kitchen-floor",
+  "name": "What type of flooring is best for replacing a kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of flooring is best for replacing a kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners can consider tile, sheet vinyl, luxury vinyl tile or plank, engineered wood, or other flooring suited to kitchen moisture and traffic. The right choice depends on subfloor flatness, spill exposure, comfort, appearance, maintenance, and how the kitchen connects to surrounding rooms. Context: Rigid tile can show problems when the base moves or is uneven, while resilient flooring may be more forgiving but still requires a suitable substrate. Wood-based options need careful moisture planning. Key factors: - Water and leak exposure - Cleaning habits - Impact and scratch resistance - Visual relationship to existing floors Practical guidance: Bring cabinet, countertop, and adjacent-floor samples to the selection process. Elite Remodeling & Design can evaluate flooring as part of a coordinated kitchen design rather than treating the surface independently.",
+        "@type": "Answer",
+        "description": "Common choices include tile, sheet vinyl, luxury vinyl, and engineered wood. Compare moisture tolerance, comfort, maintenance, subfloor requirements, traffic, and how the material will meet adjacent rooms before deciding."
+      }
+    }
+  ],
+  "description": "Common choices include tile, sheet vinyl, luxury vinyl, and engineered wood. Compare moisture tolerance, comfort, maintenance, subfloor requirements, traffic, a"
+}

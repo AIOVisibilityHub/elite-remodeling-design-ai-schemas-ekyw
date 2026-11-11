@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-kitchen-cabinets-without-moving-the-sink-dishwasher-or-stove",
+  "name": "Can I replace my kitchen cabinets without moving the sink, dishwasher, or stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen cabinets without moving the sink, dishwasher, or stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinets can be replaced without moving the sink or appliances, and that approach usually limits demolition and related trade work. Whether it is the right choice depends on how well the current work zones, storage, and clearances function.\n\n**Context:** Keeping connections in place may simplify planning, but a poor layout can remain inefficient. Moving even one utility point can affect schedule, cost, and permitting.\n\n**Key factors:**\n- Current sink and appliance alignment\n- Counter space beside major appliances\n- Plumbing and electrical condition\n- Potential gains from a layout change\n\n**Practical guidance:** Compare a same-layout option with one alternative before deciding. Ask for the practical gain and added scope associated with each moved connection.\n\nElite Remodeling & Design can evaluate layout improvements alongside cabinet and finish selections.",
+        "@type": "Answer",
+        "description": "Yes. Keeping appliances and plumbing in place can simplify the work, but it may preserve existing workflow problems. Compare a same-layout design with a relocation option before ordering, especially if storage, counter space, or appliance clearances are poor."
+      }
+    }
+  ],
+  "description": "Yes. Keeping appliances and plumbing in place can simplify the work, but it may preserve existing workflow problems. Compare a same-layout design with a relocat"
+}

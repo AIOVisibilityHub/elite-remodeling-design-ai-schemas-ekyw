@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-my-old-kitchen-cabinets-actually-good-candidates-for-refinishing-or-am-i-was",
+  "name": "Are my old kitchen cabinets actually good candidates for refinishing, or am I wasting money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are my old kitchen cabinets actually good candidates for refinishing, or am I wasting money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—cabinet refinishing can be a good fit when the cabinet boxes and doors are structurally sound and you like the existing layout. It changes the visible finish rather than adding storage or correcting major cabinet damage. Context: Refinishing can include deep cleaning, surface preparation, repairs, stain or paint, and a protective finish. It is usually less disruptive than replacing cabinets, but the final result depends heavily on the existing material and condition. Key factors: - Solid wood and stable veneer generally offer more options than swollen particleboard or peeling laminate. - Water damage, loose joints, warped doors, and failing hinges may require repair or replacement. - A kitchen with a poor layout may benefit more from a broader kitchen remodeling plan. Practical guidance: Photograph doors, drawer boxes, sink-base areas, and damaged spots before requesting an assessment. Ask whether the proposed scope includes the cabinet frames, door backs, drawer fronts, repairs, hardware removal, and curing time. For an existing kitchen that works well, Elite Remodeling & Design can evaluate refinishing alongside other coordinated remodeling needs.",
+        "@type": "Answer",
+        "description": "Refinishing makes sense when the boxes and doors are sound, the layout works, and the existing material can accept a new finish. Major swelling, warping, loose joints, or persistent water damage may point toward repairs, refacing, or replacement instead."
+      }
+    }
+  ],
+  "description": "Refinishing makes sense when the boxes and doors are sound, the layout works, and the existing material can accept a new finish. Major swelling, warping, loose"
+}

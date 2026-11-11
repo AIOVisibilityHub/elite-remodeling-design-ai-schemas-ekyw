@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-kitchen-if-i-get-my-cabinets-refinished",
+  "name": "How long will I be without my kitchen if I get my cabinets refinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my kitchen if I get my cabinets refinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many cabinet refinishing projects take several working days, but the exact schedule depends on kitchen size, finish removal, repairs, drying conditions, and whether doors are finished away from the kitchen. Context: A small color refresh may move faster than a full stain change that requires extensive stripping. Coastal moisture, cool evenings, limited ventilation, or a busy household can also affect drying and curing. Key factors: - Door and drawer quantity matters more than room size alone. - Hidden damage discovered after removal can extend the scope. - Curing is different from being dry to the touch; heavy use may need to wait. Practical guidance: Ask for separate preparation, application, reinstallation, and cure milestones rather than one vague completion date. Plan an alternate food-preparation area and avoid scheduling the work immediately before a major event. A coordinated remodel plan from Elite Remodeling & Design can account for refinishing alongside countertops, lighting, or other kitchen work.",
+        "@type": "Answer",
+        "description": "Plan for several working days in many cases, with longer schedules when the old finish must be stripped, repairs are extensive, or many doors and drawers are involved. Ask when normal use can resume, because full curing may take longer than the visible work."
+      }
+    }
+  ],
+  "description": "Plan for several working days in many cases, with longer schedules when the old finish must be stripped, repairs are extensive, or many doors and drawers are in"
+}

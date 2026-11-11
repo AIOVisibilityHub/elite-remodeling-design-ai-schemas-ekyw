@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-cabinets-have-water-damage-under-the-old-countertop",
+  "name": "What if my cabinets have water damage under the old countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my cabinets have water damage under the old countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The countertop may be the visible problem, but swelling, discoloration, odor, soft cabinet material, or recurring moisture can indicate damage beneath it. Replacing the surface without correcting the leak or repairing weakened cabinets may lead to another failure. Identify plumbing connections, sink seals, dishwasher discharge, and wall or window moisture before demolition. Include cabinet repair, drying, disposal, and possible layout changes in the scope when damage extends below the countertop. Elite Remodeling & Design can coordinate the inspection and related kitchen construction rather than treating the surface separately.",
+        "@type": "Answer",
+        "description": "Do not install a new surface over swollen, soft, or structurally weakened cabinets. Find and correct the moisture source, inspect the sink and plumbing area, and include cabinet repair or replacement in the scope if needed. A new countertop will not fix damaged support beneath it."
+      }
+    }
+  ],
+  "description": "Do not install a new surface over swollen, soft, or structurally weakened cabinets. Find and correct the moisture source, inspect the sink and plumbing area, an"
+}

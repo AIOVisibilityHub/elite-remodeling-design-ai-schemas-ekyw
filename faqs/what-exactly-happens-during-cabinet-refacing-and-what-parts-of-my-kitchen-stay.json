@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-exactly-happens-during-cabinet-refacing-and-what-parts-of-my-kitchen-stay",
+  "name": "What exactly happens during cabinet refacing, and what parts of my kitchen stay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What exactly happens during cabinet refacing, and what parts of my kitchen stay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing generally updates the visible cabinet framework and installs new doors and drawer fronts, while keeping the existing cabinet boxes in place. Depending on the chosen scope, hardware, hinges, organizers, countertops, and related finishes may also be replaced.\n\nContext: The exact work should be written down because “refacing” can mean different things from one provider to another. Side panels, toe kicks, end panels, and cabinet interiors may require separate decisions.\n\nKey factors:\n- Ask which exposed surfaces receive veneer, laminate, paint, or another finish.\n- Confirm whether doors, drawer boxes, hinges, and pulls are included.\n- Identify repairs needed before new surfaces can be applied.\n\nPractical guidance: Request a room-specific scope showing what remains, what is removed, and what is installed. Share appliance dimensions and photos of cabinet ends so the design accounts for visible conditions.\n\nElite Remodeling & Design’s design-build process can connect finish selections with the rest of a kitchen upgrade when refacing is part of a larger renovation.",
+        "@type": "Answer",
+        "description": "Most refacing projects keep the existing cabinet boxes, update exposed surfaces, and install new doors and drawer fronts. Ask whether end panels, toe kicks, hinges, hardware, drawer boxes, interiors, repairs, and countertops are included, because those items can vary by scope."
+      }
+    }
+  ],
+  "description": "Most refacing projects keep the existing cabinet boxes, update exposed surfaces, and install new doors and drawer fronts. Ask whether end panels, toe kicks, hin"
+}

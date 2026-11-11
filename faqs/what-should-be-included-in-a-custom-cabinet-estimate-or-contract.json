@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-custom-cabinet-estimate-or-contract",
+  "name": "What should be included in a custom cabinet estimate or contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a custom cabinet estimate or contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cabinet contract should identify the exact scope, materials, finish, dimensions, hardware, installation, payment schedule, warranty, exclusions, change-order process, and responsibility for damage or missing parts. It should also show how design revisions are approved before fabrication.\n\nContext: Community complaints frequently involve unclear selections, late hardware orders, staged visits, and disagreement about unfinished details. Precise documents reduce those disputes.\n\nKey factors:\n- Cabinet drawings and material specifications\n- Included trim, panels, fillers, and accessories\n- Delivery, storage, installation, and cleanup\n- Final inspection and correction process\n\nPractical guidance: Compare proposals line by line and keep approved drawings with the agreement. Avoid relying on verbal promises about features, completion, or replacement work.\n\nElite Remodeling & Design’s coordinated project approach can be evaluated by asking how each stage is documented.",
+        "@type": "Answer",
+        "description": "Require drawings, materials, finish, hardware, installation, trim, panels, fillers, payment terms, warranty, exclusions, change-order rules, delivery details, and the process for damaged or missing components."
+      }
+    }
+  ],
+  "description": "Require drawings, materials, finish, hardware, installation, trim, panels, fillers, payment terms, warranty, exclusions, change-order rules, delivery details, a"
+}

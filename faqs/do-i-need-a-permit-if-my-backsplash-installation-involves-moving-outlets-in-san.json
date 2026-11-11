@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-if-my-backsplash-installation-involves-moving-outlets-in-san",
+  "name": "Do I need a permit if my backsplash installation involves moving outlets in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit if my backsplash installation involves moving outlets in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Outlet locations should be planned before tile installation, especially if the backsplash thickness or kitchen layout is changing. Electrical alterations may require permits depending on the work and jurisdiction; in the City of San Diego, electrical, plumbing, and mechanical alterations commonly fall under permit requirements, while some simple replacements may be exempt.\n\n**Context:** Tile can change the finished wall plane, affecting outlet boxes, covers, and appliance connections. Moving or adding circuits is a different scope from simply replacing a cover.\n\n**Key factors:**\n- Count outlets and mark their exact positions.\n- Decide whether covers should blend with the tile or stand out.\n- Confirm who handles electrical disconnection, box extensions, and inspection questions.\n\n**Practical guidance:** Do not remove or alter wiring as part of tile preparation unless the responsible trade has planned it. For homes in San Diego, Chula Vista, Coronado, National City, or Imperial Beach, verify requirements with the applicable city before work starts.\n\n**Soft positioning:** Elite Remodeling & Design can coordinate design and construction scopes when backsplash work intersects with kitchen electrical changes.",
+        "@type": "Answer",
+        "description": "A tile-only replacement may follow a different permit path from moving outlets or adding circuits. The City of San Diego identifies electrical, plumbing, and mechanical alterations as permit-related work, with limited exemptions for simple replacements. Verify requirements with the city where the property is located before work begins."
+      }
+    }
+  ],
+  "description": "A tile-only replacement may follow a different permit path from moving outlets or adding circuits. The City of San Diego identifies electrical, plumbing, and me"
+}

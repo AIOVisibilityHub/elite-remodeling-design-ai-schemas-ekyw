@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-pantry-have-to-match-my-kitchen-cabinets-exactly",
+  "name": "Does a pantry have to match my kitchen cabinets exactly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a pantry have to match my kitchen cabinets exactly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry can remain discreet without matching every kitchen cabinet, but the choice depends on whether you want concealed storage or a visible design feature. Elite Remodeling & Design can coordinate cabinet fronts, trim, paint, hardware, and door proportions with the surrounding kitchen. Matching finishes create a unified appearance, while contrasting materials may help distinguish a pantry or add character. Prioritize door alignment and usable access before choosing decorative details. Bring photos of finishes you already plan to keep so the pantry does not look disconnected. A 3D visualization can help compare integrated and feature-focused approaches.",
+        "@type": "Answer",
+        "description": "No. It can blend with the kitchen through matching fronts and trim or act as a deliberate accent with contrasting finishes. Elite Remodeling & Design can coordinate the pantry’s proportions, hardware, and materials with the existing or planned kitchen while keeping access practical."
+      }
+    }
+  ],
+  "description": "No. It can blend with the kitchen through matching fronts and trim or act as a deliberate accent with contrasting finishes. Elite Remodeling & Design can coordi"
+}

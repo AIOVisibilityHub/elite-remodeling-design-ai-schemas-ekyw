@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-peninsula-be-installed-on-my-existing-kitchen-floor",
+  "name": "Can a peninsula be installed on my existing kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a peninsula be installed on my existing kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a peninsula over existing flooring is possible when the floor is level, stable, and finished beneath the planned footprint, but the result depends on cabinet placement and future replacement needs. If flooring ends at the old cabinet line, the new layout may expose unfinished areas.\n\nContext: Flooring repairs or replacement are easier to coordinate before cabinets are installed. The peninsula can also change transitions between kitchen flooring and adjacent rooms.\n\nKey factors:\n- Flooring continuity under and around cabinets\n- Levelness and moisture damage\n- Toe-kick and baseboard conditions\n- Whether the layout may change later\n\nPractical guidance: Inspect the floor after demolition or before anchoring cabinets. Confirm whether flooring will run under the peninsula or stop at the cabinet footprint.\n\nElite Remodeling & Design can coordinate flooring, cabinet, and finish decisions within a kitchen remodeling scope.",
+        "@type": "Answer",
+        "description": "Usually, if the floor is level, stable, and finished where the peninsula will sit. Check for missing flooring, uneven areas, moisture damage, and trim conflicts before installation. Decide early whether new flooring will run beneath the cabinets."
+      }
+    }
+  ],
+  "description": "Usually, if the floor is level, stable, and finished where the peninsula will sit. Check for missing flooring, uneven areas, moisture damage, and trim conflicts"
+}

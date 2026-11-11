@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-under-cabinet-lighting-be-installed-before-or-after-the-backsplash",
+  "name": "Should under-cabinet lighting be installed before or after the backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should under-cabinet lighting be installed before or after the backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A backsplash can accommodate under-cabinet lighting, but wiring, fixtures, switch locations, and tile thickness must be planned before installation. Adding or relocating electrical components may be a separate scope from setting tile.\n\n**Context:** Tile can cover access points and change the finished wall plane, while lighting wiring may need to pass through cabinets or walls. Retrofitting after tile is installed can create visible patches or require removal.\n\n**Key factors:**\n- Decide fixture locations, wire paths, switches, and driver access early.\n- Coordinate outlet boxes and cover plates with tile layout.\n- Confirm which trade disconnects and reconnects electrical components.\n\n**Practical guidance:** Bring the lighting plan to the backsplash layout appointment. If wiring or circuits change, verify the applicable local requirements before work begins.\n\n**Soft positioning:** Elite Remodeling & Design can coordinate lighting, cabinetry, backsplash, and other kitchen design decisions in one remodeling plan.",
+        "@type": "Answer",
+        "description": "Plan wiring, fixtures, switches, and access before backsplash installation. Tile thickness affects outlet boxes and finished surfaces, and retrofitting wiring afterward can damage the new finish. Coordinate the electrical scope with the backsplash layout and verify local requirements if circuits or wiring are changed."
+      }
+    }
+  ],
+  "description": "Plan wiring, fixtures, switches, and access before backsplash installation. Tile thickness affects outlet boxes and finished surfaces, and retrofitting wiring a"
+}

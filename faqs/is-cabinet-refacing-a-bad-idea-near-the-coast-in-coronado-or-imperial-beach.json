@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-cabinet-refacing-a-bad-idea-near-the-coast-in-coronado-or-imperial-beach",
+  "name": "Is cabinet refacing a bad idea near the coast in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is cabinet refacing a bad idea near the coast in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal exposure can influence cabinet material and maintenance choices, but it does not automatically rule out refacing. In areas such as Coronado and Imperial Beach, discuss humidity, salt air, ventilation, sink-area moisture, and the finish’s care requirements before selecting materials.\n\nContext: The cabinet boxes still need to be dry and sound, and leaks or condensation should be corrected. A durable finish is only one part of protecting the installation.\n\nKey factors:\n- Moisture exposure near sinks, dishwashers, windows, and exterior doors.\n- Ventilation during cooking and the condition of existing cabinet edges.\n- Material warranty, cleaning instructions, and touch-up availability.\n\nPractical guidance: Ask for samples and written maintenance instructions, especially for exposed end panels and toe kicks. Confirm how the installer will seal or finish areas vulnerable to water.\n\nElite Remodeling & Design can factor the home’s existing conditions into kitchen material and construction planning throughout coastal San Diego County.",
+        "@type": "Answer",
+        "description": "Coastal homes can be suitable for refacing, but moisture, salt air, ventilation, and sink-area exposure should influence material and finish choices. Inspect boxes for damage, ask about edge and toe-kick protection, and follow the selected product’s cleaning and maintenance guidance."
+      }
+    }
+  ],
+  "description": "Coastal homes can be suitable for refacing, but moisture, salt air, ventilation, and sink-area exposure should influence material and finish choices. Inspect bo"
+}

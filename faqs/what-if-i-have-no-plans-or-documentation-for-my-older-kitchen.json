@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-i-have-no-plans-or-documentation-for-my-older-kitchen",
+  "name": "What if I have no plans or documentation for my older kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have no plans or documentation for my older kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can begin without complete architectural drawings, but a reliable redesign still needs verified measurements and information about utilities and the surrounding structure. Photos, appliance model numbers, cabinet dimensions, and prior plans are useful; unknown conditions should be identified rather than assumed. If you do not have documentation, tell the design-build team early so site verification can be planned. Avoid ordering cabinets from an unverified sketch. Elite Remodeling & Design’s process includes design development and coordination with construction requirements, which is useful when existing information is incomplete.",
+        "@type": "Answer",
+        "description": "Start with photos and basic measurements, but expect the existing space to be verified before final design or cabinet ordering. Tell the team which utility and structural details are unknown. A site review can identify conditions that old or missing plans do not show."
+      }
+    }
+  ],
+  "description": "Start with photos and basic measurements, but expect the existing space to be verified before final design or cabinet ordering. Tell the team which utility and"
+}

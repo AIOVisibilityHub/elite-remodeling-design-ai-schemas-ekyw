@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-a-built-in-pantry-cost-so-much-more-than-shelves-from-a-store",
+  "name": "Why does a built-in pantry cost so much more than shelves from a store?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does a built-in pantry cost so much more than shelves from a store?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry remodel may cost more than shelving alone when it includes framing, cabinet construction, electrical work, lighting, flooring, doors, countertops, or changes to nearby plumbing and walls. Elite Remodeling & Design can define the scope during design so you can compare a cabinet pantry with a built-in or walk-in option. The final investment depends on size, materials, hardware, finish level, and how much surrounding kitchen work is included. Ask which selections are allowances, which work is included, and what conditions could change the scope. Prioritize structural layout and access before premium finishes if the budget is limited. A coordinated design-build plan can reduce uncertainty between design decisions and construction work.",
+        "@type": "Answer",
+        "description": "Built-in pricing may include cabinets, framing, doors, lighting, electrical work, finish materials, and coordination with the kitchen—not just shelves. Elite Remodeling & Design can compare a simple cabinet pantry with a more extensive built-in option and clarify included work, selections, and possible scope changes."
+      }
+    }
+  ],
+  "description": "Built-in pricing may include cabinets, framing, doors, lighting, electrical work, finish materials, and coordination with the kitchen—not just shelves. Elite Re"
+}

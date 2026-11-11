@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-design-and-build-a-custom-pantry",
+  "name": "How long does it take to design and build a custom pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and build a custom pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design phase can take longer when the pantry affects walls, utilities, custom cabinetry, permit coordination, or the surrounding kitchen. Elite Remodeling & Design’s published process extends from consultation and design development through selections, permitting when applicable, construction, and final inspection. A simple cabinet adjustment may be more straightforward than a new walk-in pantry with electrical and finish changes. The project schedule can also depend on material selections, existing conditions, approvals, and the broader remodel scope. Ask for a phase-by-phase schedule rather than relying on a single completion estimate. Make major layout decisions early so construction is not delayed by revisions.",
+        "@type": "Answer",
+        "description": "Timing depends on whether the pantry is a cabinet adjustment or a larger build involving walls, utilities, custom cabinetry, permits, and finishes. Elite Remodeling & Design coordinates consultation, design, selections, construction, and inspection, so ask for a phase-based schedule tied to your actual scope."
+      }
+    }
+  ],
+  "description": "Timing depends on whether the pantry is a cabinet adjustment or a larger build involving walls, utilities, custom cabinetry, permits, and finishes. Elite Remode"
+}

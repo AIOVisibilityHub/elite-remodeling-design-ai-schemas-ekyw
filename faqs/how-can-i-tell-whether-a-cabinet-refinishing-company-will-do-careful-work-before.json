@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-a-cabinet-refinishing-company-will-do-careful-work-before",
+  "name": "How can I tell whether a cabinet refinishing company will do careful work before I hire them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether a cabinet refinishing company will do careful work before I hire them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask for proof of relevant cabinet work, not just general remodeling photos. Context: Cabinet refinishing quality is difficult to judge from wide room photos because preparation, edge coverage, sheen consistency, door backs, and reassembly details may be hidden. A useful portfolio includes close-ups and projects with similar materials and color changes. Key factors: - Look for door edges, corners, profiles, frames, and interiors. - Ask whether the examples used wood, laminate, thermofoil, or previously painted cabinets. - Check whether the work was completed by the same team proposed for your project. Practical guidance: Request references for comparable scope and ask those homeowners about adhesion, schedule, cleanup, and follow-up. Confirm how samples and color approval work before production begins. Elite Remodeling & Design’s broader remodeling portfolio can be discussed alongside the specific cabinet finish approach proposed for your kitchen.",
+        "@type": "Answer",
+        "description": "Review close-up examples showing edges, profiles, frames, and reinstalled hardware, and ask whether the materials and color changes match your project. Request comparable references and ask about preparation, cleanup, curing, and post-project adjustments."
+      }
+    }
+  ],
+  "description": "Review close-up examples showing edges, profiles, frames, and reinstalled hardware, and ask whether the materials and color changes match your project. Request"
+}

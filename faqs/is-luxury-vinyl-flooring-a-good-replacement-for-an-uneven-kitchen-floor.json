@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-luxury-vinyl-flooring-a-good-replacement-for-an-uneven-kitchen-floor",
+  "name": "Is luxury vinyl flooring a good replacement for an uneven kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is luxury vinyl flooring a good replacement for an uneven kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury vinyl can be a practical kitchen option when the subfloor is properly prepared, especially if comfort, easier cleaning, and a lower-maintenance surface matter. It is not a way to ignore dips, movement, moisture, or damaged underlayment. Context: Uneven or flexible bases can contribute to failed rigid flooring, while floating vinyl still needs the manufacturer’s required flatness and expansion conditions. Key factors: - Plank or tile installation method - Subfloor flatness - Water exposure at appliances and sinks - Transition height Practical guidance: Ask for a substrate evaluation and clarify whether existing flooring will be removed or covered. Elite Remodeling & Design can compare the flooring choice with cabinetry, appliance placement, and adjacent-room finishes.",
+        "@type": "Answer",
+        "description": "Luxury vinyl may handle normal household use well, but it does not correct an uneven or unstable base. Check flatness, moisture, movement, and underlayment requirements first; otherwise the new floor may telegraph defects or separate."
+      }
+    }
+  ],
+  "description": "Luxury vinyl may handle normal household use well, but it does not correct an uneven or unstable base. Check flatness, moisture, movement, and underlayment requ"
+}

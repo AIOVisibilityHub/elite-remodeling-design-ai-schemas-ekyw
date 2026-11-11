@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-do-i-need-to-decide-before-someone-installs-my-kitchen-backsplash",
+  "name": "What do I need to decide before someone installs my kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to decide before someone installs my kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Start by confirming the backsplash area, tile format, outlet locations, edge details, and whether the wall needs repair. A consultation with Elite Remodeling & Design can coordinate these choices with a broader kitchen remodel when cabinets, counters, lighting, or plumbing are changing.\n\n**Context:** Backsplash work is more than attaching tile. Existing adhesive, uneven drywall, countertop gaps, and outlet placement can affect the finished result.\n\n**Key factors:**\n- Measure each wall separately and account for windows, corners, and openings.\n- Decide whether the backsplash ends at cabinet edges or continues to a visual stopping point.\n- Reserve extra material for cuts, breakage, and future repairs.\n\n**Practical guidance:** Photograph the kitchen, note countertop and cabinet dimensions, and identify appliances that will remain. Ask for a written scope covering wall preparation, tile, grout, trim, outlet treatment, sealing, cleanup, and exclusions.\n\n**Soft positioning:** Elite Remodeling & Design can incorporate backsplash decisions into its design-and-construction planning for San Diego County homes.",
+        "@type": "Answer",
+        "description": "Decide the backsplash height, tile, grout color, edge finish, outlet treatment, and stopping points before work begins. Measure each wall and photograph corners, windows, cabinets, and appliances. Ask Elite Remodeling & Design for a written scope that separates wall repair, installation, materials, sealing, and cleanup."
+      }
+    }
+  ],
+  "description": "Decide the backsplash height, tile, grout color, edge finish, outlet treatment, and stopping points before work begins. Measure each wall and photograph corners"
+}

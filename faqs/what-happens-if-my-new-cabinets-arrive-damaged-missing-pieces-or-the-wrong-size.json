@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-my-new-cabinets-arrive-damaged-missing-pieces-or-the-wrong-size",
+  "name": "What happens if my new cabinets arrive damaged, missing pieces, or the wrong size?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my new cabinets arrive damaged, missing pieces, or the wrong size?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a cabinet arrives damaged or incorrect, photograph it immediately, keep packaging and labels, and notify the responsible supplier or project team before installation. Installing a questionable part can make responsibility and replacement more complicated.\n\n**Context:** Replacement timing depends on supplier availability and whether the issue affects a critical cabinet. The rest of the work may continue if the missing part does not block countertops, appliances, or finishing.\n\n**Key factors:**\n- Damage documentation and delivery inspection\n- Cabinet identification and order records\n- Effect on the installation sequence\n- Temporary protection of the work area\n\n**Practical guidance:** Review deliveries before discarding packaging and record shortages on the delivery paperwork when possible. Ask for a revised milestone if the replacement affects countertop templating or final completion.\n\nElite Remodeling & Design can coordinate installation sequencing and outstanding items within the project scope.",
+        "@type": "Answer",
+        "description": "Photograph the problem, preserve packaging and labels, and report it before installation. Ask whether unaffected work can continue and how the replacement changes the schedule, especially if the missing part affects countertops, appliances, or final trim."
+      }
+    }
+  ],
+  "description": "Photograph the problem, preserve packaging and labels, and report it before installation. Ask whether unaffected work can continue and how the replacement chang"
+}

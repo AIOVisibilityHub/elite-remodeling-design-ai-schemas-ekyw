@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-change-my-kitchen-layout-before-ordering-new-countertops",
+  "name": "Should I change my kitchen layout before ordering new countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I change my kitchen layout before ordering new countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing countertops while keeping the same footprint is usually easier than changing the layout, but the project becomes more involved when walls, plumbing, electrical, cabinets, or appliance locations move. Layout changes can improve workflow and storage, yet they may require additional design, construction, approvals, and coordination. Decide whether you want more prep space, a different island, a relocated sink, or changed appliance clearances before selecting the surface. Have the entire plan measured and reviewed together rather than ordering countertops first. Elite Remodeling & Design combines design development and construction coordination for kitchen projects that extend beyond the countertop.",
+        "@type": "Answer",
+        "description": "If you are considering a new sink location, island size, appliance position, cabinet arrangement, or wall change, finalize that layout before ordering countertops. Keeping the existing footprint is usually simpler, while layout changes can improve function but add design and construction scope. Measure and approve the complete plan first."
+      }
+    }
+  ],
+  "description": "If you are considering a new sink location, island size, appliance position, cabinet arrangement, or wall change, finalize that layout before ordering counterto"
+}

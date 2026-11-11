@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-measurements-and-information-do-i-need-for-a-countertop-replacement-quote",
+  "name": "What measurements and information do I need for a countertop replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements and information do I need for a countertop replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Measure approximate length and width for each countertop section, but do not use those figures as the final fabrication dimensions. Curves, walls that are out of square, cabinet depth, overhangs, seams, sink cutouts, cooktop openings, and backsplash conditions can materially change the order. Include islands separately and record the sink, faucet, and appliance models if known. Photos of corners, joints, supports, and water-damaged areas help identify complications before the site visit. Elite Remodeling & Design can use the existing layout and design goals to determine whether a simple surface replacement or broader kitchen planning is appropriate.",
+        "@type": "Answer",
+        "description": "Provide approximate lengths and widths, island dimensions, sink and cooktop details, photos of corners and cabinets, and whether the backsplash or layout will change. Final dimensions should come from a professional template because walls, overhangs, seams, and cutouts can alter the order. Mention any water damage or uneven cabinets before pricing is finalized."
+      }
+    }
+  ],
+  "description": "Provide approximate lengths and widths, island dimensions, sink and cooktop details, photos of corners and cabinets, and whether the backsplash or layout will c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-new-backsplash-tile-go-over-my-old-tile-or-does-everything-have-to-come-off",
+  "name": "Can new backsplash tile go over my old tile, or does everything have to come off?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new backsplash tile go over my old tile, or does everything have to come off?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A backsplash can often be installed over an existing surface only when the old material is firmly bonded, clean, dry, sufficiently flat, and compatible with the installation system. Loose tile, grease, glossy coatings, moisture damage, or excessive buildup usually require removal or corrective preparation.\n\n**Context:** Installing over a weak or uneven surface can transfer the problem to the new finish. Removing the old backsplash may expose damaged drywall that needs patching or replacement.\n\n**Key factors:**\n- Test for movement, hollow spots, loose grout, and surface contamination.\n- Check whether the added thickness will interfere with outlets, trim, cabinets, or appliances.\n- Confirm the adhesive manufacturer allows the proposed substrate.\n\n**Practical guidance:** Do not conceal water damage or loose material. Ask for the substrate condition to be documented and for the quote to state whether removal and wall repair are included.\n\n**Soft positioning:** Elite Remodeling & Design can assess existing kitchen conditions before recommending a replacement approach.",
+        "@type": "Answer",
+        "description": "New tile may go over an existing backsplash only if the old surface is firmly bonded, clean, dry, flat, and approved for the adhesive system. Loose tile, grease, moisture damage, or excessive thickness usually require removal and wall repair. Have the existing surface inspected before choosing the shortcut."
+      }
+    }
+  ],
+  "description": "New tile may go over an existing backsplash only if the old surface is firmly bonded, clean, dry, flat, and approved for the adhesive system. Loose tile, grease"
+}

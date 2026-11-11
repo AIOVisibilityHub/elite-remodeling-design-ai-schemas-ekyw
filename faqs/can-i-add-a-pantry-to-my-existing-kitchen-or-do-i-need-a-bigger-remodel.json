@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-pantry-to-my-existing-kitchen-or-do-i-need-a-bigger-remodel",
+  "name": "Can I add a pantry to my existing kitchen, or do I need a bigger remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a pantry to my existing kitchen, or do I need a bigger remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a pantry can often be added during a kitchen remodel, but the best solution depends on the existing walls, cabinets, doors, windows, and utility locations. Elite Remodeling & Design can assess whether a cabinet pantry, converted nook, or framed pantry fits without making the kitchen feel cramped. Removing a desk, shortening cabinets, or reallocating an underused corner may create useful storage, but each choice affects work surface and circulation. A new pantry may also involve framing, lighting, electrical work, or finish changes, which can change the project scope. Bring a floor plan or photos if available, and identify which kitchen features cannot move. Reviewing the pantry together with the full kitchen design helps prevent a storage gain from creating an awkward work area.",
+        "@type": "Answer",
+        "description": "Often, yes. A pantry may fit by replacing a desk, reallocating cabinets, using a corner, or changing a wall, but the right option depends on clearances, utilities, and kitchen workflow. Elite Remodeling & Design can evaluate it within the overall kitchen plan."
+      }
+    }
+  ],
+  "description": "Often, yes. A pantry may fit by replacing a desk, reallocating cabinets, using a corner, or changing a wall, but the right option depends on clearances, utiliti"
+}

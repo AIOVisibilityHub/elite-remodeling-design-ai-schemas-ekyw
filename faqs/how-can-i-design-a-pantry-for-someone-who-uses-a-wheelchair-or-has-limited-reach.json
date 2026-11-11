@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-design-a-pantry-for-someone-who-uses-a-wheelchair-or-has-limited-reach",
+  "name": "How can I design a pantry for someone who uses a wheelchair or has limited reach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I design a pantry for someone who uses a wheelchair or has limited reach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry can be designed around accessibility needs, but the clearances, reach ranges, door operation, and shelf hardware should be discussed before the layout is fixed. Elite Remodeling & Design can consider wider aisles, lower storage, pull-outs, and easier-to-operate doors within the available space. Typical walk-in pantry aisles are often planned around 36–48 inches, while greater width may be needed for some mobility equipment; the correct dimension depends on the user and home. Avoid placing essential items on high shelves or behind heavy doors. Explain who will use the pantry, including mobility or reach limitations, during the initial consultation.",
+        "@type": "Answer",
+        "description": "Plan around the user’s actual mobility, reach, and turning needs. Wider clearances, lower shelves, pull-out storage, and easy-to-operate doors may help, but dimensions should be tailored to the person and room. Elite Remodeling & Design can incorporate these requirements into the pantry and kitchen layout."
+      }
+    }
+  ],
+  "description": "Plan around the user’s actual mobility, reach, and turning needs. Wider clearances, lower shelves, pull-out storage, and easy-to-operate doors may help, but dim"
+}

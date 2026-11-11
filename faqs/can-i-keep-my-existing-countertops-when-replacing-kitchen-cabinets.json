@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-keep-my-existing-countertops-when-replacing-kitchen-cabinets",
+  "name": "Can I keep my existing countertops when replacing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing countertops when replacing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The countertop decision should be made before cabinet details are finalized because cabinet height, support, edge conditions, sink type, and overhangs must work together. If countertops are reused, their dimensions and condition can limit the replacement layout.\n\n**Context:** New countertops usually require templating after cabinets are installed, which affects the project sequence. Reusing tops may save material cost but can introduce fit and damage risks.\n\n**Key factors:**\n- Reuse condition and exact dimensions\n- Sink and cooktop cutouts\n- Countertop thickness and overhangs\n- Island support and appliance clearance\n\n**Practical guidance:** Decide whether reuse is realistic before demolition and ask how the existing tops will be protected. Include templating, fabrication, removal, disposal, and installation responsibilities in the proposal.\n\nElite Remodeling & Design can coordinate cabinet and countertop decisions within the kitchen remodeling plan.",
+        "@type": "Answer",
+        "description": "Sometimes, but reuse depends on the countertop’s condition, dimensions, cutouts, thickness, and the new cabinet layout. Decide before demolition and clarify who removes, stores, protects, modifies, or replaces the countertop if it no longer fits."
+      }
+    }
+  ],
+  "description": "Sometimes, but reuse depends on the countertop’s condition, dimensions, cutouts, thickness, and the new cabinet layout. Decide before demolition and clarify who"
+}

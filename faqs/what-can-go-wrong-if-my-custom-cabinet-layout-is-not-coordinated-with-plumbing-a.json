@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-if-my-custom-cabinet-layout-is-not-coordinated-with-plumbing-a",
+  "name": "What can go wrong if my custom cabinet layout is not coordinated with plumbing and electrical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong if my custom cabinet layout is not coordinated with plumbing and electrical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not approve a cabinet layout until the sink, dishwasher, refrigerator, range, hood, and major prep areas have been checked together. Small shifts can affect plumbing, electrical circuits, ventilation, countertop seams, and cabinet widths.\n\nContext: Kitchen remodeling combines several trades, so a cabinet plan that looks correct in isolation may conflict with utilities or appliance installation requirements. Elite Remodeling & Design coordinates design and construction stages for this reason.\n\nKey factors:\n- Work flow and landing areas\n- Utility locations and access\n- Appliance ventilation and clearances\n- Countertop support and seam placement\n\nPractical guidance: Review elevations and a floor plan with appliances shown at actual sizes. Ask who confirms field conditions before cabinets are ordered.\n\nA coordinated plan helps prevent field cutting, awkward fillers, and rework.",
+        "@type": "Answer",
+        "description": "Poor coordination can create appliance conflicts, insufficient outlets, ventilation problems, awkward fillers, countertop issues, and costly rework. Review appliance specifications, utilities, elevations, and field measurements before fabrication."
+      }
+    }
+  ],
+  "description": "Poor coordination can create appliance conflicts, insufficient outlets, ventilation problems, awkward fillers, countertop issues, and costly rework. Review appl"
+}

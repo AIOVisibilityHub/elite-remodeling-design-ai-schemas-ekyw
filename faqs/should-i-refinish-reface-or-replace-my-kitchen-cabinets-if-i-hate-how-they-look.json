@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-refinish-reface-or-replace-my-kitchen-cabinets-if-i-hate-how-they-look",
+  "name": "Should I refinish, reface, or replace my kitchen cabinets if I hate how they look?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I refinish, reface, or replace my kitchen cabinets if I hate how they look?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing changes the existing cabinet surfaces; refacing generally replaces doors and drawer fronts and covers visible box surfaces; replacement changes the cabinets themselves. Context: Refinishing preserves the current layout and much of the existing material. Refacing can provide new door styles while retaining the boxes, whereas replacement allows deeper changes to storage, dimensions, and layout. Key factors: - Choose refinishing when the profile, layout, and cabinet construction already work. - Consider refacing when the boxes are sound but the doors are outdated or damaged. - Consider replacement when boxes are failing or storage and layout need major improvement. Practical guidance: Before comparing bids, decide whether your priority is color, door style, storage, or room function. Have the cabinet boxes inspected before committing to refacing or refinishing. Elite Remodeling & Design can evaluate the finish option as part of a coordinated kitchen design and construction plan.",
+        "@type": "Answer",
+        "description": "Refinish when the existing doors, boxes, and layout work; reface when you want new visible doors and coverings over sound boxes; replace when the structure, storage, or layout needs major changes. The right choice depends on condition and goals."
+      }
+    }
+  ],
+  "description": "Refinish when the existing doors, boxes, and layout work; reface when you want new visible doors and coverings over sound boxes; replace when the structure, sto"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-i-choose-appliances-for-a-custom-cabinet-project",
+  "name": "When should I choose appliances for a custom cabinet project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose appliances for a custom cabinet project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start appliance planning before cabinet fabrication because appliance dimensions, ventilation, door swings, filler requirements, and utility locations affect cabinet openings. Do not rely only on a model number; use the manufacturer’s installation specifications.\n\nContext: A replacement appliance can require different clearances or electrical, plumbing, gas, or ventilation work. Elite Remodeling & Design’s broader remodeling process can coordinate these decisions with cabinet layouts and construction.\n\nKey factors:\n- Actual width, depth, height, and required clearances\n- Panel-ready versus freestanding appliances\n- Hood, refrigerator, and dishwasher door swings\n- Outlet, water, gas, and duct locations\n\nPractical guidance: Provide appliance specification sheets before final measurements. Confirm who verifies openings and who is responsible if a selected appliance changes after approval.\n\nEarly coordination prevents expensive cabinet modifications later.",
+        "@type": "Answer",
+        "description": "Choose or shortlist appliances before cabinet fabrication. Their exact dimensions, clearances, panels, door swings, and utility requirements determine cabinet openings and may affect electrical, plumbing, gas, or ventilation work."
+      }
+    }
+  ],
+  "description": "Choose or shortlist appliances before cabinet fabrication. Their exact dimensions, clearances, panels, door swings, and utility requirements determine cabinet o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-still-live-in-my-house-while-my-kitchen-cabinets-are-being-refaced",
+  "name": "Can I still live in my house while my kitchen cabinets are being refaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still live in my house while my kitchen cabinets are being refaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing may work around a functioning kitchen, but expect dust, noise, temporary counter restrictions, and limited access to cabinets during installation. The extent depends on surface preparation, cutting, repairs, countertop work, and whether plumbing or electrical tasks are added.\n\nContext: Keeping cabinet boxes usually reduces demolition, but it does not make the project completely disruption-free. A household with children, pets, or limited cooking space should plan ahead.\n\nKey factors:\n- Which cabinet sections are unavailable each day.\n- Whether the sink, dishwasher, refrigerator, or cooktop is disconnected.\n- Dust control, ventilation, and protection for floors and adjacent rooms.\n\nPractical guidance: Remove dishes and fragile items before work begins, designate a temporary food-preparation area, and ask how the crew will isolate the work zone. Confirm the daily cleanup and access plan.\n\nElite Remodeling & Design can coordinate refacing with other kitchen tasks so overlapping disruptions are planned rather than repeated.",
+        "@type": "Answer",
+        "description": "Usually, but expect noise, dust, limited cabinet access, and possible temporary restrictions around the sink, dishwasher, or cooking area. Remove stored items, plan simple meals, protect pets and children from the work zone, and ask for the crew’s daily access and cleanup plan."
+      }
+    }
+  ],
+  "description": "Usually, but expect noise, dust, limited cabinet access, and possible temporary restrictions around the sink, dishwasher, or cooking area. Remove stored items,"
+}

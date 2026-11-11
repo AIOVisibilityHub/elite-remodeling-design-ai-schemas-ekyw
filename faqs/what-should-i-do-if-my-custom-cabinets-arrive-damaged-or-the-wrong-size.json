@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-custom-cabinets-arrive-damaged-or-the-wrong-size",
+  "name": "What should I do if my custom cabinets arrive damaged or the wrong size?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my custom cabinets arrive damaged or the wrong size?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a cabinet arrives damaged or a part is wrong, photograph it immediately, keep packaging when practical, and notify the project contact in writing. Do not modify the part yourself until the installer confirms whether it should be repaired, reordered, or replaced.\n\nContext: Replacements can affect countertops, trim, appliances, and the installation schedule. A clear record helps distinguish shipping damage, manufacturing error, field damage, and an approved design change.\n\nKey factors:\n- Date and condition at delivery\n- Exact part, location, and approved drawing\n- Whether installation has already altered adjacent work\n- Replacement lead time and temporary protection\n\nPractical guidance: Ask who contacts the supplier and who pays for associated labor. Confirm how the space will be protected while the replacement is pending.\n\nElite Remodeling & Design can address cabinet issues within the project’s documented correction process.",
+        "@type": "Answer",
+        "description": "Photograph the damage or mismatch, preserve packaging, and notify the project contact in writing. Do not cut or alter the part until the team confirms the repair or replacement plan and explains any schedule impact."
+      }
+    }
+  ],
+  "description": "Photograph the damage or mismatch, preserve packaging, and notify the project contact in writing. Do not cut or alter the part until the team confirms the repai"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-warranty-should-i-expect-with-cabinet-refacing-and-what-usually-is-not-cove",
+  "name": "What warranty should I expect with cabinet refacing, and what usually is not covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What warranty should I expect with cabinet refacing, and what usually is not covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A warranty should clearly identify the covered materials, installation work, finish defects, hardware, exclusions, claim process, and duration. A warranty may not cover damage from leaks, misuse, harsh cleaners, normal wear, or movement in an unsound existing box.\n\nContext: Refacing uses existing structures, so coverage can differ between new doors and retained cabinet boxes. Verbal assurances are difficult to evaluate after the project is complete.\n\nKey factors:\n- Whether the warranty covers labor as well as materials.\n- Requirements for reporting defects and maintaining finishes.\n- Treatment of pre-existing damage and products supplied by the homeowner.\n\nPractical guidance: Request the warranty before signing, and keep product names, finish samples, invoices, and completion photos. Ask who handles adjustments if doors rub or drawers become misaligned.\n\nElite Remodeling & Design can clarify the project scope and post-installation responsibilities before cabinet work begins.",
+        "@type": "Answer",
+        "description": "Ask for written coverage of materials, labor, finishes, hardware, defects, adjustments, exclusions, and the claim process. Existing-box damage, leaks, misuse, harsh cleaners, and normal wear may be excluded. Keep the warranty with product information and final project photos."
+      }
+    }
+  ],
+  "description": "Ask for written coverage of materials, labor, finishes, hardware, defects, adjustments, exclusions, and the claim process. Existing-box damage, leaks, misuse, h"
+}

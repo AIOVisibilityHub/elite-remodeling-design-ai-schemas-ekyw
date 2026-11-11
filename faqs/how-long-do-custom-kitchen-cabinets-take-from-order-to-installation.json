@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-do-custom-kitchen-cabinets-take-from-order-to-installation",
+  "name": "How long do custom kitchen cabinets take from order to installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do custom kitchen cabinets take from order to installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan on more than the installation days alone: design, field verification, fabrication, delivery, site preparation, installation, countertop templating, and corrections all affect the schedule. The exact duration depends on cabinet complexity, material availability, and whether Elite Remodeling & Design is also coordinating broader kitchen construction.\n\nContext: Custom cabinetry must fit the actual room, and delays can occur when hardware, trim, panels, or replacement parts are ordered late. Community reports also show that incomplete selections and staged installation can extend a project.\n\nKey factors:\n- Design revision count\n- Factory or shop lead time\n- Appliance and hardware availability\n- Inspection, countertop, and trade sequencing\n\nPractical guidance: Ask for milestones rather than one optimistic completion date. Confirm when measurements become final, when cabinets are ordered, and how damaged or missing components will be handled.\n\nA written schedule makes delays easier to identify and discuss.",
+        "@type": "Answer",
+        "description": "Custom cabinets require time for design, measurements, fabrication, delivery, installation, and corrections. Ask for milestone dates and confirm when selections, appliances, hardware, and replacement parts must be ready."
+      }
+    }
+  ],
+  "description": "Custom cabinets require time for design, measurements, fabrication, delivery, installation, and corrections. Ask for milestone dates and confirm when selections"
+}

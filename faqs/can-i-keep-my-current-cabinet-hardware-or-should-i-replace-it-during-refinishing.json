@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-keep-my-current-cabinet-hardware-or-should-i-replace-it-during-refinishing",
+  "name": "Can I keep my current cabinet hardware, or should I replace it during refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my current cabinet hardware, or should I replace it during refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually reuse existing hardware if it is functional and its style suits the new finish, but removal and reinstallation should be included in the scope. Context: Refinishing does not automatically correct worn hinges, loose pulls, mismatched knobs, or poorly placed hardware. New hardware may require filling old holes or drilling new ones. Key factors: - Check hinge condition and door alignment before the finish is applied. - Measure existing hole spacing before shopping for replacements. - Decide whether soft-close hinges or drawer slides are part of the project. Practical guidance: Put every knob, pull, hinge, and screw in labeled containers if you are handling removal yourself. Ask whether hardware cleaning, replacement, hole repair, and adjustment are included. Elite Remodeling & Design can coordinate hardware decisions with cabinet refinishing and other kitchen improvements.",
+        "@type": "Answer",
+        "description": "You can keep functional hardware if it suits the updated finish, but inspect hinges, slides, alignment, and hole spacing first. Ask whether removal, cleaning, replacement, hole filling, new drilling, and final adjustment are included."
+      }
+    }
+  ],
+  "description": "You can keep functional hardware if it suits the updated finish, but inspect hinges, slides, alignment, and hole spacing first. Ask whether removal, cleaning, r"
+}

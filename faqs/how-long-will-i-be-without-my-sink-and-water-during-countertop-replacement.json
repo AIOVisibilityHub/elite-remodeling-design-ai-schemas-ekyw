@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-i-be-without-my-sink-and-water-during-countertop-replacement",
+  "name": "How long will I be without my sink and water during countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without my sink and water during countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sink, faucet, cooktop, dishwasher, and disposal may be unavailable during portions of removal and installation, and plumbing reconnection may occur after the countertop is set. Confirm the disconnection and reconnection plan, who performs each task, and whether temporary caps or alternative food-preparation arrangements are needed. Do not schedule the final installation before required cabinets, appliances, and rough plumbing are ready. Keep the sink model and faucet location unchanged only if they match the approved template. Elite Remodeling & Design can coordinate connected kitchen work so countertop installation is sequenced with plumbing, cabinetry, and finish tasks.",
+        "@type": "Answer",
+        "description": "Expect the sink and related water service to be unavailable during portions of removal, installation, adhesive curing, and plumbing reconnection. The exact interruption depends on sink type, cabinet access, and whether plumbing changes are included. Confirm the sequence and reconnection responsibility before scheduling the installation."
+      }
+    }
+  ],
+  "description": "Expect the sink and related water service to be unavailable during portions of removal, installation, adhesive curing, and plumbing reconnection. The exact inte"
+}

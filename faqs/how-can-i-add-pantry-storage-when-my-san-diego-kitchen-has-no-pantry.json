@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-add-pantry-storage-when-my-san-diego-kitchen-has-no-pantry",
+  "name": "How can I add pantry storage when my San Diego kitchen has no pantry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I add pantry storage when my San Diego kitchen has no pantry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen without a pantry can still gain organized food storage through a tall cabinet, shallow shelving, deep drawers, or a carefully planned cabinet near the refrigerator. Elite Remodeling & Design can assess these options within the existing layout or a larger kitchen remodel. Context: The best location depends on refrigerator-door clearance, traffic paths, wall width, and proximity to food preparation. Very deep shelves may create hidden items unless paired with drawers, bins, or turntables. Key factors: available vertical space; door swings; shelf depth; bulk-buying habits. Practical guidance: Measure the unused areas beside appliances and at the ends of cabinet runs. Keep everyday staples at reachable heights and reserve high shelves for occasional items. Confirm that a new cabinet will not narrow a working aisle.",
+        "@type": "Answer",
+        "description": "Consider a tall pantry cabinet, shallow shelves, deep drawers, or a cabinet near the refrigerator. First check door swings, aisle width, wall space, and shelf depth; otherwise, added storage may become difficult to reach or obstruct movement."
+      }
+    }
+  ],
+  "description": "Consider a tall pantry cabinet, shallow shelves, deep drawers, or a cabinet near the refrigerator. First check door swings, aisle width, wall space, and shelf d"
+}

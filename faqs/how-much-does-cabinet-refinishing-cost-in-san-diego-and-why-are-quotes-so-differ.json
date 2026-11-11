@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-cabinet-refinishing-cost-in-san-diego-and-why-are-quotes-so-differ",
+  "name": "How much does cabinet refinishing cost in San Diego, and why are quotes so different?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does cabinet refinishing cost in San Diego, and why are quotes so different?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable flat price without seeing the cabinet count, dimensions, material, finish, condition, and requested color. Context: A quote may cover only doors and drawer fronts, or it may include frames, interiors, repairs, hardware, masking, transport, and final adjustments. Prices gathered from general industry discussions vary widely by region and scope, so national figures should not be treated as a San Diego quote. Key factors: - Stain stripping and color changes can require more labor than repainting a compatible surface. - Tall panels, islands, decorative trim, and damaged sink bases add preparation time. - Hardware replacement, soft-close upgrades, and layout changes are separate cost drivers. Practical guidance: Request an itemized estimate with the number of doors, drawers, frames, finish coats, repairs, and exclusions. Compare the complete scope—not just the lowest starting price—when reviewing proposals. Elite Remodeling & Design can assess whether refinishing fits within a larger kitchen remodeling budget.",
+        "@type": "Answer",
+        "description": "Cabinet refinishing costs vary with cabinet count, material, condition, finish type, repairs, and whether frames and interiors are included. Request an itemized San Diego estimate that lists doors, drawers, frames, preparation, coatings, hardware, repairs, and exclusions."
+      }
+    }
+  ],
+  "description": "Cabinet refinishing costs vary with cabinet count, material, condition, finish type, repairs, and whether frames and interiors are included. Request an itemized"
+}

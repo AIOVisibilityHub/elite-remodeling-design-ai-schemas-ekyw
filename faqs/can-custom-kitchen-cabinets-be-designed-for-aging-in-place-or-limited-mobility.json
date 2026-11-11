@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-custom-kitchen-cabinets-be-designed-for-aging-in-place-or-limited-mobility",
+  "name": "Can custom kitchen cabinets be designed for aging in place or limited mobility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom kitchen cabinets be designed for aging in place or limited mobility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom cabinets can support aging in place or mobility needs when those requirements are discussed before the layout is finalized. Useful changes may include easier-to-reach storage, clear pathways, accessible work areas, and hardware that is simple to operate.\n\nContext: Accessibility is highly personal and depends on height, reach, mobility, seating, and appliance use. A standard “accessible” package may not suit every household.\n\nKey factors:\n- Reach range and preferred work heights\n- Clear floor space and turning areas\n- Pull-out storage versus deep shelves\n- Lever-style or easy-grip hardware\n\nPractical guidance: Identify who will use each work zone and demonstrate any mobility limitations during design. Ask for elevations and reach-sensitive storage locations, not just a list of accessories.\n\nElite Remodeling & Design can incorporate household-specific use requirements into kitchen planning.",
+        "@type": "Answer",
+        "description": "Yes. Discuss reach, clear floor space, work heights, pull-outs, appliance access, and easy-grip hardware before design approval. Accessibility should be tailored to the person using the kitchen rather than copied from a generic package."
+      }
+    }
+  ],
+  "description": "Yes. Discuss reach, clear floor space, work heights, pull-outs, appliance access, and easy-grip hardware before design approval. Accessibility should be tailore"
+}

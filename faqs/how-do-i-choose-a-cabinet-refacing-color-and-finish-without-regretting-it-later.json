@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-choose-a-cabinet-refacing-color-and-finish-without-regretting-it-later",
+  "name": "How do I choose a cabinet-refacing color and finish without regretting it later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a cabinet-refacing color and finish without regretting it later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cabinet sample should be judged in the actual kitchen, not only under a showroom’s lighting. Compare color, texture, edge treatment, sheen, door profile, hardware, and how the finish relates to countertops, flooring, backsplash, and appliances.\n\nContext: Large surfaces can look different from a small sample, and natural or textured materials may vary between pieces. Lighting near windows and under cabinets can change the perceived color.\n\nKey factors:\n- Daylight, evening light, and under-cabinet lighting.\n- Grain direction, seams, edge details, and end-panel matching.\n- Cleaning requirements and the visibility of fingerprints or scratches.\n\nPractical guidance: Place full-size or representative samples beside the countertop and backsplash, then view them at different times of day. Record the approved product name, color, sheen, and door profile.\n\nElite Remodeling & Design can incorporate sample review into the design-development stage before cabinet materials are ordered.",
+        "@type": "Answer",
+        "description": "View representative samples in your kitchen’s daylight and evening light beside the countertop, backsplash, flooring, and appliances. Compare sheen, texture, edge treatment, grain direction, cleaning needs, and hardware, then record the exact approved product and door profile."
+      }
+    }
+  ],
+  "description": "View representative samples in your kitchen’s daylight and evening light beside the countertop, backsplash, flooring, and appliances. Compare sheen, texture, ed"
+}

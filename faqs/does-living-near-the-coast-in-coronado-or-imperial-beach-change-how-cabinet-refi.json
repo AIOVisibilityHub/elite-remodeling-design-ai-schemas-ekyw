@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-how-cabinet-refi",
+  "name": "Does living near the coast in Coronado or Imperial Beach change how cabinet refinishing should be done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change how cabinet refinishing should be done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal homes should receive the same careful preparation as any home, with extra attention to moisture exposure and ventilation around sinks, dishwashers, and exterior-facing walls. Context: Salt air alone does not determine whether a finish will fail, but persistent dampness, condensation, and water leaks can affect wood and coatings. Coronado, Imperial Beach, and other coastal areas may have different site conditions from inland homes, so an inspection is more useful than a blanket promise. Key factors: - Repair leaks and swollen materials before finishing. - Confirm adequate drying and curing conditions during the project. - Choose cleaning and maintenance practices that limit moisture buildup. Practical guidance: Disclose prior leaks, condensation, or coastal exposure during the estimate. Ask the contractor to inspect the sink base, dishwasher edge, and cabinet ends before finalizing the coating system. Elite Remodeling & Design can incorporate those conditions into a broader residential remodeling assessment.",
+        "@type": "Answer",
+        "description": "Coastal exposure makes moisture inspection and curing conditions especially worth discussing, particularly near sinks, dishwashers, and exterior walls. Repair leaks or swollen materials first, and ask for a coating approach suited to the cabinet material and site conditions."
+      }
+    }
+  ],
+  "description": "Coastal exposure makes moisture inspection and curing conditions especially worth discussing, particularly near sinks, dishwashers, and exterior walls. Repair l"
+}

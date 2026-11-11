@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-new-countertop-does-not-fit-during-installation",
+  "name": "What should I do if my new countertop does not fit during installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my new countertop does not fit during installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the new countertop does not fit, stop installation and document the condition before accepting the work or authorizing changes. Possible causes include inaccurate measurements, cabinets that moved or were not level, changed appliances or sink specifications, wall conditions, or fabrication errors. Ask the responsible contractor or fabricator to identify the cause, explain the correction, and state whether the correction affects cost or timing. Do not force a slab into place because that can damage cabinets, walls, or the material. Elite Remodeling & Design’s coordinated planning approach is intended to connect design decisions, site conditions, fabrication, and construction before installation.",
+        "@type": "Answer",
+        "description": "Pause the installation, photograph the issue, and ask for the cause and correction plan before approving changes. Check whether the problem came from measurements, cabinet alignment, changed sink or appliance details, wall conditions, or fabrication. Do not force the countertop into place, since that can damage the slab or supporting cabinets."
+      }
+    }
+  ],
+  "description": "Pause the installation, photograph the issue, and ask for the cause and correction plan before approving changes. Check whether the problem came from measuremen"
+}

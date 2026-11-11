@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-kitchen-floor-is-damaged-and-i-want-to-replace-it",
+  "name": "What should I do first if my kitchen floor is damaged and I want to replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my kitchen floor is damaged and I want to replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying why the floor needs replacement and whether the cabinets, appliances, or nearby flooring will stay. A design-build assessment can check the visible floor, subfloor, transitions, moisture exposure, and the kitchen’s planned layout before materials are selected. Context: A torn, loose, stained, or repeatedly damaged surface may reflect an underlying moisture or leveling issue rather than a finish problem alone. Replacing flooring during a broader kitchen remodel may also affect cabinet and appliance sequencing. Key factors: - Water damage or leaks - Subfloor condition and flatness - Cabinet and appliance heights - Transitions to adjacent rooms Practical guidance: Photograph damaged areas, note soft spots or recurring leaks, and measure the kitchen and connected spaces before requesting a scope. Elite Remodeling & Design can coordinate flooring decisions with kitchen design and construction planning.",
+        "@type": "Answer",
+        "description": "First identify the damage source, check for moisture or soft spots, and decide whether cabinets, appliances, and nearby flooring will remain. A professional assessment should review the subfloor, transitions, and project sequence before you choose materials."
+      }
+    }
+  ],
+  "description": "First identify the damage source, check for moisture or soft spots, and decide whether cabinets, appliances, and nearby flooring will remain. A professional ass"
+}

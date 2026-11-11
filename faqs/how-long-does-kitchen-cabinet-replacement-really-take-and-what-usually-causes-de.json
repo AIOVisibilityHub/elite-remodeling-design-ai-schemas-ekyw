@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-kitchen-cabinet-replacement-really-take-and-what-usually-causes-de",
+  "name": "How long does kitchen cabinet replacement really take, and what usually causes delays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen cabinet replacement really take, and what usually causes delays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many cabinet-only projects take several weeks from approved design through installation, but the total schedule varies substantially. Custom selections, permit review, countertop fabrication, hidden damage, and utility changes can extend the work.\n\n**Context:** The calendar should include design decisions and material availability before demolition begins. A kitchen with plumbing, electrical, or structural changes needs additional coordination and possibly inspections.\n\n**Key factors:**\n- Stock versus semi-custom or custom cabinetry\n- Supplier lead times and damaged-part replacements\n- Countertop templating and fabrication\n- Scope of demolition and repair work\n\n**Practical guidance:** Ask for milestone dates rather than one broad promise: design approval, delivery, removal, installation, countertop work, and final completion. Avoid scheduling major events immediately after the expected finish.\n\nElite Remodeling & Design can incorporate design, permitting coordination, construction, and final inspection into the project plan.",
+        "@type": "Answer",
+        "description": "The installation itself may be only part of the schedule. Design decisions, cabinet lead times, countertop fabrication, utility changes, inspections, and unexpected wall or floor repairs commonly affect completion, so request milestone dates before work begins."
+      }
+    }
+  ],
+  "description": "The installation itself may be only part of the schedule. Design decisions, cabinet lead times, countertop fabrication, utility changes, inspections, and unexpe"
+}

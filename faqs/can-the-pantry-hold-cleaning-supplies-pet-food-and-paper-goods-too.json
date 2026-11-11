@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-the-pantry-hold-cleaning-supplies-pet-food-and-paper-goods-too",
+  "name": "Can the pantry hold cleaning supplies, pet food, and paper goods too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can the pantry hold cleaning supplies, pet food, and paper goods too?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry can store cleaning products, pet supplies, or household goods, but separating them from food storage is usually the more practical arrangement. Elite Remodeling & Design can create distinct cabinets, drawers, or a secondary zone if the available space and kitchen layout support it. Use clear labels and keep nonfood items away from open food and pantry staples. Heavy supplies belong low, while frequently used items should remain easy to reach. Tell the designer about pet food, recycling, paper products, or cleaning equipment before the layout is finalized. Combining too many categories in one small pantry can reduce visibility and make inventory harder to maintain.",
+        "@type": "Answer",
+        "description": "It can, but separate nonfood items from food storage whenever possible. Use dedicated lower cabinets or a distinct zone for heavy or chemical products, and tell Elite Remodeling & Design about these needs before shelving is designed. Combining every category in one space can reduce visibility and access."
+      }
+    }
+  ],
+  "description": "It can, but separate nonfood items from food storage whenever possible. Use dedicated lower cabinets or a distinct zone for heavy or chemical products, and tell"
+}

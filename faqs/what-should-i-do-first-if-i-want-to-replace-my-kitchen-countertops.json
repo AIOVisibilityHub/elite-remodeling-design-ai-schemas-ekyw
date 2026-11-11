@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-replace-my-kitchen-countertops",
+  "name": "What should I do first if I want to replace my kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to replace my kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by confirming whether the cabinets are staying, checking their condition and level, and measuring the existing countertop. Countertop replacement is usually simplest when the layout, sink location, and appliance openings remain unchanged. If cabinets are damaged, uneven, or being redesigned, address those conditions before ordering the new surface. Key factors include countertop square footage, backsplash treatment, sink type, edge profile, seams, and plumbing reconnection. Photograph the kitchen, note the sink and cooktop dimensions, and gather your preferred material and color before requesting an estimate. Elite Remodeling & Design can evaluate the countertop as part of a coordinated kitchen remodeling plan, including layout, storage, cabinetry, and finish decisions.",
+        "@type": "Answer",
+        "description": "First confirm whether the cabinets and layout will remain, then check cabinet condition, measure the countertop, and identify the sink, cooktop, backsplash, and edge details. These choices affect fabrication, cost, and scheduling. Elite Remodeling & Design can review the countertop within a broader kitchen remodeling plan when cabinet or layout changes may be needed."
+      }
+    }
+  ],
+  "description": "First confirm whether the cabinets and layout will remain, then check cabinet condition, measure the countertop, and identify the sink, cooktop, backsplash, and"
+}

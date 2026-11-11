@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-ask-a-backsplash-installer-before-i-sign-anything",
+  "name": "What should I ask a backsplash installer before I sign anything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask a backsplash installer before I sign anything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** Ask for proof of the proposed tile, grout, adhesive, sealant, and trim, along with a written scope and clear change-order process. Product samples, manufacturer instructions, photos of preparation, and a final walkthrough are more useful than a verbal promise that the job will be easy.\n\n**Context:** Backsplash quality is often determined by hidden preparation and layout decisions. Documentation helps you compare vendors without relying on different assumptions about demolition or wall repair.\n\n**Key factors:**\n- Confirm substrate preparation, pattern, grout joints, edge details, and cleanup.\n- Ask who supplies materials and who owns shortages or damaged pieces.\n- Request a schedule that identifies curing and final inspection.\n\n**Practical guidance:** Keep the approved sample and written selections with the contract. Before payment is complete, inspect corners, exposed edges, outlet covers, grout consistency, and countertop transitions.\n\n**Soft positioning:** Elite Remodeling & Design can document design selections and coordinate them through its remodeling process.",
+        "@type": "Answer",
+        "description": "Ask for an itemized scope covering demolition, wall preparation, layout, tile, grout, trim, outlet treatment, sealing, disposal, curing, and cleanup. Confirm material responsibility, change-order handling, schedule, and final inspection. Keep approved samples and written product selections."
+      }
+    }
+  ],
+  "description": "Ask for an itemized scope covering demolition, wall preparation, layout, tile, grout, trim, outlet treatment, sealing, disposal, curing, and cleanup. Confirm ma"
+}

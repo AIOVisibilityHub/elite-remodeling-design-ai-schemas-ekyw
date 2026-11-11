@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-put-a-countertop-inside-my-pantry-for-appliances-and-food-prep",
+  "name": "Should I put a countertop inside my pantry for appliances and food prep?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I put a countertop inside my pantry for appliances and food prep?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry can include a countertop, but it should earn its space by supporting a specific task such as storing small appliances, preparing coffee, decanting bulk foods, or staging groceries. Elite Remodeling & Design can coordinate a lower cabinet and work surface with the kitchen’s counter height, outlets, lighting, and door clearance. A countertop may reduce shelf capacity, so compare the value of appliance parking against the storage you give up. Plan ventilation and electrical capacity carefully if you intend to operate appliances there. Keep the surface near the pantry entrance if groceries or appliances move through frequently. Decide in advance whether the pantry is for food storage only or also for daily prep.",
+        "@type": "Answer",
+        "description": "Add one when you have a clear use, such as appliance parking, coffee preparation, or grocery staging. It can improve function but reduces shelf space and may require coordinated outlets, lighting, and clearances. Elite Remodeling & Design can weigh the tradeoff within your kitchen design."
+      }
+    }
+  ],
+  "description": "Add one when you have a clear use, such as appliance parking, coffee preparation, or grocery staging. It can improve function but reduces shelf space and may re"
+}

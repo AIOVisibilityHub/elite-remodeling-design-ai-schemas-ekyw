@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/my-last-cabinet-refacing-job-peeled-and-looked-uneven-how-do-i-avoid-repeating-t",
+  "name": "My last cabinet refacing job peeled and looked uneven—how do I avoid repeating that?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My last cabinet refacing job peeled and looked uneven—how do I avoid repeating that?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing can still be considered after a poor prior experience, but the new project should begin with a condition review and a precise scope. The cause of the earlier failure—bad preparation, moisture, poor measurements, unsuitable materials, or weak installation—must be identified first.\n\nContext: Covering a failed finish without correcting the substrate can repeat the problem. A new provider should be willing to explain what will be removed, repaired, tested, and warrantied.\n\nKey factors:\n- Bubbling, peeling, lifting edges, uneven reveals, or loose hardware.\n- Moisture sources and damaged cabinet materials.\n- Compatibility of the proposed surface with the existing substrate.\n\nPractical guidance: Gather invoices, product names, photos, and warranty documents from the earlier job. Ask for a sample installation or preparation description and require change approvals in writing.\n\nElite Remodeling & Design can evaluate whether the existing cabinets need repair, partial replacement, or a broader kitchen remodeling solution before new finishes are selected.",
+        "@type": "Answer",
+        "description": "Find the cause before starting again: moisture, poor preparation, unsuitable materials, inaccurate measurements, or weak installation. Provide prior photos and product information, request a box-condition assessment, review preparation steps, and get the repair and warranty scope in writing."
+      }
+    }
+  ],
+  "description": "Find the cause before starting again: moisture, poor preparation, unsuitable materials, inaccurate measurements, or weak installation. Provide prior photos and"
+}

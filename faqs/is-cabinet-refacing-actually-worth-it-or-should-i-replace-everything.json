@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-cabinet-refacing-actually-worth-it-or-should-i-replace-everything",
+  "name": "Is cabinet refacing actually worth it, or should I replace everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is cabinet refacing actually worth it, or should I replace everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing is usually the better value when the cabinet layout works, the boxes are sound, and the goal is a visual update with limited disruption. Replacement becomes more compelling when the layout wastes space, boxes are damaged, or you need different cabinet dimensions, deeper storage, or relocated appliances.\n\nContext: Refacing changes appearance more readily than cabinet capacity. It can improve the room substantially, but it does not correct every underlying design problem.\n\nKey factors:\n- Structural condition and age of the boxes.\n- Storage, traffic flow, appliance clearances, and countertop height.\n- The cost of repairs and custom modifications compared with new cabinets.\n\nPractical guidance: List the three problems you want the project to solve before comparing options. Ask for both a refacing scope and a replacement or layout-alternative scope when the decision is unclear.\n\nElite Remodeling & Design can assess cabinet finishes alongside layout and storage improvements through its kitchen design and construction services.",
+        "@type": "Answer",
+        "description": "Refacing is often worthwhile when the layout works and cabinet boxes are sound. Replace cabinets when you need more storage, different dimensions, a new layout, or repairs that approach replacement cost. Compare both scopes against the problems your kitchen must solve."
+      }
+    }
+  ],
+  "description": "Refacing is often worthwhile when the layout works and cabinet boxes are sound. Replace cabinets when you need more storage, different dimensions, a new layout,"
+}

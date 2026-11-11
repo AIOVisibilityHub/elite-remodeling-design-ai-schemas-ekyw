@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-old-countertop-be-removed-and-reused-somewhere-else",
+  "name": "Can my old countertop be removed and reused somewhere else?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my old countertop be removed and reused somewhere else?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The old countertop may be reusable only when it can be removed without damage, remains suitable for the new layout, and fits the intended location. Stone, tile, and integrated surfaces can crack or break during removal, while a changed sink, edge, wall, or island dimension may make reuse impractical. If reuse matters, disclose it before demolition and ask for a careful removal assessment. Photograph and measure the piece before work begins, but do not assume removal guarantees preservation. Elite Remodeling & Design can evaluate reuse in relation to the planned kitchen layout and construction scope.",
+        "@type": "Answer",
+        "description": "Possibly, but reuse depends on safe removal, the material’s condition, the new location’s dimensions, and sink or edge modifications. Stone and tile can crack during removal, and changed layouts often make reuse impractical. Discuss the idea before demolition and ask whether the piece can realistically be preserved."
+      }
+    }
+  ],
+  "description": "Possibly, but reuse depends on safe removal, the material’s condition, the new location’s dimensions, and sink or edge modifications. Stone and tile can crack d"
+}

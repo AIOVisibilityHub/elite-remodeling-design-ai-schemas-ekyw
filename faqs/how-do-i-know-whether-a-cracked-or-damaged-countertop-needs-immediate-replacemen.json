@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-whether-a-cracked-or-damaged-countertop-needs-immediate-replacemen",
+  "name": "How do I know whether a cracked or damaged countertop needs immediate replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether a cracked or damaged countertop needs immediate replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A countertop replacement may be urgent when the existing surface is structurally unsafe, has active water damage, supports a failing sink, or interferes with essential kitchen use. First stop the source of any leak, protect the area from further damage, and determine whether the cabinets and substructure are affected. Cosmetic cracking or staining may allow time for comparison and design planning, while movement, sharp breaks, or active moisture call for prompt assessment. Photograph the damage and keep records of when it appeared. Elite Remodeling & Design can determine whether the need is a focused countertop repair or part of a larger kitchen renovation.",
+        "@type": "Answer",
+        "description": "Act promptly when there is movement, a sharp break, active leaking, sink instability, or water damage to the cabinets. Stop the leak and protect the area first, then have the countertop and supporting cabinets assessed. Stains or minor cosmetic wear may allow time to compare materials and plan the replacement."
+      }
+    }
+  ],
+  "description": "Act promptly when there is movement, a sharp break, active leaking, sink instability, or water damage to the cabinets. Stop the leak and protect the area first,"
+}

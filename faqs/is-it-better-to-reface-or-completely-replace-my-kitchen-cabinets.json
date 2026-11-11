@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-better-to-reface-or-completely-replace-my-kitchen-cabinets",
+  "name": "Is it better to reface or completely replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to reface or completely replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refacing is generally the better comparison when cabinet boxes are sturdy, the layout works, and you mainly want new doors and finishes. Full replacement is more suitable when boxes are damaged, storage needs have changed, or the layout and utility locations need improvement.\n\n**Context:** Refacing preserves much of the existing framework, while replacement allows different cabinet sizes, drawers, organizers, and layout adjustments. Refacing may still involve hardware and countertop decisions.\n\n**Key factors:**\n- Box condition and moisture exposure\n- Need for additional drawers or pantry storage\n- Desired layout changes\n- Long-term plans for the home\n\n**Practical guidance:** Compare both options using the same goals and include repairs, hardware, installation, and disposal. If the existing cabinets have recurring problems, avoid paying to preserve an unsuitable layout.\n\nElite Remodeling & Design can assess the existing kitchen before recommending a broader remodeling scope.",
+        "@type": "Answer",
+        "description": "Reface when the cabinet boxes are sound and the layout already works. Replace when boxes are damaged, storage is poor, or you want different cabinet sizes, drawers, appliances, or utility locations. Compare complete scopes, including repairs and hardware."
+      }
+    }
+  ],
+  "description": "Reface when the cabinet boxes are sound and the layout already works. Replace when boxes are damaged, storage is poor, or you want different cabinet sizes, draw"
+}

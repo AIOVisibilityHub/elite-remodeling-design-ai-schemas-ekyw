@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-a-kitchen-cabinet-replacement-from-demolition-to-fi",
+  "name": "What actually happens during a kitchen cabinet replacement from demolition to final installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during a kitchen cabinet replacement from demolition to final installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical replacement involves design, measurements, material selection, removal, condition checks, installation, countertop coordination, and final adjustments. The exact sequence depends on whether Elite Remodeling & Design is also changing the layout, utilities, or other kitchen finishes.\n\n**Context:** Cabinets must be coordinated with appliance openings, countertop support, flooring, backsplash, and plumbing connections. A 3D design visualization may help clarify the proposed arrangement before construction.\n\n**Key factors:**\n- Existing-wall and floor conditions\n- Cabinet lead times and delivery inspection\n- Countertop templating and installation\n- Required trade work and inspections\n\n**Practical guidance:** Confirm the final drawings, finishes, hardware, appliance sizes, and responsibility for disconnecting appliances before demolition. Keep a written change list during construction.\n\nElite Remodeling & Design brings design development and construction coordination into one project plan.",
+        "@type": "Answer",
+        "description": "The process generally includes measuring, design approval, ordering, removal, wall and floor checks, cabinet installation, countertop coordination, utility reconnection, and adjustments. Changing the layout or utilities adds planning and trade coordination."
+      }
+    }
+  ],
+  "description": "The process generally includes measuring, design approval, ordering, removal, wall and floor checks, cabinet installation, countertop coordination, utility reco"
+}

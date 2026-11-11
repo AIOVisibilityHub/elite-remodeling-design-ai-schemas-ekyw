@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-my-kitchen-layout-redesign-quote-so-much-higher-than-i-expected",
+  "name": "Why is my kitchen layout redesign quote so much higher than I expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my kitchen layout redesign quote so much higher than I expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost is driven less by the drawing itself than by the scope the new layout creates. Moving a sink, range, refrigerator, walls, lighting, ventilation, or electrical service can affect labor, materials, permits, and finish repairs; cabinetry, countertops, and appliances also contribute substantially. A same-footprint redesign may control costs, while an open-plan concept can add structural and utility work. Ask for separate allowances or line items for design, demolition, cabinets, utilities, finishes, and contingency. Elite Remodeling & Design can evaluate layout alternatives within a broader remodeling plan rather than pricing an isolated sketch.",
+        "@type": "Answer",
+        "description": "The layout can increase costs when it moves plumbing, electrical, ventilation, appliances, or walls. Cabinetry, countertops, appliances, demolition, permits, and repairs add further scope. Compare a same-footprint option with a more extensive redesign and request itemized allowances."
+      }
+    }
+  ],
+  "description": "The layout can increase costs when it moves plumbing, electrical, ventilation, appliances, or walls. Cabinetry, countertops, appliances, demolition, permits, an"
+}

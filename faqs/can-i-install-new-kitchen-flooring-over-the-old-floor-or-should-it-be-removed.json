@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-new-kitchen-flooring-over-the-old-floor-or-should-it-be-removed",
+  "name": "Can I install new kitchen flooring over the old floor, or should it be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new kitchen flooring over the old floor, or should it be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing old flooring is often preferable when it is loose, damaged, uneven, moisture-affected, or raising the finished height beyond acceptable limits. Covering may be possible only when the existing surface is compatible, stable, clean, dry, and within the new product’s preparation requirements. Context: Covering a failed base can transfer its defects to the new finish and may hide moisture damage. Some older resilient flooring or adhesive may also require special handling before disturbance. Key factors: - Adhesion and stability - Moisture and odor - Surface flatness - Age and composition of the existing material Practical guidance: Do not aggressively remove questionable old flooring until its composition and the project’s preparation requirements are assessed. Elite Remodeling & Design can include removal, substrate preparation, and finish installation in the planned scope.",
+        "@type": "Answer",
+        "description": "Covering old flooring may work only when it is stable, dry, clean, and sufficiently flat for the new product. Remove or address flooring that is loose, damaged, uneven, or moisture-affected; investigate older questionable materials before disturbing them."
+      }
+    }
+  ],
+  "description": "Covering old flooring may work only when it is stable, dry, clean, and sufficiently flat for the new product. Remove or address flooring that is loose, damaged,"
+}

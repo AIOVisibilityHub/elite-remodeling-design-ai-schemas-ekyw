@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-cabinet-refacing-take-if-i-need-my-kitchen-back-quickly",
+  "name": "How long does cabinet refacing take if I need my kitchen back quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does cabinet refacing take if I need my kitchen back quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical cabinet-refacing project may take several days once materials are ready, but the full schedule depends on design approval, measurements, material availability, repairs, and related work. Refacing is often faster than removing cabinets and installing an entirely new cabinet system.\n\nContext: The installation period is only one part of the timeline. Custom doors, specialty finishes, countertop work, electrical changes, and permit coordination can extend the project.\n\nKey factors:\n- Material lead times and custom door details.\n- The condition of existing boxes and walls.\n- Whether plumbing, electrical, flooring, or countertops are included.\n\nPractical guidance: Ask for separate dates for field measuring, design approval, fabrication, installation, and final inspection if applicable. Plan temporary meal preparation even when the kitchen may remain partly usable.\n\nElite Remodeling & Design can place cabinet work within a coordinated remodeling schedule when the kitchen includes other construction tasks.",
+        "@type": "Answer",
+        "description": "Installation may take several days, but the overall project can take longer because of measurements, design approval, custom doors, material lead times, repairs, and related work. Ask for a written schedule that separates fabrication from on-site installation and plan for limited kitchen access."
+      }
+    }
+  ],
+  "description": "Installation may take several days, but the overall project can take longer because of measurements, design approval, custom doors, material lead times, repairs"
+}

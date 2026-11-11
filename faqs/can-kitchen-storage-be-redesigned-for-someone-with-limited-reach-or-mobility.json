@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-kitchen-storage-be-redesigned-for-someone-with-limited-reach-or-mobility",
+  "name": "Can kitchen storage be redesigned for someone with limited reach or mobility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can kitchen storage be redesigned for someone with limited reach or mobility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel can be planned around accessibility needs by reducing reach, improving pull-out access, and placing controls and daily items within comfortable ranges. The exact design should reflect the user’s mobility, reach, balance, and whether assistance is needed. Context: Elite Remodeling & Design can incorporate household-specific use requirements into layout and cabinet planning rather than applying one universal setup. Wider clearances or altered work surfaces may affect the footprint and cost. Key factors: reach range; seated versus standing use; drawer force; appliance controls; turning space. Practical guidance: Describe the user’s actual movements and difficult tasks during the consultation. Bring measurements for mobility equipment if relevant. Review cabinet elevations and open-door clearances before construction so the design is tested against real use.",
+        "@type": "Answer",
+        "description": "Yes, planning can emphasize reachable storage, pull-outs, easier hardware, suitable work heights, and clearer movement paths. The design should reflect the person’s actual reach and mobility needs, including equipment dimensions when relevant."
+      }
+    }
+  ],
+  "description": "Yes, planning can emphasize reachable storage, pull-outs, easier hardware, suitable work heights, and clearer movement paths. The design should reflect the pers"
+}

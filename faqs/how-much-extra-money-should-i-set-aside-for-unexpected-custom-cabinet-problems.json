@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-extra-money-should-i-set-aside-for-unexpected-custom-cabinet-problems",
+  "name": "How much extra money should I set aside for unexpected custom cabinet problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much extra money should I set aside for unexpected custom cabinet problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep a contingency for unknown conditions when remodeling an existing kitchen, especially if walls, flooring, utilities, or older cabinet areas will be opened. The amount should be discussed with the project team after field assessment rather than guessed from a generic percentage.\n\nContext: Hidden moisture, uneven walls, outdated wiring, damaged subfloor, or utility conflicts can change the scope. Custom cabinets may also require fillers or modifications after precise measurements.\n\nKey factors:\n- Age and condition of the home\n- Evidence of leaks or prior remodeling\n- Whether walls and floors will be opened\n- Availability of matching replacement materials\n\nPractical guidance: Ask which conditions are included, excluded, or allowance-based. Keep selections and design changes separate from unforeseen-condition costs so the budget remains understandable.\n\nAn early site evaluation helps distinguish likely work from genuine unknowns.",
+        "@type": "Answer",
+        "description": "Set aside a contingency after the existing kitchen is assessed, because leaks, uneven walls, damaged flooring, utility conflicts, and hidden conditions can affect the scope. Ask which risks are included, excluded, or allowance-based."
+      }
+    }
+  ],
+  "description": "Set aside a contingency after the existing kitchen is assessed, because leaks, uneven walls, damaged flooring, utility conflicts, and hidden conditions can affe"
+}

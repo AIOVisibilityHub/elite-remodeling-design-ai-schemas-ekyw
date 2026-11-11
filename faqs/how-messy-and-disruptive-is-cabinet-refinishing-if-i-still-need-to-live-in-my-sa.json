@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-messy-and-disruptive-is-cabinet-refinishing-if-i-still-need-to-live-in-my-sa",
+  "name": "How messy and disruptive is cabinet refinishing if I still need to live in my San Diego house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How messy and disruptive is cabinet refinishing if I still need to live in my San Diego house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect dust, odor, noise, temporary access limits, and a period when doors or drawers are removed. Context: Good containment and off-site or separated door work can reduce disruption, but a working kitchen may not remain fully usable. The extent depends on the number of cabinets, coating products, ventilation, and repairs. Key factors: - Remove food, dishes, appliances, and fragile items near the work area. - Arrange a temporary meal area and protect nearby rooms. - Keep children and pets away from wet coatings and equipment. Practical guidance: Ask how the contractor will isolate sanding, manage overspray, ventilate, and secure removed doors. Confirm daily cleanup expectations and where hardware will be stored. Elite Remodeling & Design can coordinate cabinet work with other kitchen construction so tasks are sequenced rather than repeated.",
+        "@type": "Answer",
+        "description": "Expect some dust, odor, noise, reduced kitchen access, and temporarily removed doors or drawers. Before work begins, clear cabinets, set up a temporary food area, protect nearby rooms, and ask how sanding, ventilation, hardware, and daily cleanup will be handled."
+      }
+    }
+  ],
+  "description": "Expect some dust, odor, noise, reduced kitchen access, and temporarily removed doors or drawers. Before work begins, clear cabinets, set up a temporary food are"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-kitchen-storage-project-is-delayed-or-the-finished-cabine",
+  "name": "What should I do if my kitchen storage project is delayed or the finished cabinets do not work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my kitchen storage project is delayed or the finished cabinets do not work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A delayed or incomplete storage result should be addressed by comparing the approved scope with the installed work and identifying whether the issue is design, product, site condition, or installation. Ask for a written list of outstanding items, revised dates, and any decision still needed from you. Context: Cabinet, hardware, countertop, and inspection steps may occur at different points in a coordinated remodel. Elite Remodeling & Design’s stated process includes construction and final inspection for applicable projects, so closeout should be reviewed systematically. Key factors: approved drawings; product availability; change orders; inspection status; punch-list items. Practical guidance: Keep selections, measurements, and change approvals together. Photograph concerns and describe the functional problem precisely, such as a drawer collision or inaccessible shelf. Avoid accepting a cosmetic fix when the storage cannot perform its intended purpose.",
+        "@type": "Answer",
+        "description": "Compare the installed work with the approved plans, document functional problems with photos, and request a written punch list with responsibilities and dates. Distinguish product delays, design changes, site conditions, and installation issues before agreeing to a fix."
+      }
+    }
+  ],
+  "description": "Compare the installed work with the approved plans, document functional problems with photos, and request a written punch list with responsibilities and dates."
+}

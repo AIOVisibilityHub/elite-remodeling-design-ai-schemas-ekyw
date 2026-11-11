@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-move-my-stove-to-another-wall-during-a-kitchen-redesign",
+  "name": "Can I move my stove to another wall during a kitchen redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my stove to another wall during a kitchen redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A range relocation may be feasible, but the design must account for the power or gas connection, ventilation route, surrounding landing space, and the wall or roof conditions involved. Moving it only to improve symmetry can be poor value if it sacrifices preparation space or requires extensive utility work. Compare the current location with a same-wall adjustment before moving it across the room. Confirm appliance specifications and ventilation needs early. Elite Remodeling & Design can connect layout development with construction planning instead of treating the range as a purely visual element.",
+        "@type": "Answer",
+        "description": "Possibly, but moving a range can require new gas or electrical connections, ventilation changes, wall work, and adequate landing space. Compare the functional benefit with the added scope. Confirm the appliance and ventilation requirements before approving the new position."
+      }
+    }
+  ],
+  "description": "Possibly, but moving a range can require new gas or electrical connections, ventilation changes, wall work, and adequate landing space. Compare the functional b"
+}

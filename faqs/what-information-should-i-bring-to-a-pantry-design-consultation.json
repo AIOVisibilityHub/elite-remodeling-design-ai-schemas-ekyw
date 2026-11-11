@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-bring-to-a-pantry-design-consultation",
+  "name": "What information should I bring to a pantry design consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I bring to a pantry design consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pantry design consultation should include measurements, photos, an inventory of stored items, appliance dimensions, and a clear description of what currently does not work. Elite Remodeling & Design can use that information with the existing kitchen conditions to develop layout and storage options. Include the largest package, tallest bottle, heaviest item, and any appliance you want to keep there. Note household routines, bulk-shopping patterns, children’s access needs, and whether the pantry should hold nonfood goods. If you have plans from a previous remodel, bring them but expect existing conditions to be verified. Clear priorities make it easier to compare options and control scope.",
+        "@type": "Answer",
+        "description": "Bring room measurements, photos, an inventory, appliance sizes, and a list of current frustrations. Also note bulk-shopping habits, children’s access needs, and whether the pantry will hold paper goods or cleaning supplies. Elite Remodeling & Design can use those details to develop a more practical layout."
+      }
+    }
+  ],
+  "description": "Bring room measurements, photos, an inventory, appliance sizes, and a list of current frustrations. Also note bulk-shopping habits, children’s access needs, and"
+}

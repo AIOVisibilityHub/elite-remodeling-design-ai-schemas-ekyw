@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-peninsula-be-installed-in-an-older-san-diego-home-with-uneven-walls",
+  "name": "Can a peninsula be installed in an older San Diego home with uneven walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a peninsula be installed in an older San Diego home with uneven walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A peninsula can work well in older or irregular homes, but the design must account for uneven walls, nonstandard dimensions, existing utilities, and floor transitions. Custom fillers, panels, scribing, or cabinet adjustments may be needed for a clean fit.\n\nContext: Homes in San Diego County can differ substantially in age, layout, and prior remodeling work. A plan based only on nominal cabinet sizes may overlook conditions revealed during demolition.\n\nKey factors:\n- Wall squareness and floor level\n- Existing cabinet and trim dimensions\n- Hidden plumbing or electrical routes\n- Prior additions or unrecorded alterations\n\nPractical guidance: Measure multiple points rather than one wall length, and allow the construction plan to verify concealed conditions. Avoid ordering final countertops until the installed base is checked.\n\nElite Remodeling & Design can combine site assessment, design development, and construction coordination for existing-home conditions.",
+        "@type": "Answer",
+        "description": "Often, yes, but uneven walls, floors, trim, and hidden utilities may require custom fillers, scribing, or cabinet adjustments. Measure multiple points and verify conditions before ordering cabinets or countertops; field measurement after installation helps protect the final fit."
+      }
+    }
+  ],
+  "description": "Often, yes, but uneven walls, floors, trim, and hidden utilities may require custom fillers, scribing, or cabinet adjustments. Measure multiple points and verif"
+}

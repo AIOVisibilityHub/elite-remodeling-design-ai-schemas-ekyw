@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-the-backsplash-without-replacing-my-countertops",
+  "name": "Can I replace the backsplash without replacing my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace the backsplash without replacing my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** A backsplash can usually be installed without changing the countertop, but the joint between the counter and backsplash must be clean, level, and properly finished. If the countertop is being replaced, coordinating both installations usually produces better alignment and avoids rework.\n\n**Context:** An uneven or damaged countertop edge can make the backsplash appear crooked even when the tile layout is accurate. Countertop thickness and overhang also affect the starting line.\n\n**Key factors:**\n- Confirm whether the backsplash sits on the counter or leaves a planned gap.\n- Check for caulk, sealant, and movement at the counter-to-wall joint.\n- Coordinate outlet height and backsplash thickness with the counter.\n\n**Practical guidance:** Tell the installer whether the counter will stay, be repaired, or be replaced. If both are changing, approve the order of work before demolition begins.\n\n**Soft positioning:** Elite Remodeling & Design can coordinate backsplash choices with countertop and cabinet work in a kitchen remodel.",
+        "@type": "Answer",
+        "description": "Yes, a backsplash can often be replaced while keeping the countertops, provided the counter-to-wall joint is sound and the added tile thickness will not create conflicts. If both surfaces are changing, coordinate their order, starting height, outlet position, and edge treatment before work begins."
+      }
+    }
+  ],
+  "description": "Yes, a backsplash can often be replaced while keeping the countertops, provided the counter-to-wall joint is sound and the added tile thickness will not create"
+}

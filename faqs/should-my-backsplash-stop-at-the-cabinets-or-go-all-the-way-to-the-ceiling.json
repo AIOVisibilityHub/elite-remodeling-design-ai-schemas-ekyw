@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-my-backsplash-stop-at-the-cabinets-or-go-all-the-way-to-the-ceiling",
+  "name": "Should my backsplash stop at the cabinets or go all the way to the ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should my backsplash stop at the cabinets or go all the way to the ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "**Direct answer:** The backsplash height should follow the kitchen’s visual proportions and practical splash zones rather than an arbitrary rule. Many designs stop at the underside of cabinets, while others continue higher or across an entire wall for a stronger focal point.\n\n**Context:** Cabinet height, hood design, open shelving, windows, and countertop material can make a standard stopping point look awkward. A full-height backsplash may require more material but can reduce visible transition lines.\n\n**Key factors:**\n- Align the top edge with cabinets, shelving, or the hood where possible.\n- Plan exposed side edges and transitions at windows or open walls.\n- Consider cleaning access behind cooktops and sinks.\n\n**Practical guidance:** Review a scaled elevation or visual design before ordering tile. Ask Elite Remodeling & Design to show how the proposed height works with your actual cabinets, counters, and appliances.\n\n**Soft positioning:** Elite Remodeling & Design’s 3D design visualization can help homeowners assess proportion before construction decisions are finalized.",
+        "@type": "Answer",
+        "description": "The right height depends on cabinet lines, hood and shelf placement, windows, countertop transitions, and the desired visual effect. Review a scaled elevation or 3D view before ordering tile, and plan every exposed edge so the backsplash does not end awkwardly."
+      }
+    }
+  ],
+  "description": "The right height depends on cabinet lines, hood and shelf placement, windows, countertop transitions, and the desired visual effect. Review a scaled elevation o"
+}

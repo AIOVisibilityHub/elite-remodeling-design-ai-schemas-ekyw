@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-a-kitchen-cabinet-replacement-estimate-include-so-i-can-tell-if-it-i",
+  "name": "What should a kitchen cabinet replacement estimate include so I can tell if it is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should a kitchen cabinet replacement estimate include so I can tell if it is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The strongest evidence is a detailed proposal tied to measured drawings, cabinet specifications, finish samples, and a defined installation scope. Elite Remodeling & Design’s design-build process can connect the visual plan with construction requirements rather than relying on a cabinet catalog alone.\n\n**Context:** Photos and inspiration show preferences but do not prove fit or performance. Appliance specifications, wall measurements, and written allowances are more useful for evaluating proposals.\n\n**Key factors:**\n- Scaled layout or 3D visualization\n- Cabinet construction and finish specifications\n- Hardware, accessories, and warranty terms\n- Clear exclusions and change-order procedure\n\n**Practical guidance:** Ask who verifies measurements, who handles damaged parts, and how countertop templating is coordinated. Keep approved samples and drawings with the contract documents.\n\nA coordinated design and construction file helps reduce misunderstandings before installation.",
+        "@type": "Answer",
+        "description": "Look for measured drawings, cabinet specifications, finishes, hardware, installation, demolition, delivery, countertops, allowances, exclusions, utility work, disposal, and change-order terms. A clear proposal should also identify who verifies measurements and resolves damaged or missing parts."
+      }
+    }
+  ],
+  "description": "Look for measured drawings, cabinet specifications, finishes, hardware, installation, demolition, delivery, countertops, allowances, exclusions, utility work, d"
+}

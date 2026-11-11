@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-cabinet-color-should-i-choose-if-i-want-the-refinishing-to-look-current-but",
+  "name": "What cabinet color should I choose if I want the refinishing to look current but not dated in five years?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What cabinet color should I choose if I want the refinishing to look current but not dated in five years?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best color depends on the existing wood, coating, grain, lighting, countertops, flooring, and how much maintenance you want. Context: Painting can create a more uniform color, while staining usually preserves or emphasizes wood character and may require more stripping. Samples can look different near windows, under cabinet lighting, and beside warm or cool surfaces. Key factors: - Dark colors may highlight dust, edge wear, or uneven preparation. - Light colors can show grease and handling but may brighten a compact kitchen. - A color change may require removing more of the old finish than a compatible refresh. Practical guidance: Test samples on removable doors or large sample boards rather than relying only on a small chip. Review the sheen and color in morning, afternoon, and evening light. Elite Remodeling & Design can coordinate finish decisions with countertops, backsplash, lighting, and the broader kitchen design.",
+        "@type": "Answer",
+        "description": "Choose a color after testing large samples beside your counters, backsplash, flooring, and lighting. Paint gives more uniform color; stain preserves wood character. Consider visibility of grease, dust, edge wear, and the amount of stripping required."
+      }
+    }
+  ],
+  "description": "Choose a color after testing large samples beside your counters, backsplash, flooring, and lighting. Paint gives more uniform color; stain preserves wood charac"
+}
