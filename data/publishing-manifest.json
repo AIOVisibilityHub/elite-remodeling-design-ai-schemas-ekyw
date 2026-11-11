@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-11T18:35:58.544Z",
+  "generatedAt": "2026-11-11T18:36:17.707Z",
   "client": {
     "name": "Elite Remodeling & Design",
     "canonicalUrl": "https://eliteremodelingsd.aiovisibility.net",
@@ -155,7 +155,7 @@
   },
   "package": {
     "totalFiles": 1166,
-    "totalBytes": 5711285,
+    "totalBytes": 5644286,
     "stats": {
       "faqs": 775,
       "helpArticles": 206,
@@ -5890,72 +5890,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22056,
+        "bytes": 16987,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 180274,
+        "bytes": 175353,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 113645,
+        "bytes": 108676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20666,
+        "bytes": 15856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1095136,
+        "bytes": 1090306,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 23630,
+        "bytes": 18811,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 111665,
+        "bytes": 106893,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 33747,
+        "bytes": 28902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 16773,
+        "bytes": 11858,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 347234,
+        "bytes": 342348,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 85744,
+        "bytes": 80822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 120133,
+        "bytes": 115317,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 37325,
+        "bytes": 32401,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 14186,
+        "bytes": 9397,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -5967,7 +5967,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4319,
+        "bytes": 4458,
         "purpose": "LLM hint"
       },
       {
@@ -5987,32 +5987,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1461,
+        "bytes": 1758,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 562439,
+        "bytes": 562735,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 157830,
+        "bytes": 157969,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 157830,
+        "bytes": 157969,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4282,
+        "bytes": 4421,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 198811,
+        "bytes": 198950,
         "purpose": "Repository README"
       },
       {
@@ -6030,7 +6030,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/",
       "repo": "AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw"
     }
   }

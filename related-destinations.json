@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-11T18:35:58.526Z",
+  "generatedAt": "2026-11-11T18:36:17.692Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -32,12 +32,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/",
       "repo": "AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw"
     }
   }

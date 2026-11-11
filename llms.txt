@@ -16,6 +16,7 @@ Elite Remodeling & Design publishes structured AI-readable data for discovery an
 - [canonical] Elite Remodeling & Design — canonical website — https://eliteremodelingsd.aiovisibility.net
 - [ai-data-hub] Elite Remodeling & Design — AI Data Hub — https://eliteremodelingsd.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
