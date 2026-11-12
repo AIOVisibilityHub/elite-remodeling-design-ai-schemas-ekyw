@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-when-adding-a-bathroom-that-i-cannot-see-at-first",
+  "name": "What can go wrong when adding a bathroom that I cannot see at first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when adding a bathroom that I cannot see at first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition can expose moisture damage, outdated wiring, undersized or poorly routed drains, framing problems, foundation issues, or undocumented prior work. These conditions are not always visible until demolition or selective opening occurs.\n\n**Context:** Concealed-condition risk is higher when the new room connects to older construction or when walls and floors have been altered previously. A responsible plan should identify assumptions and explain how unexpected work will be reviewed.\n\n**Key factors:**\n- Age and condition of the existing home\n- Signs of staining, odors, movement, or previous leaks\n- Accessibility of crawlspaces, attics, panels, and cleanouts\n- Whether prior additions or remodels are documented\n\n**Practical guidance:** Share known leak history and previous project records before estimating. Keep a contingency discussion separate from the base scope so you understand what is included and what would require approval.\n\nElite Remodeling & Design can account for existing conditions during design and construction planning.",
+        "@type": "Answer",
+        "description": "Demolition may reveal leaks, damaged framing, outdated wiring, poor drainage, foundation issues, or undocumented alterations. Tell the contractor about prior problems, ask for written assumptions, and agree on how concealed-condition changes will be priced and approved."
+      }
+    }
+  ],
+  "description": "Demolition may reveal leaks, damaged framing, outdated wiring, poor drainage, foundation issues, or undocumented alterations. Tell the contractor about prior pr"
+}

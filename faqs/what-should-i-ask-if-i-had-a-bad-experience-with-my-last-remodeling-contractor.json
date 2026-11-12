@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-ask-if-i-had-a-bad-experience-with-my-last-remodeling-contractor",
+  "name": "What should I ask if I had a bad experience with my last remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask if I had a bad experience with my last remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you had a poor experience with a previous contractor, require clearer documentation before committing: measured plans, a detailed scope, allowances, payment milestones, change-order procedures, schedule assumptions, protection standards, and closeout responsibilities. Ask who coordinates design, permits, construction, inspections, and corrections.\n\nDo not rely on a polished presentation alone. The important comparison is whether the provider explains unknown conditions, documents decisions, and gives you a usable process for resolving changes.\n\nKey factors:\n- One accountable project contact\n- Written inclusions and exclusions\n- Selection deadlines and approval records\n- Warranty or post-completion service terms\n\nPractical guidance: Prepare a list of what went wrong previously and ask how the proposed process addresses each issue. Keep approvals, drawings, selections, and payment records in one shared location.\n\nElite Remodeling & Design presents its services as coordinated design and construction, which can be assessed against these practical accountability needs.",
+        "@type": "Answer",
+        "description": "Ask for measured plans, a detailed scope, allowances, payment milestones, change-order rules, schedule assumptions, site-protection procedures, and clear responsibility for permits and inspections. Explain exactly what failed before and ask how the proposed process prevents a repeat. Keep every approval and selection documented."
+      }
+    }
+  ],
+  "description": "Ask for measured plans, a detailed scope, allowances, payment milestones, change-order rules, schedule assumptions, site-protection procedures, and clear respon"
+}

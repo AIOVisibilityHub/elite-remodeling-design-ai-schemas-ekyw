@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-the-new-primary-bathroom-go-to-keep-the-addition-affordable",
+  "name": "Where should the new primary bathroom go to keep the addition affordable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should the new primary bathroom go to keep the addition affordable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting the new bathroom to existing plumbing is often less expensive and less disruptive when the addition is close to an existing bathroom, kitchen, sewer line, or accessible crawlspace. A remote suite may require longer drain and supply runs, slab cutting, pump considerations, vent routing, or utility upgrades.\n\nThe shortest route is not always the best layout because the bathroom must also have practical access, ventilation, privacy, and appropriate fixture spacing. Existing drains and pipes should be verified rather than assumed from a visible fixture location.\n\nKey factors:\n- Distance to the main sewer connection\n- Slab, crawlspace, or raised-foundation conditions\n- Drain slope and vent routing\n- Existing pipe materials and capacity\n\nPractical guidance: Ask for the proposed plumbing route to be shown on the plan and priced separately when uncertainty exists. Keep the bathroom near existing wet areas only if the resulting bedroom, closet, and circulation layout still works.\n\nElite Remodeling & Design can coordinate bathroom design with the broader addition and construction requirements.",
+        "@type": "Answer",
+        "description": "A bathroom near existing wet areas, accessible drains, and the main sewer route may reduce plumbing complexity, but the best location also depends on privacy, layout, ventilation, and structural conditions. Ask for the plumbing route and any slab, crawlspace, or utility work to be identified before comparing layouts."
+      }
+    }
+  ],
+  "description": "A bathroom near existing wet areas, accessible drains, and the main sewer route may reduce plumbing complexity, but the best location also depends on privacy, l"
+}

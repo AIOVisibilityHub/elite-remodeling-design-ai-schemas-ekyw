@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-with-a-primary-suite-addition",
+  "name": "What can go wrong with a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common risks are underestimated site work, difficult utility connections, structural surprises, design changes after work begins, delayed selections, and water or ventilation problems in the bathroom. A new roof and exterior wall also create potential tie-in points where poor detailing can cause leaks or finish cracking.\n\nThese risks cannot all be eliminated, but they can be reduced through measured drawings, appropriate structural review, a detailed scope, early selections, inspections, and written change management. In the City of San Diego, construction and building-system alterations generally require permits before work starts.\n\nKey factors:\n- Existing foundation and soil conditions\n- Sewer, water, electrical, and HVAC capacity\n- Roof drainage and flashing details\n- Bathroom waterproofing and exhaust routing\n\nPractical guidance: Ask which conditions are verified and which remain allowances. Keep a written record of approved changes, costs, and schedule effects rather than relying on informal conversations.\n\nElite Remodeling & Design’s coordinated design-to-construction process is intended to connect planning details with field execution.",
+        "@type": "Answer",
+        "description": "Problems can include hidden foundation issues, difficult plumbing routes, roof leaks, insufficient HVAC capacity, delayed materials, design changes, and bathroom moisture failures. Reduce exposure with measured plans, early selections, a detailed scope, permit coordination, written change orders, and clear allowances for concealed conditions."
+      }
+    }
+  ],
+  "description": "Problems can include hidden foundation issues, difficult plumbing routes, roof leaks, insufficient HVAC capacity, delayed materials, design changes, and bathroo"
+}

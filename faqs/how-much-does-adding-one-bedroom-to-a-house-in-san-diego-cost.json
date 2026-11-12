@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-adding-one-bedroom-to-a-house-in-san-diego-cost",
+  "name": "How much does adding one bedroom to a house in San Diego cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does adding one bedroom to a house in San Diego cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends on more than bedroom square footage. San Diego-area published planning references place a single-room addition around $150,000–$250,000 or more, while a primary suite with a bathroom and additional plumbing may be substantially higher.\n\nThose figures are not a quote for your property. Foundation, roof, utilities, windows, insulation, finishes, site access, and permit-related work can materially change the total.\n\nKey factors:\n- Ground-level versus second-story construction\n- Bedroom size and closet design\n- Bathroom, laundry, or plumbing additions\n- Structural and site conditions\n\nAsk Elite Remodeling & Design for a scope-based estimate that separates design, permits, construction, allowances, and possible unknowns. Comparing only a price per square foot can hide major differences in what each proposal includes.",
+        "@type": "Answer",
+        "description": "A San Diego bedroom addition may fall around $150,000–$250,000 or more as a planning reference, but the actual cost depends on foundation, roof, utilities, size, finishes, site access, and permitting. Request a detailed scope instead of relying only on square-foot pricing."
+      }
+    }
+  ],
+  "description": "A San Diego bedroom addition may fall around $150,000–$250,000 or more as a planning reference, but the actual cost depends on foundation, roof, utilities, size"
+}

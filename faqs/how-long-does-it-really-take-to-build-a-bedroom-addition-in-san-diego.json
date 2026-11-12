@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-really-take-to-build-a-bedroom-addition-in-san-diego",
+  "name": "How long does it really take to build a bedroom addition in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it really take to build a bedroom addition in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan for months rather than weeks. Published San Diego planning guidance places a typical ground-level addition at roughly five to ten months from early design through construction, while a second-story project may take longer; those are planning ranges, not promises.\n\nDesign development, engineering, permit corrections, material selections, weather, inspections, and hidden site conditions can all affect the calendar. Construction itself is only one part of the project.\n\nKey factors:\n- Permit review and requested corrections\n- Foundation, grading, or soil conditions\n- Custom windows, doors, cabinets, or finishes\n- Whether work affects occupied areas\n\nIf you have a firm deadline, tell Elite Remodeling & Design at the first meeting and ask for a written milestone schedule. Avoid scheduling movers, tenants, or major household changes until permits, selections, and long-lead items are confirmed.",
+        "@type": "Answer",
+        "description": "A typical ground-level bedroom addition may take about five to ten months from early design through construction, while a second-story addition can take longer. Permit review, corrections, selections, inspections, weather, and unexpected site conditions can extend the schedule."
+      }
+    }
+  ],
+  "description": "A typical ground-level bedroom addition may take about five to ten months from early design through construction, while a second-story addition can take longer."
+}

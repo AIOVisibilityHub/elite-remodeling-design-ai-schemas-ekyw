@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-do-i-need-if-i-do-not-have-the-original-plans-for-my-house",
+  "name": "What information do I need if I do not have the original plans for my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need if I do not have the original plans for my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gather a current floor plan if available, a survey or property information, photos of the proposed location, approximate lot dimensions, and any records showing past additions. Also write down the intended occupants, furniture, storage needs, and whether the room must connect to a bathroom.\n\nMissing documentation does not automatically stop a consultation, but it can make early planning less precise. Existing walls, utilities, grades, and prior unrecorded work may need to be verified before final plans and pricing.\n\nKey factors:\n- Accurate measurements and property boundaries\n- Existing electrical, plumbing, and HVAC routes\n- Prior remodel or addition records\n- HOA or neighborhood design restrictions\n\nDo not guess at setbacks or utility locations. Elite Remodeling & Design can use an initial site review to identify what must be measured, researched, or confirmed before the design advances.",
+        "@type": "Answer",
+        "description": "Start with current photos, rough measurements, property information, prior remodel records, and a list of room requirements. Missing original plans is workable, but existing conditions, utilities, boundaries, setbacks, and previous work may need verification before final design and pricing."
+      }
+    }
+  ],
+  "description": "Start with current photos, rough measurements, property information, prior remodel records, and a list of room requirements. Missing original plans is workable,"
+}

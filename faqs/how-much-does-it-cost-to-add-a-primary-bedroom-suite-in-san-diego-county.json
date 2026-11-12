@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-cost-to-add-a-primary-bedroom-suite-in-san-diego-county",
+  "name": "How much does it cost to add a primary bedroom suite in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to add a primary bedroom suite in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable single price without a measured design, but a primary suite generally costs more than a bedroom-only addition because it includes plumbing, waterproofing, fixtures, ventilation, tile, and additional electrical work. Construction guidance commonly places additions around $100–$300 per square foot nationally, but local conditions and finish choices can move a project outside that range.\n\nA realistic budget should separate design and engineering, permits, demolition or site preparation, foundation, framing, roofing, windows, utilities, bathroom finishes, closets, and contingency. A rough square-foot calculation can miss expensive tie-ins and upgrades.\n\nKey factors:\n- Suite size and bathroom configuration\n- Distance to existing sewer and water lines\n- Foundation and grading requirements\n- Cabinetry, tile, windows, and fixture selections\n\nPractical guidance: Request a scope-based estimate with allowances and exclusions instead of comparing only a price per square foot. Keep a reserve for concealed conditions and owner-requested changes.\n\nElite Remodeling & Design can develop the design and construction scope needed for a more meaningful project estimate.",
+        "@type": "Answer",
+        "description": "The price depends on size, foundation, bathroom plumbing, roof work, utilities, finishes, and site conditions. National addition guidance often cites roughly $100–$300 per square foot, but that is not a San Diego quote. Ask Elite Remodeling & Design for a scope-based estimate with allowances, exclusions, and a contingency."
+      }
+    }
+  ],
+  "description": "The price depends on size, foundation, bathroom plumbing, roof work, utilities, finishes, and site conditions. National addition guidance often cites roughly $1"
+}

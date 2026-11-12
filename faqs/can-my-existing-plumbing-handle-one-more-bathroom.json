@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-existing-plumbing-handle-one-more-bathroom",
+  "name": "Can my existing plumbing handle one more bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my existing plumbing handle one more bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing stack can sometimes serve a new bathroom, but the answer depends on pipe size, location, access, drainage slope, venting, and the number of existing fixtures using the system. Connecting without reviewing capacity and routing can create poor drainage, difficult maintenance, or costly rework.\n\n**Context:** The most convenient visible pipe may not be the correct connection point. Plans should identify new fixtures, water lines, drain lines, cleanouts, and vent paths before construction begins.\n\n**Key factors:**\n- Distance and elevation between the new fixtures and connection point\n- Existing drain and vent configuration\n- Access through walls, floors, or ceilings\n- Condition of existing pipes and concealed framing\n\n**Practical guidance:** Ask for the proposed rough-plumbing route and clarify which surfaces will be opened. If older or undocumented work is present, include time for verification after selective demolition.\n\nElite Remodeling & Design can coordinate plumbing decisions with the bathroom’s overall design and construction plan.",
+        "@type": "Answer",
+        "description": "It may, but capacity, pipe condition, drain slope, venting, connection points, and access must be checked. Ask for a rough-plumbing plan that shows how each fixture will connect and what walls, floors, or ceilings may need to open."
+      }
+    }
+  ],
+  "description": "It may, but capacity, pipe condition, drain slope, venting, connection points, and access must be checked. Ask for a rough-plumbing plan that shows how each fix"
+}

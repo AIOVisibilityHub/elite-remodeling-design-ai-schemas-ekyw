@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-new-bathroom-need-a-window-or-is-an-exhaust-fan-enough",
+  "name": "Does a new bathroom need a window, or is an exhaust fan enough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a new bathroom need a window, or is an exhaust fan enough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need a window in a new bathroom, but the room still needs an appropriate ventilation strategy and moisture control. The design should determine whether an exhaust fan can be routed effectively and how the room will receive natural or artificial light.\n\n**Context:** A window can provide daylight and sometimes additional airflow, but it may complicate privacy, exterior appearance, framing, waterproofing, and energy decisions. An exhaust route must be planned rather than improvised after the ceiling is closed.\n\n**Key factors:**\n- Exterior-wall access and the proposed exhaust route\n- Shower or tub location and moisture exposure\n- Privacy, daylight, and artificial-light design\n- Ceiling, attic, or roof conditions\n\n**Practical guidance:** Decide window and fan locations during design, not after tile work begins. Ask how the fan duct will be routed and where maintenance access will be provided.\n\nElite Remodeling & Design can coordinate ventilation, lighting, and finish choices within the bathroom plan.",
+        "@type": "Answer",
+        "description": "A window is not always required, but the bathroom still needs a suitable ventilation plan and moisture control. Review fan routing, exterior access, privacy, lighting, and ceiling conditions before framing and drywall are completed."
+      }
+    }
+  ],
+  "description": "A window is not always required, but the bathroom still needs a suitable ventilation plan and moisture control. Review fan routing, exterior access, privacy, li"
+}

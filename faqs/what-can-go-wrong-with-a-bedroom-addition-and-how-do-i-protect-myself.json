@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-with-a-bedroom-addition-and-how-do-i-protect-myself",
+  "name": "What can go wrong with a bedroom addition, and how do I protect myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with a bedroom addition, and how do I protect myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common problems are incomplete scope, underestimated site conditions, permit corrections, material delays, utility conflicts, and changes made after construction starts. These risks increase when the design is not sufficiently developed before pricing.\n\nA bedroom addition also ties new work into an existing house, where hidden framing, wiring, plumbing, moisture, or foundation conditions may not match old records. A realistic contract should explain how discoveries and changes are documented.\n\nKey factors:\n- Existing-condition verification\n- Complete construction drawings\n- Clear allowances and exclusions\n- Written change approvals\n\nReduce surprises by documenting the scope, selecting major materials early, and keeping a decision log. Elite Remodeling & Design’s stated process brings design, selections, permits, and construction coordination together, but the contract should still define responsibilities and contingencies.",
+        "@type": "Answer",
+        "description": "Common problems include hidden structural or utility conditions, permit corrections, incomplete scope, material delays, and late design changes. Use complete plans, detailed allowances, written change orders, an explicit schedule, and a clear process for unexpected site conditions."
+      }
+    }
+  ],
+  "description": "Common problems include hidden structural or utility conditions, permit corrections, incomplete scope, material delays, and late design changes. Use complete pl"
+}

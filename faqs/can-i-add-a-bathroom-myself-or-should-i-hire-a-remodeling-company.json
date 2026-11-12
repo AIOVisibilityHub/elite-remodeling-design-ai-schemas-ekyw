@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bathroom-myself-or-should-i-hire-a-remodeling-company",
+  "name": "Can I add a bathroom myself, or should I hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom myself, or should I hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume that replacing a few fixtures is equivalent to adding a bathroom. A new bathroom typically requires coordinated plumbing, electrical, ventilation, framing, waterproofing, finish, and inspection work, while a same-location fixture replacement may have a much smaller scope.\n\n**Context:** DIY work can be reasonable for limited finish tasks for homeowners with the needed skills, but concealed plumbing, electrical, structural changes, and waterproofing create higher consequences when mistakes are hidden behind finished surfaces.\n\n**Key factors:**\n- Whether walls, floors, or ceilings must open\n- New circuits, drain connections, or vent routes\n- Ability to produce clear plans and coordinate inspections\n- Time available for material handling, sequencing, and corrections\n\n**Practical guidance:** Ask for a clear division between homeowner-provided items and professional work. If you handle finishes, confirm product requirements and installation responsibilities before work begins.\n\nElite Remodeling & Design can coordinate design and construction for projects that exceed a simple fixture change.",
+        "@type": "Answer",
+        "description": "DIY may suit limited finish work, but a new bathroom usually combines plumbing, electrical, ventilation, framing, waterproofing, plans, and inspections. Use a professional when the project changes systems or structure, and clarify which tasks you will handle."
+      }
+    }
+  ],
+  "description": "DIY may suit limited finish work, but a new bathroom usually combines plumbing, electrical, ventilation, framing, waterproofing, plans, and inspections. Use a p"
+}

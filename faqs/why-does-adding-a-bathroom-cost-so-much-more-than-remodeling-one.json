@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-adding-a-bathroom-cost-so-much-more-than-remodeling-one",
+  "name": "Why does adding a bathroom cost so much more than remodeling one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does adding a bathroom cost so much more than remodeling one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom addition depends more on scope than on fixture prices alone. The largest variables are whether the room is inside the existing footprint, how far plumbing must run, whether structural or foundation work is needed, the level of finishes, and the amount of electrical and ventilation work.\n\n**Context:** A small powder room near existing plumbing has different requirements from a full bathroom with a shower, new exterior walls, or difficult access. Design, permit, demolition, construction, fixtures, finishes, and inspection-related work should all be considered.\n\n**Key factors:**\n- New foundation, framing, roofing, windows, or exterior siding\n- Drain and water-line routing\n- Shower waterproofing and tile complexity\n- Cabinetry, countertops, fixtures, and finish grade\n\n**Practical guidance:** Request a detailed estimate divided by design, permits, labor, rough-in work, finishes, allowances, and possible concealed conditions. Compare scopes, not just bottom-line numbers.\n\nElite Remodeling & Design can develop the project around the home’s existing conditions and intended use.",
+        "@type": "Answer",
+        "description": "A bathroom addition may require new walls, foundation or roofing, drainage, water lines, circuits, ventilation, permits, and finishes. A detailed estimate should separate those categories and identify allowances so you can compare complete scopes rather than headline prices."
+      }
+    }
+  ],
+  "description": "A bathroom addition may require new walls, foundation or roofing, drainage, water lines, circuits, ventilation, permits, and finishes. A detailed estimate shoul"
+}

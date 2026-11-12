@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-makes-a-new-room-count-as-a-legal-bedroom-instead-of-just-extra-space",
+  "name": "What makes a new room count as a legal bedroom instead of just extra space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a new room count as a legal bedroom instead of just extra space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom usually needs adequate natural light, ventilation, access, and electrical service, but the precise requirements depend on the applicable building and residential codes. The design should also address emergency escape and rescue provisions where required rather than treating windows as decoration.\n\nWindow size and placement affect privacy, furniture placement, energy performance, exterior appearance, and permit review. Coastal exposure can also influence materials and maintenance choices in communities such as Coronado and Imperial Beach.\n\nKey factors:\n- Window location and usable wall space\n- Privacy from streets and neighboring homes\n- Ventilation and heating or cooling\n- Applicable energy and safety requirements\n\nAsk for window dimensions and performance details during design, not after framing. Elite Remodeling & Design can coordinate the bedroom layout with construction plans, selections, and the existing exterior.",
+        "@type": "Answer",
+        "description": "A bedroom design must address applicable requirements for light, ventilation, access, electrical service, and emergency escape and rescue. Exact standards depend on the property and reviewing agency, so window placement and room dimensions should be resolved during plan development."
+      }
+    }
+  ],
+  "description": "A bedroom design must address applicable requirements for light, ventilation, access, electrical service, and emergency escape and rescue. Exact standards depen"
+}

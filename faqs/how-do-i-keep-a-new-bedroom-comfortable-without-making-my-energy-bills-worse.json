@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-keep-a-new-bedroom-comfortable-without-making-my-energy-bills-worse",
+  "name": "How do I keep a new bedroom comfortable without making my energy bills worse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I keep a new bedroom comfortable without making my energy bills worse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition can include energy-conscious decisions such as appropriate insulation, efficient windows, lighting controls, and heating or cooling designed for the expanded home. The exact requirements depend on the project, climate zone, construction details, and permit date; San Diego permit materials reference applicable California energy documentation for qualifying work.\n\nA poorly integrated addition may create hot or cold rooms, uneven airflow, glare, or higher operating costs. HVAC sizing and duct routing should be considered with the floor plan, not after the room is framed.\n\nKey factors:\n- Window orientation and shading\n- Insulation and air-sealing details\n- HVAC capacity and distribution\n- Lighting and appliance loads\n\nAsk for the energy and HVAC approach during design. Elite Remodeling & Design can coordinate the room’s layout, electrical planning, and construction requirements as part of a broader addition scope.",
+        "@type": "Answer",
+        "description": "Plan insulation, window performance, shading, lighting, air sealing, and HVAC distribution together. The existing system may need evaluation before adding a room, and applicable California energy requirements should be confirmed during plan preparation."
+      }
+    }
+  ],
+  "description": "Plan insulation, window performance, shading, lighting, air sealing, and HVAC distribution together. The existing system may need evaluation before adding a roo"
+}

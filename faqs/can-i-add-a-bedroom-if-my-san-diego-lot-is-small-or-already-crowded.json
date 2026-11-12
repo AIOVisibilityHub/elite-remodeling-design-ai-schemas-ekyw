@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bedroom-if-my-san-diego-lot-is-small-or-already-crowded",
+  "name": "Can I add a bedroom if my San Diego lot is small or already crowded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bedroom if my San Diego lot is small or already crowded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but a bedroom addition on a small lot may require a compact footprint, a reconfigured interior connection, or a second-story study instead of a conventional backyard expansion. Lot coverage, setbacks, access, privacy, and outdoor-space tradeoffs become especially important.\n\nAdding a few feet can still require major work if the project needs a new foundation, roof tie-in, utility relocation, or structural opening. A smaller room with built-in storage may outperform a larger room that consumes critical yard space.\n\nKey factors:\n- Remaining usable yard area\n- Side-yard construction access\n- Existing patios, pools, or trees\n- Furniture and closet requirements\n\nMeasure the area you can actually build, not just the property’s total size. Elite Remodeling & Design can compare compact layouts and room configurations before the scope is finalized.",
+        "@type": "Answer",
+        "description": "Possibly, but a small lot may call for a compact addition, interior reconfiguration, or second-story concept. Review setbacks, lot coverage, access, utilities, privacy, and the yard space you are willing to give up before selecting a footprint."
+      }
+    }
+  ],
+  "description": "Possibly, but a small lot may call for a compact addition, interior reconfiguration, or second-story concept. Review setbacks, lot coverage, access, utilities,"
+}

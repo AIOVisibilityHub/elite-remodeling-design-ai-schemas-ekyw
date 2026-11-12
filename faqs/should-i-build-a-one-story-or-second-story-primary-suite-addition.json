@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-build-a-one-story-or-second-story-primary-suite-addition",
+  "name": "Should I build a one-story or second-story primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build a one-story or second-story primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story primary suite can preserve yard space, but it typically introduces greater structural, stair, roof, waterproofing, and construction-access complexity than a one-story addition. A ground-level suite may be easier for aging in place and daily access, but it uses more land and may face tighter setback or lot-coverage constraints.\n\nThe correct choice depends on the existing foundation and framing, available lot area, household needs, and whether the home can accept a practical stair location. A second story can also affect privacy, views, neighboring conditions, and the roof design.\n\nKey factors:\n- Structural capacity of the existing home\n- Stair footprint and circulation loss\n- Yard, setback, and lot-coverage limitations\n- Accessibility and long-term mobility needs\n\nPractical guidance: Compare both options on total usable space, not just bedroom square footage. Include structural evaluation, temporary weather protection, and finish disruption when comparing budgets.\n\nElite Remodeling & Design can evaluate additions alongside broader remodeling goals and existing-home conditions.",
+        "@type": "Answer",
+        "description": "A one-story addition usually offers easier access but uses yard area; a second-story suite preserves the yard but may require more structural work, stairs, roof changes, and construction protection. Compare lot constraints, foundation capacity, privacy, accessibility, disruption, and total usable space before choosing."
+      }
+    }
+  ],
+  "description": "A one-story addition usually offers easier access but uses yard area; a second-story suite preserves the yard but may require more structural work, stairs, roof"
+}

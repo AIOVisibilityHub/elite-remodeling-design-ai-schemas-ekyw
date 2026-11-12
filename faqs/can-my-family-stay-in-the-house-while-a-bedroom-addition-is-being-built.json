@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-family-stay-in-the-house-while-a-bedroom-addition-is-being-built",
+  "name": "Can my family stay in the house while a bedroom addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family stay in the house while a bedroom addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need to move out for the entire project, but bedroom additions can disrupt access, utilities, dust control, and quiet hours. Whether the home remains practical depends on where the work occurs and how the contractor sequences demolition, structural openings, and utility shutdowns.\n\nA rear addition may leave most existing rooms usable, while a connection through a hallway or bedroom can create more disruption. Temporary protection and clear communication are essential in an occupied home.\n\nKey factors:\n- Location of the connection to the existing house\n- Kitchen, bathroom, and power access\n- Children, pets, allergies, or remote work\n- Expected periods without heating, cooling, or water\n\nAsk Elite Remodeling & Design for an occupied-home plan covering work zones, dust barriers, access, utility interruptions, and site cleanup. Arrange backup sleeping space if the project affects the current bedrooms.",
+        "@type": "Answer",
+        "description": "Often, yes, but it depends on where the addition connects and whether construction interrupts bedrooms, bathrooms, utilities, or main access. Ask for a written occupied-home plan covering dust control, work zones, utility shutdowns, noise, pets, and temporary sleeping arrangements."
+      }
+    }
+  ],
+  "description": "Often, yes, but it depends on where the addition connects and whether construction interrupts bedrooms, bathrooms, utilities, or main access. Ask for a written"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "eliteremodelingsd.com/qna/how-do-i-know-whether-my-electrical-panel-can-handle-an-induction-range-dishwash",
+  "name": "Can a Kitchen Remodel Work With a San Diego Home’s Existing Electrical Panel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether my electrical panel can handle an induction range, dishwasher, microwave, and new kitchen outlets?",
+    "text": "How do I know whether my electrical panel can handle an induction range, dishwasher, microwave, and new kitchen outlets?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Do not choose appliances solely by cabinet dimensions. Induction ranges, wall ovens, dishwashers, disposals, microwaves, refrigerators, and countertop outlets can create a much larger electrical demand than an older kitchen was designed to support. Have a qualified electrician review the panel rating, service capacity, circuit map, conductor condition, grounding, available breaker spaces, and required protection. Ask for a written load calculation and a list of dedicated circuits needed for the exact appliance models. Verify whether the proposed hood, lighting, island outlets, and under-cabinet lighting need separate circuits. An electrical upgrade may involve a larger panel, new feeders, additional circuits, or coordination with the utility. It may also affect cabinet layout and inspection timing. Select appliances before rough electrical work, because amperage, voltage, plug location, and manufacturer clearances vary. Avoid relying on extension cords or shared circuits as a permanent solution. Include electrical work, patching, permits, and inspection corrections in the written estimate rather than treating them as unspecified allowances.",
+      "@type": "Answer",
+      "description": "An electrician should calculate the home’s service capacity and inspect existing circuits before an induction range or multiple high-load appliances are selected. The assessment should cover panel rating, available spaces, wire condition, dedicated circuits, grounding, GFCI and AFCI protection, and the utility service. Do this before cabinets and countertops are ordered.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Do not choose appliances solely by cabinet dimensions. Induction ranges, wall ovens, dishwashers, disposals, microwaves, refrigerators, and countertop outlets can create a much larger electrical demand than an older kitchen was designed to support. Have a qualified electrician review the panel rating, service capacity, circuit map, conductor condition, grounding, available breaker spaces, and required protection. Ask for a written load calculation and a list of dedicated circuits needed for the exact appliance models. Verify whether the proposed hood, lighting, island outlets, and under-cabinet lighting need separate circuits. An electrical upgrade may involve a larger panel, new feeders, additional circuits, or coordination with the utility. It may also affect cabinet layout and inspection timing. Select appliances before rough electrical work, because amperage, voltage, plug location, and manufacturer clearances vary. Avoid relying on extension cords or shared circuits as a permanent solution. Include electrical work, patching, permits, and inspection corrections in the written estimate rather than treating them as unspecified allowances.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An electrician should calculate the home’s service capacity and inspect existing circuits before an induction range or multiple high-load appliances are selecte"
+}

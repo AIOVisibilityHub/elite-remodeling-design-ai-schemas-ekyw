@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-we-stay-in-our-house-while-a-primary-suite-addition-is-being-built",
+  "name": "Can we stay in our house while a primary suite addition is being built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can we stay in our house while a primary suite addition is being built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan for temporary disruption even when the addition is built outside the existing walls. Workers may need access through the home, utilities may be interrupted, dust can travel indoors, and noise, deliveries, inspections, and weather can affect daily routines.\n\nIf the suite connects to an existing bedroom, bathroom, hallway, roof, or exterior wall, that connection may create a period when part of the home is unusable. A bathroom addition also requires rough plumbing, waterproofing, fixture installation, and multiple inspection stages.\n\nKey factors:\n- Whether the existing home remains weather-tight\n- Access route for materials and workers\n- Utility shutdowns and bathroom availability\n- Children, pets, remote work, and security needs\n\nPractical guidance: Ask for a site-protection and access plan, including dust control, temporary barriers, working hours, and utility-shutdown notice. Decide whether the household can remain in place during the most disruptive phases.\n\nElite Remodeling & Design can coordinate construction sequencing as part of the broader addition plan.",
+        "@type": "Answer",
+        "description": "Often, yes, especially when the addition is outside the existing footprint, but expect noise, dust, deliveries, worker access, and possible utility interruptions. Ask Elite Remodeling & Design for a protection, access, and shutdown plan, and identify any period when an existing bedroom, bathroom, hallway, or roof area will be unavailable."
+      }
+    }
+  ],
+  "description": "Often, yes, especially when the addition is outside the existing footprint, but expect noise, dust, deliveries, worker access, and possible utility interruption"
+}

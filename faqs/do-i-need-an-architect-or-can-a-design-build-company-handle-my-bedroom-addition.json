@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-an-architect-or-can-a-design-build-company-handle-my-bedroom-addition",
+  "name": "Do I need an architect, or can a design-build company handle my bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect, or can a design-build company handle my bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect or designer may be useful for complex architectural, historic, or highly customized work, but the more important question is who will coordinate design, engineering, permits, and construction. Elite Remodeling & Design operates as a residential design-build company, so its stated process combines design development with construction coordination.\n\nA separate designer and builder can work well when responsibilities are clearly divided, but handoffs may create gaps in scope, pricing, or constructability. A design-build arrangement can simplify communication while still requiring a detailed agreement.\n\nKey factors:\n- Project complexity and structural changes\n- Who prepares drawings and engineering\n- Who submits and responds to permit comments\n- How changes affect the construction price\n\nBefore signing, ask for the design deliverables, exclusions, allowances, payment stages, and change-order process. Choose the structure that gives you clear accountability for your specific project.",
+        "@type": "Answer",
+        "description": "A design-build company may coordinate design, construction plans, permitting, and construction for a bedroom addition, while complex or specialized projects may need additional professionals. Confirm who provides drawings, engineering, permit responses, selections, pricing, and construction oversight."
+      }
+    }
+  ],
+  "description": "A design-build company may coordinate design, construction plans, permitting, and construction for a bedroom addition, while complex or specialized projects may"
+}

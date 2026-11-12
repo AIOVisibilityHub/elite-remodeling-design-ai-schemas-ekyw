@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-home-while-a-new-bathroom-is-being-added",
+  "name": "Can I stay in my home while a new bathroom is being added?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home while a new bathroom is being added?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition can often be planned without moving out, but the level of disruption depends on where the new room is located and whether it affects existing bathrooms, kitchens, bedrooms, or utility systems. Work inside a living area generally creates more dust, noise, and temporary loss of space than a detached or separately accessible area.\n\n**Context:** Demolition, rough plumbing, inspections, drywall, tile, and finish work occur in stages. If the project relies on the home’s only bathroom or requires utility shutoffs, temporary arrangements may be needed.\n\n**Key factors:**\n- Whether an existing bathroom remains usable\n- Access from outside or through occupied rooms\n- Duration of water, power, or drainage interruptions\n- Dust control, storage, and daily cleanup expectations\n\n**Practical guidance:** Ask for a site-protection and communication plan before construction. Confirm which rooms will be unavailable, when utilities may be interrupted, and how materials will enter and leave the property.\n\nElite Remodeling & Design can coordinate the construction sequence around the home’s occupied status.",
+        "@type": "Answer",
+        "description": "Often, yes, but disruption depends on access, utility shutdowns, dust, noise, and whether an existing bathroom is affected. Before work starts, confirm the sequence, unavailable rooms, utility interruptions, site protection, and cleanup expectations."
+      }
+    }
+  ],
+  "description": "Often, yes, but disruption depends on access, utility shutdowns, dust, noise, and whether an existing bathroom is affected. Before work starts, confirm the sequ"
+}

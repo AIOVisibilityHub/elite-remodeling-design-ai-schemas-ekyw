@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-primary-bedroom-walk-in-closet-and-bathroom-at-the-same-time",
+  "name": "Can I add a primary bedroom, walk-in closet, and bathroom at the same time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a primary bedroom, walk-in closet, and bathroom at the same time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bedroom addition with an attached bathroom and walk-in closet is possible in many homes, but it is a larger project than adding a sleeping room alone. Plumbing, ventilation, waterproofing, electrical work, storage, and privacy all need to be designed together.\n\nThe bathroom location can strongly affect cost and complexity, especially when new fixtures are far from existing plumbing. A smaller bedroom with a nearby shared bath may provide more usable value on a constrained budget.\n\nKey factors:\n- Distance to existing water and drain lines\n- Shower, tub, toilet, and ventilation layout\n- Closet storage and door clearances\n- Bedroom separation from noisy areas\n\nDecide which features are essential before design begins. Elite Remodeling & Design handles bathroom remodeling as well as additions, allowing the bedroom, closet, and bath scope to be planned as one coordinated project.",
+        "@type": "Answer",
+        "description": "Yes, but a primary suite costs and takes more planning than a bedroom alone because it adds plumbing, ventilation, waterproofing, electrical work, storage, and privacy decisions. Review fixture locations and utility routes early to avoid redesigns."
+      }
+    }
+  ],
+  "description": "Yes, but a primary suite costs and takes more planning than a bedroom alone because it adds plumbing, ventilation, waterproofing, electrical work, storage, and"
+}

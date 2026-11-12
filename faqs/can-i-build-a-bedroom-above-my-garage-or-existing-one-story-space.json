@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-build-a-bedroom-above-my-garage-or-existing-one-story-space",
+  "name": "Can I build a bedroom above my garage or existing one-story space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build a bedroom above my garage or existing one-story space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bedroom over a garage or other existing space can preserve the yard, but the existing structure must be checked for load capacity, foundation adequacy, ceiling height, stairs, fire separation, utilities, and roof removal or replacement. It is not safe to assume the current garage was designed to support another story.\n\nA second-story addition may also affect the home’s exterior height, privacy, views, and construction access. Structural decisions should be made before the layout is treated as final.\n\nKey factors:\n- Existing foundation and framing capacity\n- Stair location and usable circulation\n- Roof structure and weather protection\n- Height, privacy, and neighborhood appearance\n\nAsk for a feasibility review before committing to a second-floor concept. Elite Remodeling & Design can study additions and broader remodeling layouts together, helping compare an upper-level option with a ground-floor or interior solution.",
+        "@type": "Answer",
+        "description": "It may be possible, but the existing foundation, framing, roof, ceiling height, stairs, utilities, fire separation, and height limits must be evaluated first. A second-story concept can save yard space but usually brings greater structural and construction complexity."
+      }
+    }
+  ],
+  "description": "It may be possible, but the existing foundation, framing, roof, ceiling height, stairs, utilities, fire separation, and height limits must be evaluated first. A"
+}

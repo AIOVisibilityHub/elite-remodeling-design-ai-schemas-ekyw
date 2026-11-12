@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-to-add-a-bathroom-in-san-diego-county",
+  "name": "Do I need permits to add a bathroom in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to add a bathroom in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition often requires permits because it can involve new walls, plumbing, electrical circuits, ventilation, structural work, or an expansion of the building envelope. Permit requirements depend on the project scope and the local jurisdiction, so homeowners should confirm requirements with the applicable city or county before construction begins.\n\n**Context:** In the City of San Diego, residential additions and remodels require plans showing existing and proposed work, and adding plumbing fixtures may require water-meter information. A bathroom created inside existing space may still require building, plumbing, electrical, or mechanical review.\n\n**Key factors:**\n- Whether the room is inside the existing footprint or expands the home\n- New or relocated fixtures and drain lines\n- Wall removal, framing, or foundation changes\n- New circuits, lighting, outlets, or exhaust ventilation\n\n**Practical guidance:** Do not rely on a contractor’s verbal assumption that permits are unnecessary. Ask for a written scope identifying which approvals and plan documents apply to your property.\n\nElite Remodeling & Design includes permitting coordination within its broader design-build process.",
+        "@type": "Answer",
+        "description": "Usually, a new bathroom requires some form of building, plumbing, electrical, or mechanical review, especially when fixtures, walls, circuits, ventilation, or the building footprint change. Requirements vary by jurisdiction and scope, so confirm them before work starts."
+      }
+    }
+  ],
+  "description": "Usually, a new bathroom requires some form of building, plumbing, electrical, or mechanical review, especially when fixtures, walls, circuits, ventilation, or t"
+}

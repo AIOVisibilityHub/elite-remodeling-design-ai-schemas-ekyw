@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-add-a-bathroom-to-my-house",
+  "name": "What should I do first if I want to add a bathroom to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to add a bathroom to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining whether you need a new bathroom within the existing footprint or a true room addition. Elite Remodeling & Design can evaluate the available area, intended users, plumbing routes, structural conditions, and design goals before developing a plan. A bathroom addition usually involves more than selecting fixtures because walls, drainage, ventilation, electrical work, and finishes must work together.\n\n**Context:** A powder room may fit near existing plumbing, while a full bathroom or accessible bathroom may require more floor area and utility work. In San Diego County homes, the location of the proposed room and existing construction can materially affect planning.\n\n**Key factors:**\n- Available square footage and ceiling height\n- Distance to existing water and drain lines\n- Structural walls, framing, and foundation conditions\n- Whether the room needs a shower, tub, laundry function, or accessibility features\n\n**Practical guidance:** Gather an approximate floor plan, photos of adjoining rooms, and your preferred fixture list before the consultation. Identify who will use the room and whether the project must accommodate guests, children, aging household members, or renters.\n\nElite Remodeling & Design can combine design development, permitting coordination, and construction planning for a bathroom addition.",
+        "@type": "Answer",
+        "description": "First, determine where the bathroom could fit and how close it is to existing plumbing. A professional evaluation should review space, drainage, ventilation, electrical needs, structural conditions, and your intended use before design and permit work begins."
+      }
+    }
+  ],
+  "description": "First, determine where the bathroom could fit and how close it is to existing plumbing. A professional evaluation should review space, drainage, ventilation, el"
+}

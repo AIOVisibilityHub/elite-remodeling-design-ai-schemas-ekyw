@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-compare-quotes-for-a-primary-suite-addition",
+  "name": "How do I compare quotes for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare quotes for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use a written scope and comparable plan set, not verbal descriptions or a bare square-foot price. Two estimates are only meaningfully comparable when they address the same suite size, foundation, roof connection, windows, bathroom fixtures, closets, HVAC, finishes, permits, inspections, allowances, and contingency.\n\nA lower bid may exclude design, engineering, utility upgrades, site work, finish allowances, or correction work. A higher bid may include more complete documents and coordination, but the details should still be verified.\n\nKey factors:\n- Inclusion of design and permit coordination\n- Allowances for tile, cabinets, windows, and fixtures\n- Structural and utility assumptions\n- Change-order terms and payment milestones\n\nPractical guidance: Ask each provider to identify exclusions, assumptions, and owner-supplied items. Compare the proposed process and documentation as carefully as the total price.\n\nElite Remodeling & Design’s design-build model can be evaluated by reviewing how its design, permitting, construction, and inspection phases are connected.",
+        "@type": "Answer",
+        "description": "Compare quotes only when the plans and scope match. Check whether each includes design, engineering, permits, foundation, roof tie-in, bathroom plumbing, HVAC, windows, closets, finishes, allowances, inspections, and contingency. Ask for exclusions and change-order terms so a low initial price does not hide missing work."
+      }
+    }
+  ],
+  "description": "Compare quotes only when the plans and scope match. Check whether each includes design, engineering, permits, foundation, roof tie-in, bathroom plumbing, HVAC,"
+}

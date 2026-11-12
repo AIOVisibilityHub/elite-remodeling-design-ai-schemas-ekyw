@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-better-to-add-just-a-primary-bedroom-or-a-full-primary-suite",
+  "name": "Is it better to add just a primary bedroom or a full primary suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to add just a primary bedroom or a full primary suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom-only addition may cost less initially, but a full primary suite can provide more complete functionality by adding a private bathroom, storage, and a layout designed around daily routines. The tradeoff is greater cost, longer construction, and more plumbing, waterproofing, ventilation, and finish coordination.\n\nThe right choice depends on whether the existing home already has adequate bathroom and closet capacity. If the bathroom is added later, matching finishes, reopening walls, and rerouting utilities may be more disruptive than planning the suite as one project.\n\nKey factors:\n- Current bathroom access and household demand\n- Available budget and desired completion date\n- Closet and laundry locations\n- Long-term plans for aging, guests, or resale\n\nPractical guidance: Compare at least two layouts: bedroom-only and complete suite. Price the bathroom, closet, HVAC, and exterior work as distinct components so the tradeoff is clear.\n\nElite Remodeling & Design can adapt the project scope to the home’s existing space and the homeowner’s priorities.",
+        "@type": "Answer",
+        "description": "A bedroom-only addition may reduce upfront cost and complexity, while a full suite adds privacy, storage, and a dedicated bathroom. Compare both layouts as separate scopes, including plumbing, HVAC, closets, roof work, and finishes. Adding the bathroom later may create extra disruption and duplicate work."
+      }
+    }
+  ],
+  "description": "A bedroom-only addition may reduce upfront cost and complexity, while a full suite adds privacy, storage, and a dedicated bathroom. Compare both layouts as sepa"
+}

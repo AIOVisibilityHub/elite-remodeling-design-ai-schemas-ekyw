@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-primary-suite-if-my-side-yard-is-very-narrow",
+  "name": "Can I add a primary suite if my side yard is very narrow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a primary suite if my side yard is very narrow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a primary suite to a limited side yard can work if the design respects setbacks, access, drainage, utilities, and the required relationship to existing structures. A narrower addition, rear bump-out, reconfigured roof, or carefully planned second-story solution may be considered, but each has different structural, privacy, cost, and approval implications.\n\nA small lot can make the bathroom and closet more challenging because every foot must support circulation, storage, furniture, and service access. Moving utilities or working close to property lines may also increase complexity.\n\nKey factors:\n- Remaining side and rear clearance\n- Construction access for equipment and materials\n- Window privacy and neighboring conditions\n- Sewer, water, and stormwater routing\n\nPractical guidance: Have the team test multiple compact layouts instead of shrinking one plan repeatedly. Identify whether a second story, interior reconfiguration, or garage conversion better meets the goal before committing to a footprint.\n\nElite Remodeling & Design offers additions, garage conversions, and broader remodeling services that can be compared during planning.",
+        "@type": "Answer",
+        "description": "Possibly, but a narrow lot requires careful review of setbacks, access, drainage, utilities, privacy, and existing structures. Compare a compact rear addition, second-story option, interior reconfiguration, or garage conversion before choosing a footprint. A measured site review is more reliable than estimating from backyard space alone."
+      }
+    }
+  ],
+  "description": "Possibly, but a narrow lot requires careful review of setbacks, access, drainage, utilities, privacy, and existing structures. Compare a compact rear addition,"
+}

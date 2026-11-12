@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-the-city-rejects-my-bedroom-addition-plans",
+  "name": "What happens if the city rejects my bedroom addition plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the city rejects my bedroom addition plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the addition is denied or returned with corrections, first identify whether the issue concerns zoning, setbacks, height, floor area, structural documentation, energy forms, or missing site information. A denial is not always final; some issues can be resolved through revised plans, a different footprint, or additional documentation.\n\nThe response should be reviewed by the project team and, when necessary, the relevant planning or building department. San Diego’s published permit information notes that incomplete documents can delay review.\n\nKey factors:\n- Exact reason for denial or correction\n- Whether the problem is design or documentation\n- Parcel-specific constraints\n- Cost and time of redesign\n\nAvoid starting construction while approval is unresolved. Elite Remodeling & Design can coordinate plan revisions and resubmittals as part of the project process, with the next step determined by the reviewing agency’s written comments.",
+        "@type": "Answer",
+        "description": "Review the written comments to determine whether the issue is zoning, setbacks, height, floor area, structural documentation, energy information, or missing paperwork. Many corrections can be addressed through revised plans or added documents, but construction should wait until approval is resolved."
+      }
+    }
+  ],
+  "description": "Review the written comments to determine whether the issue is zoning, setbacks, height, floor area, structural documentation, energy information, or missing pap"
+}

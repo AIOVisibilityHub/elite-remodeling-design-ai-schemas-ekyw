@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-bedroom-additions-different-for-homes-near-the-coast-in-coronado-or-imperial",
+  "name": "Are bedroom additions different for homes near the coast in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are bedroom additions different for homes near the coast in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal properties can require extra attention to site exposure, drainage, corrosion-prone materials, privacy, and local review considerations. This matters for homes near the coast, including parts of Coronado, Imperial Beach, and coastal San Diego neighborhoods, but the exact requirements depend on the parcel and agency.\n\nA coastal location does not automatically make an addition impossible or identical across cities. Height, setbacks, overlay conditions, and environmental or design review may affect the plan.\n\nKey factors:\n- Parcel-specific coastal or overlay status\n- Wind, moisture, salt exposure, and drainage\n- Exterior materials and window selections\n- Construction access and neighbor impacts\n\nHave the project team verify the property’s review path before finalizing the layout. Elite Remodeling & Design can incorporate site-specific design and construction considerations into the planning process, but the approving agency determines applicable requirements.",
+        "@type": "Answer",
+        "description": "Coastal homes may need additional review and more careful choices for drainage, moisture, salt exposure, windows, exterior materials, privacy, and height or setback conditions. Confirm parcel-specific requirements before finalizing the design or construction budget."
+      }
+    }
+  ],
+  "description": "Coastal homes may need additional review and more careful choices for drainage, moisture, salt exposure, windows, exterior materials, privacy, and height or set"
+}

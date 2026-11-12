@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-hoa-says-i-cannot-add-a-bedroom-or-changes-the-design",
+  "name": "What if my HOA says I cannot add a bedroom or changes the design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my HOA says I cannot add a bedroom or changes the design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An HOA may impose design, construction-hour, exterior-material, or approval requirements even when the city permits the work. HOA approval does not replace a building permit, and a permit does not guarantee compliance with private community rules.\n\nThis is especially relevant in planned communities and attached or closely spaced homes where exterior appearance, access, and neighbor impacts are closely controlled. Obtain the governing documents and approval process before ordering materials.\n\nKey factors:\n- Exterior elevations and roof appearance\n- Construction hours and staging\n- Shared walls, drives, or access routes\n- Required submittals and review timing\n\nAsk Elite Remodeling & Design to identify HOA-related documents during early planning, then allow review time in the schedule. Do not assume an informal neighbor agreement is enough.",
+        "@type": "Answer",
+        "description": "An HOA may control exterior appearance, construction hours, access, and materials separately from city permitting. Get the governing documents and approval procedure early, and allow time for both HOA review and public permit review before construction commitments."
+      }
+    }
+  ],
+  "description": "An HOA may control exterior appearance, construction hours, access, and materials separately from city permitting. Get the governing documents and approval proc"
+}

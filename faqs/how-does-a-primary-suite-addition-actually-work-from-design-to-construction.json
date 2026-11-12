@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-primary-suite-addition-actually-work-from-design-to-construction",
+  "name": "How does a primary suite addition actually work from design to construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a primary suite addition actually work from design to construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually begins with a consultation, existing-condition review, and goals discussion, followed by layout development, 3D visualization when useful, material selections, construction documents, permit coordination, construction, inspections, and closeout. Elite Remodeling & Design describes its work as a coordinated design-build process rather than a construction-only handoff.\n\nA primary suite commonly combines several scopes: bedroom space, bathroom plumbing, electrical and lighting, closets, HVAC, windows, roofing, foundation, and exterior finishes. Decisions made during design affect both the budget and the construction sequence.\n\nKey factors:\n- Addition size and foundation type\n- Bathroom location relative to existing drains\n- Roof and wall connection details\n- Finish level and custom storage\n\nPractical guidance: Ask for a written scope that identifies allowances, owner selections, permitting responsibilities, and potential items hidden behind walls. Confirm when design decisions must be finalized before construction.\n\nA single coordinated team can reduce handoffs between design, permitting, and field construction.",
+        "@type": "Answer",
+        "description": "The typical sequence is consultation, existing-condition review, layout and 3D design, selections, construction documents, permit coordination, construction, inspections, and closeout. For a suite, the plan should separately address the foundation, roof tie-in, bathroom plumbing, electrical, HVAC, closets, windows, and interior finishes."
+      }
+    }
+  ],
+  "description": "The typical sequence is consultation, existing-condition review, layout and 3D design, selections, construction documents, permit coordination, construction, in"
+}

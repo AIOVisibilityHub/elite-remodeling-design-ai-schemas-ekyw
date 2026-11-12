@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-the-last-contractor-started-my-bathroom-addition-and-left-it",
+  "name": "What should I do if the last contractor started my bathroom addition and left it unfinished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if the last contractor started my bathroom addition and left it unfinished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A previous contractor’s mistake should be documented before new work begins. Photograph visible defects, collect invoices and plans, identify what is unfinished or concealed, and request an evaluation that separates correction work from the remaining bathroom-addition scope.\n\n**Context:** Opening finished surfaces may reveal additional problems, including improper drainage, damaged framing, inadequate waterproofing, or incomplete wiring. A new team should not promise a final cost without reviewing accessible conditions.\n\n**Key factors:**\n- Whether the existing work is permitted or documented\n- Which components can be safely retained\n- Moisture, structural, plumbing, or electrical damage\n- Responsibility for demolition, testing, and reconstruction\n\n**Practical guidance:** Avoid covering questionable work until it has been inspected and recorded. Ask for a written corrective plan with assumptions, exclusions, testing needs, and decision points.\n\nElite Remodeling & Design can assess how the existing conditions affect a coordinated remodeling plan.",
+        "@type": "Answer",
+        "description": "Document the condition, gather plans and invoices, and have the existing work evaluated before covering walls or ordering finishes. A new scope should identify what can remain, what must be corrected, and which concealed conditions could change the cost."
+      }
+    }
+  ],
+  "description": "Document the condition, gather plans and invoices, and have the existing work evaluated before covering walls or ordering finishes. A new scope should identify"
+}

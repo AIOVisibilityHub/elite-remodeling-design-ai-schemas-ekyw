@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-half-bath-or-full-bathroom-better-for-my-addition",
+  "name": "Is a half bath or full bathroom better for my addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a half bath or full bathroom better for my addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A half-bath is generally easier to fit and can reduce plumbing, ventilation, finish, and construction demands compared with a full bathroom. A full bathroom offers more function but requires additional floor area, a shower or tub, waterproofing, and often more complex plumbing.\n\n**Context:** The right choice depends on whether the room serves guests, bedrooms, aging household members, renters, or a changing family. Converting a future powder room into a full bathroom later may not be simple if drainage, framing, or ventilation was not planned initially.\n\n**Key factors:**\n- Intended users and frequency of use\n- Available floor area and privacy needs\n- Distance to existing plumbing\n- Future plans for the home or household\n\n**Practical guidance:** If space is tight, compare a compact full-bath layout with a powder room rather than assuming the smaller option is always best. If future expansion is likely, discuss rough-in provisions during the first design.\n\nElite Remodeling & Design can adapt bathroom planning to the home and the client’s intended use.",
+        "@type": "Answer",
+        "description": "A half bath usually fits more easily and involves fewer systems, while a full bath provides greater daily function but needs more space, waterproofing, and plumbing. Base the decision on users, location, available area, and whether future needs may change."
+      }
+    }
+  ],
+  "description": "A half bath usually fits more easily and involves fewer systems, while a full bath provides greater daily function but needs more space, waterproofing, and plum"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-add-a-bathroom-to-an-adu-or-put-it-in-the-main-house",
+  "name": "Should I add a bathroom to an ADU or put it in the main house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a bathroom to an ADU or put it in the main house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU bathroom should be planned at the same time as the ADU’s overall layout, utility connections, storage, ventilation, and intended occupancy. Its size and fixture arrangement will affect the ADU’s usable living area, construction scope, and the location of water and sewer connections.\n\n**Context:** A bathroom inside an ADU is not merely a smaller version of a main-house bathroom. The design must coordinate the kitchen, sleeping area, entry, mechanical systems, and maintenance access within a compact footprint.\n\n**Key factors:**\n- Full bathroom versus powder-room configuration\n- Shared or separate utility routes\n- Shower placement and storage needs\n- Relationship to the ADU’s kitchen and sleeping areas\n\n**Practical guidance:** Decide whether the ADU is for family, guests, rental use, or flexible future use before selecting the layout. Gather site dimensions, existing utility locations, and any prior ADU drawings for the design review.\n\nElite Remodeling & Design offers ADU planning alongside residential additions and remodeling services.",
+        "@type": "Answer",
+        "description": "Choose based on who needs the bathroom, where plumbing can connect efficiently, and whether the added space belongs in the ADU or main living area. Compare privacy, utility routes, construction scope, storage, and future use before deciding."
+      }
+    }
+  ],
+  "description": "Choose based on who needs the bathroom, where plumbing can connect efficiently, and whether the added space belongs in the ADU or main living area. Compare priv"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-i-change-my-mind-during-a-primary-suite-addition",
+  "name": "What happens if I change my mind during a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I change my mind during a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can request changes during design, but changes after permit submission or construction begins are more disruptive and may affect cost, materials, inspections, and schedule. A small finish substitution may be manageable; moving a bathroom, wall, window, stair, or structural element can require revised drawings and additional review.\n\nThe best control point is before the construction scope is finalized. A clear approval process helps distinguish an owner-requested upgrade from a correction or concealed-condition change.\n\nKey factors:\n- Whether the change affects structure or utilities\n- Status of permit and inspection documents\n- Materials already ordered or installed\n- Labor, redesign, and schedule consequences\n\nPractical guidance: Ask how changes are submitted, priced, approved, and recorded. Do not authorize field changes based only on a verbal estimate; obtain the effect on both cost and completion timing.\n\nElite Remodeling & Design can incorporate design development and selections before construction to reduce late changes.",
+        "@type": "Answer",
+        "description": "Changes are easiest during design and become more expensive or disruptive after permits, orders, or construction. Moving walls, windows, plumbing, or structural elements may require revised drawings and review. Use written change orders showing added cost, schedule impact, and any material or inspection consequences."
+      }
+    }
+  ],
+  "description": "Changes are easiest during design and become more expensive or disruptive after permits, orders, or construction. Moving walls, windows, plumbing, or structural"
+}

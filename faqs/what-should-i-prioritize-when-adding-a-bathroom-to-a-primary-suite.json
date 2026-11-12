@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-prioritize-when-adding-a-bathroom-to-a-primary-suite",
+  "name": "What should I prioritize when adding a bathroom to a primary suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prioritize when adding a bathroom to a primary suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design the bathroom around ventilation, waterproofing, fixture clearances, storage, lighting, and service access before selecting decorative finishes. A beautiful bathroom can still perform poorly if the exhaust route, shower waterproofing, drain placement, or maintenance access is not resolved in the plans.\n\nThe new bathroom should also work with the bedroom and closet layout without creating a long, awkward circulation path. The distance from existing utilities may affect both construction complexity and where fixtures can be placed.\n\nKey factors:\n- Shower and floor waterproofing details\n- Exhaust location and replacement-air considerations\n- Vanity, linen, and medicine-cabinet storage\n- Fixture clearances and accessible shutoffs\n\nPractical guidance: Choose fixtures early enough to coordinate rough plumbing and electrical locations. Ask who is responsible for verifying waterproofing, ventilation, and inspection requirements before finishes cover the work.\n\nElite Remodeling & Design coordinates bathroom design with plumbing, electrical, tile, and construction planning.",
+        "@type": "Answer",
+        "description": "Prioritize waterproofing, ventilation, drain and supply routes, fixture clearances, storage, lighting, and service access before choosing finishes. Confirm the plumbing route and fixture specifications early so rough-ins are not changed later. Bathroom quality depends on concealed work as much as tile and fixtures."
+      }
+    }
+  ],
+  "description": "Prioritize waterproofing, ventilation, drain and supply routes, fixture clearances, storage, lighting, and service access before choosing finishes. Confirm the"
+}

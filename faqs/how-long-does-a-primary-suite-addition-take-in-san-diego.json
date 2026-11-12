@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-primary-suite-addition-take-in-san-diego",
+  "name": "How long does a primary suite addition take in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary suite addition take in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan for several months overall, but do not rely on a fixed promise before the design, permit scope, and site conditions are known. General addition guidance places planning and design around one to three months, permitting around three weeks to three months, and construction around two to six months, with complex suites taking longer.\n\nThe bathroom, roof connection, structural engineering, material availability, correction cycles, and inspection scheduling can extend the schedule. In San Diego, single-family room-addition permit appointments may be required, so the jurisdiction’s current process should be checked early.\n\nKey factors:\n- Number of plan-review cycles\n- Whether structural changes are extensive\n- Availability of tile, windows, cabinets, and fixtures\n- Weather and concealed-condition discoveries\n\nPractical guidance: Build the schedule around milestones rather than a single completion date. Finalize major selections early and ask how delays, substitutions, and inspection corrections are handled.\n\nElite Remodeling & Design can coordinate design, permitting, construction, and final inspection steps under one project plan.",
+        "@type": "Answer",
+        "description": "A primary suite addition commonly takes several months from planning through completion. Design may take one to three months, permitting can take weeks to months, and construction may take two to six months depending on the bathroom, foundation, roof tie-in, inspections, materials, and site conditions."
+      }
+    }
+  ],
+  "description": "A primary suite addition commonly takes several months from planning through completion. Design may take one to three months, permitting can take weeks to month"
+}

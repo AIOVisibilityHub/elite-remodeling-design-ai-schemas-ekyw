@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-design-a-primary-suite-addition-for-aging-in-place",
+  "name": "How should I design a primary suite addition for aging in place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I design a primary suite addition for aging in place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible primary suite should be planned from the approach to the home through the bedroom, bathroom, closet, and controls—not added as a last-minute fixture change. Wider clear paths, low-threshold bathing, reachable controls, adequate turning space, contrast and lighting, and convenient storage may influence the entire layout.\n\nThe appropriate features depend on the household’s current and anticipated needs, mobility equipment, and the site. Accessibility can also improve comfort for guests and long-term use without making the room feel institutional.\n\nKey factors:\n- Entry route and door clearances\n- Bathroom transfer and shower requirements\n- Bedside circulation and switch locations\n- Future grab-bar blocking and reinforced walls\n\nPractical guidance: Discuss present and future needs during the first layout meeting. Ask for blocking and concealed support to be planned before drywall, even if all accessories will not be installed immediately.\n\nElite Remodeling & Design can tailor room additions and bathroom layouts to the homeowner’s intended use.",
+        "@type": "Answer",
+        "description": "Plan accessibility from the entry path through the bedroom, bathroom, closet, and controls. Consider clear routes, low-threshold bathing, reachable switches, adequate turning space, lighting, storage, and future grab-bar support. Discuss current and anticipated mobility needs before the layout and rough-ins are finalized."
+      }
+    }
+  ],
+  "description": "Plan accessibility from the entry path through the bedroom, bathroom, closet, and controls. Consider clear routes, low-threshold bathing, reachable switches, ad"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-design-a-bedroom-addition-for-aging-parents-or-adult-children",
+  "name": "How should I design a bedroom addition for aging parents or adult children?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I design a bedroom addition for aging parents or adult children?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition can be planned for aging parents, adult children, guests, or changing household needs, but the layout should reflect the intended level of independence. A nearby bathroom, wider circulation, fewer thresholds, practical storage, and convenient entry may matter more than maximum room size.\n\nIf the occupant may need long-term accessibility, incorporate those decisions before framing rather than attempting expensive changes later. The correct features depend on the household and should be reviewed as general planning considerations.\n\nKey factors:\n- Distance to bathroom and main living areas\n- Door and circulation clearances\n- Lighting, flooring, and threshold choices\n- Privacy and caregiver access\n\nWrite down who will use the room and what may change over time. Elite Remodeling & Design can coordinate bedroom, bathroom, and broader home-remodeling plans around the intended use rather than treating the room as an isolated box.",
+        "@type": "Answer",
+        "description": "Design around the occupant’s expected independence: convenient bathroom access, practical circulation, storage, lighting, flooring, privacy, and any future accessibility needs. Decide these priorities before framing because late changes can affect doors, plumbing, electrical work, and layout."
+      }
+    }
+  ],
+  "description": "Design around the occupant’s expected independence: convenient bathroom access, practical circulation, storage, lighting, flooring, privacy, and any future acce"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-do-i-need-before-meeting-a-primary-suite-addition-contractor",
+  "name": "What information do I need before meeting a primary suite addition contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need before meeting a primary suite addition contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a final estimate, gather the property address, any survey or floor plans, prior permits, photos, approximate room dimensions, and a list of must-have and nice-to-have features. Also note where the electrical panel, water heater, HVAC equipment, sewer cleanout, and existing bathrooms are located.\n\nThis information helps reveal whether the proposed suite can connect efficiently to the existing home. Missing documentation does not automatically stop the project, but the team may need to verify existing conditions through measurements, openings, or additional design work.\n\nKey factors:\n- Age and reliability of the existing plans\n- Unknown additions or previous remodels\n- Drain locations and available utility capacity\n- Desired bed, bath, closet, window, and door locations\n\nPractical guidance: Create a room-by-room wish list and identify features you would remove if the budget tightens. Bring inspiration images, but separate visual preferences from non-negotiable functional needs.\n\nElite Remodeling & Design can use the consultation and design phase to develop a project-specific scope.",
+        "@type": "Answer",
+        "description": "Bring the property address, surveys or plans, prior permit records, exterior and interior photos, approximate dimensions, and a prioritized wish list. Note utility locations and whether the home has previous additions. Inspiration photos help, but identify which features are essential versus optional before pricing."
+      }
+    }
+  ],
+  "description": "Bring the property address, surveys or plans, prior permit records, exterior and interior photos, approximate dimensions, and a prioritized wish list. Note util"
+}

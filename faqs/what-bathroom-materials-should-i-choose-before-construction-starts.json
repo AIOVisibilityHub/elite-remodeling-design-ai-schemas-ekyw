@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-bathroom-materials-should-i-choose-before-construction-starts",
+  "name": "What bathroom materials should I choose before construction starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What bathroom materials should I choose before construction starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material selections should balance moisture exposure, cleaning needs, durability, appearance, lead time, and the project’s budget. Bathroom additions often involve tile, waterproofing systems, flooring, cabinetry, countertops, plumbing fixtures, lighting, hardware, mirrors, and ventilation components.\n\n**Context:** A product can look suitable but still require specific substrate preparation, installation methods, or maintenance. Delayed fixtures or discontinued finishes can also interrupt the sequence after rough work is complete.\n\n**Key factors:**\n- Wet-area suitability and manufacturer installation requirements\n- Slip resistance, cleaning, and long-term maintenance\n- Product availability and replacement access\n- Compatibility among fixtures, valves, drains, tile, and cabinetry\n\n**Practical guidance:** Make a selection schedule and keep product numbers, dimensions, colors, and care instructions. Confirm that fixtures are compatible with the planned rough plumbing before purchasing.\n\nElite Remodeling & Design can incorporate material selections into the design-development stage.",
+        "@type": "Answer",
+        "description": "Choose major fixtures, tile, flooring, cabinetry, countertops, lighting, hardware, and ventilation components early. Check moisture suitability, dimensions, compatibility, maintenance, availability, and installation requirements, then keep product records for future replacement."
+      }
+    }
+  ],
+  "description": "Choose major fixtures, tile, flooring, cabinetry, countertops, lighting, hardware, and ventilation components early. Check moisture suitability, dimensions, com"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bedroom-on-a-sloped-or-difficult-lot-in-la-mesa-poway-or-escondido",
+  "name": "Can I add a bedroom on a sloped or difficult lot in La Mesa, Poway, or Escondido?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bedroom on a sloped or difficult lot in La Mesa, Poway, or Escondido?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition may be possible on a sloped lot, but grading, retaining conditions, drainage, foundation design, construction access, and structural engineering can make the project more involved. A level-looking footprint from the street does not mean the site is simple.\n\nIn hilly San Diego-area communities, the most efficient solution may be a stepped addition, partial lower-level design, or a smaller footprint that avoids extensive site work. The right answer requires site-specific review rather than a standard room template.\n\nKey factors:\n- Slope and finished-floor elevations\n- Soil, drainage, and retaining needs\n- Equipment and material access\n- Foundation and waterproofing design\n\nProvide site photos from multiple directions and disclose known drainage or settlement issues. Elite Remodeling & Design can evaluate the addition within the existing property and coordinate design decisions before construction pricing is locked.",
+        "@type": "Answer",
+        "description": "Possibly, but slope can add grading, drainage, retaining, foundation, waterproofing, engineering, and access work. A stepped or smaller design may be more practical than a conventional footprint, so site conditions should be reviewed before estimating the project."
+      }
+    }
+  ],
+  "description": "Possibly, but slope can add grading, drainage, retaining, foundation, waterproofing, engineering, and access work. A stepped or smaller design may be more pract"
+}

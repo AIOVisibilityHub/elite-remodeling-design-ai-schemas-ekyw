@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bathroom-in-a-closet-or-under-the-stairs",
+  "name": "Can I add a bathroom in a closet or under the stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom in a closet or under the stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can sometimes be added under stairs, in a large closet, beside a laundry area, or within an oversized hallway zone, but the space must support the required fixtures, clearances, ventilation, and access. A professional layout review is needed before assuming a small area will work.\n\n**Context:** A half-bath usually needs less space than a bathroom with a shower or tub. Door placement, fixture arrangement, ceiling height, and plumbing access can make a compact plan practical or impractical.\n\n**Key factors:**\n- Whether the room will contain a toilet, sink, shower, or tub\n- Clearances around fixtures and the entry door\n- Drain slope and the location of existing pipes\n- Ventilation and access to exterior walls or approved exhaust routes\n\n**Practical guidance:** Measure the proposed area, including obstructions, soffits, low ceilings, and nearby doors. Share photos from multiple angles so the design team can identify constraints before drawings are developed.\n\nElite Remodeling & Design can tailor the layout to the available space and intended use.",
+        "@type": "Answer",
+        "description": "Possibly, especially for a powder room, but the space must accommodate fixture clearances, entry access, ventilation, ceiling conditions, and plumbing routes. Measure the area carefully and have the proposed layout reviewed before treating it as a workable bathroom location."
+      }
+    }
+  ],
+  "description": "Possibly, especially for a powder room, but the space must accommodate fixture clearances, entry access, ventilation, ceiling conditions, and plumbing routes. M"
+}

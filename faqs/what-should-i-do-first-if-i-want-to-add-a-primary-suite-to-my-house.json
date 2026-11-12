@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-add-a-primary-suite-to-my-house",
+  "name": "What should I do first if I want to add a primary suite to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to add a primary suite to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining whether you need only a larger bedroom or a complete suite with a bathroom, closets, and private outdoor access. Elite Remodeling & Design can review the existing floor plan, site conditions, and desired layout before developing a coordinated design and construction plan.\n\nA suite addition may involve foundation work, exterior walls, roofing, structural connections, plumbing, electrical, heating and cooling, insulation, and interior finishes. The project’s location on the lot and connection to the existing home often affect feasibility more than the bedroom size alone.\n\nKey factors:\n- Available side and rear setbacks\n- Existing drainage, utilities, and foundation conditions\n- Electrical-panel and HVAC capacity\n- Whether the bathroom requires a long plumbing route\n\nPractical guidance: Gather a survey, prior plans, photos of the exterior, and a list of must-have features before the consultation. Ask for the design, permit, construction, and finish-selection steps to be identified separately.\n\nElite Remodeling & Design combines design development, permitting coordination, construction, and final inspection support for residential additions.",
+        "@type": "Answer",
+        "description": "First decide whether you need a bedroom only or a full suite with a bathroom and closets. Then have Elite Remodeling & Design review your floor plan, lot constraints, utilities, and structural conditions before pricing the work. Photos, old plans, and a clear must-have list make the first consultation more productive."
+      }
+    }
+  ],
+  "description": "First decide whether you need a bedroom only or a full suite with a bathroom and closets. Then have Elite Remodeling & Design review your floor plan, lot constr"
+}

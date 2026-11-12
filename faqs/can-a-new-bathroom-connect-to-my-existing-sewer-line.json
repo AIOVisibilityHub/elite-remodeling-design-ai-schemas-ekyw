@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-new-bathroom-connect-to-my-existing-sewer-line",
+  "name": "Can a new bathroom connect to my existing sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new bathroom connect to my existing sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition may be able to connect to an existing sewer line, but the practical answer depends on location, elevation, pipe condition, access, and the proposed fixture layout. If the connection point is too distant or low, additional design or construction measures may be required.\n\n**Context:** Drainage is governed by gravity and proper venting, so a fixture cannot simply be placed wherever it is convenient. Homes in older neighborhoods or areas with previous additions may have undocumented or difficult-to-access connections.\n\n**Key factors:**\n- Elevation relative to the existing sewer or building drain\n- Distance and route through the home or site\n- Condition and size of existing piping\n- Access for cleanouts, repairs, and future service\n\n**Practical guidance:** Ask for the proposed sewer connection and fixture elevations during design. If the route is uncertain, allow for selective investigation before finalizing the construction price.\n\nElite Remodeling & Design can coordinate plumbing layout with the broader addition plan.",
+        "@type": "Answer",
+        "description": "Often, but the connection depends on elevation, distance, pipe condition, access, venting, and fixture placement. Have the proposed route reviewed before finalizing the room location, especially in older homes or properties with undocumented additions."
+      }
+    }
+  ],
+  "description": "Often, but the connection depends on elevation, distance, pipe condition, access, venting, and fixture placement. Have the proposed route reviewed before finali"
+}

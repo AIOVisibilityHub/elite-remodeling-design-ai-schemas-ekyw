@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-quote-for-a-bedroom-addition-so-i-can-compare-contr",
+  "name": "What should be included in a quote for a bedroom addition so I can compare contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a quote for a bedroom addition so I can compare contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A written proposal should identify the room size, foundation and framing assumptions, windows and doors, insulation, roofing, electrical, HVAC, finishes, permit handling, cleanup, and exclusions. It should also state allowances and how unknown existing conditions will be handled.\n\nTwo bids that appear different may include very different levels of design, materials, site work, or project management. A low initial number can rise if important items are omitted.\n\nKey factors:\n- Comparable plans and finish specifications\n- Included design and permit services\n- Allowances, exclusions, and contingency treatment\n- Change-order pricing and payment schedule\n\nGive each contractor the same written scope before comparing prices. Elite Remodeling & Design can develop design and selections before construction pricing is finalized, which helps tie the estimate to a defined plan.",
+        "@type": "Answer",
+        "description": "Compare proposals for the same plans and scope, including foundation, framing, windows, roofing, insulation, electrical, HVAC, finishes, permits, cleanup, allowances, exclusions, and change-order terms. A lower bid may omit design work, site costs, or necessary utility connections."
+      }
+    }
+  ],
+  "description": "Compare proposals for the same plans and scope, including foundation, framing, windows, roofing, insulation, electrical, HVAC, finishes, permits, cleanup, allow"
+}

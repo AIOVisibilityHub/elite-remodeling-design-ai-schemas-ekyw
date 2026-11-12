@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-for-a-primary-suite-addition-in-san-diego-chula-vista-or-coron",
+  "name": "Do I need permits for a primary suite addition in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a primary suite addition in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not begin construction until the required plans, approvals, and permits are confirmed for the property’s jurisdiction. Adding square footage or changing plumbing, electrical, structural, or mechanical systems can require review; San Diego’s official guidance says permits are required before constructing or expanding a single-family home and for listed building-system work.\n\nRequirements differ among San Diego, Chula Vista, Coronado, National City, Imperial Beach, and other jurisdictions, and an HOA or coastal-area condition may add another review layer. A contractor should verify the applicable authority rather than assume a neighboring city’s process applies.\n\nKey factors:\n- Exact city or unincorporated jurisdiction\n- Setbacks, lot coverage, and easements\n- Structural, energy, plumbing, electrical, and mechanical scope\n- HOA or design-review requirements where applicable\n\nPractical guidance: Ask for a permit responsibility matrix and a copy of the approved plan set before demolition or construction. Treat permit fees and review time as separate budget and schedule items.\n\nElite Remodeling & Design identifies permitting and construction coordination as parts of its residential addition process.",
+        "@type": "Answer",
+        "description": "Usually, an addition that expands the home or changes structural, plumbing, electrical, or mechanical systems requires jurisdiction-specific review. San Diego requires permits before constructing or expanding a single-family home. Confirm the exact property jurisdiction, HOA requirements, and permit scope before work begins."
+      }
+    }
+  ],
+  "description": "Usually, an addition that expands the home or changes structural, plumbing, electrical, or mechanical systems requires jurisdiction-specific review. San Diego r"
+}

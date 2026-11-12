@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-compare-contractors-for-a-bathroom-addition-without-choosing-the-cheape",
+  "name": "How do I compare contractors for a bathroom addition without choosing the cheapest bid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare contractors for a bathroom addition without choosing the cheapest bid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose a bathroom contractor by comparing relevant experience, scope clarity, design coordination, communication, and proof of properly managed work rather than by price alone. A bathroom addition requires coordination across design, construction, plumbing, electrical, ventilation, waterproofing, finishes, and inspections.\n\n**Context:** A contractor experienced only with cosmetic bathroom updates may not be equipped for an addition involving framing, foundation, exterior work, or complex utility routes. Elite Remodeling & Design’s published services include room additions, bathroom remodeling, ADUs, and garage conversions.\n\n**Key factors:**\n- Experience with additions or conversions similar to yours\n- Who prepares plans and coordinates permits\n- How allowances, changes, and concealed conditions are handled\n- Warranty, communication, schedule, and payment structure\n\n**Practical guidance:** Request comparable project examples, a detailed written scope, a decision schedule, and a list of included exclusions. Verify current licensing and insurance through the appropriate official channels before signing.\n\nA coordinated design-build approach may be useful when design and construction decisions are closely connected.",
+        "@type": "Answer",
+        "description": "Compare relevant addition experience, plans, permit coordination, scope detail, allowances, change procedures, schedule, communication, insurance, and warranty—not just price. A cosmetic remodeler may not have the same experience as a team handling structure and utility connections."
+      }
+    }
+  ],
+  "description": "Compare relevant addition experience, plans, permit coordination, scope detail, allowances, change procedures, schedule, communication, insurance, and warranty—"
+}

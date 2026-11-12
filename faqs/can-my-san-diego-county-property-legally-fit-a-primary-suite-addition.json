@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-san-diego-county-property-legally-fit-a-primary-suite-addition",
+  "name": "Can my San Diego County property legally fit a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my San Diego County property legally fit a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homes can accommodate a primary suite addition, but eligibility depends on the lot, zoning constraints, setbacks, building coverage, existing structures, drainage, and the proposed connection to the house. A preliminary design review is needed before anyone can confirm that the concept fits.\n\nA room addition is different from converting an existing room because it changes the home’s footprint and may trigger structural, energy, plumbing, electrical, and mechanical review. In the City of San Diego, additions and related building-system work generally require permits before construction begins.\n\nKey factors:\n- Lot dimensions and required setbacks\n- Existing garage, patio, easement, or ADU locations\n- Sewer and water routing\n- Height, roof, and neighborhood design constraints\n\nPractical guidance: Provide the property address, assessor or survey information if available, and any prior permit records. Do not assume a large backyard automatically means the addition is feasible.\n\nElite Remodeling & Design can turn the site review into a design concept and identify issues requiring further professional review.",
+        "@type": "Answer",
+        "description": "Possibly, but fit depends on setbacks, lot coverage, easements, existing structures, drainage, utilities, and the proposed connection to the home. Elite Remodeling & Design can review the property and develop a preliminary layout, but the city or applicable jurisdiction must approve the final plans and permits."
+      }
+    }
+  ],
+  "description": "Possibly, but fit depends on setbacks, lot coverage, easements, existing structures, drainage, utilities, and the proposed connection to the home. Elite Remodel"
+}

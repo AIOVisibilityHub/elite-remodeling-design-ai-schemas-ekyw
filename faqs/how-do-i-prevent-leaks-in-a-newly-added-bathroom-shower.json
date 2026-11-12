@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-prevent-leaks-in-a-newly-added-bathroom-shower",
+  "name": "How do I prevent leaks in a newly added bathroom shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent leaks in a newly added bathroom shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A waterproofing failure can cause damage behind tile, below floors, or in adjacent rooms, so the shower and wet areas deserve detailed planning and inspection before they are covered. Tile itself is not the complete waterproofing system.\n\n**Context:** The right approach depends on the shower type, substrate, drain, curb or threshold, niches, corners, penetrations, and transition to the bathroom floor. Poor sequencing or unsealed penetrations can create problems long after completion.\n\n**Key factors:**\n- Waterproofing method and manufacturer requirements\n- Drain and slope design\n- Treatment of corners, niches, benches, and pipe penetrations\n- Flood or other testing before finishes are installed\n\n**Practical guidance:** Ask which waterproofing system is specified, where it will be used, and how it will be checked before tile. Photograph concealed work for your records before walls and floors are closed.\n\nElite Remodeling & Design can coordinate wet-area construction as part of the complete bathroom plan.",
+        "@type": "Answer",
+        "description": "Use a specified waterproofing system, properly sloped shower base, sealed penetrations, compatible drain components, and testing before tile covers the work. Ask for the system details and document concealed waterproofing before finishes are installed."
+      }
+    }
+  ],
+  "description": "Use a specified waterproofing system, properly sloped shower base, sealed penetrations, compatible drain components, and testing before tile covers the work. As"
+}

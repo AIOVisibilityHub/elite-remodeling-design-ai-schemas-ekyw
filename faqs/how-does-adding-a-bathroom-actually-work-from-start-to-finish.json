@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-adding-a-bathroom-actually-work-from-start-to-finish",
+  "name": "How does adding a bathroom actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does adding a bathroom actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The basic process is site evaluation, design development, construction documents, permit coordination, construction, inspections, and final completion. Elite Remodeling & Design describes its work as a coordinated process that can include layout planning, 3D design visualization, material selections, permit applications, and construction.\n\n**Context:** The order matters because fixture locations, framing, pipe routes, electrical work, and finish selections affect one another. Changing the shower location after rough plumbing begins can create added work and delay.\n\n**Key factors:**\n- Existing plans and concealed conditions\n- Fixture layout and plumbing access\n- Structural or exterior-wall changes\n- Material availability and inspection scheduling\n\n**Practical guidance:** Approve the layout and major materials before demolition. Request a written scope that separates design, permit, rough-in, finish, inspection, and closeout stages.\n\nA single design-build team can reduce handoff issues between design decisions and construction work.",
+        "@type": "Answer",
+        "description": "The usual sequence is evaluation, design, plans, permit coordination, demolition or preparation, rough plumbing and electrical, framing, waterproofing, finishes, inspections, and final completion. Locking the layout and major materials early helps prevent changes during construction."
+      }
+    }
+  ],
+  "description": "The usual sequence is evaluation, design, plans, permit coordination, demolition or preparation, rough plumbing and electrical, framing, waterproofing, finishes"
+}

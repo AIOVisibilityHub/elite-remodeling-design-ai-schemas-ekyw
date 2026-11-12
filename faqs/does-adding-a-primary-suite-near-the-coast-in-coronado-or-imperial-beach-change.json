@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-adding-a-primary-suite-near-the-coast-in-coronado-or-imperial-beach-change",
+  "name": "Does adding a primary suite near the coast in Coronado or Imperial Beach change the planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does adding a primary suite near the coast in Coronado or Imperial Beach change the planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coronado, Imperial Beach, coastal San Diego, and other areas near the coast may require closer attention to exposure, drainage, corrosion-resistant materials, moisture management, and local review conditions, but the correct requirements depend on the exact parcel and jurisdiction. Do not assume a design approved inland will suit a coastal property.\n\nSalt air, wind, rain exposure, and site drainage can influence exterior materials, flashing, windows, roofing, and maintenance. Local planning or building review may also affect setbacks, appearance, or environmental constraints.\n\nKey factors:\n- Exact jurisdiction and parcel conditions\n- Coastal exposure and exterior-material durability\n- Drainage, waterproofing, and roof detailing\n- HOA or neighborhood review, if applicable\n\nPractical guidance: Tell the designer the property’s exact location and request that exterior assemblies and drainage be reviewed for the site. Include durable material options in the budget rather than treating them as afterthoughts.\n\nElite Remodeling & Design serves coastal and inland San Diego County communities and can incorporate site-specific conditions into design development.",
+        "@type": "Answer",
+        "description": "It can. Coastal exposure, moisture, drainage, corrosion, exterior materials, and parcel-specific review conditions may affect design and maintenance. Provide the exact address early, and ask for roofing, flashing, windows, waterproofing, and exterior-finish choices suited to the site rather than copying an inland plan."
+      }
+    }
+  ],
+  "description": "It can. Coastal exposure, moisture, drainage, corrosion, exterior materials, and parcel-specific review conditions may affect design and maintenance. Provide th"
+}

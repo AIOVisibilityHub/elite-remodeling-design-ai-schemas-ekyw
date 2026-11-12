@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-add-a-bathroom-for-an-aging-parent-or-someone-with-mobility-issues",
+  "name": "How should I add a bathroom for an aging parent or someone with mobility issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I add a bathroom for an aging parent or someone with mobility issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom addition can be designed for aging in place or mobility needs, but those decisions should be made before the floor plan and plumbing locations are fixed. Wider access, fewer barriers, safer wet-area design, reachable controls, and future support features can affect both space and construction.\n\n**Context:** Retrofitting accessibility later may require moving walls, replacing tile, or changing plumbing. A bathroom used by an older adult, someone with limited mobility, or multiple generations should be planned around actual routines rather than appearance alone.\n\n**Key factors:**\n- Entry width and maneuvering space\n- Shower type, seating, drainage, and water control placement\n- Grab-bar blocking and wall reinforcement\n- Fixture heights, storage, lighting, and slip resistance\n\n**Practical guidance:** Describe current and anticipated mobility needs during the first consultation. Ask which features can be installed now and which should receive concealed backing for later changes.\n\nElite Remodeling & Design can adapt the design to household needs and intended use.",
+        "@type": "Answer",
+        "description": "Plan accessibility before walls and plumbing are finalized. Discuss entry clearance, maneuvering space, shower access, seating, controls, lighting, slip-resistant surfaces, grab-bar support, and future changes with the design team at the beginning."
+      }
+    }
+  ],
+  "description": "Plan accessibility before walls and plumbing are finalized. Discuss entry clearance, maneuvering space, shower access, seating, controls, lighting, slip-resista"
+}

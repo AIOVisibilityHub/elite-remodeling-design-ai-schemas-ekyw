@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-older-san-diego-homes-harder-to-add-a-primary-suite-to",
+  "name": "Are older San Diego homes harder to add a primary suite to?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are older San Diego homes harder to add a primary suite to?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes can be good candidates for additions, but their existing plans, wiring, plumbing, foundation, framing, and previous alterations may be less predictable. The new suite must connect safely and cleanly to what is already there, and opening walls or ceilings can reveal work that was not shown in old records.\n\nThe age of the house does not by itself determine feasibility or cost. The condition of the existing structure and the amount of upgrading required at the connection points matter more.\n\nKey factors:\n- Accuracy of available drawings and permit records\n- Electrical-panel and HVAC capacity\n- Existing pipe, roof, and foundation conditions\n- Previous unrecorded remodels or additions\n\nPractical guidance: Schedule an existing-condition review before finalizing the budget. Ask which items are verified, which are allowances, and how concealed conditions will be documented if discovered.\n\nElite Remodeling & Design can coordinate additions with renovation work needed to connect the new space to the existing home.",
+        "@type": "Answer",
+        "description": "They can be less predictable because old plans, wiring, plumbing, foundations, roofs, and previous remodels may not match current conditions. Have the existing home measured and key systems reviewed before final pricing. Separate verified work from allowances for concealed conditions."
+      }
+    }
+  ],
+  "description": "They can be less predictable because old plans, wiring, plumbing, foundations, roofs, and previous remodels may not match current conditions. Have the existing"
+}

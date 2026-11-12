@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-bathroom-if-my-san-diego-lot-is-small-or-tightly-built",
+  "name": "Can I add a bathroom if my San Diego lot is small or tightly built?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom if my San Diego lot is small or tightly built?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An addition may be possible on a lot with limited space, but the design must account for the existing home, property boundaries, access, utility routes, drainage, and the location’s physical constraints. A compact interior conversion may be more practical than extending the exterior footprint.\n\n**Context:** Coastal or tightly developed communities such as Coronado and Imperial Beach can present access, lot-configuration, or existing-condition challenges that differ from a larger inland property. The project should be reviewed for the specific parcel rather than judged by a neighboring home.\n\n**Key factors:**\n- Available interior and exterior area\n- Existing setbacks, easements, and utility locations\n- Construction access for materials and equipment\n- Foundation, drainage, and connection to the existing home\n\n**Practical guidance:** Bring a site plan or assessor-style parcel sketch, photos of side yards, and information about additions or conversions already performed. Compare an interior solution with an exterior addition before choosing the more expensive path.\n\nElite Remodeling & Design serves homeowners throughout San Diego County and can evaluate project options around existing conditions.",
+        "@type": "Answer",
+        "description": "Possibly. Compare an interior conversion with an exterior addition after reviewing available space, utility routes, access, drainage, foundation needs, and property constraints. Small or coastal lots may require a more detailed site and existing-condition evaluation."
+      }
+    }
+  ],
+  "description": "Possibly. Compare an interior conversion with an exterior addition after reviewing available space, utility routes, access, drainage, foundation needs, and prop"
+}
