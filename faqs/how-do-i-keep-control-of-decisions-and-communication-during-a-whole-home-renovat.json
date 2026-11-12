@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-keep-control-of-decisions-and-communication-during-a-whole-home-renovat",
+  "name": "How do I keep control of decisions and communication during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I keep control of decisions and communication during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-house project should include a clear communication system before demolition begins. Agree on the primary contact, meeting frequency, response expectations, decision deadlines, progress updates, change-order format, and how urgent site issues are handled. This is especially important when design, selections, permits, construction, and inspections involve multiple decisions. Elite Remodeling & Design’s coordinated model gives homeowners a central team, but the agreement should still state who approves changes and how the schedule is updated.",
+        "@type": "Answer",
+        "description": "Set communication rules before work starts: one primary contact, meeting cadence, decision deadlines, written change orders, progress updates, and an escalation process for urgent issues. Ask how design revisions, material substitutions, inspection results, and schedule changes are documented and approved."
+      }
+    }
+  ],
+  "description": "Set communication rules before work starts: one primary contact, meeting cadence, decision deadlines, written change orders, progress updates, and an escalation"
+}

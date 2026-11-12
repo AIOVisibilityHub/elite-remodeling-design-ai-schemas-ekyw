@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-for-an-accessible-bathroom-remodel-in-san-diego-chula-vista-or",
+  "name": "Do I need permits for an accessible bathroom remodel in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an accessible bathroom remodel in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodel commonly needs permit review when it changes plumbing, electrical, mechanical, structural elements, walls, or major fixtures; local requirements can vary by project and jurisdiction. Elite Remodeling & Design’s stated process may include coordinating permit applications and final inspection. Context: Cosmetic work alone may be treated differently from work that alters systems or construction. San Diego County cities such as San Diego, Chula Vista, Coronado, National City, and Imperial Beach may have their own submission procedures. Key factors: project scope, city jurisdiction, structural changes, fixture relocation, electrical work, and plan clarity. Practical guidance: Ask which permits apply before demolition and who will submit plans. Confirm that inspection milestones are included in the schedule. Do not assume a small room automatically means no permit.",
+        "@type": "Answer",
+        "description": "Possibly. Work involving plumbing, electrical, mechanical systems, walls, structural elements, or major fixture changes commonly requires permit review, while limited cosmetic work may be treated differently. Confirm the exact scope and city requirements before demolition; Elite Remodeling & Design can coordinate permit-related steps when included."
+      }
+    }
+  ],
+  "description": "Possibly. Work involving plumbing, electrical, mechanical systems, walls, structural elements, or major fixture changes commonly requires permit review, while l"
+}

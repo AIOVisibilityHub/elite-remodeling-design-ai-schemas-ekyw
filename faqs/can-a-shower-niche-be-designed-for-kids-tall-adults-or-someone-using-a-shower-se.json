@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-shower-niche-be-designed-for-kids-tall-adults-or-someone-using-a-shower-se",
+  "name": "Can a shower niche be designed for kids, tall adults, or someone using a shower seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a shower niche be designed for kids, tall adults, or someone using a shower seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche can usually be designed for children, taller adults, seated users, or shared households, but one standard height will not suit everyone. Accessibility, reach, shower controls, benches, grab bars, and product storage should be considered together.\n\nKey factors:\n- Test the reach of the shortest and tallest regular users.\n- Keep frequently used items separate from occasional products.\n- Avoid requiring users to lean across a strong water stream.\n\nPractical guidance: Ask Elite Remodeling & Design to show the niche in relation to the finished floor, bench, valve, and showerhead. For a multigenerational household, compare two accessible compartments or a long niche with different shelf heights instead of relying on one compromise position.\n\nA usable niche is measured against the people using the shower, not only the wall.",
+        "@type": "Answer",
+        "description": "Yes. Set the niche height, shelf arrangement, and reach around the actual users, while coordinating it with the valve, showerhead, bench, grab bars, and door. A multigenerational household may benefit from separate compartments or shelves at different heights."
+      }
+    }
+  ],
+  "description": "Yes. Set the niche height, shelf arrangement, and reach around the actual users, while coordinating it with the valve, showerhead, bench, grab bars, and door. A"
+}

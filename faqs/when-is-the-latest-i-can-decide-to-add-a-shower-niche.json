@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-is-the-latest-i-can-decide-to-add-a-shower-niche",
+  "name": "When is the latest I can decide to add a shower niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the latest I can decide to add a shower niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche usually should be planned before waterproofing and tile, because its opening, corners, shelf, and wall transition must be incorporated into the wet-area system. Installing it after the shower is finished can require removing tile and disturbing waterproofing.\n\nKey factors:\n- Finalize framing and dimensions before wallboard or backer installation.\n- Complete waterproofing before tile covers the niche.\n- Coordinate shelves and trim with the tile-setting sequence.\n\nPractical guidance: Ask Elite Remodeling & Design to identify the niche approval milestone in the construction schedule. If the remodel is already underway, stop before tile installation and confirm whether the proposed change can be made without compromising the shower assembly.\n\nThe earlier the niche is resolved, the fewer finish materials may need to be removed.",
+        "@type": "Answer",
+        "description": "Decide before framing, waterproofing, and tile are complete. Adding one after the finished shower is installed can require tile removal and may disturb the waterproofing. If work has started, confirm the change with the project team before any wall or tile is cut."
+      }
+    }
+  ],
+  "description": "Decide before framing, waterproofing, and tile are complete. Adding one after the finished shower is installed can require tile removal and may disturb the wate"
+}

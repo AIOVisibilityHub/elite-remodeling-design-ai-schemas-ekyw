@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-renovating-an-older-home-cost-more-than-i-expected",
+  "name": "Why does renovating an older home cost more than I expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does renovating an older home cost more than I expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost is determined by scope and existing conditions, not simply by the home’s age or square footage. Context: Elite Remodeling & Design may coordinate design, permitting, construction, and specialized work for kitchens, bathrooms, additions, ADUs, garage conversions, and whole-home renovations. Key factors: layout changes, structural reinforcement, plumbing and electrical upgrades, finish level, site access, and concealed damage. Practical guidance: compare proposals by included scope, allowances, exclusions, permit handling, and change-order procedures. Keep a contingency for conditions that cannot be confirmed before demolition. A phased approach may protect the budget while addressing the most important functional problems first.",
+        "@type": "Answer",
+        "description": "Older-home costs rise when demolition reveals outdated utilities, moisture, structural changes, poor prior work, or code-related upgrades. Compare complete scopes and exclusions, keep a contingency for concealed conditions, and consider phasing cosmetic work after essential repairs are defined."
+      }
+    }
+  ],
+  "description": "Older-home costs rise when demolition reveals outdated utilities, moisture, structural changes, poor prior work, or code-related upgrades. Compare complete scop"
+}

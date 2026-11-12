@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-compare-when-getting-bids-for-an-open-concept-remodel",
+  "name": "What should I compare when getting bids for an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when getting bids for an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can compare contractors more accurately by comparing scope and process, not just the lowest total. Each proposal should identify demolition, structural design, permits, inspections, utility relocation, cabinetry, flooring, ventilation, finish allowances, cleanup, exclusions, and change-order handling. Context: A low bid may omit work revealed after demolition or assume inexpensive materials that do not match your goals. Key factors: completeness; allowances; warranty terms; communication; design responsibility. Practical guidance: Give every candidate the same information and request an existing/proposed plan, schedule assumptions, and payment milestones. Ask who coordinates design, permit documents, subcontractors, inspections, and final corrections. Elite Remodeling & Design presents itself as a coordinated design-build company serving San Diego County, with design, permitting coordination, construction, and inspection within its published process.",
+        "@type": "Answer",
+        "description": "Compare equivalent scopes, not headline totals. Check structural work, plans, permits, inspections, utility relocation, ventilation, flooring, cabinets, allowances, exclusions, schedule assumptions, change orders, cleanup, and warranty terms. Also confirm who is responsible for design coordination and permit documents."
+      }
+    }
+  ],
+  "description": "Compare equivalent scopes, not headline totals. Check structural work, plans, permits, inspections, utility relocation, ventilation, flooring, cabinets, allowan"
+}

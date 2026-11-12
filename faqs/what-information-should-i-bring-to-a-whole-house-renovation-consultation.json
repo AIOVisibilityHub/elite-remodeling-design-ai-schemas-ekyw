@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-bring-to-a-whole-house-renovation-consultation",
+  "name": "What information should I bring to a whole-house renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I bring to a whole-house renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need a finalized material list before the first consultation, but you should bring enough information to reveal how you want the home to function. Photos, measurements, appliance ideas, storage complaints, accessibility needs, preferred styles, and a rough budget are useful starting points. Elite Remodeling & Design may develop layout concepts and 3D visualization before final selections, so early ideas can evolve. Separate must-haves from preferences and identify which decisions are fixed, flexible, or still uncertain.",
+        "@type": "Answer",
+        "description": "Bring room photos, rough measurements, inspiration images, appliance or fixture ideas, storage and layout problems, household needs, accessibility concerns, and a realistic budget range. Mark each item as essential, preferred, or undecided so the team can test priorities during design development."
+      }
+    }
+  ],
+  "description": "Bring room photos, rough measurements, inspiration images, appliance or fixture ideas, storage and layout problems, household needs, accessibility concerns, and"
+}

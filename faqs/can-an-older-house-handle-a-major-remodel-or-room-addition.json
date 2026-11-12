@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-an-older-house-handle-a-major-remodel-or-room-addition",
+  "name": "Can an older house handle a major remodel or room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an older house handle a major remodel or room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An older home can often support a kitchen remodel, bathroom remodel, addition, ADU, garage conversion, or whole-home renovation, but the right scope depends on its existing condition and local requirements. Context: Elite Remodeling & Design develops designs around the property, intended use, and household needs rather than assuming every older house should receive the same treatment. Key factors: foundation and framing condition, utility capacity, setbacks, available space, historic characteristics, and the desired change of use. Practical guidance: request an existing-condition review before committing to a layout or purchase. Ask which conditions could require engineering, permit review, or added construction work. A staged plan can make a large renovation more manageable.",
+        "@type": "Answer",
+        "description": "Often, yes—but feasibility depends on framing, foundation, utilities, lot conditions, and the proposed changes. Have the existing structure reviewed before finalizing a kitchen, addition, ADU, garage conversion, or whole-home scope."
+      }
+    }
+  ],
+  "description": "Often, yes—but feasibility depends on framing, foundation, utilities, lot conditions, and the proposed changes. Have the existing structure reviewed before fina"
+}

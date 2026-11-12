@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-shower-niche-need-special-planning-in-an-older-or-coastal-san-diego-home",
+  "name": "Does a shower niche need special planning in an older or coastal San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a shower niche need special planning in an older or coastal San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a coastal or older home, the niche design should account for existing wall conditions rather than assuming the walls are uniform. Properties in Coronado, Imperial Beach, coastal San Diego, and nearby communities may have remodeling constraints related to prior alterations, limited wall depth, or aging assemblies, but an on-site inspection is still necessary.\n\nKey factors:\n- Verify the wall’s actual framing and service locations.\n- Confirm the waterproofing and substrate are appropriate for the shower renovation.\n- Avoid selecting a location solely from an inspiration photo.\n\nPractical guidance: Share the home’s age, previous bathroom work, and any history of leaks with Elite Remodeling & Design. Ask for the niche and surrounding shower to be reviewed together during design and construction planning.\n\nLocal context can change the practical approach, but the property itself determines the final solution.",
+        "@type": "Answer",
+        "description": "It may. Older or coastal homes can have unusual framing, limited wall depth, prior repairs, or concealed service locations. Have the actual wall inspected, disclose past leaks or remodels, and plan the niche with the complete shower waterproofing and substrate system."
+      }
+    }
+  ],
+  "description": "It may. Older or coastal homes can have unusual framing, limited wall depth, prior repairs, or concealed service locations. Have the actual wall inspected, disc"
+}

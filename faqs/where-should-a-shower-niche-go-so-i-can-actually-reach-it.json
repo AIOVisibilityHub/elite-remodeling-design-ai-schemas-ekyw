@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-a-shower-niche-go-so-i-can-actually-reach-it",
+  "name": "Where should a shower niche go so I can actually reach it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should a shower niche go so I can actually reach it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The niche should be positioned where household members can reach it without leaning across the shower stream or blocking the controls. A common planning approach is a wall near the valve and away from direct spray, but the right height depends on user stature, shower configuration, and whether children or mobility needs are involved.\n\nKey factors:\n- Keep products within comfortable reach.\n- Avoid placing the opening where plumbing or wiring makes construction risky.\n- Consider the showerhead, hand shower, valve, bench, and door swing together.\n\nPractical guidance: Mark the proposed top and bottom edges with tape and test the reach while standing in the shower area. Review the layout with Elite Remodeling & Design before tile selection is finalized, particularly for bathrooms in compact homes or older San Diego properties with complex wall conditions.\n\nA taped mock-up can reveal awkward reach or spray exposure before demolition and waterproofing work.",
+        "@type": "Answer",
+        "description": "Place it within easy reach, usually near the control area and away from the strongest spray, but confirm the choice against plumbing, wiring, shower fixtures, doors, benches, and user height. Tape the proposed edges on the wall and test the reach before construction."
+      }
+    }
+  ],
+  "description": "Place it within easy reach, usually near the control area and away from the strongest spray, but confirm the choice against plumbing, wiring, shower fixtures, d"
+}

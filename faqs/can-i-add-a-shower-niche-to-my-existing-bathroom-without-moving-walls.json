@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-shower-niche-to-my-existing-bathroom-without-moving-walls",
+  "name": "Can I add a shower niche to my existing bathroom without moving walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a shower niche to my existing bathroom without moving walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a shower niche can often be added during a bathroom renovation, but the wall must be inspected before a location is approved. Elite Remodeling & Design typically considers framing, plumbing, electrical lines, exterior-wall insulation, waterproofing, and the planned tile layout before finalizing the opening.\n\nKey factors:\n- A stud or pipe may prevent the preferred location.\n- Exterior walls can have less usable depth and greater moisture-management concerns.\n- A niche may require reframing or a different wall position.\n\nPractical guidance: Do not assume a blank-looking wall is available for recessing. Have the proposed dimensions marked on the wall and confirm that the finished niche will hold the intended containers without interfering with the valve or shower spray. If recessing is impractical, compare a surface-mounted niche or corner shelf before demolition.\n\nElite Remodeling & Design can evaluate the niche as part of a coordinated bathroom remodel rather than treating it as an isolated tile cut.",
+        "@type": "Answer",
+        "description": "Often, yes, but the wall needs inspection first. Framing, plumbing, wiring, insulation, and waterproofing can limit the location or require reframing. If a recessed niche will not fit, compare a surface-mounted option or corner shelf before work begins."
+      }
+    }
+  ],
+  "description": "Often, yes, but the wall needs inspection first. Framing, plumbing, wiring, insulation, and waterproofing can limit the location or require reframing. If a rece"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-extra-money-should-i-keep-aside-for-unexpected-whole-house-renovation-c",
+  "name": "How much extra money should I keep aside for unexpected whole-house renovation costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much extra money should I keep aside for unexpected whole-house renovation costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingency is a planning reserve for uncertain conditions and owner decisions, not a substitute for a complete estimate. Its appropriate size depends on the age and condition of the property, how much demolition is involved, documentation quality, and the number of structural or system changes. Ask what the estimate already includes and what events would trigger a change order. Elite Remodeling & Design should be given a written process for documenting discoveries, pricing revisions, and obtaining approval before extra work proceeds.",
+        "@type": "Answer",
+        "description": "Keep a separate reserve because demolition can reveal concealed damage, outdated systems, or undocumented work, and selections can change the scope. The appropriate amount depends on property condition and project complexity. Ask what is included, what is excluded, and how written change orders are approved."
+      }
+    }
+  ],
+  "description": "Keep a separate reserve because demolition can reveal concealed damage, outdated systems, or undocumented work, and selections can change the scope. The appropr"
+}

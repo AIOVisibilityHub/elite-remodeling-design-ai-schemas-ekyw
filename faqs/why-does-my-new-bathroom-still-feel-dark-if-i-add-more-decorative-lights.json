@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-new-bathroom-still-feel-dark-if-i-add-more-decorative-lights",
+  "name": "Why does my new bathroom still feel dark if I add more decorative lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my new bathroom still feel dark if I add more decorative lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lighting should be planned with the layout because the vanity, shower, toilet, storage, and mirror each need different coverage. A single ceiling fixture can leave faces shadowed and may not adequately light a shower or storage area. Consider mirror lighting, general illumination, shower-rated fixtures where applicable, switches, dimming, and the location of the electrical service. Mark current outlets and switches on the plan and identify grooming tools or mobility needs. Elite Remodeling & Design can coordinate lighting and electrical decisions with cabinetry, mirrors, ventilation, and finish selections.",
+        "@type": "Answer",
+        "description": "Decorative fixtures cannot correct a poor lighting plan by themselves. Coordinate general light, mirror lighting, shower illumination, switches, dimming, outlets, and cabinet shadows with the new layout. Mark existing electrical points and explain grooming, storage, and accessibility needs before the walls close."
+      }
+    }
+  ],
+  "description": "Decorative fixtures cannot correct a poor lighting plan by themselves. Coordinate general light, mirror lighting, shower illumination, switches, dimming, outlet"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-remove-the-tub-if-this-is-the-only-bathroom-my-kids-use",
+  "name": "Should I remove the tub if this is the only bathroom my kids use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remove the tub if this is the only bathroom my kids use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A layout can support children better by making bathing, storage, supervision, and cleaning easier. A tub may remain valuable for young children, while a handheld shower, durable surfaces, reachable hooks, rounded or protected edges, and organized storage can improve daily use. Avoid placing fragile accessories or hard-to-reach controls in the main traffic path. Explain the children’s ages, bathing habits, and whether the room must later serve adults. Elite Remodeling & Design can compare a family-focused plan with a more adult-oriented design before construction begins.",
+        "@type": "Answer",
+        "description": "Not automatically. If the bathroom is the home’s only bathing space for young children, retaining a tub may provide useful flexibility. Balance that need against shower access, floor area, storage, and future household use. A handheld shower and durable, easy-clean finishes can improve a tub-based layout."
+      }
+    }
+  ],
+  "description": "Not automatically. If the bathroom is the home’s only bathing space for young children, retaining a tub may provide useful flexibility. Balance that need agains"
+}

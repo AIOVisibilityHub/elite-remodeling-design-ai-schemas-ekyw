@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-an-older-home-renovation-work-from-start-to-finish",
+  "name": "How does an older-home renovation work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an older-home renovation work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect the process to begin with consultation and existing-condition review, followed by design, selections, permitting when required, construction, and final inspection. Context: Elite Remodeling & Design describes a coordinated process that may include layout development and 3D design visualization before work begins. Key factors: project size, unknown conditions, structural changes, utility relocations, material lead times, and the review requirements of the specific jurisdiction. Practical guidance: ask for milestones showing when the scope, budget, design, permits, selections, and construction decisions must be completed. Keep a written record of approved plans and changes. One coordinated team can reduce gaps between design decisions and field work.",
+        "@type": "Answer",
+        "description": "The usual sequence is consultation, existing-condition review, design, selections, permitting if required, construction, and final inspection. The schedule can change when hidden damage, structural work, utility upgrades, or permit comments arise."
+      }
+    }
+  ],
+  "description": "The usual sequence is consultation, existing-condition review, design, selections, permitting if required, construction, and final inspection. The schedule can"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-an-open-concept-kitchen-make-the-whole-house-smell-like-food",
+  "name": "Will an open-concept kitchen make the whole house smell like food?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an open-concept kitchen make the whole house smell like food?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong kitchen hood and a layout that limits direct airflow toward living areas can reduce cooking odors, but an open room makes odor control more demanding. The hood type, duct route, makeup air considerations, cooking habits, ceiling conditions, and local mechanical requirements all affect the solution. Context: Recirculating ventilation may be simpler but does not perform the same way as a properly exhausted system, and the route may be difficult after a wall is removed. Key factors: hood location; duct path; roof or exterior termination; appliance type. Practical guidance: Tell the designer how often you fry, grill, or cook with high heat and whether the home has existing ventilation. Confirm the proposed exhaust approach before cabinets and ceilings are finalized. Elite Remodeling & Design can coordinate kitchen layout with electrical, mechanical, and finish planning.",
+        "@type": "Answer",
+        "description": "It can if ventilation is undersized, poorly located, or limited to recirculation. Review the hood, duct route, exterior termination, cooking habits, ceiling structure, and mechanical requirements before finalizing the kitchen layout. Better ventilation and a thoughtful kitchen position reduce, but do not eliminate, odor spread."
+      }
+    }
+  ],
+  "description": "It can if ventilation is undersized, poorly located, or limited to recirculation. Review the hood, duct route, exterior termination, cooking habits, ceiling str"
+}

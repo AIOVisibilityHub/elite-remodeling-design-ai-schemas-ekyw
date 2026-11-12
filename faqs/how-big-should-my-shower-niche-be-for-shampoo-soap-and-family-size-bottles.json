@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-big-should-my-shower-niche-be-for-shampoo-soap-and-family-size-bottles",
+  "name": "How big should my shower niche be for shampoo, soap, and family-size bottles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How big should my shower niche be for shampoo, soap, and family-size bottles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche does not have one universal correct size; it should fit the household’s products, the wall framing, and the tile pattern. Elite Remodeling & Design can use the selected tile and intended bottle sizes to develop finished dimensions before framing begins.\n\nKey factors:\n- Measure tall bottles, pump clearance, and refill containers.\n- Allow room for tile, mortar, trim, and grout joints.\n- Decide whether one large compartment or separate shelves will be easier to use.\n\nPractical guidance: Place the products you actually use on a counter and measure their width, height, and depth. Add practical clearance rather than designing only to a nominal product size. A wider niche may improve storage but can require more framing, trim, waterproofing, and tile planning.\n\nElite Remodeling & Design can show the proposed niche proportions during design development so the storage plan supports the rest of the bathroom.",
+        "@type": "Answer",
+        "description": "Size the niche around your actual products, tile dimensions, wall depth, and shelf plan. Measure tall bottles and pump clearance, then account for tile, mortar, trim, and grout. A design drawing helps confirm the usable finished opening before framing."
+      }
+    }
+  ],
+  "description": "Size the niche around your actual products, tile dimensions, wall depth, and shelf plan. Measure tall bottles and pump clearance, then account for tile, mortar,"
+}

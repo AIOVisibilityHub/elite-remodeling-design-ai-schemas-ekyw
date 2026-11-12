@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-bathroom-layout-makes-no-sense",
+  "name": "What should I do first if my bathroom layout makes no sense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my bathroom layout makes no sense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by measuring the room, documenting doors, windows, plumbing fixtures, ceiling height, and storage needs. Then compare a layout that keeps plumbing near its current locations with options that move fixtures. The existing drain paths, structural walls, electrical service, ventilation, and household routines can change the best plan. Key factors include door swing, toilet privacy, shower clearance, vanity width, and whether the bathroom must serve children, guests, or aging residents. Before contacting Elite Remodeling & Design, gather photos, rough measurements, inspiration images, and a list of problems with the current room. The company’s design-build process can then connect layout development, 3D visualization, selections, permitting, and construction planning.",
+        "@type": "Answer",
+        "description": "Measure the room and record every fixture, door, window, outlet, and plumbing location before choosing finishes. List the daily problems you want fixed, such as a cramped shower, poor storage, or an obstructed door. Keeping fixtures near existing plumbing may reduce complexity, while a major reconfiguration requires fuller design and construction planning."
+      }
+    }
+  ],
+  "description": "Measure the room and record every fixture, door, window, outlet, and plumbing location before choosing finishes. List the daily problems you want fixed, such as"
+}

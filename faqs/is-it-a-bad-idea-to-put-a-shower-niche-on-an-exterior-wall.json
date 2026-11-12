@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-a-bad-idea-to-put-a-shower-niche-on-an-exterior-wall",
+  "name": "Is it a bad idea to put a shower niche on an exterior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it a bad idea to put a shower niche on an exterior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche can be built into many shower walls, but an exterior wall deserves extra review before recessing. The opening may reduce available insulation depth, conflict with framing, or complicate moisture and temperature control.\n\nKey factors:\n- Confirm the wall assembly and insulation before choosing the location.\n- Avoid sacrificing required support or creating a path around services.\n- Consider a surface-mounted niche or another wall if depth is limited.\n\nPractical guidance: Tell Elite Remodeling & Design if the preferred wall faces outdoors, an unconditioned area, or a neighboring unit. Have the wall inspected before the niche size is approved, especially in older homes or coastal communities such as Coronado, Imperial Beach, or beach-adjacent San Diego areas where existing conditions may vary.\n\nThe wall’s construction matters more than a preferred picture from an inspiration board.",
+        "@type": "Answer",
+        "description": "Not always, but exterior walls need inspection for insulation, framing, pipes, wiring, and moisture-control concerns. If recessing would compromise the wall or leave insufficient depth, consider another wall or a surface-mounted niche. Existing conditions matter in coastal and older homes."
+      }
+    }
+  ],
+  "description": "Not always, but exterior walls need inspection for insulation, framing, pipes, wiring, and moisture-control concerns. If recessing would compromise the wall or"
+}

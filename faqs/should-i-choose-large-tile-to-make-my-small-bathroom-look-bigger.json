@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-choose-large-tile-to-make-my-small-bathroom-look-bigger",
+  "name": "Should I choose large tile to make my small bathroom look bigger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose large tile to make my small bathroom look bigger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile size and pattern can influence the perceived proportions of a bathroom, but they cannot compensate for a poor layout. Large-format tile may reduce grout lines, while smaller tile can help with curved surfaces or shower-floor slopes; either choice requires suitable substrate, waterproofing, installation, and maintenance planning. Pattern direction can visually lengthen or widen a room, but door swing and fixture clearance remain more important. Select tile after the layout and wet-area details are established. Elite Remodeling & Design can coordinate tile selections with the design, waterproofing, and construction sequence.",
+        "@type": "Answer",
+        "description": "Large tile can reduce grout lines and create a calmer visual field, but it will not fix blocked circulation or oversized fixtures. Smaller tile may suit shower slopes or curved areas. Decide the layout and waterproofing approach first, then choose tile size, pattern, maintenance level, and edge details together."
+      }
+    }
+  ],
+  "description": "Large tile can reduce grout lines and create a calmer visual field, but it will not fix blocked circulation or oversized fixtures. Smaller tile may suit shower"
+}

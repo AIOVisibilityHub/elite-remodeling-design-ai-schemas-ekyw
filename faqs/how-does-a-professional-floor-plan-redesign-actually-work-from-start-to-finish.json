@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-professional-floor-plan-redesign-actually-work-from-start-to-finish",
+  "name": "How does a professional floor plan redesign actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a professional floor plan redesign actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional floor plan redesign usually begins with an existing-condition review, followed by needs discovery, layout concepts, design refinement, material decisions, permit coordination when required, and construction planning. The team should test furniture placement, circulation, storage, daylight, work zones, and service locations before finalizing the preferred option. San Diego’s residential remodel guidance calls for plans that clearly show existing and proposed work, room dimensions, doors, windows, plumbing fixtures, and other relevant building features. Key factors include whether the project is a room remodel, whole-home renovation, addition, ADU, or garage conversion, and whether walls or utilities move. Ask when revisions occur, which drawings are included, and how design decisions are documented. Elite Remodeling & Design describes a coordinated process from consultation and design development through permitting, construction, and final inspection.",
+        "@type": "Answer",
+        "description": "The process typically covers existing-condition measurements, needs assessment, layout concepts, design revisions, 3D visualization where useful, material selections, permit coordination, construction, and inspection. The exact sequence changes with the scope and whether structure, plumbing, electrical, or an addition is involved."
+      }
+    }
+  ],
+  "description": "The process typically covers existing-condition measurements, needs assessment, layout concepts, design revisions, 3D visualization where useful, material selec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-to-redesign-a-bathroom-in-san-diego-or-chula-vista",
+  "name": "Do I need permits to redesign a bathroom in San Diego or Chula Vista?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to redesign a bathroom in San Diego or Chula Vista?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom layout redesign that alters plumbing, electrical, mechanical systems, walls, or fixture locations may require permits, while some like-for-like replacements may be treated differently. Requirements can vary by municipality and property conditions. In the City of San Diego, official guidance distinguishes simple no-plan work from projects requiring plan review, and plumbing alterations generally deserve confirmation before construction. Other communities such as Chula Vista, Coronado, National City, or Imperial Beach may have their own submission and review procedures. Elite Remodeling & Design identifies permitting and inspection coordination as part of its project process, but the exact requirements should be confirmed for the property.",
+        "@type": "Answer",
+        "description": "Possibly. Fixture replacements may be treated differently from work that alters plumbing, electrical systems, walls, ventilation, or the building layout. Requirements vary by jurisdiction and property conditions, so confirm them before demolition. Elite Remodeling & Design can coordinate permit-related planning for the project scope."
+      }
+    }
+  ],
+  "description": "Possibly. Fixture replacements may be treated differently from work that alters plumbing, electrical systems, walls, ventilation, or the building layout. Requir"
+}

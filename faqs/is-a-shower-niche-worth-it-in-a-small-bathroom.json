@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-shower-niche-worth-it-in-a-small-bathroom",
+  "name": "Is a shower niche worth it in a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a shower niche worth it in a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche is not automatically a poor choice in a compact bathroom, but it must be sized to preserve usable shower space and avoid crowding the controls. A smaller recessed compartment or shallow surface-mounted unit may work better than a large feature niche.\n\nKey factors:\n- Measure the finished wall area after accounting for fixtures and door clearance.\n- Avoid a depth that makes products hard to reach.\n- Use tile layout to make a small niche feel intentional rather than cramped.\n\nPractical guidance: Ask Elite Remodeling & Design to compare a compact niche, corner shelf, and shallow ledge during the bathroom design stage. In small San Diego-area bathrooms, the best choice may depend more on wall conditions and fixture placement than on the room’s overall floor area.\n\nStorage should improve the shower without reducing comfortable movement.",
+        "@type": "Answer",
+        "description": "It can be, if the size and location preserve movement and keep products reachable. Compare a compact recessed niche, corner shelf, shallow ledge, or surface-mounted unit against the available wall space, fixtures, door, and waterproofing complexity before deciding."
+      }
+    }
+  ],
+  "description": "It can be, if the size and location preserve movement and keep products reachable. Compare a compact recessed niche, corner shelf, shallow ledge, or surface-mou"
+}

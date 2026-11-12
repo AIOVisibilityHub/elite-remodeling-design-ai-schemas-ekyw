@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-do-bathroom-changes-cause-so-many-delays-in-a-whole-house-remodel",
+  "name": "Why do bathroom changes cause so many delays in a whole-house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do bathroom changes cause so many delays in a whole-house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathrooms deserve early coordination because plumbing locations, ventilation, waterproofing, electrical work, fixtures, tile, and finish heights can affect adjacent rooms and schedules. A cosmetic replacement may have a different scope from moving walls or relocating drains. Elite Remodeling & Design’s bathroom service includes customized design, fixtures, tile, and coordination of plumbing and electrical work as needed. Confirm waterproofing responsibilities, fixture specifications, access during construction, and how any concealed damage will be handled.",
+        "@type": "Answer",
+        "description": "Bathrooms combine plumbing, ventilation, waterproofing, electrical work, fixtures, tile, and tight sequencing. Moving walls or drains increases complexity beyond a surface update. Confirm fixture specifications, waterproofing responsibilities, inspection points, access arrangements, and the written procedure for concealed damage or changes."
+      }
+    }
+  ],
+  "description": "Bathrooms combine plumbing, ventilation, waterproofing, electrical work, fixtures, tile, and tight sequencing. Moving walls or drains increases complexity beyon"
+}

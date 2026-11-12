@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-will-an-accessible-bathroom-remodel-take-and-what-usually-causes-delays",
+  "name": "How long will an accessible bathroom remodel take, and what usually causes delays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will an accessible bathroom remodel take, and what usually causes delays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends more on scope and hidden conditions than on the label “accessible.” A fixture swap may be relatively limited, while a tub-to-roll-in-shower conversion can involve demolition, drain changes, floor reconstruction, waterproofing, inspections, and finish installation. Context: Elite Remodeling & Design coordinates design through construction, so timing also includes selections and permit review where applicable. Delays can arise from product availability, concealed damage, structural changes, or revisions after work begins. Key factors: room size, plumbing relocation, custom shower pan, tile work, permit requirements, and fixture lead times. Practical guidance: Ask for a schedule with design, approvals, ordering, construction, and inspection milestones. Make major selections early and confirm whether comparable substitute products are acceptable. Avoid scheduling dependent work until the contractor confirms the bathroom is ready.",
+        "@type": "Answer",
+        "description": "A simple accessibility update may be much quicker than a full shower conversion. Timing is affected by layout changes, permits, inspections, drain and floor work, waterproofing, custom products, material availability, and concealed conditions discovered after demolition."
+      }
+    }
+  ],
+  "description": "A simple accessibility update may be much quicker than a full shower conversion. Timing is affected by layout changes, permits, inspections, drain and floor wor"
+}

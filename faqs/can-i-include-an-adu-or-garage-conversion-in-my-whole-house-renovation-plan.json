@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-include-an-adu-or-garage-conversion-in-my-whole-house-renovation-plan",
+  "name": "Can I include an ADU or garage conversion in my whole-house renovation plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I include an ADU or garage conversion in my whole-house renovation plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an ADU or converting a garage should be evaluated as a distinct scope within the broader renovation because it can affect zoning, utilities, access, fire and life-safety review, parking considerations, and construction sequencing. Feasibility depends on the property and jurisdiction, so do not assume that available floor area automatically makes the project approvable. Elite Remodeling & Design offers ADUs and garage conversions as part of its residential services. Request a feasibility review before committing to finishes or combining the work with the main house.",
+        "@type": "Answer",
+        "description": "Possibly, but an ADU or garage conversion should receive its own feasibility review because it may affect zoning, utilities, access, safety review, parking, and sequencing. Elite Remodeling & Design offers both services; ask whether the property, intended use, and proposed layout support the concept before finalizing the larger renovation."
+      }
+    }
+  ],
+  "description": "Possibly, but an ADU or garage conversion should receive its own feasibility review because it may affect zoning, utilities, access, safety review, parking, and"
+}

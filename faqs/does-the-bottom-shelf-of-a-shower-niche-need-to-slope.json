@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-the-bottom-shelf-of-a-shower-niche-need-to-slope",
+  "name": "Does the bottom shelf of a shower niche need to slope?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does the bottom shelf of a shower niche need to slope?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The niche bottom should be pitched slightly toward the shower so water does not sit inside the compartment. The pitch must be created in the substrate or shelf material; grout and caulk alone should not be expected to correct a flat or poorly formed surface.\n\nKey factors:\n- The shelf must drain toward the shower, not into the wall.\n- Waterproofing must cover the niche floor, corners, seams, and surrounding wall.\n- The finish material should be supported without creating a low spot.\n\nPractical guidance: Ask to see how the waterproofing system treats the niche corners and perimeter before tile is installed. During the remodel, verify that the shelf is stable, sealed according to the system requirements, and visibly sloped before the opening is covered. Elite Remodeling & Design can coordinate these details with the tile and bathroom construction sequence.\n\nA properly formed shelf reduces standing water, residue, and stress on finish joints.",
+        "@type": "Answer",
+        "description": "Yes. The niche shelf should pitch slightly toward the shower so water drains instead of pooling. The slope must be built into the substrate or shelf material, while the entire niche still requires continuous waterproofing at the floor, corners, seams, and perimeter."
+      }
+    }
+  ],
+  "description": "Yes. The niche shelf should pitch slightly toward the shower so water drains instead of pooling. The slope must be built into the substrate or shelf material, w"
+}

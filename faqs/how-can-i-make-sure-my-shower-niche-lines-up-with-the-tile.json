@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-make-sure-my-shower-niche-lines-up-with-the-tile",
+  "name": "How can I make sure my shower niche lines up with the tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make sure my shower niche lines up with the tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile layout should be decided before the niche is framed because the opening changes grout lines, edge cuts, trim placement, and visual symmetry. Elite Remodeling & Design can coordinate the niche dimensions with the selected tile during design development rather than forcing the installer to make last-minute cuts.\n\nKey factors:\n- Large-format tile may require a different opening width than small mosaic tile.\n- Centering the niche on a wall does not always align it with grout joints.\n- Edge profiles, stone shelves, and waterproofing thickness affect finished dimensions.\n\nPractical guidance: Lay out representative tile with actual spacers before approving the framing size. Ask to review the niche’s finished elevation and how it aligns with the shower wall, valve, bench, and door. This helps avoid narrow slivers or uneven cuts that are especially visible in a focal shower wall.\n\nA tile plan is part of niche planning, not a final decorating step.",
+        "@type": "Answer",
+        "description": "Plan the niche with the actual tile, spacer, trim, shelf, and waterproofing thickness before framing. Review an elevation showing grout-line alignment and finished edges. This prevents awkward slivers and last-minute cuts, especially with large-format or patterned tile."
+      }
+    }
+  ],
+  "description": "Plan the niche with the actual tile, spacer, trim, shelf, and waterproofing thickness before framing. Review an elevation showing grout-line alignment and finis"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-to-move-the-toilet-or-plumbing-to-make-my-bathroom-accessible",
+  "name": "Do I need to move the toilet or plumbing to make my bathroom accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move the toilet or plumbing to make my bathroom accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can often be improved without moving every fixture, but relocation may be justified when the current arrangement blocks transfers, creates a poor shower entry, or leaves too little clearance. Elite Remodeling & Design can compare a lower-disruption layout with a more extensive redesign before construction begins. Context: Keeping plumbing in place may reduce cost and complexity, while moving a toilet, drain, or shower can improve function substantially. Key factors: existing pipe locations, floor access, wall structure, door swing, turning space, and the value of gaining better movement. Practical guidance: Ask for at least one option that preserves major plumbing and another that prioritizes the best accessible layout. Compare the functional gain against demolition, floor, plumbing, and inspection work.",
+        "@type": "Answer",
+        "description": "Not always. Keeping plumbing in place may reduce disruption, but relocating fixtures can create better transfer space, shower entry, door clearance, or caregiver access. Compare a plumbing-preserving layout with a function-first option before deciding; existing floor, drain, and wall conditions will affect feasibility."
+      }
+    }
+  ],
+  "description": "Not always. Keeping plumbing in place may reduce disruption, but relocating fixtures can create better transfer space, shower entry, door clearance, or caregive"
+}

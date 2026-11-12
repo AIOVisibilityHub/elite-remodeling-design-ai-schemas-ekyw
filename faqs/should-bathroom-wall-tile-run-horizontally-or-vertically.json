@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should bathroom wall tile run horizontally or vertically?",
-  "description": "Either direction can work. Horizontal layouts may emphasize width, while vertical layouts may emphasize height, but the best choice depends on wall proportions,",
   "url": "eliteremodelingsd.com/faq/should-bathroom-wall-tile-run-horizontally-or-vertically",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should bathroom wall tile run horizontally or vertically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The choice depends on design goals, wall dimensions, tile size, fixtures, and how much visual continuity you want. A horizontal pattern can make a wall feel wider, while a vertical arrangement can draw the eye upward; neither is automatically better.\n\nThe installer should check how the pattern lands at corners, niches, windows, and plumbing penetrations. A pattern that looks good in a sample may create narrow end cuts or misaligned joints across the actual room.\n\nKey factors:\n- Room proportions and ceiling height\n- Tile shape and directional surface pattern\n- Focal wall and fixture locations\n- Grout-joint alignment at corners and openings\n\nReview a measured elevation before ordering directional tile. Elite Remodeling & Design can compare layout options through design development and coordinate the selected pattern with the complete bathroom finish plan.",
-        "description": "Either direction can work. Horizontal layouts may emphasize width, while vertical layouts may emphasize height, but the best choice depends on wall proportions, tile shape, fixtures, corners, niches, and cut placement. Review a measured elevation before committing to a directional pattern."
-      }
-    }
-  ],
+  "name": "Should bathroom wall tile run horizontally or vertically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should bathroom wall tile run horizontally or vertically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice depends on design goals, wall dimensions, tile size, fixtures, and how much visual continuity you want. A horizontal pattern can make a wall feel wider, while a vertical arrangement can draw the eye upward; neither is automatically better.\n\nThe installer should check how the pattern lands at corners, niches, windows, and plumbing penetrations. A pattern that looks good in a sample may create narrow end cuts or misaligned joints across the actual room.\n\nKey factors:\n- Room proportions and ceiling height\n- Tile shape and directional surface pattern\n- Focal wall and fixture locations\n- Grout-joint alignment at corners and openings\n\nReview a measured elevation before ordering directional tile. Elite Remodeling & Design can compare layout options through design development and coordinate the selected pattern with the complete bathroom finish plan.",
+        "@type": "Answer",
+        "description": "Either direction can work. Horizontal layouts may emphasize width, while vertical layouts may emphasize height, but the best choice depends on wall proportions, tile shape, fixtures, corners, niches, and cut placement. Review a measured elevation before committing to a directional pattern."
+      }
+    }
+  ],
+  "description": "Either direction can work. Horizontal layouts may emphasize width, while vertical layouts may emphasize height, but the best choice depends on wall proportions,"
 }

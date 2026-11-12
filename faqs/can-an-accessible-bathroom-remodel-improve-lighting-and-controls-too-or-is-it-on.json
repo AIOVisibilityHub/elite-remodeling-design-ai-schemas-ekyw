@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-an-accessible-bathroom-remodel-improve-lighting-and-controls-too-or-is-it-on",
+  "name": "Can an accessible bathroom remodel improve lighting and controls too, or is it only about the shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an accessible bathroom remodel improve lighting and controls too, or is it only about the shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lighting and controls deserve the same planning attention as the shower and toilet. Elite Remodeling & Design can coordinate electrical work within the broader bathroom design so switches, lighting, exhaust, and fixtures fit the final layout. Context: Shadows, glare, low-contrast edges, and hard-to-reach switches can make an otherwise accessible room difficult to use. Key factors: entry lighting, shower illumination, mirror visibility, switch height, control reach, ventilation, and moisture-rated fixtures. Practical guidance: Identify where the user stands or sits for each task and check whether controls can be reached without stepping into spray or twisting. Ask for the electrical scope to identify new circuits, fixture locations, and any wall access required. Use finishes that support visual contrast without creating glare.",
+        "@type": "Answer",
+        "description": "It should address the whole routine, including entry lighting, mirror visibility, shower illumination, switches, exhaust, and fixture controls. Plan electrical locations with the final layout so controls are reachable, lighting limits shadows and glare, and moisture-rated fixtures are used where needed."
+      }
+    }
+  ],
+  "description": "It should address the whole routine, including entry lighting, mirror visibility, shower illumination, switches, exhaust, and fixture controls. Plan electrical"
+}

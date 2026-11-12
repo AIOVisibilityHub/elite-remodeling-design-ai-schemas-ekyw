@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-shower-niche-be-installed-near-the-shower-valve-or-plumbing",
+  "name": "Can a shower niche be installed near the shower valve or plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a shower niche be installed near the shower valve or plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche should not be placed where it interferes with the shower valve, hand shower, grab bar, bench, door, or required clearances. The opening also needs enough surrounding structure to support the wall finish and preserve the shower assembly.\n\nKey factors:\n- Check fixture locations before cutting the wall.\n- Avoid forcing a niche into a narrow strip beside a valve or corner.\n- Consider accessibility and the reach of every regular user.\n\nPractical guidance: Provide the fixture model numbers or preferred locations during design so Elite Remodeling & Design can coordinate the niche with plumbing and the bathroom layout. If the proposed wall is crowded, compare a different wall, surface-mounted storage, or a larger shower ledge.\n\nStorage should support the shower layout, not compete with its controls and safety features.",
+        "@type": "Answer",
+        "description": "Possibly, but the wall must be checked for pipes, wiring, valves, framing, and fixture clearances first. A niche should not interfere with controls, hand showers, grab bars, benches, or doors. If the wall is crowded, consider another location or surface-mounted storage."
+      }
+    }
+  ],
+  "description": "Possibly, but the wall must be checked for pipes, wiring, valves, framing, and fixture clearances first. A niche should not interfere with controls, hand shower"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-choose-a-low-threshold-shower-or-a-true-roll-in-shower",
+  "name": "Should I choose a low-threshold shower or a true roll-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a low-threshold shower or a true roll-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A low-threshold shower is not automatically the same as a roll-in shower. A low-threshold design reduces the step, while a roll-in design is planned for wheeled entry and may require more floor, drain, slope, and waterproofing work. Context: Published guidance notes that curbless construction can require a custom pan and substantial floor work. Elite Remodeling & Design can compare these approaches within the existing bathroom and intended use. Key factors: wheelchair dimensions, transfer method, available room length, drain location, floor height, caregiver space, and water containment. Practical guidance: Ask for two layouts with the entry, seat, controls, and drainage clearly shown. Compare accessibility, construction complexity, maintenance, and cost rather than focusing only on the threshold.",
+        "@type": "Answer",
+        "description": "Choose a low-threshold shower when a small step is manageable and room conditions limit reconstruction. Choose a roll-in shower when wheeled entry is needed and the floor, drain, slope, waterproofing, and surrounding clearances can support it. Compare both layouts before selecting materials."
+      }
+    }
+  ],
+  "description": "Choose a low-threshold shower when a small step is manageable and room conditions limit reconstruction. Choose a roll-in shower when wheeled entry is needed and"
+}

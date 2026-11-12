@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-a-shower-niche-will-not-leak-behind-the-tile",
+  "name": "How do I know a shower niche will not leak behind the tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know a shower niche will not leak behind the tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing is essential because tile, grout, and decorative stone are not the shower’s primary water barrier. A niche creates several inside corners and horizontal surfaces where poor detailing can allow moisture behind the finished wall.\n\nKey factors:\n- Seal the niche floor, side walls, top, back, corners, and wall transition.\n- Use a compatible waterproofing system rather than mixing unapproved products.\n- Protect penetrations and transitions around nearby fixtures.\n\nPractical guidance: Ask which waterproofing system will be used and how the niche will connect to the surrounding shower wall. Request that waterproofing be completed and checked before tile covers it. Elite Remodeling & Design can coordinate the waterproofing stage with the bathroom’s plumbing, wall preparation, and tile installation.\n\nA decorative caulk line is a finish detail, not a substitute for a correctly waterproofed substrate.",
+        "@type": "Answer",
+        "description": "Leak protection comes from the waterproofing beneath the tile, not from grout or surface caulk alone. The system should cover the niche floor, walls, corners, seams, and connection to the surrounding shower. Confirm the method before tile hides the work."
+      }
+    }
+  ],
+  "description": "Leak protection comes from the waterproofing beneath the tile, not from grout or surface caulk alone. The system should cover the niche floor, walls, corners, s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-demolition-reveals-mold-rot-or-water-damage-behind-the-bathroom",
+  "name": "What happens if demolition reveals mold, rot, or water damage behind the bathroom wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if demolition reveals mold, rot, or water damage behind the bathroom wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you find water damage after demolition, pause decisions that would cover the area and document what is visible. The source may involve a supply line, drain, shower waterproofing, toilet connection, window, roof condition, or long-term condensation, and the correct repair depends on the cause. The affected framing, subfloor, insulation, and adjacent finishes may also need evaluation. Ask for a revised scope that distinguishes investigation, drying or removal, structural repair, and replacement work. Elite Remodeling & Design can reassess the design-build plan when concealed conditions change the original scope.",
+        "@type": "Answer",
+        "description": "Stop covering the area and identify the moisture source before rebuilding. Damage may involve plumbing, waterproofing, a window, ventilation, or another adjacent condition, with possible effects on framing and subflooring. Request a documented change in scope separating investigation, removal, repair, drying, and replacement."
+      }
+    }
+  ],
+  "description": "Stop covering the area and identify the moisture source before rebuilding. Damage may involve plumbing, waterproofing, a window, ventilation, or another adjacen"
+}

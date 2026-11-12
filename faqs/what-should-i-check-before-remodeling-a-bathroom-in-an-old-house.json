@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-remodeling-a-bathroom-in-an-old-house",
+  "name": "What should I check before remodeling a bathroom in an old house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before remodeling a bathroom in an old house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An older bathroom renovation should address water management, ventilation, plumbing condition, electrical safety, and accessibility before tile and fixtures. Context: Elite Remodeling & Design coordinates customized fixtures, tile work, and plumbing and electrical work as needed. Key factors: recurring leaks, subfloor condition, shower waterproofing, fan performance, fixture clearances, and household mobility needs. Practical guidance: photograph stains and soft areas, describe how long they have existed, and ask what will be opened before waterproofing. Confirm the shower-wall and floor-water-management approach in writing. A more durable plan may cost more initially but can reduce repeated repairs.",
+        "@type": "Answer",
+        "description": "Check for leaks, soft subfloors, poor ventilation, outdated plumbing or wiring, inadequate waterproofing, and difficult fixture access. Ask what areas will be opened, how water will be managed, and which repairs are essential before selecting tile and fixtures."
+      }
+    }
+  ],
+  "description": "Check for leaks, soft subfloors, poor ventilation, outdated plumbing or wiring, inadequate waterproofing, and difficult fixture access. Ask what areas will be o"
+}

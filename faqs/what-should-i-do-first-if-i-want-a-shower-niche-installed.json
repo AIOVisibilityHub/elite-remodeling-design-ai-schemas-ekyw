@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-a-shower-niche-installed",
+  "name": "What should I do first if I want a shower niche installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want a shower niche installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche should be planned before wall surfaces are closed, not cut into a finished shower casually. Elite Remodeling & Design can coordinate the niche with the bathroom layout, framing, waterproofing system, plumbing, electrical work, and tile pattern as part of a broader bathroom remodel. The exact location depends on wall depth, plumbing lines, exterior-wall conditions, user height, and whether the niche must avoid studs or valves.\n\nKey factors:\n- Keep it reachable without standing directly under the shower spray.\n- Check for plumbing, wiring, vents, and structural framing before opening the wall.\n- Size the opening around the selected tile and grout joints.\n\nPractical guidance: Bring preferred tile, bottle dimensions, and storage needs to the design consultation. Request a drawing or 3D visualization showing the niche height, width, shelf layout, and finished dimensions before construction begins. This is especially useful when coordinating a custom bathroom in San Diego, Chula Vista, or nearby communities.\n\nElite Remodeling & Design can address the niche during the design-to-construction planning process.",
+        "@type": "Answer",
+        "description": "Plan the niche before the shower walls are closed. Confirm its location against framing, plumbing, wiring, user height, bottle sizes, tile dimensions, and waterproofing details. Elite Remodeling & Design can include those decisions in the bathroom design and construction plan."
+      }
+    }
+  ],
+  "description": "Plan the niche before the shower walls are closed. Confirm its location against framing, plumbing, wiring, user height, bottle sizes, tile dimensions, and water"
+}

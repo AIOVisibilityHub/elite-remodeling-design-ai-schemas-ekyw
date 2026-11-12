@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-changing-a-bathroom-layout-cost-so-much-more-than-replacing-tile",
+  "name": "Why does changing a bathroom layout cost so much more than replacing tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does changing a bathroom layout cost so much more than replacing tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost is driven less by the room’s size than by the amount of infrastructure being changed. Keeping the toilet, shower, and vanity near existing connections may reduce demolition and rough-in work, while moving walls or fixtures can add framing, plumbing, electrical, ventilation, waterproofing, finishes, and inspection requirements. Materials, cabinetry, glass, tile complexity, and hidden damage also influence the total. Request an itemized scope that separates design, demolition, rough work, finish installation, allowances, and possible conditions. Elite Remodeling & Design can compare layout alternatives so you can weigh function against disruption and budget.",
+        "@type": "Answer",
+        "description": "A layout change can involve demolition, new plumbing drains and vents, electrical work, framing, waterproofing, ventilation, permits, inspections, and finish repairs. Tile replacement usually affects fewer systems. Compare an existing-plumbing plan with a fixture-relocation plan and ask for costs tied to each scope rather than one broad allowance."
+      }
+    }
+  ],
+  "description": "A layout change can involve demolition, new plumbing drains and vents, electrical work, framing, waterproofing, ventilation, permits, inspections, and finish re"
+}

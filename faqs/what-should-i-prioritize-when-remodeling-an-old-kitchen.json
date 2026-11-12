@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-prioritize-when-remodeling-an-old-kitchen",
+  "name": "What should I prioritize when remodeling an old kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prioritize when remodeling an old kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An older kitchen should be planned around workflow and utility conditions before cabinets or countertops are chosen. Context: Elite Remodeling & Design’s kitchen service addresses layout, storage, cabinetry, countertops, and finishes, while older homes may need plumbing, electrical, ventilation, or wall corrections first. Key factors: cooking habits, appliance locations, panel capacity, window and door positions, floor levels, and available storage. Practical guidance: record how the kitchen currently fails—crowding, poor lighting, limited outlets, leaks, or unusable cabinets—and rank those problems. Review the proposed layout in 3D if available before approving materials. This connects appearance decisions to daily function.",
+        "@type": "Answer",
+        "description": "Prioritize safe wiring, plumbing, ventilation, lighting, workflow, storage, and appliance placement before finishes. List the kitchen’s daily problems, verify utility capacity, and review the layout before ordering cabinetry, countertops, or appliances."
+      }
+    }
+  ],
+  "description": "Prioritize safe wiring, plumbing, ventilation, lighting, workflow, storage, and appliance placement before finishes. List the kitchen’s daily problems, verify u"
+}

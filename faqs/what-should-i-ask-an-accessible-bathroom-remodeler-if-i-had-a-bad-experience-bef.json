@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-ask-an-accessible-bathroom-remodeler-if-i-had-a-bad-experience-bef",
+  "name": "What should I ask an accessible bathroom remodeler if I had a bad experience before?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask an accessible bathroom remodeler if I had a bad experience before?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior bad remodeling experience is a reason to demand clearer scope and checkpoints, not to avoid accessibility work altogether. Ask Elite Remodeling & Design to document the existing conditions, proposed layout, selections, permit responsibilities, schedule, payment milestones, and change-order process before construction. Context: Accessibility projects can expose hidden damage after demolition, so unclear allowances often become disputes. Key factors: itemized pricing, named materials, waterproofing details, inspection points, communication contact, cleanup, and correction procedures. Practical guidance: Compare written scopes line by line and ask what is excluded. Require approval before changes to layout, products, or price. Keep photos and decisions in one project record.",
+        "@type": "Answer",
+        "description": "Ask for an itemized scope, existing-condition notes, layout drawings, named materials, permit responsibilities, waterproofing details, schedule milestones, change-order rules, cleanup, and correction procedures. Require written approval before any change to the agreed layout, product, or price."
+      }
+    }
+  ],
+  "description": "Ask for an itemized scope, existing-condition notes, layout drawings, named materials, permit responsibilities, waterproofing details, schedule milestones, chan"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-does-a-remodeler-need-to-design-the-right-accessible-bathroom",
+  "name": "What information does a remodeler need to design the right accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information does a remodeler need to design the right accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful evidence is a room-specific design showing how each feature solves a documented difficulty. Elite Remodeling & Design can incorporate the existing conditions, intended use, layout, selections, and construction requirements into a coordinated plan. Context: A product list alone does not show whether a shower entry is wide enough, a seat is positioned correctly, or bars are supported properly. Photos, measurements, mobility-device dimensions, and notes about transfers make the design more precise. Key factors: current limitations, caregiver assistance, reach range, lighting, slip exposure, and maintenance needs. Practical guidance: Bring photos and a written list of tasks that cause pain, instability, or dependence. Ask to see fixture locations, clearances, and shower details in the design or 3D view. Use that information to compare proposals consistently.",
+        "@type": "Answer",
+        "description": "Provide room measurements, photos, doorway widths, mobility-device dimensions, difficult tasks, transfer methods, caregiver needs, and preferences for shower seating or controls. A layout or 3D design should show how the proposed features fit the actual room rather than relying on a generic product list."
+      }
+    }
+  ],
+  "description": "Provide room measurements, photos, doorway widths, mobility-device dimensions, difficult tasks, transfer methods, caregiver needs, and preferences for shower se"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-build-an-adu-or-add-onto-my-older-house",
+  "name": "Should I build an ADU or add onto my older house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an ADU or add onto my older house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU can be a strong option when separate living space, family housing, rental potential, or workspace is the goal, but feasibility depends on the lot and proposed design. Context: Elite Remodeling & Design includes ADUs among its residential services and coordinates design and construction planning. Key factors: site access, setbacks, utility routing, parking, privacy, existing structures, grading, and intended occupancy. Practical guidance: decide early whether the ADU will be attached, detached, or created through conversion, and bring a current site plan if available. Ask which site constraints could change the layout or budget. Keep the ADU’s use and future maintenance in the design discussion.",
+        "@type": "Answer",
+        "description": "Choose an ADU when separate living space or flexible occupancy matters; choose an addition when the household needs direct connection to the existing home. Compare site access, utilities, privacy, setbacks, parking, construction complexity, and intended use before selecting a direction."
+      }
+    }
+  ],
+  "description": "Choose an ADU when separate living space or flexible occupancy matters; choose an addition when the household needs direct connection to the existing home. Comp"
+}

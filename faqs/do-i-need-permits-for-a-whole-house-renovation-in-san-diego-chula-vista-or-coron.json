@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-for-a-whole-house-renovation-in-san-diego-chula-vista-or-coron",
+  "name": "Do I need permits for a whole-house renovation in San Diego, Chula Vista, or Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a whole-house renovation in San Diego, Chula Vista, or Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits may be required when the renovation alters structural elements, electrical, gas, mechanical, plumbing, occupancy, or other regulated work; the responsible jurisdiction determines the exact requirements. The City of San Diego states that building permits apply to improving existing buildings, while unincorporated County projects are handled through the County Building Division. Elite Remodeling & Design’s published process includes coordinating permit applications when the project calls for them. Confirm the property’s jurisdiction, ask which work is permit-triggering, and require permit status to be documented before construction proceeds.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the property’s jurisdiction and the work involved. Structural, electrical, plumbing, mechanical, gas, additions, and occupancy-related changes commonly require review. Confirm whether the property is in a city or unincorporated County area, identify permit-triggering work, and ask who coordinates applications and inspections."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the property’s jurisdiction and the work involved. Structural, electrical, plumbing, mechanical, gas, additions, and occupancy-rel"
+}

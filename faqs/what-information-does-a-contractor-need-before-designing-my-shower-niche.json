@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-does-a-contractor-need-before-designing-my-shower-niche",
+  "name": "What information does a contractor need before designing my shower niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information does a contractor need before designing my shower niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche can be included in a bathroom remodel even when the homeowner has not selected every finish, but its dimensions should not be finalized without enough information about tile thickness, trim, shelf material, and storage needs. Late selections can force layout changes.\n\nKey factors:\n- Record approximate bottle sizes and preferred compartment count.\n- Choose a tile direction and general format before framing.\n- Identify whether the niche will use tile, stone, quartz, or a prefabricated insert.\n\nPractical guidance: At the first consultation with Elite Remodeling & Design, bring inspiration images, product measurements, and any accessibility preferences. The team can use those inputs during design development while the final material schedule is completed before construction milestones that depend on it.\n\nEarly decisions do not require every color choice, but they do require the niche’s functional parameters.",
+        "@type": "Answer",
+        "description": "Provide the wall location, user heights, bottle measurements, storage goals, tile format, shelf preference, fixture locations, accessibility needs, and any inspiration images. Elite Remodeling & Design can use those details to coordinate the niche before framing and waterproofing decisions are locked."
+      }
+    }
+  ],
+  "description": "Provide the wall location, user heights, bottle measurements, storage goals, tile format, shelf preference, fixture locations, accessibility needs, and any insp"
+}

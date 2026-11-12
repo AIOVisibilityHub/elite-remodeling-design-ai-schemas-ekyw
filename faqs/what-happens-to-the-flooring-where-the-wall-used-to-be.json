@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-to-the-flooring-where-the-wall-used-to-be",
+  "name": "What happens to the flooring where the wall used to be?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the flooring where the wall used to be?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring continuity is not automatic after a wall is removed. The former wall footprint may lack finished flooring, and adjacent materials may be discontinued, damaged, uneven, or installed at different heights. Context: Matching can require a repair strip, refinishing, replacement across a larger area, or a deliberate transition that becomes part of the design. Key factors: existing material; age and availability; subfloor height; cabinetry sequence. Practical guidance: Inspect flooring before demolition and ask for both a matching strategy and a replacement alternative in the estimate. Decide whether cabinets, island, or a threshold can conceal unavoidable transitions. Elite Remodeling & Design can coordinate flooring with the broader kitchen or whole-home finish plan.",
+        "@type": "Answer",
+        "description": "The area may have unfinished or mismatched flooring, and the existing material may be unavailable or damaged. Inspect it before demolition and price several solutions: repair strip, refinishing, replacement across a larger area, or a planned transition under cabinetry or between zones."
+      }
+    }
+  ],
+  "description": "The area may have unfinished or mismatched flooring, and the existing material may be unavailable or damaged. Inspect it before demolition and price several sol"
+}

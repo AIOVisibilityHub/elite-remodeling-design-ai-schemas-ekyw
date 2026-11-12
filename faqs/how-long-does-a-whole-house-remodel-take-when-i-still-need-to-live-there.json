@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-whole-house-remodel-take-when-i-still-need-to-live-there",
+  "name": "How long does a whole-house remodel take when I still need to live there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole-house remodel take when I still need to live there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan on a whole-house renovation taking substantially longer than a single-room project, but the duration cannot be responsibly fixed before design, selections, permits, and site conditions are understood. Structural discoveries, long-lead materials, inspection timing, and homeowner decisions can affect the build sequence. Elite Remodeling & Design’s planning may include 3D visualization, material selections, and permit coordination, which can reduce avoidable rework but still requires timely decisions. Ask for separate target ranges for design, approvals, construction, and final corrections.",
+        "@type": "Answer",
+        "description": "A whole-house remodel commonly requires separate planning, design, approval, construction, and closeout stages, and the total duration depends on scope, selections, inspections, and hidden conditions. Request a phase-by-phase schedule and discuss which areas remain usable, temporary relocation, storage, dust control, and decision deadlines."
+      }
+    }
+  ],
+  "description": "A whole-house remodel commonly requires separate planning, design, approval, construction, and closeout stages, and the total duration depends on scope, selecti"
+}

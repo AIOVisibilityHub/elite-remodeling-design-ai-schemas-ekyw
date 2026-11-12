@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-i-need-permits-to-remodel-an-older-home-in-san-diego",
+  "name": "Will I need permits to remodel an older home in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need permits to remodel an older home in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Diego, permit needs depend on the work and the property’s jurisdiction; remodeling, additions, and electrical, mechanical, or plumbing changes commonly require review, while limited cosmetic work may be exempt. Context: the City of San Diego also identifies additional review considerations for structures 45 years or older, including photographic and building-record materials in some cases. Key factors: city limits, coastal or historic overlays, structural changes, use changes, and whether the work alters utilities. Practical guidance: ask for a permit responsibility matrix listing approvals, plan documents, inspections, and owner decisions. Do not assume a previous improvement was permitted because it is already built. Elite Remodeling & Design’s stated process includes coordination of permit applications when the scope requires it.",
+        "@type": "Answer",
+        "description": "Possibly. San Diego generally requires permits for additions, remodeling, and many electrical, mechanical, and plumbing changes, while some cosmetic work may be exempt. Older structures may also receive additional review, so confirm requirements for the exact address and scope."
+      }
+    }
+  ],
+  "description": "Possibly. San Diego generally requires permits for additions, remodeling, and many electrical, mechanical, and plumbing changes, while some cosmetic work may be"
+}

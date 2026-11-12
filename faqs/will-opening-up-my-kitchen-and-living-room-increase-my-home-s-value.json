@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-opening-up-my-kitchen-and-living-room-increase-my-home-s-value",
+  "name": "Will opening up my kitchen and living room increase my home’s value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will opening up my kitchen and living room increase my home’s value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open plan does not automatically make a home more valuable; the result depends on workmanship, proportions, functionality, neighborhood expectations, and whether the design suits the property. A poorly supported beam, awkward circulation, limited storage, excessive noise, or low-quality finishes can reduce the benefit. Context: A flexible layout with durable materials and well-resolved kitchen systems may appeal to future occupants, but personal enjoyment and daily function should lead the decision. Key factors: construction quality; storage; natural light; local housing context; maintenance. Practical guidance: Set a budget around the improvements you will use, not an assumed resale return. Keep permits, plans, product records, and inspection documentation organized for future ownership questions. Elite Remodeling & Design can help align a kitchen, whole-home remodel, or addition with your intended use.",
+        "@type": "Answer",
+        "description": "It may help when the new layout improves function, light, storage, and finish quality, but resale results are not guaranteed. Poor circulation, weak ventilation, lost storage, visible structural compromises, or an overbuilt design can offset the benefit. Prioritize durable work and keep project records."
+      }
+    }
+  ],
+  "description": "It may help when the new layout improves function, light, storage, and finish quality, but resale results are not guaranteed. Poor circulation, weak ventilation"
+}

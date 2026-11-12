@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-an-older-home-renovation-contract-or-proposal",
+  "name": "What should be included in an older-home renovation contract or proposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in an older-home renovation contract or proposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask the remodeling team to show exactly what is included before signing: design deliverables, drawings, 3D views if offered, selections, engineering, permit coordination, construction, inspections, cleanup, and final corrections. Context: Elite Remodeling & Design describes a process extending from consultation and design development through permitting, construction, and final inspection. Key factors: project type, jurisdiction, structural needs, material allowances, owner-supplied items, and concealed conditions. Practical guidance: request a written list of exclusions and decision deadlines, and clarify who approves substitutions or changes. Keep the final scope, selections, and approved revisions together. Clear deliverables make proposals easier to compare and reduce misunderstandings.",
+        "@type": "Answer",
+        "description": "Confirm the scope, drawings, design deliverables, selections, allowances, engineering, permits, inspections, construction, cleanup, exclusions, schedule assumptions, and change-order process. Also clarify who supplies materials, handles substitutions, and responds when concealed conditions are discovered."
+      }
+    }
+  ],
+  "description": "Confirm the scope, drawings, design deliverables, selections, allowances, engineering, permits, inspections, construction, cleanup, exclusions, schedule assumpt"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-an-accessible-ba",
+  "name": "Does living near the coast in Coronado or Imperial Beach change an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes near the coast may need especially careful material and maintenance choices, but the correct selections depend on the property’s exposure and bathroom conditions. Elite Remodeling & Design can account for the existing room, intended use, tile, fixtures, ventilation, and finish preferences in the design. Context: In Coronado or Imperial Beach, moisture, salt-laden air, and frequent ventilation concerns may affect hardware and finish durability, though indoor conditions vary by home. Key factors: exhaust performance, grout and sealant maintenance, metal finish, water intrusion history, window exposure, and product warranties. Practical guidance: Tell the designer if the home is close to the coast or has recurring humidity or corrosion issues. Ask which materials are suitable for the room rather than assuming every “waterproof” label means maintenance-free. Include ventilation and moisture inspection in the scope.",
+        "@type": "Answer",
+        "description": "It can affect material, ventilation, moisture, and hardware decisions, especially when the home has coastal exposure or recurring humidity. Tell Elite Remodeling & Design about corrosion, leaks, ventilation, and window conditions so the design can address the actual room rather than rely on a generic coastal package."
+      }
+    }
+  ],
+  "description": "It can affect material, ventilation, moisture, and hardware decisions, especially when the home has coastal exposure or recurring humidity. Tell Elite Remodelin"
+}

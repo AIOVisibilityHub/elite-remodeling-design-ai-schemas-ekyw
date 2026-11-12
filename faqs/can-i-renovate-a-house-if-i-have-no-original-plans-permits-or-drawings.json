@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-renovate-a-house-if-i-have-no-original-plans-permits-or-drawings",
+  "name": "Can I renovate a house if I have no original plans, permits, or drawings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate a house if I have no original plans, permits, or drawings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If plans or property records are missing, begin with an on-site review and measurements rather than guessing from outdated listings or assumptions. Previous permits, assessor information, utility details, and visible construction should be compared where available, while concealed conditions remain uncertain until investigated. The exact records and approval path depend on the property’s city or County jurisdiction. Elite Remodeling & Design can develop design concepts from existing conditions, but the contract should identify documentation gaps and verification steps.",
+        "@type": "Answer",
+        "description": "Often, yes, but missing records increase the need for field measurements, existing-condition documentation, and verification of prior work. Gather whatever permits, surveys, invoices, and photos exist, then identify unknowns before final pricing. The property’s jurisdiction determines which records and approvals may be available."
+      }
+    }
+  ],
+  "description": "Often, yes, but missing records increase the need for field measurements, existing-condition documentation, and verification of prior work. Gather whatever perm"
+}

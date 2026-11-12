@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-get-a-curbless-shower-if-my-bathroom-floor-is-already-too-high",
+  "name": "Can I get a curbless shower if my bathroom floor is already too high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a curbless shower if my bathroom floor is already too high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower can improve access and create a cleaner visual line, but it is not simply a matter of removing the curb. The floor must accommodate the required slope, waterproofing transitions, drain location, door or glass strategy, and water containment. Existing framing or slab conditions may limit how much the floor can be lowered. Decide early whether accessibility, aging in place, or appearance is the main priority. Elite Remodeling & Design can review the floor conditions and coordinate the shower, plumbing, waterproofing, tile, and glass decisions within one plan.",
+        "@type": "Answer",
+        "description": "Possibly, but the floor structure, slab or framing, drain position, waterproofing transitions, slope, and splash-control design must be checked first. A curbless shower may improve access and appearance, but it can require more construction work than a standard shower. Review feasibility before ordering the shower pan or tile."
+      }
+    }
+  ],
+  "description": "Possibly, but the floor structure, slab or framing, drain position, waterproofing transitions, slope, and splash-control design must be checked first. A curbles"
+}

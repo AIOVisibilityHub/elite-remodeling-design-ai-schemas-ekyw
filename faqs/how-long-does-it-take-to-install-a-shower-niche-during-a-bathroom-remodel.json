@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-install-a-shower-niche-during-a-bathroom-remodel",
+  "name": "How long does it take to install a shower niche during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a shower niche during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Niche installation is usually most efficient when it is planned with the shower framing, waterproofing, tile layout, and other bathroom work. The visible tile work may be completed in a relatively short portion of the remodel, but total timing depends on demolition, wall repairs, plumbing changes, material availability, inspections, and curing requirements.\n\nKey factors:\n- Custom dimensions and intricate tile patterns require more layout time.\n- A prefabricated unit may reduce fabrication but still needs proper sealing and integration.\n- Delayed tile, trim, stone, or plumbing selections can affect the sequence.\n\nPractical guidance: Ask for the niche decision deadline before construction starts and confirm when tile, trim, shelves, and fixtures must be selected. Elite Remodeling & Design can place those decisions within the broader design, permitting, construction, and final-inspection plan.\n\nThe niche itself should not be scheduled separately from the shower assembly.",
+        "@type": "Answer",
+        "description": "The niche is only one part of the shower sequence. Timing depends on demolition, framing, plumbing, waterproofing, tile complexity, material availability, curing, and inspections. Decide the size, shelf material, trim, and tile layout early so the niche does not delay the remodel."
+      }
+    }
+  ],
+  "description": "The niche is only one part of the shower sequence. Timing depends on demolition, framing, plumbing, waterproofing, tile complexity, material availability, curin"
+}

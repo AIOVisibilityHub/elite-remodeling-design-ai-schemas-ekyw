@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-with-an-accessible-bathroom-remodel",
+  "name": "What can go wrong with an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong with an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The biggest risks are poor water management, inadequate wall support, cramped clearances, unexpected plumbing or subfloor conditions, and selecting products before confirming the layout. Accessible features work only when their placement matches how the user enters, transfers, reaches, and exits the room. Context: Curbless showers need careful slope, drain, waterproofing, and transition planning; grab bars need secure structural attachment rather than surface adhesive alone. Key factors: existing framing, floor height, drain capacity, waterproofing details, door swing, and future maintenance. Practical guidance: Ask who is responsible for waterproofing, backing, inspections, and correction of concealed conditions. Confirm the shower seat, controls, shelves, and bars on the drawings before installation. Elite Remodeling & Design’s coordinated design and construction scope can help address these interfaces together.",
+        "@type": "Answer",
+        "description": "Common problems include water escaping a curbless shower, bars attached without adequate backing, insufficient clearance, poor drain placement, hidden subfloor damage, and products installed before the user’s transfer pattern is understood. Confirm waterproofing, structural support, layout, inspections, and change-order procedures in writing."
+      }
+    }
+  ],
+  "description": "Common problems include water escaping a curbless shower, bars attached without adequate backing, insufficient clearance, poor drain placement, hidden subfloor"
+}

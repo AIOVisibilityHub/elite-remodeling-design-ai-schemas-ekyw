@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-is-redesigning-a-bathroom-in-an-older-san-diego-home-so-unpredictable",
+  "name": "Why is redesigning a bathroom in an older San Diego home so unpredictable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is redesigning a bathroom in an older San Diego home so unpredictable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom layout can work in an older home, but existing conditions may be less predictable than the visible finishes suggest. Small rooms, uneven floors, outdated wiring, concealed plumbing, limited ventilation, prior alterations, and fragile surfaces can affect the plan. Avoid finalizing fixture positions until the walls, floor, access areas, and service routes are reasonably understood. Provide any old plans, repair invoices, inspection notes, and photos from previous work. Elite Remodeling & Design can use design development and construction review to identify scope questions before they become field changes.",
+        "@type": "Answer",
+        "description": "Older homes may contain uneven floors, concealed plumbing, limited ventilation, outdated wiring, prior alterations, or difficult access. These conditions can change fixture placement and cost after demolition. Share old plans and repair records, and maintain reasonable contingency for conditions that cannot be confirmed before walls or floors open."
+      }
+    }
+  ],
+  "description": "Older homes may contain uneven floors, concealed plumbing, limited ventilation, outdated wiring, prior alterations, or difficult access. These conditions can ch"
+}

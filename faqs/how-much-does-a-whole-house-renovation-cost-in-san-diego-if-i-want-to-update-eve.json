@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-a-whole-house-renovation-cost-in-san-diego-if-i-want-to-update-eve",
+  "name": "How much does a whole-house renovation cost in San Diego if I want to update everything?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a whole-house renovation cost in San Diego if I want to update everything?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable one-size-fits-all price for renovating an entire house because scope, size, age, access, finishes, structural changes, and local requirements can alter the total substantially. A cosmetic refresh is fundamentally different from reconfiguring rooms, replacing systems, or adding square footage. Elite Remodeling & Design can develop a project-specific plan that connects the desired layout and finishes to construction requirements. Request a line-item estimate, allowances, exclusions, payment schedule, and change-order procedure rather than relying on a price per square foot alone.",
+        "@type": "Answer",
+        "description": "The price depends on house size, condition, layout changes, systems, finishes, access, and whether additions or conversions are included. Ask for a project-specific, line-item estimate showing allowances, exclusions, payment stages, and change-order rules instead of relying only on a square-foot figure."
+      }
+    }
+  ],
+  "description": "The price depends on house size, condition, layout changes, systems, finishes, access, and whether additions or conversions are included. Ask for a project-spec"
+}

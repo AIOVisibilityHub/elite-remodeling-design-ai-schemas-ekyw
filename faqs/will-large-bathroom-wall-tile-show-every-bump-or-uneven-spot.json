@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will large bathroom wall tile show every bump or uneven spot?",
-  "description": "Yes. Large-format tile makes uneven walls, bows, and lippage more noticeable and needs a flatter, more stable substrate. Check the wall across the full installa",
   "url": "eliteremodelingsd.com/faq/will-large-bathroom-wall-tile-show-every-bump-or-uneven-spot",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will large bathroom wall tile show every bump or uneven spot?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The finished surface may not be perfectly flat if the wall behind the tile is uneven, flexible, or poorly prepared. Tile can follow the substrate, and large-format pieces make bows, high spots, and lippage more visible.\n\nA professional should check the wall before setting tile and correct unsuitable areas rather than trying to force rigid tile into them. Layout changes, additional preparation, or a different tile size may be more practical than accepting visible irregularities.\n\nKey factors:\n- Wall flatness across the full tile span\n- Tile length, width, and allowable lippage\n- Existing framing or backing movement\n- Lighting that may emphasize shadows\n\nUse a straightedge or professional assessment before ordering large tile. Elite Remodeling & Design can consider wall correction, tile format, and layout together during bathroom design development.",
-        "description": "Yes. Large-format tile makes uneven walls, bows, and lippage more noticeable and needs a flatter, more stable substrate. Check the wall across the full installation area before ordering tile; correcting the substrate or choosing a different format may produce a better result."
-      }
-    }
-  ],
+  "name": "Will large bathroom wall tile show every bump or uneven spot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will large bathroom wall tile show every bump or uneven spot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The finished surface may not be perfectly flat if the wall behind the tile is uneven, flexible, or poorly prepared. Tile can follow the substrate, and large-format pieces make bows, high spots, and lippage more visible.\n\nA professional should check the wall before setting tile and correct unsuitable areas rather than trying to force rigid tile into them. Layout changes, additional preparation, or a different tile size may be more practical than accepting visible irregularities.\n\nKey factors:\n- Wall flatness across the full tile span\n- Tile length, width, and allowable lippage\n- Existing framing or backing movement\n- Lighting that may emphasize shadows\n\nUse a straightedge or professional assessment before ordering large tile. Elite Remodeling & Design can consider wall correction, tile format, and layout together during bathroom design development.",
+        "@type": "Answer",
+        "description": "Yes. Large-format tile makes uneven walls, bows, and lippage more noticeable and needs a flatter, more stable substrate. Check the wall across the full installation area before ordering tile; correcting the substrate or choosing a different format may produce a better result."
+      }
+    }
+  ],
+  "description": "Yes. Large-format tile makes uneven walls, bows, and lippage more noticeable and needs a flatter, more stable substrate. Check the wall across the full installa"
 }

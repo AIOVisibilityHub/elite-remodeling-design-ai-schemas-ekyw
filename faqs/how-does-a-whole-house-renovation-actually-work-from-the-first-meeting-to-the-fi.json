@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-whole-house-renovation-actually-work-from-the-first-meeting-to-the-fi",
+  "name": "How does a whole-house renovation actually work from the first meeting to the final inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a whole-house renovation actually work from the first meeting to the final inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-house renovation usually moves through consultation, existing-condition review, design development, selections, permit coordination when required, construction, inspections, and closeout. The exact sequence depends on whether walls move, plumbing or electrical systems change, or an addition, ADU, or garage conversion is included. Elite Remodeling & Design describes a coordinated process that brings design and construction planning together rather than treating them as unrelated jobs. Ask for a written scope, decision schedule, allowance list, and explanation of who handles plan submissions and inspections.",
+        "@type": "Answer",
+        "description": "The process generally includes consultation, existing-condition review, design, material selections, permit coordination where required, construction, inspections, and closeout. Scope changes when walls, plumbing, electrical systems, additions, ADUs, or garage conversions are involved, so request a written scope and decision schedule before work begins."
+      }
+    }
+  ],
+  "description": "The process generally includes consultation, existing-condition review, design, material selections, permit coordination where required, construction, inspectio"
+}

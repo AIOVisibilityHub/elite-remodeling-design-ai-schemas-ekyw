@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-diy-accessible-bathroom-changes-or-hire-a-remodeling-company",
+  "name": "Should I DIY accessible bathroom changes or hire a remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I DIY accessible bathroom changes or hire a remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY may be reasonable for minor, non-system changes, but work involving shower waterproofing, drainage, plumbing, electrical systems, structural backing, or permits carries more risk and usually benefits from experienced coordination. Elite Remodeling & Design can manage design, construction, and inspection steps as one residential remodeling project. Context: An accessible bathroom has multiple interfaces: a seat must align with controls, a curb-free floor must contain water, and bars must attach securely. Key factors: project complexity, hidden conditions, code review, tool and trade experience, warranty expectations, and the cost of correcting leaks or failed finishes. Practical guidance: If hiring a professional, ask who handles each trade and how changes are documented. If doing limited work yourself, do not cut into waterproofing or install primary support without confirming the wall structure. Keep accessibility goals central rather than treating products as isolated fixes.",
+        "@type": "Answer",
+        "description": "DIY may suit simple cosmetic changes, but shower waterproofing, drainage, plumbing, electrical work, structural backing, and permit-related tasks are better handled with coordinated expertise. A professional scope should identify trade responsibilities, inspections, concealed-condition procedures, and warranty coverage."
+      }
+    }
+  ],
+  "description": "DIY may suit simple cosmetic changes, but shower waterproofing, drainage, plumbing, electrical work, structural backing, and permit-related tasks are better han"
+}

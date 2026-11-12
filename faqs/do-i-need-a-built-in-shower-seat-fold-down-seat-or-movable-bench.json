@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-built-in-shower-seat-fold-down-seat-or-movable-bench",
+  "name": "Do I need a built-in shower seat, fold-down seat, or movable bench?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a built-in shower seat, fold-down seat, or movable bench?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower seat is often useful when standing tolerance, balance, fatigue, or caregiver assistance makes bathing difficult, but its size and position must match the user and shower layout. Elite Remodeling & Design can coordinate a built-in or fold-down seat with controls, handheld spray, shelves, bars, and drainage. Context: A seat can improve stability but may reduce clear floor area when unfolded or complicate cleaning if placed poorly. Key factors: transfer direction, seat height, depth, weight support, caregiver access, control reach, and fold-up clearance. Practical guidance: Decide whether the seat should be permanent, fold-down, or movable before selecting the shower system. Mark the intended seat position and confirm the user can reach controls without twisting. Include blocking and waterproofing details in the construction scope.",
+        "@type": "Answer",
+        "description": "A permanent seat suits consistent seated bathing, a fold-down seat preserves more open floor area, and a movable bench offers flexibility but may shift or obstruct movement. Choose based on transfers, caregiver access, control reach, shower size, cleaning, and required wall support."
+      }
+    }
+  ],
+  "description": "A permanent seat suits consistent seated bathing, a fold-down seat preserves more open floor area, and a movable bench offers flexibility but may shift or obstr"
+}

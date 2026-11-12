@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-while-the-only-bathroom-is-being-redesigned",
+  "name": "Can I stay in my house while the only bathroom is being redesigned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the only bathroom is being redesigned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can sometimes be redesigned while the home remains occupied, but the plan should address dust, noise, water shutoffs, access, toilet availability, and material storage. If it is the only bathroom, temporary arrangements become especially important. Keeping the existing fixture locations may shorten some rough work, but demolition and waterproofing can still make the room unavailable. Ask for a written sequence showing demolition, rough-ins, inspections, waterproofing, finish work, and reconnection. Elite Remodeling & Design’s coordinated process is intended to connect those stages, while the practical impact depends on the project scope.",
+        "@type": "Answer",
+        "description": "Often, but the bathroom may be unavailable during demolition, rough plumbing, waterproofing, inspections, and finish installation. Plan for a second bathroom or temporary arrangement, especially if this is the only one. Ask for the work sequence, expected shutoffs, dust controls, and the point when the room can safely be used again."
+      }
+    }
+  ],
+  "description": "Often, but the bathroom may be unavailable during demolition, rough plumbing, waterproofing, inspections, and finish installation. Plan for a second bathroom or"
+}

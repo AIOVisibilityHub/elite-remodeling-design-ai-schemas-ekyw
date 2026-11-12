@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-an-accessible-bathroom-make-my-home-look-like-a-hospital",
+  "name": "Will an accessible bathroom make my home look like a hospital?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an accessible bathroom make my home look like a hospital?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom does not have to look institutional. Contemporary tile, coordinated fixtures, concealed supports, attractive cabinetry, and carefully integrated seating can provide function without dominating the room. Elite Remodeling & Design combines bathroom design choices with construction planning, allowing accessibility features to be considered alongside finishes. Context: The visual result depends on how bars, controls, niches, seats, flooring, and shower glass are integrated. Key factors: contrast, cleanability, slip performance, hardware finish, storage reach, and the amount of visible support equipment. Practical guidance: Share reference images showing both the desired style and disliked features. Ask to see accessibility elements in the proposed design rather than selecting them at the end. Keep essential safety features even when simplifying the appearance.",
+        "@type": "Answer",
+        "description": "No. Accessibility can be integrated through coordinated tile, fixtures, cabinetry, seating, lighting, and hardware so the room feels residential. Decide on style and safety features together; removing a necessary support feature only to improve appearance can reduce the room’s usefulness."
+      }
+    }
+  ],
+  "description": "No. Accessibility can be integrated through coordinated tile, fixtures, cabinetry, seating, lighting, and hardware so the room feels residential. Decide on styl"
+}

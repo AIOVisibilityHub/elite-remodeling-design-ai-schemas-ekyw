@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-family-stay-in-the-house-during-a-whole-home-remodel-or-do-we-need-to-mov",
+  "name": "Can my family stay in the house during a whole-home remodel, or do we need to move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family stay in the house during a whole-home remodel, or do we need to move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living through a whole-house renovation is possible only when the scope, utilities, access, and household tolerance support it. If kitchens, bathrooms, bedrooms, or major circulation routes are unavailable, temporary relocation may be safer and less disruptive than remaining onsite. Discuss dust barriers, work hours, utility interruptions, pets, children, parking, storage, and emergency access before signing. Elite Remodeling & Design can help clarify which areas may remain functional, but the plan should include realistic contingencies for demolition surprises.",
+        "@type": "Answer",
+        "description": "Sometimes, but it depends on which rooms and utilities are affected. Ask about temporary kitchens or bathrooms, dust control, work hours, pets, children, storage, parking, and utility shutdowns. If multiple essential areas are unavailable, temporary housing may reduce safety risks and delays."
+      }
+    }
+  ],
+  "description": "Sometimes, but it depends on which rooms and utilities are affected. Ask about temporary kitchens or bathrooms, dust control, work hours, pets, children, storag"
+}

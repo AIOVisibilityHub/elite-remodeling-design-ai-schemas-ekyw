@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-a-shower-niche-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a shower niche myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a shower niche myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can install a shower niche yourself, but the difficult part is not cutting the opening; it is maintaining structural support, continuous waterproofing, correct slope, and a clean tile layout. A mistake may stay hidden until moisture damages the wall or the finish begins to fail.\n\nKey factors:\n- You need to identify studs, pipes, wires, and wall construction first.\n- The niche must connect correctly to the shower waterproofing system.\n- Tile layout and finished dimensions must be planned before cutting.\n\nPractical guidance: DIY may be more realistic for an experienced remodeler who understands the chosen waterproofing system and tile work. If the shower is part of a larger bathroom renovation, consider having Elite Remodeling & Design coordinate the niche with plumbing, electrical, design, construction, and inspection requirements.\n\nDo not treat a recessed opening as a minor cosmetic project inside a wet area.",
+        "@type": "Answer",
+        "description": "DIY is possible, but the niche must be framed, waterproofed, sloped, and tiled correctly while avoiding pipes and wiring. If you lack wet-area waterproofing and tile experience, professional coordination is safer, especially when the niche is part of a larger bathroom remodel."
+      }
+    }
+  ],
+  "description": "DIY is possible, but the niche must be framed, waterproofed, sloped, and tiled correctly while avoiding pipes and wiring. If you lack wet-area waterproofing and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-the-last-contractor-did-bad-work-and-i-want-to-restart-the-whole-house-r",
+  "name": "What if the last contractor did bad work and I want to restart the whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the last contractor did bad work and I want to restart the whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior contractor’s incomplete or poorly documented work should be disclosed before new design or construction begins. Gather contracts, invoices, plans, inspection records, warranties, photographs, product information, and a timeline of known defects. The new team may need to verify concealed work rather than rely on another contractor’s representations. Elite Remodeling & Design can use the available record and site conditions to clarify the scope, but unresolved safety or quality concerns should be identified before finishes are selected.",
+        "@type": "Answer",
+        "description": "Provide every available contract, plan, invoice, inspection record, warranty, photo, and defect note before requesting a new scope. Existing work may need inspection or selective opening because documentation cannot confirm concealed quality. Separate repair, removal, and new construction costs so the plan is transparent."
+      }
+    }
+  ],
+  "description": "Provide every available contract, plan, invoice, inspection record, warranty, photo, and defect note before requesting a new scope. Existing work may need inspe"
+}

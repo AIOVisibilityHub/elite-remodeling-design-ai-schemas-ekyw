@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-leaking-or-cracked-shower-niche-be-repaired-without-removing-the-whole-sho",
+  "name": "Can a leaking or cracked shower niche be repaired without removing the whole shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a leaking or cracked shower niche be repaired without removing the whole shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche can usually be repaired or rebuilt, but the solution depends on whether the problem is cosmetic, localized, or caused by failed waterproofing. Cracked grout, loose tile, staining, movement, and moisture damage should not all be treated with new caulk.\n\nKey factors:\n- Determine whether water reached the substrate or framing.\n- Check the shelf slope, corners, seams, and wall transition.\n- Identify whether movement, inadequate support, or incompatible materials caused the failure.\n\nPractical guidance: Photograph the damage, note when it appeared, and avoid covering it before an inspection. Elite Remodeling & Design can assess the niche during a bathroom renovation and help determine whether it needs regrouting, tile replacement, waterproofing repair, or reconstruction.\n\nA surface patch may hide symptoms without resolving moisture behind the finish.",
+        "@type": "Answer",
+        "description": "Sometimes, but the repair depends on the source and extent of the damage. Inspect the waterproofing, shelf slope, corners, seams, support, and surrounding wall before applying caulk or replacing tile. Localized repairs may work; hidden moisture may require reconstruction."
+      }
+    }
+  ],
+  "description": "Sometimes, but the repair depends on the source and extent of the damage. Inspect the waterproofing, shelf slope, corners, seams, support, and surrounding wall"
+}

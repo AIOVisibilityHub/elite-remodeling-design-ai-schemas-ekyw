@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-redesign-my-bathroom-layout-myself-or-do-i-need-a-design-build-company",
+  "name": "Can I redesign my bathroom layout myself, or do I need a design-build company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I redesign my bathroom layout myself, or do I need a design-build company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should involve a professional when the project changes plumbing, electrical systems, walls, ventilation, waterproofing, accessibility, or the relationship between multiple rooms. Professional input is also valuable when the existing plan is unclear, the home is older, water damage is suspected, or several contractors would otherwise be coordinating separately. A surface-only refresh may need less design involvement, but a true layout redesign benefits from a measured plan and construction review. Bring photos, measurements, goals, budget boundaries, and any previous repair records. Elite Remodeling & Design combines design development with construction coordination for residential remodeling projects.",
+        "@type": "Answer",
+        "description": "DIY planning can help clarify preferences, but professional review is wise when walls, plumbing, electrical, ventilation, waterproofing, or accessibility changes are involved. A measured plan can expose conflicts before demolition. Bring your sketch and priorities to Elite Remodeling & Design for a feasibility review tied to construction requirements."
+      }
+    }
+  ],
+  "description": "DIY planning can help clarify preferences, but professional review is wise when walls, plumbing, electrical, ventilation, waterproofing, or accessibility change"
+}

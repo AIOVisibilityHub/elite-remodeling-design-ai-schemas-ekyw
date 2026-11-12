@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-remove-a-wall-for-an-open-concept-remodel-in-san-diego-cou",
+  "name": "Do I need a permit to remove a wall for an open-concept remodel in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remove a wall for an open-concept remodel in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, a permit question should be answered before work begins, not after demolition. San Diego County guidance says permits may be required for constructing, enlarging, altering, repairing, moving, or demolishing a structure and for regulated electrical, gas, mechanical, or plumbing work. Context: City rules may apply instead of County rules, and an open-concept project often combines several permit triggers. Structural wall changes may require plans, engineering information, or additional review. Key factors: jurisdiction; structural scope; utility changes; additions or altered openings. Practical guidance: Identify the property’s governing building department and have the proposed scope checked before signing off on demolition. Keep approved plans and inspection records with the home documents. Elite Remodeling & Design includes permitting coordination within its published project process.",
+        "@type": "Answer",
+        "description": "Possibly, and structural, electrical, plumbing, mechanical, demolition, or altered-opening work commonly requires careful permit review. San Diego County guidance requires permits for many building alterations and regulated systems. Confirm the property’s jurisdiction and scope before demolition; do not assume an interior wall is exempt."
+      }
+    }
+  ],
+  "description": "Possibly, and structural, electrical, plumbing, mechanical, demolition, or altered-opening work commonly requires careful permit review. San Diego County guidan"
+}

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much should bathroom wall tile installation cost?",
-  "description": "Bathroom wall tile pricing depends on wall area, demolition, substrate repair, waterproofing, tile and trim, layout complexity, access, and related plumbing or",
   "url": "eliteremodelingsd.com/faq/how-much-should-bathroom-wall-tile-installation-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much should bathroom wall tile installation cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost cannot be estimated accurately from wall area alone. Demolition, substrate repair, waterproofing, tile price, pattern complexity, trim, niches, plumbing changes, disposal, and project access can all change the total.\n\nA small bathroom with many corners or fixtures may require more cutting and detail work than a larger, open wall. Premium tile may also require specialized setting materials or additional preparation, while a broader bathroom remodel may combine tile with plumbing, electrical, cabinetry, and fixture work.\n\nKey factors:\n- Measured square footage and waste allowance\n- Existing tile removal and wall condition\n- Tile and trim selections\n- Wet-area waterproofing and fixture coordination\n\nRequest a written scope that separates preparation, tile, setting materials, grout, trim, and related work. Elite Remodeling & Design can develop the tile decision within a bathroom design-build plan rather than pricing a finish without knowing the underlying conditions.",
-        "description": "Bathroom wall tile pricing depends on wall area, demolition, substrate repair, waterproofing, tile and trim, layout complexity, access, and related plumbing or electrical work. Ask for a written scope that identifies preparation, materials, installation, and any bathroom remodeling tasks included."
-      }
-    }
-  ],
+  "name": "How much should bathroom wall tile installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much should bathroom wall tile installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost cannot be estimated accurately from wall area alone. Demolition, substrate repair, waterproofing, tile price, pattern complexity, trim, niches, plumbing changes, disposal, and project access can all change the total.\n\nA small bathroom with many corners or fixtures may require more cutting and detail work than a larger, open wall. Premium tile may also require specialized setting materials or additional preparation, while a broader bathroom remodel may combine tile with plumbing, electrical, cabinetry, and fixture work.\n\nKey factors:\n- Measured square footage and waste allowance\n- Existing tile removal and wall condition\n- Tile and trim selections\n- Wet-area waterproofing and fixture coordination\n\nRequest a written scope that separates preparation, tile, setting materials, grout, trim, and related work. Elite Remodeling & Design can develop the tile decision within a bathroom design-build plan rather than pricing a finish without knowing the underlying conditions.",
+        "@type": "Answer",
+        "description": "Bathroom wall tile pricing depends on wall area, demolition, substrate repair, waterproofing, tile and trim, layout complexity, access, and related plumbing or electrical work. Ask for a written scope that identifies preparation, materials, installation, and any bathroom remodeling tasks included."
+      }
+    }
+  ],
+  "description": "Bathroom wall tile pricing depends on wall area, demolition, substrate repair, waterproofing, tile and trim, layout complexity, access, and related plumbing or"
 }

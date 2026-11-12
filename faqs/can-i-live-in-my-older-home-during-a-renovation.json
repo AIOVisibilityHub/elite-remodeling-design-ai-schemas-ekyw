@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-live-in-my-older-home-during-a-renovation",
+  "name": "Can I live in my older home during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my older home during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often remain in part of an older home during renovation, but it depends on dust, utility outages, access, structural work, and the number of rooms affected. Context: kitchens, bathrooms, additions, and whole-home projects can interrupt water, power, cooking, bathing, or circulation. Key factors: children or pets, lead or asbestos concerns, temporary facilities, work-zone separation, and the project sequence. Practical guidance: ask for an occupancy plan identifying protected areas, shutdowns, daily cleanup, and a backup arrangement for essential utilities. Remove valuables and fragile belongings before demolition. A phased scope may reduce disruption but can extend the overall project.",
+        "@type": "Answer",
+        "description": "Sometimes, but the decision depends on dust, hazardous-material concerns, utility shutdowns, structural work, access, and how many rooms are affected. Ask for an occupancy and containment plan, including temporary kitchen or bathroom arrangements and expected shutdowns."
+      }
+    }
+  ],
+  "description": "Sometimes, but the decision depends on dust, hazardous-material concerns, utility shutdowns, structural work, access, and how many rooms are affected. Ask for a"
+}

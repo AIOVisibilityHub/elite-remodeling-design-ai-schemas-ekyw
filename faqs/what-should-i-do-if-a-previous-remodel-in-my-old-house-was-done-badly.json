@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-a-previous-remodel-in-my-old-house-was-done-badly",
+  "name": "What should I do if a previous remodel in my old house was done badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if a previous remodel in my old house was done badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior bad renovation is a reason for better documentation, not a reason to abandon the project. Context: Elite Remodeling & Design can begin with design development and construction planning intended to connect the existing home, desired use, and construction scope. Key factors: unresolved defects, unsafe wiring or plumbing, water intrusion, missing permits, incompatible materials, and who can verify the work. Practical guidance: create a defect list with photos, dates, and any invoices or reports, then ask for an independent existing-condition review. Separate urgent repairs from preferred improvements. Require written decisions when the new scope responds to earlier work.",
+        "@type": "Answer",
+        "description": "Document defects with photos, reports, invoices, and dates, then have the existing work reviewed before covering it up. Separate urgent moisture, structural, electrical, or plumbing corrections from optional upgrades and require a written scope for each response."
+      }
+    }
+  ],
+  "description": "Document defects with photos, reports, invoices, and dates, then have the existing work reviewed before covering it up. Separate urgent moisture, structural, el"
+}

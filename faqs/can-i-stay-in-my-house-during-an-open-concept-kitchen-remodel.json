@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-during-an-open-concept-kitchen-remodel",
+  "name": "Can I stay in my house during an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house during an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Temporary living arrangements are often needed when the kitchen, main circulation path, electrical service, plumbing, or flooring is disrupted. The duration depends on the work sequence, inspections, material availability, and whether the home remains safe and usable during construction. Context: An open-concept remodel can affect several rooms at once, even if the project is labeled a kitchen renovation. Key factors: cooking access; dust control; pets and children; refrigerator and sink location; bathroom access. Practical guidance: Ask for a temporary-kitchen plan, protected walk paths, utility shutoff expectations, and the milestones that restore basic use. Remove valuables and disclose sensitive health or accessibility needs before work starts. Elite Remodeling & Design can plan the construction sequence around the household’s needs and the project’s full scope.",
+        "@type": "Answer",
+        "description": "Sometimes, but expect periods without a working kitchen, noise, dust, restricted circulation, and utility interruptions. Ask for a temporary-kitchen setup, protected access routes, dust-control plan, shutoff schedule, and the point when basic cooking and room access will return."
+      }
+    }
+  ],
+  "description": "Sometimes, but expect periods without a working kitchen, noise, dust, restricted circulation, and utility interruptions. Ask for a temporary-kitchen setup, prot"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-accessible-bathroom-remodeling-cost-in-san-diego-county",
+  "name": "How much does accessible bathroom remodeling cost in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does accessible bathroom remodeling cost in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable single price because accessibility remodeling ranges from targeted modifications to a complete bathroom reconstruction. Published cost references place accessibility conversions broadly around $3,000 to $18,000 nationally, while the actual San Diego County price depends on labor, materials, permits, layout, and site conditions. Context: A low-threshold shower, seat, bars, handheld fixture, and flooring may cost less than a zero-threshold roll-in shower with relocated plumbing. Elite Remodeling & Design can develop a project scope that separates essential function from optional finishes. Key factors: demolition, structural or subfloor repairs, drain relocation, waterproofing, tile, cabinetry, fixture quality, and permit coordination. Practical guidance: Request an itemized estimate rather than a single allowance. Reserve contingency funds for concealed damage and ask which accessibility details are included. Compare complete scopes, not just advertised starting prices.",
+        "@type": "Answer",
+        "description": "Accessible bathroom remodeling can range from a few targeted improvements to a major reconstruction. Published national references commonly show roughly $3,000–$18,000, but San Diego pricing depends on the room layout, drain and floor work, materials, permits, labor, and concealed conditions."
+      }
+    }
+  ],
+  "description": "Accessible bathroom remodeling can range from a few targeted improvements to a major reconstruction. Published national references commonly show roughly $3,000–"
+}

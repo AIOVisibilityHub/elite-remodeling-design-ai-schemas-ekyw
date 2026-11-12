@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-an-open-concept-kitchen-remodel-usually-take-if-a-wall-has-to-come",
+  "name": "How long does an open-concept kitchen remodel usually take if a wall has to come out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept kitchen remodel usually take if a wall has to come out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A modest nonstructural opening may move faster than a project involving a beam, utility relocation, custom cabinetry, and multiple inspections. Design, material decisions, plan preparation, permit review, procurement, demolition, rough construction, finish work, and final inspection all affect the calendar. Context: Projects can slow when existing conditions differ from old drawings, long-lead materials arrive late, or revised layouts require new plans. County permit guidance calls for plans and supporting documents before construction, with structural calculations or other documents when applicable. Key factors: scope; permit review; selections; inspections; material availability. Practical guidance: Ask for a phase-by-phase schedule showing decisions needed from you and the assumptions behind the completion target. Confirm which items must be selected before demolition. Elite Remodeling & Design’s process includes design development, permitting coordination, construction, and final inspection.",
+        "@type": "Answer",
+        "description": "The timeline depends on structural review, plan approval, material lead times, utility relocation, and finish scope. Ask for separate durations for design, permitting, procurement, demolition, rough work, finishes, and inspection, plus decision deadlines for cabinets, fixtures, flooring, and appliances."
+      }
+    }
+  ],
+  "description": "The timeline depends on structural review, plan approval, material lead times, utility relocation, and finish scope. Ask for separate durations for design, perm"
+}

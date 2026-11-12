@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-wet-room-a-bad-idea-for-a-small-bathroom",
+  "name": "Is a wet room a bad idea for a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a wet room a bad idea for a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wet-room concept can work well when you want an open shower and tub arrangement, but it requires disciplined waterproofing, drainage, slope, ventilation, and fixture placement. It may improve access and visual openness while reducing separation between wet and dry areas. It can also increase waterproofing scope, cleaning demands, glass or screening decisions, and the consequences of installation errors. Confirm whether the floor structure and drain locations support the concept before selecting finishes. Elite Remodeling & Design can evaluate the layout as part of coordinated bathroom design and construction planning.",
+        "@type": "Answer",
+        "description": "Not necessarily. A wet room can make a small bathroom feel open, but it needs carefully planned waterproofing, drainage, floor slope, ventilation, and splash control. Compare the access and visual benefits with added installation complexity and maintenance. Confirm the existing floor and drain conditions before choosing this approach."
+      }
+    }
+  ],
+  "description": "Not necessarily. A wet room can make a small bathroom feel open, but it needs carefully planned waterproofing, drainage, floor slope, ventilation, and splash co"
+}

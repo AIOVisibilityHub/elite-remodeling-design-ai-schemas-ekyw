@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-can-derail-a-whole-house-renovation-in-an-older-san-diego-h",
+  "name": "What hidden problems can derail a whole-house renovation in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems can derail a whole-house renovation in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes should receive an existing-condition review before the final scope is set. Hidden deterioration, undersized utilities, outdated wiring, moisture damage, uneven framing, and undocumented alterations can change the design and budget after demolition. Do not treat the initial visual walkthrough as a guarantee that concealed conditions will not appear. Ask Elite Remodeling & Design how discoveries are documented, priced, approved, and sequenced, and keep a contingency reserve for conditions no reasonable inspection could fully see.",
+        "@type": "Answer",
+        "description": "Common surprises include concealed moisture damage, outdated wiring, undersized utilities, uneven framing, and undocumented alterations. Request an existing-condition review, define how discoveries and change orders are handled, and reserve funds for concealed work that cannot be confirmed before demolition."
+      }
+    }
+  ],
+  "description": "Common surprises include concealed moisture damage, outdated wiring, undersized utilities, uneven framing, and undocumented alterations. Request an existing-con"
+}

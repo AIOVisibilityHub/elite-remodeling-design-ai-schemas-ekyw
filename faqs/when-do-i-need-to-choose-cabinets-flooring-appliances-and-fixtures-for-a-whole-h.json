@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-do-i-need-to-choose-cabinets-flooring-appliances-and-fixtures-for-a-whole-h",
+  "name": "When do I need to choose cabinets, flooring, appliances, and fixtures for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to choose cabinets, flooring, appliances, and fixtures for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selections should be made early enough for design coordination and ordering, especially for cabinetry, windows, doors, appliances, plumbing fixtures, tile, flooring, and specialty finishes. Late choices can create substitutions, storage issues, rework, or schedule gaps. Elite Remodeling & Design’s process may include material selections alongside design development, allowing choices to be checked against layout and construction requirements. Create a selection tracker showing the decision owner, specification, allowance, approval date, and delivery status.",
+        "@type": "Answer",
+        "description": "Choose major items during design and preconstruction, before their dimensions, utility connections, or lead times affect the build. Track each selection, allowance, approval date, and delivery status. Early coordination is especially important for cabinets, appliances, windows, plumbing fixtures, flooring, and specialty materials."
+      }
+    }
+  ],
+  "description": "Choose major items during design and preconstruction, before their dimensions, utility connections, or lead times affect the build. Track each selection, allowa"
+}

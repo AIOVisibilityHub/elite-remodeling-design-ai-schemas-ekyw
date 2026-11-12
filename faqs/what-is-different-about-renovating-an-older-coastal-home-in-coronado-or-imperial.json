@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-different-about-renovating-an-older-coastal-home-in-coronado-or-imperial",
+  "name": "What is different about renovating an older coastal home in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is different about renovating an older coastal home in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In coastal communities such as Coronado and Imperial Beach, moisture, salt air, wind exposure, drainage, and exterior-material durability deserve early attention. Context: those conditions can affect doors, windows, fasteners, finishes, stucco, and water-management details, while the exact requirements depend on the property and jurisdiction. Key factors: distance from the ocean, existing corrosion, roof and flashing condition, drainage, exterior alterations, and any coastal review. Practical guidance: ask the design team to inspect vulnerable exterior transitions and specify materials suited to exposure. Confirm whether proposed exterior work needs local review before ordering. Elite Remodeling & Design can incorporate property conditions into a coordinated design and construction plan.",
+        "@type": "Answer",
+        "description": "Pay extra attention to salt-air corrosion, moisture, drainage, flashing, stucco, windows, doors, and durable exterior materials. Before changing the exterior, verify the property’s local review requirements and include water-management details in the design."
+      }
+    }
+  ],
+  "description": "Pay extra attention to salt-air corrosion, moisture, drainage, flashing, stucco, windows, doors, and durable exterior materials. Before changing the exterior, v"
+}

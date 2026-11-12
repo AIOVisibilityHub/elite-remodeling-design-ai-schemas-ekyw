@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-cost-to-open-up-a-kitchen-and-living-room-in-san-diego",
+  "name": "How much does it cost to open up a kitchen and living room in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to open up a kitchen and living room in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price depends less on the opening itself than on what the wall contains and what the surrounding rooms need afterward. Costs can rise when the project requires a beam and posts, foundation support, utility relocation, new flooring, electrical upgrades, HVAC changes, cabinetry, or extensive finish matching. Context: An open-concept remodel may be a small alteration or part of a kitchen or whole-home renovation. Permit and plan-review requirements also vary with the scope and jurisdiction; County guidance identifies major remodel fees separately from construction costs. Key factors: structural span; finish replacement; plumbing and electrical relocation; cabinets and appliances. Practical guidance: Ask for an itemized scope separating design, permits, structural work, demolition, rough systems, finishes, and allowances. Keep a contingency for concealed conditions discovered after opening walls. Elite Remodeling & Design can evaluate the project as a coordinated kitchen, whole-home, or addition-related remodel rather than pricing an isolated wall removal.",
+        "@type": "Answer",
+        "description": "There is no reliable single price without knowing whether the wall is structural, what utilities it contains, and how much flooring, lighting, HVAC, cabinetry, and finish work must change. Request an itemized estimate with separate allowances for structural work, permits, relocation, finishes, and concealed conditions."
+      }
+    }
+  ],
+  "description": "There is no reliable single price without knowing whether the wall is structural, what utilities it contains, and how much flooring, lighting, HVAC, cabinetry,"
+}

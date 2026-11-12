@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-renovate-an-older-house-myself-to-save-money",
+  "name": "Can I renovate an older house myself to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate an older house myself to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do-it-yourself work may suit limited cosmetic tasks, but demolition and system changes in an older home can expose hazards and create coordination problems. Context: permit rules, lead-paint risk, concealed damage, structural work, and plumbing or electrical changes make professional planning more valuable. Key factors: task complexity, tools, documentation, occupied conditions, and whether the work affects permitted construction. Practical guidance: reserve DIY for clearly defined work that does not compromise the coordinated scope, and disclose it before design begins. Do not remove painted surfaces or open walls casually in a pre-1978 home. Professional coordination is especially useful when several trades or rooms connect.",
+        "@type": "Answer",
+        "description": "DIY may work for limited cosmetic tasks, but demolition, structural changes, plumbing, electrical work, and painted-surface disturbance can create safety, permit, and coordination problems. Define DIY boundaries before construction so the professional scope remains accurate."
+      }
+    }
+  ],
+  "description": "DIY may work for limited cosmetic tasks, but demolition, structural changes, plumbing, electrical work, and painted-surface disturbance can create safety, permi"
+}

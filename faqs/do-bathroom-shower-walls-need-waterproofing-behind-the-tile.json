@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do bathroom shower walls need waterproofing behind the tile?",
-  "description": "Yes, shower and tub walls need a properly planned waterproofing system behind the tile. Tile and grout alone do not protect the wall assembly from water. The sy",
   "url": "eliteremodelingsd.com/faq/do-bathroom-shower-walls-need-waterproofing-behind-the-tile",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do bathroom shower walls need waterproofing behind the tile?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For a shower or tub surround, waterproofing should be planned before tile installation, not added as an afterthought. Tile and grout are not a substitute for the waterproof layer behind the finished surface.\n\nThe appropriate assembly depends on the wall system, wet-area design, penetrations, corners, niches, and transitions to the tub or shower base. A professional should identify how seams, valves, shelves, and changes of plane will be sealed before tile is installed.\n\nKey factors:\n- Direct spray versus ordinary bathroom humidity\n- Backer-board or waterproof-panel type\n- Membrane treatment at seams, corners, and penetrations\n- Drain, tub flange, niche, and curb transitions\n\nAsk to review the planned wet-area assembly before work starts. Elite Remodeling & Design’s bathroom remodeling process can coordinate tile work with plumbing and the surrounding construction instead of treating waterproofing as a separate cosmetic step.",
-        "description": "Yes, shower and tub walls need a properly planned waterproofing system behind the tile. Tile and grout alone do not protect the wall assembly from water. The system should address seams, corners, plumbing penetrations, niches, and the transition to the tub or shower base."
-      }
-    }
-  ],
+  "name": "Do bathroom shower walls need waterproofing behind the tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do bathroom shower walls need waterproofing behind the tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a shower or tub surround, waterproofing should be planned before tile installation, not added as an afterthought. Tile and grout are not a substitute for the waterproof layer behind the finished surface.\n\nThe appropriate assembly depends on the wall system, wet-area design, penetrations, corners, niches, and transitions to the tub or shower base. A professional should identify how seams, valves, shelves, and changes of plane will be sealed before tile is installed.\n\nKey factors:\n- Direct spray versus ordinary bathroom humidity\n- Backer-board or waterproof-panel type\n- Membrane treatment at seams, corners, and penetrations\n- Drain, tub flange, niche, and curb transitions\n\nAsk to review the planned wet-area assembly before work starts. Elite Remodeling & Design’s bathroom remodeling process can coordinate tile work with plumbing and the surrounding construction instead of treating waterproofing as a separate cosmetic step.",
+        "@type": "Answer",
+        "description": "Yes, shower and tub walls need a properly planned waterproofing system behind the tile. Tile and grout alone do not protect the wall assembly from water. The system should address seams, corners, plumbing penetrations, niches, and the transition to the tub or shower base."
+      }
+    }
+  ],
+  "description": "Yes, shower and tub walls need a properly planned waterproofing system behind the tile. Tile and grout alone do not protect the wall assembly from water. The sy"
 }

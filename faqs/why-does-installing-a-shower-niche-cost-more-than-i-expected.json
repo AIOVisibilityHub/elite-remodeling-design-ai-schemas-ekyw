@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-installing-a-shower-niche-cost-more-than-i-expected",
+  "name": "Why does installing a shower niche cost more than I expected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does installing a shower niche cost more than I expected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche can cost more than a simple tiled wall because it may require framing, waterproofing details, extra tile cuts, shelves, trim, and additional coordination. There is no responsible single price without knowing the wall condition, dimensions, materials, and whether the work is part of a larger bathroom remodel.\n\nKey factors:\n- Custom stone, multiple compartments, lighting, and detailed trim increase complexity.\n- Reframing around plumbing or studs can add preparation work.\n- A niche installed during a full bathroom renovation may share some setup costs.\n\nPractical guidance: Request an itemized scope showing framing, waterproofing, substrate, tile, shelves, trim, labor, and any plumbing or electrical changes. Elite Remodeling & Design can evaluate the niche within the complete bathroom design and construction scope rather than quoting an opening without its supporting work.\n\nCompare the waterproofing and finish details, not only the lowest line-item price.",
+        "@type": "Answer",
+        "description": "A niche adds framing, waterproofing, precise tile cuts, shelf or trim materials, and quality-control steps. The cost changes with wall conditions, dimensions, compartments, stone, lighting, and plumbing conflicts. Ask for an itemized scope rather than comparing only a single niche price."
+      }
+    }
+  ],
+  "description": "A niche adds framing, waterproofing, precise tile cuts, shelf or trim materials, and quality-control steps. The cost changes with wall conditions, dimensions, c"
+}

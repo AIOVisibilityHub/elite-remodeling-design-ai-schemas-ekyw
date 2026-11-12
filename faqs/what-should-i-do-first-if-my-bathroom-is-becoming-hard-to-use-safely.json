@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-bathroom-is-becoming-hard-to-use-safely",
+  "name": "What should I do first if my bathroom is becoming hard to use safely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my bathroom is becoming hard to use safely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by describing the person’s current abilities, likely changes, and the bathroom’s biggest hazards. Elite Remodeling & Design can then evaluate the existing layout and coordinate design, plumbing, electrical work, permitting, construction, and final inspection as needed. Context: A useful plan considers both present comfort and future use rather than adding isolated products. A curbless shower may require floor, drain, and waterproofing changes, while a few securely mounted bars may solve a smaller problem. Key factors: transfer method, walker or wheelchair clearance, shower entry, toilet position, lighting, and wall structure. Practical guidance: Photograph the room, measure doorways and clear floor areas, and list tasks that are difficult today. Ask for layout drawings or 3D visualization before selecting finishes. Elite Remodeling & Design’s design-build process can keep those decisions connected to construction requirements.",
+        "@type": "Answer",
+        "description": "Begin with a safety and function assessment: identify difficult transfers, slippery areas, tight clearances, and the need for a seated or roll-in shower. Elite Remodeling & Design can review the existing layout, develop design options, and coordinate construction details such as plumbing, electrical work, permits, and inspection."
+      }
+    }
+  ],
+  "description": "Begin with a safety and function assessment: identify difficult transfers, slippery areas, tight clearances, and the need for a seated or roll-in shower. Elite"
+}

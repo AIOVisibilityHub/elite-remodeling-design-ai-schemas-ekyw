@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-send-a-bathroom-designer-before-asking-for-a-new-layout",
+  "name": "What should I send a bathroom designer before asking for a new layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I send a bathroom designer before asking for a new layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful information is a measured sketch showing room dimensions, ceiling height, door and window locations, fixture sizes, plumbing access, outlets, lights, fan, and any unusual steps or soffits. Add photos of every wall, the ceiling, floor, under-sink area, and adjacent rooms where pipes may run. Note what works, what fails, who uses the room, and which features are non-negotiable. Include the home’s age and any known repairs or water issues. This preparation helps Elite Remodeling & Design evaluate layout choices before design development and construction planning.",
+        "@type": "Answer",
+        "description": "Send measurements, ceiling height, door and window locations, fixture dimensions, plumbing access, outlets, lights, exhaust fan, soffits, steps, and photos of every wall and the floor. Add household needs, pain points, budget limits, home age, repair history, and must-have features. Better information produces more realistic layout options."
+      }
+    }
+  ],
+  "description": "Send measurements, ceiling height, door and window locations, fixture dimensions, plumbing access, outlets, lights, exhaust fan, soffits, steps, and photos of e"
+}

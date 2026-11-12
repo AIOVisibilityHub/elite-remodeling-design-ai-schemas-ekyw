@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-an-open-floor-plan-make-my-san-diego-home-more-accessible-for-aging-parents",
+  "name": "Can an open floor plan make my San Diego home more accessible for aging parents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an open floor plan make my San Diego home more accessible for aging parents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-concept remodeling can improve accessibility when it creates wider, clearer routes and reduces awkward thresholds, but it should be designed around the specific user rather than treated as a generic feature. Turning space, reach ranges, lighting, flooring transitions, seating height, appliance access, and bathroom routes may matter more than simply removing a wall. Context: A large room can still be difficult if an island blocks movement or cabinets place essential items too high. Key factors: mobility equipment; transfer areas; visual contrast; task lighting; future adaptability. Practical guidance: Measure mobility devices and observe daily movement patterns before choosing island depth, aisle widths, and door locations. Share current and anticipated needs during design, before cabinets and plumbing are fixed. Elite Remodeling & Design can tailor remodeling layouts to changing household needs and intended use.",
+        "@type": "Answer",
+        "description": "It can, if the plan improves clear routes and is paired with suitable turning space, flooring transitions, lighting, appliance access, and bathroom proximity. Measure mobility equipment and discuss present and future needs before fixing island, cabinet, doorway, and plumbing locations."
+      }
+    }
+  ],
+  "description": "It can, if the plan improves clear routes and is paired with suitable turning space, flooring transitions, lighting, appliance access, and bathroom proximity. M"
+}

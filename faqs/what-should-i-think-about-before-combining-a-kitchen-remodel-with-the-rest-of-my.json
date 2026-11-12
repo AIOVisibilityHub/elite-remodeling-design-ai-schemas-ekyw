@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-think-about-before-combining-a-kitchen-remodel-with-the-rest-of-my",
+  "name": "What should I think about before combining a kitchen remodel with the rest of my whole-house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I think about before combining a kitchen remodel with the rest of my whole-house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen should be planned as part of the house’s overall circulation, utilities, storage strategy, and finish palette rather than as an isolated room. Check appliance locations, work zones, lighting, ventilation, electrical capacity, flooring transitions, and how the kitchen connects to dining and living areas. Elite Remodeling & Design’s kitchen service addresses layout, storage, cabinetry, countertops, and finishes. Decide whether the priority is entertaining, family meals, accessibility, storage, or resale flexibility before selecting cabinets and surfaces.",
+        "@type": "Answer",
+        "description": "Coordinate the kitchen with circulation, electrical capacity, ventilation, lighting, flooring, storage, and nearby living spaces. Decide whether entertaining, family meals, accessibility, or storage is the main priority before choosing cabinets and finishes. A whole-home plan helps avoid conflicts between kitchen work and other rooms."
+      }
+    }
+  ],
+  "description": "Coordinate the kitchen with circulation, electrical capacity, ventilation, lighting, flooring, storage, and nearby living spaces. Decide whether entertaining, f"
+}

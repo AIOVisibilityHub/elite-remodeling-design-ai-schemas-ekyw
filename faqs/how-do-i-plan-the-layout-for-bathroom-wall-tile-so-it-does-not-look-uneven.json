@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I plan the layout for bathroom wall tile so it does not look uneven?",
-  "description": "Measure the complete walls, mark fixtures and openings, establish centerlines, and plan grout joints before ordering tile. Avoid narrow slivers at corners or ce",
   "url": "eliteremodelingsd.com/faq/how-do-i-plan-the-layout-for-bathroom-wall-tile-so-it-does-not-look-uneven",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I plan the layout for bathroom wall tile so it does not look uneven?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Begin by measuring every wall, locating doors and fixtures, and deciding where grout joints, cuts, trim, and focal areas should land. Do not choose a pattern based only on a single sample tile; the full wall layout determines how balanced the finished room looks.\n\nLarge tile can make a compact bathroom feel less segmented, but it needs flatter walls and careful planning around corners and fittings. Small rooms with many interruptions may look better with a format that avoids narrow slivers and awkward cuts.\n\nKey factors:\n- Centerlines and visible focal walls\n- Tile height, ceiling transitions, and base details\n- Corners, window openings, niches, and valve locations\n- Tile batch, shade variation, and replacement availability\n\nLay out the walls on paper or in design software before ordering material. Elite Remodeling & Design can use layout development and 3D design visualization to test tile proportions within the planned bathroom.",
-        "description": "Measure the complete walls, mark fixtures and openings, establish centerlines, and plan grout joints before ordering tile. Avoid narrow slivers at corners or ceilings, and check how the pattern meets niches, windows, trim, and plumbing. A scaled layout or 3D design review can expose problems early."
-      }
-    }
-  ],
+  "name": "How do I plan the layout for bathroom wall tile so it does not look uneven?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I plan the layout for bathroom wall tile so it does not look uneven?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Begin by measuring every wall, locating doors and fixtures, and deciding where grout joints, cuts, trim, and focal areas should land. Do not choose a pattern based only on a single sample tile; the full wall layout determines how balanced the finished room looks.\n\nLarge tile can make a compact bathroom feel less segmented, but it needs flatter walls and careful planning around corners and fittings. Small rooms with many interruptions may look better with a format that avoids narrow slivers and awkward cuts.\n\nKey factors:\n- Centerlines and visible focal walls\n- Tile height, ceiling transitions, and base details\n- Corners, window openings, niches, and valve locations\n- Tile batch, shade variation, and replacement availability\n\nLay out the walls on paper or in design software before ordering material. Elite Remodeling & Design can use layout development and 3D design visualization to test tile proportions within the planned bathroom.",
+        "@type": "Answer",
+        "description": "Measure the complete walls, mark fixtures and openings, establish centerlines, and plan grout joints before ordering tile. Avoid narrow slivers at corners or ceilings, and check how the pattern meets niches, windows, trim, and plumbing. A scaled layout or 3D design review can expose problems early."
+      }
+    }
+  ],
+  "description": "Measure the complete walls, mark fixtures and openings, establish centerlines, and plan grout joints before ordering tile. Avoid narrow slivers at corners or ce"
 }

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-expect-if-the-wall-removal-requires-a-beam-and-posts",
+  "name": "What should I expect if the wall removal requires a beam and posts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect if the wall removal requires a beam and posts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A beam may solve the structural opening but still affect ceiling height, lighting, duct routes, sprinkler or alarm devices where applicable, and the visual balance of the room. Posts may also reduce circulation or require support that extends through lower levels or into a suitable foundation. Context: The cleanest-looking solution is not always the least disruptive or least expensive. Structural plans may need connection and support information when load-bearing walls are altered. Key factors: span; beam depth; post locations; support below; utilities above. Practical guidance: Ask for beam and post options shown on the reflected ceiling and furniture plans, not only on a structural sheet. Compare a full span, partial opening, and alternative layout before committing. Elite Remodeling & Design can coordinate structural decisions with the overall design rather than treating the beam as an isolated repair.",
+        "@type": "Answer",
+        "description": "Expect possible changes to ceiling height, lighting, duct routes, circulation, and support below. The beam solution may require structural details and adequate bearing or foundation support. Compare its visual and functional impact with a partial opening or alternative layout before demolition."
+      }
+    }
+  ],
+  "description": "Expect possible changes to ceiling height, lighting, duct routes, circulation, and support below. The beam solution may require structural details and adequate"
+}

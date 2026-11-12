@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-gather-before-getting-an-older-home-renovation-estimat",
+  "name": "What information should I gather before getting an older-home renovation estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before getting an older-home renovation estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before approving a design, collect the home’s age, available plans, prior permits, inspection reports, utility records, and any evidence of previous additions or conversions. Context: for older properties, missing documentation can make field verification especially important; Elite Remodeling & Design can develop a plan around existing conditions and intended use. Key factors: accurate dimensions, service-panel capacity, plumbing routes, roof and drainage conditions, and whether rooms were altered without clear records. Practical guidance: photograph ceilings, crawl spaces, attic areas, panels, water heaters, and visible damage. Tell the design team about leaks, odors, cracks, recurring electrical trips, and past repairs. Better information supports a more realistic scope.",
+        "@type": "Answer",
+        "description": "Gather the home’s age, plans, prior permits, inspection reports, utility records, photos, and details about leaks, cracks, electrical issues, or past additions. Include attic, crawl-space, panel, water-heater, roof, and drainage photos so the initial scope reflects more than the finished rooms."
+      }
+    }
+  ],
+  "description": "Gather the home’s age, plans, prior permits, inspection reports, utility records, photos, and details about leaks, cracks, electrical issues, or past additions."
+}

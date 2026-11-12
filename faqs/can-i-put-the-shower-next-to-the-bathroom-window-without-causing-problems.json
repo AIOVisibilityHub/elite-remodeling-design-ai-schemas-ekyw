@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-put-the-shower-next-to-the-bathroom-window-without-causing-problems",
+  "name": "Can I put the shower next to the bathroom window without causing problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I put the shower next to the bathroom window without causing problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window can stay in a redesigned bathroom if its size, sill height, privacy, moisture exposure, and relationship to the shower or tub are addressed. Placing a wet fixture near the window may require careful waterproofing and a moisture-resistant finish strategy. Privacy glass, a suitable covering, or a revised fixture arrangement may be appropriate depending on the opening. Photograph the window, record its dimensions, and note whether it is operable before design begins. Elite Remodeling & Design can incorporate the opening into the layout while coordinating ventilation and finish selections.",
+        "@type": "Answer",
+        "description": "Often, but the window’s sill, frame, operation, privacy, and exposure to water must be reviewed. The design needs appropriate waterproofing and moisture-resistant detailing around the opening. Measure and photograph the window before planning the shower, and compare placing the wet area there with keeping the window in a dry zone."
+      }
+    }
+  ],
+  "description": "Often, but the window’s sill, frame, operation, privacy, and exposure to water must be reviewed. The design needs appropriate waterproofing and moisture-resista"
+}

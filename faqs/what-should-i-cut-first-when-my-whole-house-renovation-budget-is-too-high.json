@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-cut-first-when-my-whole-house-renovation-budget-is-too-high",
+  "name": "What should I cut first when my whole-house renovation budget is too high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I cut first when my whole-house renovation budget is too high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tight budget should prioritize work that protects the house, improves function, and would be expensive to repeat later. Coordinate structural, moisture, plumbing, electrical, and layout decisions before spending heavily on decorative finishes. Then preserve flexibility through durable midrange materials, phased work, or postponable upgrades rather than cutting essential planning. Elite Remodeling & Design can help connect kitchen, bathroom, room-addition, ADU, or garage-conversion priorities within one broader plan.",
+        "@type": "Answer",
+        "description": "Protect the house and fund structural, moisture, plumbing, electrical, and layout work before decorative upgrades. Defer easily replaceable finishes, simplify custom details, or phase lower-priority rooms. Keep the overall plan coordinated so postponed work does not require tearing out completed construction later."
+      }
+    }
+  ],
+  "description": "Protect the house and fund structural, moisture, plumbing, electrical, and layout work before decorative upgrades. Defer easily replaceable finishes, simplify c"
+}

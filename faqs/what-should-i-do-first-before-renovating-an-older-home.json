@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-before-renovating-an-older-home",
+  "name": "What should I do first before renovating an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before renovating an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with an inspection and a written scope before choosing finishes. Older houses often conceal outdated wiring, plumbing, drainage, structural changes, or moisture damage that can affect the design and budget. Context: Elite Remodeling & Design can coordinate consultation, design development, construction planning, and permitting for room upgrades, additions, ADUs, garage conversions, or whole-home work. Key factors: the home’s age, prior alterations, desired layout, occupied status, and whether walls or utilities will move. Practical guidance: gather any plans, inspection reports, insurance records, and photos, then identify safety and function problems before cosmetic priorities. A coordinated design-build plan helps keep early discoveries from becoming disconnected change orders.",
+        "@type": "Answer",
+        "description": "Begin with an inspection, existing-condition review, and written scope—not demolition. Gather plans, prior permits, inspection reports, and photos, then identify outdated utilities, moisture, structural concerns, and layout goals before selecting finishes or setting a renovation budget."
+      }
+    }
+  ],
+  "description": "Begin with an inspection, existing-condition review, and written scope—not demolition. Gather plans, prior permits, inspection reports, and photos, then identif"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-open-concept-remodels-different-in-coronado-or-imperial-beach-than-in-inland",
+  "name": "Are open-concept remodels different in Coronado or Imperial Beach than in inland San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are open-concept remodels different in Coronado or Imperial Beach than in inland San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached property, historic setting, coastal exposure, or unusual site condition can change the planning process, but the exact requirements depend on the property and city. Coronado, Imperial Beach, and coastal portions of San Diego County may involve conditions related to older homes, salt air, wind exposure, flood risk, neighborhood character, or agency review; those factors should be verified for the specific address. Context: Location also affects material durability, access, staging, and how long approvals or inspections may take. Key factors: jurisdiction; age and character of the home; coastal exposure; site access. Practical guidance: Provide the address early, disclose historic or coastal designations if known, and ask which approvals are actually applicable rather than assuming a citywide rule. Elite Remodeling & Design serves projects across San Diego County and can coordinate address-specific planning within the project scope.",
+        "@type": "Answer",
+        "description": "They can be, because the property’s jurisdiction, age, coastal exposure, access, neighborhood character, and site conditions may affect design, materials, review, and construction logistics. Give the project address early and verify requirements for that property rather than assuming rules from another San Diego community."
+      }
+    }
+  ],
+  "description": "They can be, because the property’s jurisdiction, age, coastal exposure, access, neighborhood character, and site conditions may affect design, materials, revie"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-modernize-an-older-home-without-losing-its-original-character",
+  "name": "Can I modernize an older home without losing its original character?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I modernize an older home without losing its original character?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A historic-looking home does not automatically prohibit modernization, but exterior alterations, additions, demolition, and major changes may receive additional review depending on the property and jurisdiction. Context: San Diego’s building guidance flags possible historic review for certain projects involving structures 45 years or older. Key factors: historic designation, neighborhood overlay, visible exterior changes, original materials, and the proposed addition or room conversion. Practical guidance: identify historic concerns before finalizing the exterior design or ordering materials. Photograph existing details and ask which elements must be retained, repaired, or documented. A design that respects the home’s character can still improve storage, comfort, and function.",
+        "@type": "Answer",
+        "description": "Usually, but exterior and structural changes may receive additional review when an older property has historic significance or applicable overlays. Document original details early, then decide which features to preserve, repair, replace, or reinterpret within the renovation design."
+      }
+    }
+  ],
+  "description": "Usually, but exterior and structural changes may receive additional review when an older property has historic significance or applicable overlays. Document ori"
+}

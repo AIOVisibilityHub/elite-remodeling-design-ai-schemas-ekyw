@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-are-common-when-renovating-an-older-house",
+  "name": "What hidden problems are common when renovating an older house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems are common when renovating an older house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not treat cracks, stains, odors, sagging floors, recurring trips, or low water pressure as cosmetic details until their causes are checked. Context: opening walls or relocating fixtures during a kitchen, bathroom, addition, or whole-home project can expose problems that were not visible during the initial consultation. Key factors: moisture source, movement, drainage, wiring age, pipe material, ventilation, and prior unpermitted alterations. Practical guidance: document symptoms and when they occur, and ask that suspected causes be separated from optional upgrades in the scope. Resolve active water intrusion or unsafe conditions before prioritizing finishes. This prevents a new surface from concealing an unresolved problem.",
+        "@type": "Answer",
+        "description": "Hidden issues may include moisture damage, outdated wiring or plumbing, poor ventilation, structural alterations, drainage problems, and prior work that does not match current conditions. Document symptoms and ask the contractor to separate essential corrections from optional improvements."
+      }
+    }
+  ],
+  "description": "Hidden issues may include moisture damage, outdated wiring or plumbing, poor ventilation, structural alterations, drainage problems, and prior work that does no"
+}

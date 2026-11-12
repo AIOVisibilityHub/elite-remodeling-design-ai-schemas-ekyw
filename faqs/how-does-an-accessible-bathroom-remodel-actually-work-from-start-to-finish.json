@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-an-accessible-bathroom-remodel-actually-work-from-start-to-finish",
+  "name": "How does an accessible bathroom remodel actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an accessible bathroom remodel actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical project begins with consultation and site evaluation, followed by layout development, design selections, permitting when required, construction, and final inspection. Elite Remodeling & Design describes a coordinated design-build process that may include 3D visualization and permit application coordination. Context: Accessibility work can involve demolition, framing, waterproofing, plumbing, electrical changes, tile, fixtures, and finish work. The sequence matters because grab-bar backing, shower slopes, and concealed plumbing should be resolved before walls and finishes are closed. Key factors: whether the tub moves, whether walls change, the shower system selected, and the condition of the subfloor. Practical guidance: Request a written scope showing what is included in demolition, waterproofing, fixtures, permits, and cleanup. Keep one decision list for layout, materials, and accessibility features. A defined scope reduces surprises during construction.",
+        "@type": "Answer",
+        "description": "The process generally includes an existing-condition review, accessible layout, design and material selections, permit coordination when required, demolition, rough plumbing and electrical work, waterproofing, installation, and final inspection. The sequence depends on whether walls, floors, drains, or fixtures move."
+      }
+    }
+  ],
+  "description": "The process generally includes an existing-condition review, accessible layout, design and material selections, permit coordination when required, demolition, r"
+}

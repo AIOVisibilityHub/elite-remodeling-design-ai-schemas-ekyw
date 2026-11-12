@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-different-about-renovating-an-older-home-in-coronado-national-city-or-ce",
+  "name": "What is different about renovating an older home in Coronado, National City, or central San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is different about renovating an older home in Coronado, National City, or central San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A historic or older home may need more documentation and careful investigation before walls, windows, systems, or exterior details are changed. Existing construction methods, previous alterations, neighborhood context, and local review requirements can affect what is practical and how long planning takes. Avoid assuming that a standard modern layout will fit without structural or utility consequences. Ask Elite Remodeling & Design to identify unknowns early and separate confirmed scope from items requiring investigation.",
+        "@type": "Answer",
+        "description": "Older homes may contain undocumented alterations, aging systems, unusual framing, moisture issues, or exterior details that require careful review. Historic or neighborhood-specific considerations can also affect design and approvals. Request an existing-condition assessment and identify which scope items remain subject to investigation before demolition."
+      }
+    }
+  ],
+  "description": "Older homes may contain undocumented alterations, aging systems, unusual framing, moisture issues, or exterior details that require careful review. Historic or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-renovate-an-older-home-in-san-diego-county",
+  "name": "How long does it take to renovate an older home in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to renovate an older home in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A smaller room renovation may take less time than an addition or whole-home project, but older properties usually need more planning than newer construction. Context: Elite Remodeling & Design handles projects ranging from individual rooms to additions and whole-home renovations, with timing affected by design, permits, construction, and inspections. Key factors: scope, demolition findings, structural changes, custom materials, utility work, and city or county review. Practical guidance: ask for a schedule with decision deadlines and allowances for concealed conditions. Make finish selections early, especially cabinetry, tile, fixtures, and windows. Treat any initial duration as a planning range until the existing home is opened and verified.",
+        "@type": "Answer",
+        "description": "Timing depends on whether the work is a room upgrade, whole-home renovation, addition, ADU, or garage conversion. Design, permits, inspections, hidden conditions, utility changes, and material availability can all extend the schedule, so request milestone dates rather than one vague estimate."
+      }
+    }
+  ],
+  "description": "Timing depends on whether the work is a room upgrade, whole-home renovation, addition, ADU, or garage conversion. Design, permits, inspections, hidden condition"
+}

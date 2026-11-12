@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What materials are needed to install tile on bathroom walls?",
-  "description": "Materials commonly include an appropriate substrate, waterproofing system where needed, compatible mortar, tile, spacers or leveling tools, grout, flexible seal",
   "url": "eliteremodelingsd.com/faq/what-materials-are-needed-to-install-tile-on-bathroom-walls",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What materials are needed to install tile on bathroom walls?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The tile manufacturer’s instructions control allowable installation conditions, including substrate, mortar, grout, joint width, sealant, and cure requirements. The correct materials depend on tile type, size, location, and the wall assembly rather than on a one-size-fits-all product list.\n\nLarge or heavy tile may require specific mortar and application methods, while natural stone or glass may have additional compatibility requirements. Mixing products without checking manufacturer guidance can create bonding, staining, or movement problems.\n\nKey factors:\n- Tile material, dimensions, weight, and finish\n- Wet versus dry installation area\n- Substrate and waterproofing system\n- Mortar, grout, sealant, and movement-joint compatibility\n\nKeep product data sheets and installation instructions available before work starts. Elite Remodeling & Design can coordinate selected materials with the planned wall system and the project’s design and construction sequence.",
-        "description": "Materials commonly include an appropriate substrate, waterproofing system where needed, compatible mortar, tile, spacers or leveling tools, grout, flexible sealant, and edge trim. Exact products depend on tile type, size, wet-area exposure, and manufacturer instructions, so confirm compatibility before buying."
-      }
-    }
-  ],
+  "name": "What materials are needed to install tile on bathroom walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are needed to install tile on bathroom walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tile manufacturer’s instructions control allowable installation conditions, including substrate, mortar, grout, joint width, sealant, and cure requirements. The correct materials depend on tile type, size, location, and the wall assembly rather than on a one-size-fits-all product list.\n\nLarge or heavy tile may require specific mortar and application methods, while natural stone or glass may have additional compatibility requirements. Mixing products without checking manufacturer guidance can create bonding, staining, or movement problems.\n\nKey factors:\n- Tile material, dimensions, weight, and finish\n- Wet versus dry installation area\n- Substrate and waterproofing system\n- Mortar, grout, sealant, and movement-joint compatibility\n\nKeep product data sheets and installation instructions available before work starts. Elite Remodeling & Design can coordinate selected materials with the planned wall system and the project’s design and construction sequence.",
+        "@type": "Answer",
+        "description": "Materials commonly include an appropriate substrate, waterproofing system where needed, compatible mortar, tile, spacers or leveling tools, grout, flexible sealant, and edge trim. Exact products depend on tile type, size, wet-area exposure, and manufacturer instructions, so confirm compatibility before buying."
+      }
+    }
+  ],
+  "description": "Materials commonly include an appropriate substrate, waterproofing system where needed, compatible mortar, tile, spacers or leveling tools, grout, flexible seal"
 }

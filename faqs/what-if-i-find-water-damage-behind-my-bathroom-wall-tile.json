@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I find water damage behind my bathroom wall tile?",
-  "description": "Stop installation and identify the leak source before covering the area. Wet or softened backing may need removal, drying, replacement, and improved waterproofi",
   "url": "eliteremodelingsd.com/faq/what-if-i-find-water-damage-behind-my-bathroom-wall-tile",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I find water damage behind my bathroom wall tile?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tile installation may expose hidden moisture damage, but tile should not be installed over an active leak or deteriorated wall. The source must be identified and corrected, then the affected materials assessed and replaced as needed.\n\nStains, swelling, soft drywall, musty odors, recurring grout cracks, and loose tile can indicate water reaching places it should not. Cosmetic drying at the surface does not prove the wall assembly is sound.\n\nKey factors:\n- Leak source: supply line, drain, valve, tub, shower, or window\n- Extent of staining and softened material\n- Condition of framing and backing\n- Need for waterproofing improvements\n\nDocument the location and timing of moisture symptoms before demolition. Elite Remodeling & Design can coordinate inspection, wall preparation, plumbing-related work, waterproofing, and tile installation within one bathroom project scope.",
-        "description": "Stop installation and identify the leak source before covering the area. Wet or softened backing may need removal, drying, replacement, and improved waterproofing; surface stains alone do not show the full extent. Photograph the damage and include plumbing and wall conditions in the project assessment."
-      }
-    }
-  ],
+  "name": "What if I find water damage behind my bathroom wall tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I find water damage behind my bathroom wall tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile installation may expose hidden moisture damage, but tile should not be installed over an active leak or deteriorated wall. The source must be identified and corrected, then the affected materials assessed and replaced as needed.\n\nStains, swelling, soft drywall, musty odors, recurring grout cracks, and loose tile can indicate water reaching places it should not. Cosmetic drying at the surface does not prove the wall assembly is sound.\n\nKey factors:\n- Leak source: supply line, drain, valve, tub, shower, or window\n- Extent of staining and softened material\n- Condition of framing and backing\n- Need for waterproofing improvements\n\nDocument the location and timing of moisture symptoms before demolition. Elite Remodeling & Design can coordinate inspection, wall preparation, plumbing-related work, waterproofing, and tile installation within one bathroom project scope.",
+        "@type": "Answer",
+        "description": "Stop installation and identify the leak source before covering the area. Wet or softened backing may need removal, drying, replacement, and improved waterproofing; surface stains alone do not show the full extent. Photograph the damage and include plumbing and wall conditions in the project assessment."
+      }
+    }
+  ],
+  "description": "Stop installation and identify the leak source before covering the area. Wet or softened backing may need removal, drying, replacement, and improved waterproofi"
 }

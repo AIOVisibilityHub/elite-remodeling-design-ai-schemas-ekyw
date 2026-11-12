@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-keep-an-older-home-renovation-from-going-over-budget",
+  "name": "How can I keep an older-home renovation from going over budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I keep an older-home renovation from going over budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Set a realistic budget by separating essential repairs, functional improvements, and finish upgrades, then reserving room for conditions that cannot be confirmed before demolition. Context: older-home work may involve kitchens, bathrooms, additions, ADUs, garage conversions, or multiple systems at once. Key factors: scope, access, utility relocation, structural work, finish level, permit review, and whether the home remains occupied. Practical guidance: ask for allowances and exclusions in writing and identify decisions that can trigger a change in cost. Consider phasing, but confirm whether separate phases duplicate design, mobilization, or permit work. A clear priority list supports better decisions when discoveries occur.",
+        "@type": "Answer",
+        "description": "Divide the project into essential repairs, functional improvements, and optional finishes. Compare detailed scopes, define allowances and exclusions, reserve a contingency for concealed conditions, and decide in advance which upgrades can be postponed if discoveries increase the cost."
+      }
+    }
+  ],
+  "description": "Divide the project into essential repairs, functional improvements, and optional finishes. Compare detailed scopes, define allowances and exclusions, reserve a"
+}

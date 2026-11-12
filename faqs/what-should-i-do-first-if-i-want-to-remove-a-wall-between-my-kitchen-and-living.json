@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-remove-a-wall-between-my-kitchen-and-living",
+  "name": "What should I do first if I want to remove a wall between my kitchen and living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to remove a wall between my kitchen and living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how you want the combined space to work, then have the existing walls, framing, plumbing, electrical, windows, and ceiling conditions reviewed before choosing a layout. A wall that appears removable may support roof or floor loads, hide utilities, or contribute to lateral stability. Context: Open-concept work often affects more than the kitchen because flooring, lighting, ventilation, HVAC distribution, and adjacent rooms must coordinate. In San Diego County, permits may be required for structural, electrical, plumbing, mechanical, alteration, or demolition work, and plans may need structural information. Key factors: wall type; beam and post locations; utility routes; ceiling transitions. Practical guidance: Gather photos, rough room dimensions, prior plans if available, and your wish list for seating, storage, cooking, and entertaining. Ask for an existing-condition plan before approving demolition. Elite Remodeling & Design can connect design development, permitting, and construction planning for a coordinated scope.",
+        "@type": "Answer",
+        "description": "First, document how you want the rooms to function and have the wall and surrounding structure inspected. Confirm whether it carries loads or conceals plumbing, wiring, ducts, or other utilities before planning demolition or a beam. A measured existing-condition plan is the safest starting point."
+      }
+    }
+  ],
+  "description": "First, document how you want the rooms to function and have the wall and surrounding structure inspected. Confirm whether it carries loads or conceals plumbing,"
+}

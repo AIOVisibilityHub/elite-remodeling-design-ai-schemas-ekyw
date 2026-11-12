@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-trust-a-3d-design-to-show-whether-my-open-floor-plan-will-really-work",
+  "name": "Can I trust a 3D design to show whether my open floor plan will really work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I trust a 3D design to show whether my open floor plan will really work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 3D rendering is useful for judging proportions, sightlines, finishes, island placement, and visual relationships, but it does not prove that the design is structurally or mechanically buildable. The final plan must also show dimensions, framing or support strategy, outlets, lighting, plumbing, HVAC, ventilation, appliances, and finish transitions. Context: Renderings can hide cabinet clearances, beam depth, ceiling changes, and service access. Key factors: measured conditions; construction drawings; product specifications; engineering needs. Practical guidance: Ask to review the rendered concept alongside a dimensioned plan and a scope of work. Verify that the appliance models and material assumptions match the proposal before approving. Elite Remodeling & Design describes 3D visualization as one part of a broader design and construction process.",
+        "@type": "Answer",
+        "description": "Use 3D design to assess appearance and sightlines, but pair it with measured plans and construction details. Confirm structural support, clearances, outlets, lighting, plumbing, HVAC, ventilation, appliance specifications, ceiling changes, and flooring transitions before treating the design as buildable."
+      }
+    }
+  ],
+  "description": "Use 3D design to assess appearance and sightlines, but pair it with measured plans and construction details. Confirm structural support, clearances, outlets, li"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-prepare-before-meeting-an-accessible-bathroom-remodeling-company",
+  "name": "What should I prepare before meeting an accessible bathroom remodeling company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before meeting an accessible bathroom remodeling company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before demolition, photograph the room, record fixture and doorway measurements, list difficult activities, and gather product or finish preferences. Elite Remodeling & Design may use consultation, layout development, 3D visualization, selections, permitting coordination, construction, and inspection as part of the project process. Context: Early decisions about shower type, seat, bars, controls, tile, and storage influence plumbing, framing, waterproofing, and ordering. Key factors: household schedule, alternate bathroom access, budget range, mobility equipment, desired completion window, and whether walls or floors may change. Practical guidance: Prepare a must-have list and a flexible wish list. Tell the team about leaks, prior repairs, or changes in mobility. Clear the room and protect medications or personal items before the confirmed start date.",
+        "@type": "Answer",
+        "description": "Prepare photos, measurements, difficult-task notes, mobility-device dimensions, budget priorities, desired timing, finish ideas, and information about leaks or prior repairs. Separate must-have accessibility features from optional upgrades, and tell the remodeler whether another bathroom will be available during construction."
+      }
+    }
+  ],
+  "description": "Prepare photos, measurements, difficult-task notes, mobility-device dimensions, budget priorities, desired timing, finish ideas, and information about leaks or"
+}

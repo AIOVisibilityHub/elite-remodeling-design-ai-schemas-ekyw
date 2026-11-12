@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-renovate-my-entire-house-but-have-no-idea-wh",
+  "name": "What should I do first if I want to renovate my entire house but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to renovate my entire house but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the house must work, not by choosing finishes. List problems room by room, rank them by safety, function, and daily frustration, then decide whether the project includes layout changes, systems, additions, or only cosmetic updates. A whole-home plan helps prevent a new kitchen from conflicting with future electrical, plumbing, flooring, or structural work. Elite Remodeling & Design can use the initial consultation to connect design priorities with construction scope. Gather photos, rough measurements, inspiration images, and a realistic investment range before discussing plans.",
+        "@type": "Answer",
+        "description": "Begin with a room-by-room problem list and rank needs by safety, function, and priority. Then decide whether the scope includes layout changes, systems, additions, or finishes. Bring photos, measurements, inspiration, and a budget range to an initial consultation so the design-build team can shape a workable whole-home plan."
+      }
+    }
+  ],
+  "description": "Begin with a room-by-room problem list and rank needs by safety, function, and priority. Then decide whether the scope includes layout changes, systems, additio"
+}

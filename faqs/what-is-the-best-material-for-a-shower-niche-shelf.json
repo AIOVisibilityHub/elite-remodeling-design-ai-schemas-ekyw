@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-is-the-best-material-for-a-shower-niche-shelf",
+  "name": "What is the best material for a shower niche shelf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best material for a shower niche shelf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Niche shelves can use matching tile, stone, quartz, solid-surface material, or other compatible finishes, but the selection should account for slope, thickness, edge treatment, maintenance, and waterproofing transitions. The shelf must be supported and sealed as part of the wet-area assembly.\n\nKey factors:\n- Stone and solid surfaces can reduce grout joints on the horizontal surface.\n- Tile shelves may coordinate better with the wall but require careful cuts and joints.\n- Porous materials may need additional maintenance or sealing according to the manufacturer.\n\nPractical guidance: Bring the countertop, tile, and trim selections together so the shelf edge does not look like an afterthought. Elite Remodeling & Design can coordinate the shelf material with the bathroom’s design, tile work, and construction sequence.\n\nChoose a shelf that balances appearance, drainage, durability, and cleaning effort.",
+        "@type": "Answer",
+        "description": "Tile, stone, quartz, and solid-surface materials can work when properly supported, sloped, and integrated with waterproofing. Compare grout exposure, porosity, edge finish, cleaning, thickness, and compatibility with the wall tile before choosing the shelf."
+      }
+    }
+  ],
+  "description": "Tile, stone, quartz, and solid-surface materials can work when properly supported, sloped, and integrated with waterproofing. Compare grout exposure, porosity,"
+}

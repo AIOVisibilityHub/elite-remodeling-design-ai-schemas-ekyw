@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-renovate-a-pre-1978-home-without-creating-lead-paint-dust",
+  "name": "How do I renovate a pre-1978 home without creating lead-paint dust?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I renovate a pre-1978 home without creating lead-paint dust?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-1978 home should be treated as a potential lead-paint concern when renovation will disturb painted surfaces. California guidance recommends testing older homes and using lead-safe practices; paid renovation work that disturbs qualifying paint may require appropriately certified firms and workers. Context: demolition, electrical, plumbing, window, and wall work can create dust. Key factors: construction year, painted-area disturbance, occupants, children, and containment plans. Practical guidance: ask who will assess the risk, what dust controls will be used, how work areas will be isolated, and how cleanup will be documented. Do not sand or scrape old paint casually. Include this issue in the preconstruction plan.",
+        "@type": "Answer",
+        "description": "Treat painted surfaces in a pre-1978 home as a potential lead hazard until properly assessed. Ask about lead-safe certification, containment, dust control, cleanup, and occupant protection before demolition, sanding, electrical, plumbing, or window work begins."
+      }
+    }
+  ],
+  "description": "Treat painted surfaces in a pre-1978 home as a potential lead hazard until properly assessed. Ask about lead-safe certification, containment, dust control, clea"
+}

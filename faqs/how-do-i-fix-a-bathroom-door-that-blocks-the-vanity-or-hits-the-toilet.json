@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-fix-a-bathroom-door-that-blocks-the-vanity-or-hits-the-toilet",
+  "name": "How do I fix a bathroom door that blocks the vanity or hits the toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I fix a bathroom door that blocks the vanity or hits the toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door that hits the vanity, toilet, or shower is a layout problem worth fixing before finishes are selected. Options may include reversing the swing, shifting the opening, using a pocket-style door where appropriate, or changing the fixture arrangement. Wall construction, privacy, hardware, accessibility, and nearby switches can affect which option works. Draw the door arc on the floor plan and verify that the open door does not block the best path or an emergency exit route. Elite Remodeling & Design can compare door and fixture arrangements within the broader layout design.",
+        "@type": "Answer",
+        "description": "Draw the full door swing on a measured plan before changing fixtures. Possible solutions include reversing the swing, shifting the doorway, using a pocket-style door where feasible, or rearranging the vanity and toilet. Check wall space, privacy, switches, trim, and access before selecting a door type."
+      }
+    }
+  ],
+  "description": "Draw the full door swing on a measured plan before changing fixtures. Possible solutions include reversing the swing, shifting the doorway, using a pocket-style"
+}

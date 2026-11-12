@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-living-near-the-coast-in-coronado-or-imperial-beach-change-how-a-whole-hous",
+  "name": "Does living near the coast in Coronado or Imperial Beach change how a whole-house remodel should be planned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does living near the coast in Coronado or Imperial Beach change how a whole-house remodel should be planned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal properties may require extra attention to moisture exposure, corrosion-resistant materials, ventilation, waterproofing, exterior openings, and the condition of existing envelopes, but the correct measures depend on the specific site and scope. Homes near Coronado, Imperial Beach, La Jolla, or other coastal areas should not be evaluated exactly like inland properties. Ask for an existing-condition review that considers exposure and maintenance demands. Material selections should balance appearance, durability, availability, and compatibility with the construction details.",
+        "@type": "Answer",
+        "description": "Coastal exposure can make moisture management, corrosion resistance, ventilation, waterproofing, and exterior-envelope condition more important. The right approach depends on the property, so request a site-specific review before choosing materials. Compare durability and maintenance demands, not just appearance or initial price."
+      }
+    }
+  ],
+  "description": "Coastal exposure can make moisture management, corrosion resistance, ventilation, waterproofing, and exterior-envelope condition more important. The right appro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-there-is-a-pipe-or-wire-where-i-want-my-shower-niche",
+  "name": "What happens if there is a pipe or wire where I want my shower niche?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if there is a pipe or wire where I want my shower niche?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shower niche should not normally be installed in front of a vent, pipe, electrical line, or other concealed service without a safe redesign. Finding an obstruction is a planning issue, not a reason to cut through it.\n\nKey factors:\n- Wall openings should be inspected before framing is altered.\n- Moving a service may change the plumbing, electrical, structural, or permit scope.\n- A different wall or surface-mounted option may be less disruptive.\n\nPractical guidance: Tell Elite Remodeling & Design about any known plumbing, electrical, or HVAC routes before the niche location is approved. If an obstruction appears during demolition, pause that portion of work and revise the layout rather than reducing waterproofing or support.\n\nA well-coordinated bathroom plan leaves room for existing conditions to change the design responsibly.",
+        "@type": "Answer",
+        "description": "Do not cut through it. The location should be revised or the service safely relocated after inspection, which may affect scope, timing, and permits. A different wall or surface-mounted niche may avoid unnecessary disruption while preserving waterproofing and support."
+      }
+    }
+  ],
+  "description": "Do not cut through it. The location should be revised or the service safely relocated after inspection, which may affect scope, timing, and permits. A different"
+}

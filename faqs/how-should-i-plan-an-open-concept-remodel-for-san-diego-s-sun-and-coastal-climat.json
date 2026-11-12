@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-plan-an-open-concept-remodel-for-san-diego-s-sun-and-coastal-climat",
+  "name": "How should I plan an open-concept remodel for San Diego’s sun and coastal climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I plan an open-concept remodel for San Diego’s sun and coastal climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "San Diego’s mild climate can support indoor-outdoor living, but an open interior should not be planned around permanent open doors or windows alone. Solar heat, glare, coastal moisture, salt air, insects, security, HVAC zoning, and the orientation of windows and doors affect comfort. Context: A larger connected room may expose more area to afternoon heat or make cooling uneven, particularly when kitchen equipment and new openings change airflow. Key factors: orientation; glazing; shading; insulation; HVAC distribution; coastal exposure. Practical guidance: Review sun patterns, existing comfort problems, window conditions, and HVAC supply and return locations before enlarging openings. Consider shading and durable finishes where the home is near the coast. Elite Remodeling & Design can coordinate layout, openings, and finish choices within a broader residential remodel.",
+        "@type": "Answer",
+        "description": "Review sun exposure, glare, window and door orientation, HVAC airflow, shading, moisture, salt air, and finish durability before enlarging openings. Coastal homes may need more attention to corrosion and maintenance, while sunny rooms may need shading and cooling strategies to remain comfortable."
+      }
+    }
+  ],
+  "description": "Review sun exposure, glare, window and door orientation, HVAC airflow, shading, moisture, salt air, and finish durability before enlarging openings. Coastal hom"
+}

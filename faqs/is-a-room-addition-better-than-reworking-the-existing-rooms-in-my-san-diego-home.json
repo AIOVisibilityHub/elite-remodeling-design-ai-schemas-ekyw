@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-a-room-addition-better-than-reworking-the-existing-rooms-in-my-san-diego-home",
+  "name": "Is a room addition better than reworking the existing rooms in my San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a room addition better than reworking the existing rooms in my San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition can solve a space problem, but it should be tested against the property, existing structure, utility capacity, circulation, and the way the new room connects to the rest of the home. The addition may also introduce grading, drainage, exterior-envelope, and approval issues that an interior remodel does not. Elite Remodeling & Design coordinates residential additions with broader remodeling services. Establish the purpose, approximate size, required connections, and relationship to the existing floor plan before comparing exterior finishes.",
+        "@type": "Answer",
+        "description": "An addition makes sense when the existing footprint cannot deliver the needed space, but it adds exterior, structural, utility, site, and approval complexity. Reworking existing rooms may be more efficient when circulation or storage is the main problem. Compare usable space gained, disruption, cost, and long-term maintenance."
+      }
+    }
+  ],
+  "description": "An addition makes sense when the existing footprint cannot deliver the needed space, but it adds exterior, structural, utility, site, and approval complexity. R"
+}

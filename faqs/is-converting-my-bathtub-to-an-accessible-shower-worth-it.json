@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-converting-my-bathtub-to-an-accessible-shower-worth-it",
+  "name": "Is converting my bathtub to an accessible shower worth it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is converting my bathtub to an accessible shower worth it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion may be worthwhile when stepping over the tub is the main obstacle, but it is not always the best answer for every user. Elite Remodeling & Design can assess whether the existing footprint supports a low-threshold or roll-in design and whether plumbing must move. Context: Removing the tub can improve entry but may reduce bathing options, storage, or resale preferences for some households. A seated shower, handheld spray, controls within reach, and secure support may matter more than the fixture label. Key factors: transfer ability, bathing preferences, caregiver assistance, room dimensions, and waterproofing scope. Practical guidance: Decide whether the priority is independent showering, assisted bathing, or retaining a tub elsewhere in the home. Ask for the tub’s removal, disposal, drain work, and finish restoration to be listed separately.",
+        "@type": "Answer",
+        "description": "It can be worthwhile when the tub wall is the main barrier, but the right choice depends on transfer ability, bathing preferences, caregiver space, room dimensions, and plumbing conditions. Ask whether the design includes a low or zero entry, seat, handheld spray, support, waterproofing, and finished floor restoration."
+      }
+    }
+  ],
+  "description": "It can be worthwhile when the tub wall is the main barrier, but the right choice depends on transfer ability, bathing preferences, caregiver space, room dimensi"
+}

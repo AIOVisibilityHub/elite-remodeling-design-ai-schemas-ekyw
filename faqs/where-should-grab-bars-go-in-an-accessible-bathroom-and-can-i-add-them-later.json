@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-grab-bars-go-in-an-accessible-bathroom-and-can-i-add-them-later",
+  "name": "Where should grab bars go in an accessible bathroom, and can I add them later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should grab bars go in an accessible bathroom, and can I add them later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grab bars should be placed where the user actually transfers, enters, exits, or stands—not simply where an empty wall is available. They also need secure attachment to appropriate wall support; accessibility guidance warns that a bar’s usefulness depends on proper anchoring. Context: Locations near the toilet, shower entry, inside the shower, and beside a seat may serve different movements. Elite Remodeling & Design can plan backing and bar placement before walls are closed. Key factors: user height, hand dominance, transfer direction, seat position, wall framing, and bar shape. Practical guidance: Demonstrate the user’s movement pattern during the design visit. Ask for backing or reinforcement wherever future bars may be needed, even if bars are installed later. Avoid relying on suction or adhesive bars for primary support.",
+        "@type": "Answer",
+        "description": "Place bars beside the toilet, at the shower entry, and where the user transfers or stands, based on the person’s actual movement pattern. Plan structural backing before walls close; suction or adhesive products should not be treated as primary support. Proper anchoring is essential."
+      }
+    }
+  ],
+  "description": "Place bars beside the toilet, at the shower entry, and where the user transfers or stands, based on the person’s actual movement pattern. Plan structural backin"
+}

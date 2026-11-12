@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-i-have-no-plans-or-permits-for-my-older-house",
+  "name": "What if I have no plans or permits for my older house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have no plans or permits for my older house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If documentation is missing, rely on measured existing conditions, visible evidence, records available from the jurisdiction, and professional review rather than assumptions. Context: undocumented additions, enclosed patios, converted garages, and relocated utilities can affect design, cost, and permit discussions. Key factors: the home’s age, prior owners, property records, structural connections, utility routes, and whether the current layout matches available documents. Practical guidance: disclose uncertainty at the first consultation and photograph areas that may have been altered. Ask which conditions must be verified before design is finalized. A clearly labeled unknown is safer than an inaccurate plan.",
+        "@type": "Answer",
+        "description": "Start with measured existing conditions and disclose the missing records. Gather whatever assessor, inspection, or previous-sale documents you have, then ask the remodeling team to identify which walls, utilities, additions, and conversions need field verification before design or permit submittal."
+      }
+    }
+  ],
+  "description": "Start with measured existing conditions and disclose the missing records. Gather whatever assessor, inspection, or previous-sale documents you have, then ask th"
+}

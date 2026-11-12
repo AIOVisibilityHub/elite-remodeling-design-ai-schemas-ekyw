@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-permits-or-inspections-delay-my-accessible-bathroom-remodel",
+  "name": "What happens if permits or inspections delay my accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if permits or inspections delay my accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a permit or approval is delayed, ask for the specific missing information, responsible party, and revised milestone rather than guessing at the next step. California permit guidance emphasizes that submitted construction documents must clearly show the work and demonstrate code compliance. Elite Remodeling & Design’s process may include coordinating permit applications, but the schedule still depends on the reviewing jurisdiction and project scope. Context: Revisions may affect layout, shower dimensions, structural details, or electrical and plumbing plans. Key factors: incomplete drawings, jurisdiction comments, scope changes, inspection availability, and product substitutions. Practical guidance: Request written status updates and keep construction from starting where approval is required but unresolved. Ask whether selections or off-site fabrication can continue while review is pending. Tie schedule changes to documented approvals and material availability.",
+        "@type": "Answer",
+        "description": "The contractor should identify the missing information, submit revisions when needed, and update the schedule around approval and inspection milestones. Ask for written status, confirm what work may proceed, and avoid starting permit-required construction before the relevant approval is in place."
+      }
+    }
+  ],
+  "description": "The contractor should identify the missing information, submit revisions when needed, and update the schedule around approval and inspection milestones. Ask for"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-shower-niche-when-converting-my-bathtub-to-a-shower",
+  "name": "Can I add a shower niche when converting my bathtub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a shower niche when converting my bathtub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche can be added during a tub-to-shower conversion, but its placement must be coordinated with the new shower footprint, plumbing, wall framing, waterproofing, and tile layout. The conversion may involve more than inserting a storage box into the existing wall.\n\nKey factors:\n- The former tub wall may contain plumbing or framing that limits recess depth.\n- The new showerhead, valve, drain, and door change the available wall area.\n- A niche may be easier to plan after the new layout is established.\n\nPractical guidance: Include the niche in the initial tub-removal and bathroom-layout discussion with Elite Remodeling & Design. Approve its dimensions before wall waterproofing and tile work begin, and ask whether a ledge or surface-mounted option offers better storage if the old tub wall is crowded.\n\nEarly coordination prevents the niche from becoming an expensive late change.",
+        "@type": "Answer",
+        "description": "Yes, but plan it with the new shower layout, plumbing, drain, valve, door, framing, waterproofing, and tile. The former tub wall may have limited depth or concealed services. Include the niche before the tub is removed and wall finishes are ordered."
+      }
+    }
+  ],
+  "description": "Yes, but plan it with the new shower layout, plumbing, drain, valve, door, framing, waterproofing, and tile. The former tub wall may have limited depth or conce"
+}

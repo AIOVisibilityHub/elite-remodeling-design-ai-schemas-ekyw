@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remodel-an-older-san-diego-house-into-an-open-floor-plan-if-there-are-no-o",
+  "name": "Can I remodel an older San Diego house into an open floor plan if there are no original plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel an older San Diego house into an open floor plan if there are no original plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an open-concept remodel can still work well in an older or previously altered home, but the design should begin with verification rather than assumptions. Existing walls, wiring, plumbing, uneven floors, prior additions, and undocumented changes may alter the feasible layout and budget. Context: Old drawings may not match field conditions, and opening a wall can reveal repairs or utility paths that were not visible. Key factors: available records; framing condition; panel capacity; plumbing routes; floor transitions. Practical guidance: Photograph accessible attic, crawlspace, garage, and utility areas, and identify any past work before the consultation. Build a decision point into the plan for concealed-condition findings. Elite Remodeling & Design’s design-build approach is suited to coordinating investigation, layout development, permitting, and construction as one project.",
+        "@type": "Answer",
+        "description": "Often, yes, but the team must verify conditions in the field. Without original plans, expect more investigation of framing, utilities, electrical capacity, floor levels, and prior alterations. Photos, inspection records, and access to attic, crawlspace, garage, and panel areas can improve early planning."
+      }
+    }
+  ],
+  "description": "Often, yes, but the team must verify conditions in the field. Without original plans, expect more investigation of framing, utilities, electrical capacity, floo"
+}

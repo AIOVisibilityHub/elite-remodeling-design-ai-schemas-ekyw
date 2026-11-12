@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-toilet-and-shower-be-moved-or-are-they-stuck-where-they-are",
+  "name": "Can my toilet and shower be moved, or are they stuck where they are?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my toilet and shower be moved, or are they stuck where they are?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving fixtures is possible, but it should be evaluated before the layout is approved because drains, water lines, venting, electrical work, floor framing, and wall access all affect feasibility. A toilet relocation generally deserves especially careful review because its drain route and vent connection may limit placement. The project may also require plumbing or other permits depending on the work and local jurisdiction. Prepare the current floor plan, crawlspace or slab information if available, and the desired fixture positions. Elite Remodeling & Design coordinates design, construction requirements, permit applications, and inspections as part of its stated project process.",
+        "@type": "Answer",
+        "description": "They may be movable, but the answer depends on drain routes, venting, water lines, framing, slab or crawlspace access, and electrical requirements. A fixture move can change project complexity and permit needs. Have the existing layout and preferred positions reviewed before committing to tile, cabinets, or fixtures."
+      }
+    }
+  ],
+  "description": "They may be movable, but the answer depends on drain routes, venting, water lines, framing, slab or crawlspace access, and electrical requirements. A fixture mo"
+}

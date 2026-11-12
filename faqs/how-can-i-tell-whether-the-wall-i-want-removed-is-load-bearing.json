@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-the-wall-i-want-removed-is-load-bearing",
+  "name": "How can I tell whether the wall I want removed is load bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether the wall I want removed is load bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wall should not be removed until its structural role has been established by qualified project professionals. If it carries floor, roof, or upper-level loads, the solution may require a properly sized beam, posts, connection details, and adequate support below; local plan requirements can include structural documentation. Context: Even a non-load-bearing wall may conceal wiring, plumbing, ductwork, or ventilation that must be safely rerouted. Guessing from wall thickness or attic visibility is unreliable. Key factors: framing direction; supports above and below; foundation conditions; utilities. Practical guidance: Provide any old plans, renovation records, attic or crawlspace photos, and information about additions. Do not begin demolition based only on a visual assumption. Elite Remodeling & Design can include existing-condition review and design coordination before construction planning.",
+        "@type": "Answer",
+        "description": "You usually cannot confirm that safely from appearance alone. Review framing above and below the wall, roof and floor load paths, foundation support, and concealed utilities; structural plans or calculations may be needed. Have the wall assessed before demolition, especially in a multistory or remodeled home."
+      }
+    }
+  ],
+  "description": "You usually cannot confirm that safely from appearance alone. Review framing above and below the wall, roof and floor load paths, foundation support, and concea"
+}

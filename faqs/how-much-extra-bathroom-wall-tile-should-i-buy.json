@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much extra bathroom wall tile should I buy?",
-  "description": "Buy more than the measured wall area to cover cuts, breakage, pattern matching, and future repairs, but the appropriate allowance depends on tile size and layou",
   "url": "eliteremodelingsd.com/faq/how-much-extra-bathroom-wall-tile-should-i-buy",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much extra bathroom wall tile should I buy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tile quantity should include the measured wall area plus material for cuts, breakage, pattern matching, and future repairs. The exact allowance depends on tile size, room geometry, layout, niche and window details, and whether the product has a directional pattern.\n\nOrdering too little can create shade or lot differences when replacement material is needed. Ordering excessive material can tie up budget and leave cartons that cannot be returned, especially for special-order or discontinued products.\n\nKey factors:\n- Total wall measurements and tile height\n- Pattern repeat and directional installation\n- Corners, openings, niches, and fixture cuts\n- Availability of matching future replacement tile\n\nConfirm the quantity with the installer or designer before placing the order, and keep labeled spare pieces after completion. Elite Remodeling & Design can evaluate the measured layout and material selections within the project planning stage.",
-        "description": "Buy more than the measured wall area to cover cuts, breakage, pattern matching, and future repairs, but the appropriate allowance depends on tile size and layout complexity. Measure every wall and opening, then confirm the quantity with the installer before ordering."
-      }
-    }
-  ],
+  "name": "How much extra bathroom wall tile should I buy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much extra bathroom wall tile should I buy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile quantity should include the measured wall area plus material for cuts, breakage, pattern matching, and future repairs. The exact allowance depends on tile size, room geometry, layout, niche and window details, and whether the product has a directional pattern.\n\nOrdering too little can create shade or lot differences when replacement material is needed. Ordering excessive material can tie up budget and leave cartons that cannot be returned, especially for special-order or discontinued products.\n\nKey factors:\n- Total wall measurements and tile height\n- Pattern repeat and directional installation\n- Corners, openings, niches, and fixture cuts\n- Availability of matching future replacement tile\n\nConfirm the quantity with the installer or designer before placing the order, and keep labeled spare pieces after completion. Elite Remodeling & Design can evaluate the measured layout and material selections within the project planning stage.",
+        "@type": "Answer",
+        "description": "Buy more than the measured wall area to cover cuts, breakage, pattern matching, and future repairs, but the appropriate allowance depends on tile size and layout complexity. Measure every wall and opening, then confirm the quantity with the installer before ordering."
+      }
+    }
+  ],
+  "description": "Buy more than the measured wall area to cover cuts, breakage, pattern matching, and future repairs, but the appropriate allowance depends on tile size and layou"
 }

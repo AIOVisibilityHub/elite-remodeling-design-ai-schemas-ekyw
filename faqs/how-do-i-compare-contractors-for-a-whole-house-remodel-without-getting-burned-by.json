@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-compare-contractors-for-a-whole-house-remodel-without-getting-burned-by",
+  "name": "How do I compare contractors for a whole-house remodel without getting burned by a low bid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I compare contractors for a whole-house remodel without getting burned by a low bid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right contractor should be evaluated on coordination ability, relevant project experience, communication, documentation, and fit—not just the lowest bid. Compare whether each proposal covers design, engineering if needed, permits, selections, demolition, protection, inspections, cleanup, and closeout. Elite Remodeling & Design combines residential design and construction coordination across kitchens, bathrooms, whole-home renovations, additions, ADUs, and garage conversions. Ask for comparable completed projects, references, licensing and insurance information, a detailed scope, and a clear process for changes.",
+        "@type": "Answer",
+        "description": "Compare scope completeness, design and construction coordination, permit handling, allowances, exclusions, insurance, references, communication, and change-order procedures—not just the bottom-line bid. A proposal should explain demolition, protection, inspections, cleanup, selections, and closeout so competing prices are genuinely comparable."
+      }
+    }
+  ],
+  "description": "Compare scope completeness, design and construction coordination, permit handling, allowances, exclusions, insurance, references, communication, and change-orde"
+}

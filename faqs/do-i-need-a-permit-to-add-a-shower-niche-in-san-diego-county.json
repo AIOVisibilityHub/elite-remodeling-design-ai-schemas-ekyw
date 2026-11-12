@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-add-a-shower-niche-in-san-diego-county",
+  "name": "Do I need a permit to add a shower niche in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to add a shower niche in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A niche usually does not require its own separate permit simply because it is a recessed storage compartment, but the overall bathroom work may require permits when it changes building, plumbing, electrical, structural, or other regulated components. Requirements also depend on the local jurisdiction and project scope.\n\nKey factors:\n- A shower relocation, valve change, new circuit, wall alteration, or structural work may affect the permit path.\n- San Diego County projects can fall under different city permitting offices.\n- A niche added during a larger permitted remodel should be shown in the coordinated scope when relevant.\n\nPractical guidance: Ask Elite Remodeling & Design to identify the applicable permit and inspection steps for the project address before construction starts. This is particularly important when comparing homes in San Diego, Chula Vista, Coronado, National City, or Imperial Beach, because the responsible local agency may differ.\n\nDo not assume a cosmetic-looking niche makes the entire bathroom remodel permit-exempt.",
+        "@type": "Answer",
+        "description": "The niche alone may not determine permitting, but the surrounding bathroom work can. Plumbing, electrical, structural, wall, or shower changes may affect requirements, and rules vary by jurisdiction. Have the project scope reviewed for the specific address before work begins."
+      }
+    }
+  ],
+  "description": "The niche alone may not determine permitting, but the surrounding bathroom work can. Plumbing, electrical, structural, wall, or shower changes may affect requir"
+}

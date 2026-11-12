@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-tell-a-remodeler-about-a-wheelchair-walker-or-caregiver-before-des",
+  "name": "What should I tell a remodeler about a wheelchair, walker, or caregiver before design starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I tell a remodeler about a wheelchair, walker, or caregiver before design starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tell the remodeler about every mobility aid, transfer method, and person who may use the room, including a caregiver or partner. Elite Remodeling & Design can use that information to shape the layout, fixtures, storage, lighting, and construction details around actual household needs. Context: A bathroom sized for one standing user may not work for a wheelchair, walker, shower chair, or assisted transfer. Key factors: equipment width and turning needs, user height, reach, hand dominance, assistance from another person, bathing routine, and future changes. Practical guidance: Bring the actual equipment to the design visit when possible, or provide exact dimensions. Demonstrate how the user currently enters, transfers, and exits. Recheck those movements against the proposed layout before approving it.",
+        "@type": "Answer",
+        "description": "Share equipment dimensions, transfer direction, user height, reach, hand dominance, bathing routine, and caregiver space needs. Demonstrate current movements or bring the equipment to the consultation. The design should show whether the actual user and helper can enter, turn, transfer, and exit comfortably."
+      }
+    }
+  ],
+  "description": "Share equipment dimensions, transfer direction, user height, reach, hand dominance, bathing routine, and caregiver space needs. Demonstrate current movements or"
+}

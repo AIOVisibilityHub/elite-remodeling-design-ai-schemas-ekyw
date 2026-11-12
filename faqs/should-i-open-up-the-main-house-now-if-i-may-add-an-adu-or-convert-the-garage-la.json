@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-open-up-the-main-house-now-if-i-may-add-an-adu-or-convert-the-garage-la",
+  "name": "Should I open up the main house now if I may add an ADU or convert the garage later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I open up the main house now if I may add an ADU or convert the garage later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-concept work in a home with an addition, ADU, or garage conversion should be planned as one connected property system when circulation, utilities, or load paths overlap. A kitchen opening may affect electrical capacity, plumbing routes, HVAC distribution, exterior access, or the relationship between the main home and added space. Context: Treating each project separately can create duplicated work or incompatible finishes. Key factors: current and future use; service capacity; utility routes; phasing; site access. Practical guidance: Tell the design team about planned additions, ADUs, garage conversions, or future rental use before the layout is finalized. Ask for a property-wide concept plan even if construction will occur in phases. Elite Remodeling & Design offers room additions, ADUs, garage conversions, and whole-home remodeling alongside kitchen work.",
+        "@type": "Answer",
+        "description": "Discuss both projects before finalizing the main-house plan. Future additions or garage conversions may affect utilities, access, electrical capacity, circulation, phasing, and finish coordination. A property-wide concept can prevent duplicated demolition or a kitchen layout that conflicts with later work."
+      }
+    }
+  ],
+  "description": "Discuss both projects before finalizing the main-house plan. Future additions or garage conversions may affect utilities, access, electrical capacity, circulati"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-buy-cabinets-and-appliances-before-hiring-someone-to-open-up-the-floor",
+  "name": "Should I buy cabinets and appliances before hiring someone to open up the floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I buy cabinets and appliances before hiring someone to open up the floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should generally choose the layout before ordering cabinets, appliances, countertops, and major finish materials. The opening affects cabinet runs, island size, flooring transitions, lighting, outlets, hood routing, HVAC, and sometimes plumbing, so early purchases can limit better solutions. Context: Product dimensions, lead times, and compatibility matter, but selections made before the existing and proposed plans are coordinated can create rework. Key factors: final layout; appliance specifications; cabinet dimensions; utility locations. Practical guidance: Approve a measured plan and appliance schedule first, then select materials against that plan. Keep manufacturer specifications and installation requirements with the project documents. Elite Remodeling & Design can coordinate 3D design, material selections, and construction planning before work begins.",
+        "@type": "Answer",
+        "description": "Usually no. Finalize the measured layout, structural approach, appliance specifications, utility locations, and cabinet dimensions first. Early purchases can restrict circulation, island size, ventilation, and storage, or create expensive compatibility problems when the wall and surrounding systems are changed."
+      }
+    }
+  ],
+  "description": "Usually no. Finalize the measured layout, structural approach, appliance specifications, utility locations, and cabinet dimensions first. Early purchases can re"
+}

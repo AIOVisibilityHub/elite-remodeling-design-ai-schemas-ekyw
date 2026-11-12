@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-bathroom-layout-changes-help-if-i-want-to-age-in-place",
+  "name": "What bathroom layout changes help if I want to age in place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What bathroom layout changes help if I want to age in place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom can be redesigned for aging in place without looking institutional. Useful choices may include a curbless or low-threshold shower, stable grab-bar backing, a handheld shower, comfortable lighting, slip-conscious flooring, clear entry space, and reachable storage. The right combination depends on current mobility, anticipated needs, caregiver access, and whether the room is shared. Plan structural backing before walls close, even if grab bars will be installed later. Tell Elite Remodeling & Design which features matter now and which should remain adaptable for future use.",
+        "@type": "Answer",
+        "description": "Consider a low-threshold or curbless shower, clear entry space, handheld shower, strong lighting, reachable controls, slip-conscious flooring, and structural backing for future grab bars. Plan backing before walls are closed. The best arrangement depends on mobility, caregiver access, room size, and whether the bathroom is shared."
+      }
+    }
+  ],
+  "description": "Consider a low-threshold or curbless shower, clear entry space, handheld shower, strong lighting, reachable controls, slip-conscious flooring, and structural ba"
+}

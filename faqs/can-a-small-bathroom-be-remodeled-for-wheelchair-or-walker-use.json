@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-small-bathroom-be-remodeled-for-wheelchair-or-walker-use",
+  "name": "Can a small bathroom be remodeled for wheelchair or walker use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small bathroom be remodeled for wheelchair or walker use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an accessible bathroom can usually be designed around the existing room, but the best solution depends on dimensions, plumbing locations, doors, walls, and floor height. Elite Remodeling & Design can develop a customized layout instead of assuming a complete room expansion is necessary. Context: A wider opening, low-threshold shower, handheld fixture, seat, or better lighting may provide meaningful improvement without changing every fixture. A true roll-in shower may require more extensive floor and drainage work. Key factors: bathroom size, structural conditions, drain location, door swing, turning space, and whether a caregiver needs room to assist. Practical guidance: Measure the room and note the direction of each door. Share mobility equipment dimensions before design decisions are finalized. A coordinated design review helps distinguish must-have changes from costly upgrades.",
+        "@type": "Answer",
+        "description": "Often, yes, but the layout must be evaluated carefully. Door swings, turning space, shower entry, fixture placement, drain location, and floor height determine whether a small bathroom needs a partial redesign or more extensive construction."
+      }
+    }
+  ],
+  "description": "Often, yes, but the layout must be evaluated carefully. Door swings, turning space, shower entry, fixture placement, drain location, and floor height determine"
+}

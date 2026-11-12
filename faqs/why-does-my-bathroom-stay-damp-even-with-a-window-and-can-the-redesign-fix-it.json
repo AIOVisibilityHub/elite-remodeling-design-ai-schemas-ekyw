@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-bathroom-stay-damp-even-with-a-window-and-can-the-redesign-fix-it",
+  "name": "Why does my bathroom stay damp even with a window, and can the redesign fix it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom stay damp even with a window, and can the redesign fix it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Poor bathroom ventilation should be addressed during layout planning, not after the tile is installed. A bathroom with a shower or tub may need mechanical exhaust that vents outdoors, and the fan location, duct route, controls, and exterior termination affect the plan. A window does not automatically solve moisture management, particularly when the room is used during cool or humid conditions. Identify the current fan, duct outlet, switches, and any condensation or mold history. Elite Remodeling & Design can coordinate ventilation with electrical, ceiling, waterproofing, and finish work; local requirements should be confirmed for the specific property.",
+        "@type": "Answer",
+        "description": "A window may not provide consistent moisture removal. The redesign should evaluate mechanical exhaust, outdoor ducting, fan placement, controls, duct routing, and exterior termination. Record condensation, peeling paint, odors, or mold-like growth, and disclose them before work so ventilation and possible hidden moisture conditions are included in the plan."
+      }
+    }
+  ],
+  "description": "A window may not provide consistent moisture removal. The redesign should evaluate mechanical exhaust, outdoor ducting, fan placement, controls, duct routing, a"
+}

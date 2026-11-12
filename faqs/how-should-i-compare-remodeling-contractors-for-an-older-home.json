@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-compare-remodeling-contractors-for-an-older-home",
+  "name": "How should I compare remodeling contractors for an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I compare remodeling contractors for an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not choose a contractor solely on the lowest initial number; compare the scope, assumptions, experience with older homes, communication process, and handling of concealed conditions. Context: Elite Remodeling & Design combines design development, construction coordination, and permitting support for projects from rooms to whole-home renovations. Key factors: who prepares the design, who manages subcontractors, what the estimate excludes, how changes are priced, and how inspections are coordinated. Practical guidance: request comparable written scopes and ask each contractor how they document existing conditions and discoveries. Verify licensing and references independently. The best comparison is between equivalent deliverables, not headline prices.",
+        "@type": "Answer",
+        "description": "Compare equivalent written scopes, design responsibility, permit handling, allowances, exclusions, change-order rules, schedule assumptions, and experience with concealed conditions. Verify licensing and references, and ask how discoveries behind walls or under floors will be documented and priced."
+      }
+    }
+  ],
+  "description": "Compare equivalent written scopes, design responsibility, permit handling, allowances, exclusions, change-order rules, schedule assumptions, and experience with"
+}
