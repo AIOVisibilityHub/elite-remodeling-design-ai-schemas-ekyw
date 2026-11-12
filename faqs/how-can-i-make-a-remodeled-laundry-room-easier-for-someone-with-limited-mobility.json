@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-make-a-remodeled-laundry-room-easier-for-someone-with-limited-mobility",
+  "name": "How can I make a remodeled laundry room easier for someone with limited mobility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a remodeled laundry room easier for someone with limited mobility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A laundry room should be planned around the people who use it, not only the appliance footprint. Lower reachable storage, comfortable folding height, easy-to-operate controls, good lighting, and a clear route can make the room more useful for children, older adults, or anyone with limited reach.\n\nElite Remodeling & Design can adjust layout, counter height, storage placement, and appliance arrangement during design development. The tradeoff is that a highly customized arrangement may reduce standard storage or require different appliances.\n\nKey factors:\n- Reach range and lifting comfort.\n- Front-loading versus top-loading machines.\n- Door and walkway clearances.\n- Lighting and visibility of controls.\n\nExplain who will use the room and what tasks are difficult today. Test proposed counter heights and storage zones before materials are ordered.",
+        "@type": "Answer",
+        "description": "Prioritize clear paths, reachable storage, comfortable counter height, easy controls, strong lighting, and appliance access. Share the users’ specific limitations during design so the layout can be tailored instead of relying on standard dimensions."
+      }
+    }
+  ],
+  "description": "Prioritize clear paths, reachable storage, comfortable counter height, easy controls, strong lighting, and appliance access. Share the users’ specific limitatio"
+}

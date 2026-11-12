@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-an-engineer-to-remove-an-interior-wall",
+  "name": "Do I need an engineer to remove an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an engineer to remove an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. A structural review may find that a beam or support is required even when no load-bearing wall is visible, while a clearly nonstructural partition may not need structural design. The answer depends on the opening, surrounding framing, and local requirements.\n\nContext: Structural engineering, architectural design, permit plans, and construction are separate considerations. Community discussions show that engineering and permits are often priced separately from demolition and finish work.\n\nKey factors:\n- Span and loads above\n- Existing plans and field measurements\n- Beam and post configuration\n- Jurisdictional submittal requirements\n\nPractical guidance: Ask whether the proposal includes a structural assessment, stamped or reviewed plans if needed, permit coordination, and inspection support. Elite Remodeling & Design can determine whether the wall removal belongs within a larger design-build scope requiring coordinated plans.\n\nDo not pay for unnecessary design, but do not skip it when the load path is uncertain.",
+        "@type": "Answer",
+        "description": "Maybe. A verified nonstructural partition may not need structural engineering, but a load-bearing wall or uncertain load path may require structural design, plans, or calculations. Confirm what the jurisdiction and project conditions require."
+      }
+    }
+  ],
+  "description": "Maybe. A verified nonstructural partition may not need structural engineering, but a load-bearing wall or uncertain load path may require structural design, pla"
+}

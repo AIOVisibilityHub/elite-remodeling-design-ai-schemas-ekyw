@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-remodel-a-bedroom-so-it-will-still-work-as-i-get-older",
+  "name": "How should I remodel a bedroom so it will still work as I get older?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I remodel a bedroom so it will still work as I get older?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan a bedroom for aging or changing mobility by improving clear floor space, lighting, storage access, door operation, and the relationship to the bathroom. A design that works now can be made more adaptable without looking institutional.\n\nThe right features depend on current and anticipated needs, the home’s floor plan, and whether major changes are planned. A wider path, reachable controls, better contrast, and a thoughtfully located bathroom entry may be more useful than a larger bed area alone.\n\nKey factors:\n- Bedside access and unobstructed circulation.\n- Switch, outlet, and storage heights.\n- Slip-resistant flooring and glare control.\n- Door swings and bathroom access.\n\nDiscuss future needs during design, even if no special equipment is required today. Elite Remodeling & Design can incorporate flexibility into the room plan while coordinating related bathroom or whole-home work if needed.",
+        "@type": "Answer",
+        "description": "Prioritize clear circulation, accessible controls, reachable storage, good lighting, manageable door swings, and a safe relationship to the bathroom. These features can be integrated discreetly. Discuss current and anticipated needs before the layout and electrical plan are finalized."
+      }
+    }
+  ],
+  "description": "Prioritize clear circulation, accessible controls, reachable storage, good lighting, manageable door swings, and a safe relationship to the bathroom. These feat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-getting-a-room-addition-consultation",
+  "name": "What information should I have ready before getting a room-addition consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before getting a room-addition consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a room-addition company, collect the property address, approximate room dimensions, photos, a rough sketch, desired use, preferred location, and any known plans or permits. Also note household priorities such as accessibility, bathroom needs, storage, outdoor-space preservation, and construction timing.\n\nContext: Information about the existing home helps the team identify whether the project is a footprint addition, garage conversion, second-story concept, or broader reconfiguration. Photos of the roof, foundation, electrical panel, yard, and access route can reveal questions early.\n\nKey factors:\n- Existing surveys, plans, inspection reports, and permits\n- Property constraints and known easements\n- Budget range and must-have features\n- Material, style, and timing preferences\n\nPractical guidance: Create a one-page project brief and list questions about permits, design fees, allowances, schedule, insurance, supervision, and change orders. Be candid about prior leaks, unpermitted work, or contractor experiences.\n\nElite Remodeling & Design can use that information to shape an initial consultation around the homeowner’s intended use and property conditions.",
+        "@type": "Answer",
+        "description": "Prepare the address, photos, rough dimensions, desired room use, preferred location, budget range, timing, and any plans, permits, surveys, or inspection reports. Also list must-have features, accessibility needs, storage goals, and known problems such as leaks or prior unpermitted work."
+      }
+    }
+  ],
+  "description": "Prepare the address, photos, rough dimensions, desired room use, preferred location, budget range, timing, and any plans, permits, surveys, or inspection report"
+}

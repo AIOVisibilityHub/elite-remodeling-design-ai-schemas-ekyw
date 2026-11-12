@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-new-interior-lights-myself-or-should-i-hire-a-professional",
+  "name": "Can I install new interior lights myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new interior lights myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a fixture may be reasonable when the box, wiring, location, and circuit are suitable and the new product is compatible. Professional help is the safer choice when wiring is altered, a circuit is added, access is difficult, moisture is present, or the project includes drywall, cabinets, tile, or other remodeling work.\n\n**Context:** A fixture that physically fits may still be unsuitable electrically or visually. Existing wiring, grounding, box support, insulation clearance, and control compatibility should be checked before installation.\n\n**Key factors:**\n- Like-for-like replacement versus altered wiring\n- Fixture weight and electrical box support\n- Location-specific ratings\n- Access and finish-repair requirements\n\n**Practical guidance:** Do not assume that turning off one switch makes all wiring safe or that a retrofit product fits every housing. Provide the contractor with product instructions and disclose any previous electrical problems.\n\nElite Remodeling & Design can assess lighting within the surrounding construction scope rather than treating it as an isolated product swap.",
+        "@type": "Answer",
+        "description": "A simple compatible fixture replacement may be manageable for some homeowners, but professional help is appropriate when wiring changes, circuits, difficult access, moisture, heavy fixtures, or finish repairs are involved. Share product instructions and any history of flickering, tripped breakers, or previous electrical work."
+      }
+    }
+  ],
+  "description": "A simple compatible fixture replacement may be manageable for some homeowners, but professional help is appropriate when wiring changes, circuits, difficult acc"
+}

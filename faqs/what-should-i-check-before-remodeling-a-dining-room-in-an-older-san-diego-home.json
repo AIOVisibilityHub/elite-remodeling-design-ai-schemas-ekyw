@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-remodeling-a-dining-room-in-an-older-san-diego-home",
+  "name": "What should I check before remodeling a dining room in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before remodeling a dining room in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An older home may need additional investigation before a dining room remodel, especially if you plan to alter walls, floors, windows, wiring, or ceilings. Age alone does not determine the problem, but it increases the value of verifying existing conditions rather than assuming current construction.\n\nContext: Hidden conditions can change design, cost, sequencing, and permit requirements. Elite Remodeling & Design can incorporate existing-condition review into a project that connects design development with construction planning.\n\nKey factors:\n- Previous additions or undocumented alterations.\n- Uneven floors, damaged subfloor, or outdated wiring.\n- Wall construction and possible structural support.\n- Lead paint, asbestos, or other hazardous-material concerns that may require qualified evaluation.\n\nPractical guidance: Share the home’s age, previous remodel history, known defects, and inspection reports. Ask what will be verified before demolition and how discoveries will be documented and priced.\n\nEarly investigation helps prevent avoidable surprises.",
+        "@type": "Answer",
+        "description": "Check prior alterations, floor and subfloor condition, wall construction, wiring, windows, moisture, and possible hazardous materials. Share inspection reports and the home’s remodel history, and ask what will be verified before demolition."
+      }
+    }
+  ],
+  "description": "Check prior alterations, floor and subfloor condition, wall construction, wiring, windows, moisture, and possible hazardous materials. Share inspection reports"
+}

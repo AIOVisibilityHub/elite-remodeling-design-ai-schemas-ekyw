@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-dining-room-has-a-water-stain-or-musty-smell-before-remod",
+  "name": "What should I do if my dining room has a water stain or musty smell before remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my dining room has a water stain or musty smell before remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not simply cover a recurring leak, stain, soft floor, or musty odor with new finishes. First identify and correct the source, then assess whether moisture damaged framing, drywall, subfloor, insulation, or finishes.\n\nContext: A dining room remodel can expose conditions that were hidden behind walls or under flooring. Elite Remodeling & Design’s planning process is intended to connect existing-condition review with design and construction decisions, but the scope may need to change if damage is discovered.\n\nKey factors:\n- Active versus historic moisture.\n- Source location and whether it is plumbing, roof, window, or exterior drainage.\n- Damage to structural or finish materials.\n- Need for drying, replacement, or specialist assessment.\n\nPractical guidance: Photograph the issue, note when it appears, and disclose previous repairs before demolition. Ask that remediation, testing, and reconstruction responsibilities be clearly separated in the proposal.\n\nSolving the source first protects the new remodel.",
+        "@type": "Answer",
+        "description": "Find and correct the moisture source before installing new finishes. Document the stain or odor, disclose prior repairs, and have affected drywall, flooring, insulation, and framing assessed so the remodel does not conceal continuing damage."
+      }
+    }
+  ],
+  "description": "Find and correct the moisture source before installing new finishes. Document the stain or odor, disclose prior repairs, and have affected drywall, flooring, in"
+}

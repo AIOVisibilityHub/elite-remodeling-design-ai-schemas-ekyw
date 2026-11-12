@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-living-room-built-ins-worth-it-and-how-do-i-avoid-ending-up-with-unusable-sh",
+  "name": "Are living room built-ins worth it, and how do I avoid ending up with unusable shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are living room built-ins worth it, and how do I avoid ending up with unusable shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-ins can add storage, display space, media organization, and a more finished appearance, but they reduce wall flexibility and become part of the room’s permanent layout. They work best when their contents, equipment, dimensions, ventilation, and future access are considered before fabrication.\n\n**Context:** Elite Remodeling & Design can integrate custom design decisions with construction requirements. A built-in should be sized around the actual television, speakers, books, objects, doors, windows, vents, and furniture—not only a reference image.\n\n**Key factors:**\n- Closed storage versus open shelving.\n- Cable routing, outlet locations, equipment ventilation, and service access.\n- Door swing, window trim, baseboards, and floor transitions.\n- Material durability, finish, color, and future furniture changes.\n\n**Practical guidance:** Prepare an inventory of items to store and measure electronics before approving shop drawings. Ask how the unit will be anchored, finished, ventilated, and protected during the rest of construction.\n\nElite Remodeling & Design can evaluate built-ins as part of a room layout rather than treating them as an isolated cabinet purchase.",
+        "@type": "Answer",
+        "description": "Built-ins are useful when they solve specific storage or media problems, but they permanently affect wall space and furniture flexibility. Inventory what will be stored, measure electronics, plan cable and ventilation access, and review detailed drawings for doors, shelves, trim, outlets, and service access."
+      }
+    }
+  ],
+  "description": "Built-ins are useful when they solve specific storage or media problems, but they permanently affect wall space and furniture flexibility. Inventory what will b"
+}

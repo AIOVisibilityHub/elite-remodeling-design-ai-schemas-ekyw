@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-add-a-dedicated-electrical-circuit-during-my-home-office-remodel",
+  "name": "Should I add a dedicated electrical circuit during my home office remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a dedicated electrical circuit during my home office remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dedicated circuit may be worthwhile when computers, monitors, printers, lighting, and other equipment create frequent overloads or share a circuit with high-demand appliances. Electrical work should be evaluated before walls are closed; San Diego states that adding circuits and other wiring changes generally require an electrical permit, subject to applicable exemptions. Key factors include the existing panel, circuit capacity, equipment load, outlet locations, surge protection, and future devices. Provide an equipment list and identify where each item will sit. Elite Remodeling & Design can coordinate outlet and lighting locations with the office layout during design rather than treating electrical placement as an afterthought.",
+        "@type": "Answer",
+        "description": "Consider it if several computers, monitors, printers, or other devices will share existing circuits or if you experience overloads. Have the panel, circuit capacity, outlet locations, and equipment load reviewed before drywall closes. San Diego generally requires an electrical permit for adding circuits and wiring changes, subject to limited exemptions."
+      }
+    }
+  ],
+  "description": "Consider it if several computers, monitors, printers, or other devices will share existing circuits or if you experience overloads. Have the panel, circuit capa"
+}

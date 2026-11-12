@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-the-room-addition-i-inherited-was-built-without-permits",
+  "name": "What should I do if the room addition I inherited was built without permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if the room addition I inherited was built without permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not conceal or ignore an unpermitted addition; first gather any records, permits, plans, inspection notices, and past contractor information you can find. A qualified design-build team can assess the existing work and help define what documentation, corrections, and inspections may be needed.\n\nContext: In California, local agencies may require plans and inspection before unpermitted work is recognized. One California city’s guidance states that plans must be submitted and the work inspected to legalize an addition.\n\nKey factors:\n- What was built and when\n- Structural, electrical, plumbing, and mechanical changes\n- Whether records or drawings exist\n- Current property condition and visible defects\n\nPractical guidance: Do not begin new construction over questionable work until its status is reviewed. Photograph the addition, collect closing or permit records, and disclose the issue during the initial consultation.\n\nElite Remodeling & Design can help separate existing-condition evaluation from proposed remodeling so the scope is clearer.",
+        "@type": "Answer",
+        "description": "Gather property records, plans, permits, notices, and photos, then have the existing work assessed before altering or concealing it. The jurisdiction may require drawings, corrections, and inspections before recognizing the addition, so include the issue in the project scope."
+      }
+    }
+  ],
+  "description": "Gather property records, plans, permits, notices, and photos, then have the existing work assessed before altering or concealing it. The jurisdiction may requir"
+}

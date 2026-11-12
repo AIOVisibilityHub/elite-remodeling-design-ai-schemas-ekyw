@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-use-the-same-flooring-throughout-the-house-or-mix-materials-by-room",
+  "name": "Should I use the same flooring throughout the house or mix materials by room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use the same flooring throughout the house or mix materials by room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose one material across connected rooms when visual continuity, easier cleaning, and fewer transitions are priorities. Use different materials when rooms have distinct moisture, comfort, sound, or maintenance needs and the transition can be finished cleanly.\n\nA single material can simplify future repairs and make smaller spaces feel more connected, but it may not be ideal for every room. For example, bedrooms, bathrooms, kitchens, stairs, and living areas may have different performance requirements.\n\nKey factors:\n- Compare product height, color variation, transition profiles, and direction of installation.\n- Consider whether the material is available for future repairs.\n- Decide where natural breaks can occur at doors or architectural changes.\n\nAsk to see a transition plan before ordering. If the home is being remodeled in phases, record product names, lot information, and extra material for later repairs.\n\nElite Remodeling & Design can incorporate room-to-room continuity into broader design development and finish selections.",
+        "@type": "Answer",
+        "description": "Use one material when continuity, fewer transitions, and easier maintenance matter most. Mix materials when rooms have different moisture, comfort, sound, or performance needs. Plan transitions at natural breaks and save product details plus extra material if the remodel will occur in phases."
+      }
+    }
+  ],
+  "description": "Use one material when continuity, fewer transitions, and easier maintenance matter most. Mix materials when rooms have different moisture, comfort, sound, or pe"
+}

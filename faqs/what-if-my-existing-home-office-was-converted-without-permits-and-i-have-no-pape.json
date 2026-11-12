@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-my-existing-home-office-was-converted-without-permits-and-i-have-no-pape",
+  "name": "What if my existing home office was converted without permits and I have no paperwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my existing home office was converted without permits and I have no paperwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A permit history review is useful when the existing room was previously converted, enclosed, or remodeled without clear documentation. Missing records do not automatically determine the project outcome, but they can affect how the team evaluates existing conditions, scope, and approval needs. Key factors include room use, structural changes, electrical work, additions, garage alterations, and discrepancies between the home and available plans. Gather any prior plans, inspection records, invoices, and real-estate disclosures before design begins. Elite Remodeling & Design can assess the current space and coordinate the next project scope rather than relying only on assumptions about past work.",
+        "@type": "Answer",
+        "description": "Start with an honest review of the existing conditions and gather any plans, inspection records, invoices, disclosures, or photographs you have. Unclear history may affect the proposed scope and approval process, especially if walls, electrical, garage use, or additions are involved. Do not conceal prior work; let the project team assess what is present before planning new construction."
+      }
+    }
+  ],
+  "description": "Start with an honest review of the existing conditions and gather any plans, inspection records, invoices, disclosures, or photographs you have. Unclear history"
+}

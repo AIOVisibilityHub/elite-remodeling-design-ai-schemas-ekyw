@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-an-open-floor-plan-really-better-for-a-san-diego-home",
+  "name": "Is an open floor plan really better for a San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is an open floor plan really better for a San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept layout is not automatically better; it works when it supports how the household cooks, gathers, works, rests, and stores belongings. Removing partitions can improve light and connection, but it may reduce acoustic separation, wall space, privacy, and places for furniture or cabinets. Key factors include structural cost, kitchen odors, noise, heating and cooling, sightlines, children or guests, and whether a partial wall, wide opening, glass, or pocket door could provide balance. Compare a fully open option with a defined-but-connected plan before committing. Elite Remodeling & Design can help test kitchen, dining, and living relationships within a broader remodeling plan.",
+        "@type": "Answer",
+        "description": "Not always. Opening rooms can improve light and social connection, but it may reduce privacy, acoustic separation, storage, cabinet space, and furniture walls. Compare a fully open plan with wider openings, partial walls, or doors based on how your household cooks, works, hosts, and relaxes."
+      }
+    }
+  ],
+  "description": "Not always. Opening rooms can improve light and social connection, but it may reduce privacy, acoustic separation, storage, cabinet space, and furniture walls."
+}

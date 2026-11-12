@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-floor-plan-redesign-make-my-home-easier-to-use-as-i-get-older",
+  "name": "Can a floor plan redesign make my home easier to use as I get older?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a floor plan redesign make my home easier to use as I get older?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A redesign can improve accessibility, but it should begin with the actual person’s abilities and routines rather than a generic checklist. Consider entry thresholds, hallway width, door hardware, bathroom turning space, shower access, reachable storage, lighting, flooring transitions, and future caregiving needs. Key factors include mobility aids, transfer methods, vision, bathing preferences, bedroom and bathroom proximity, and whether changes must serve more than one resident. Keep clearances consistent throughout the route from entry to essential rooms, and test the plan with the user whenever possible. Elite Remodeling & Design can incorporate changing household needs into a bathroom, whole-home, addition, or other residential remodeling plan.",
+        "@type": "Answer",
+        "description": "Yes, when the plan addresses the person’s actual movement and daily routines. Review entry thresholds, door widths and hardware, hallway routes, bathroom access, shower layout, reachable storage, lighting, flooring transitions, and bedroom-to-bathroom distance. Test the proposed route with the intended user before construction."
+      }
+    }
+  ],
+  "description": "Yes, when the plan addresses the person’s actual movement and daily routines. Review entry thresholds, door widths and hardware, hallway routes, bathroom access"
+}

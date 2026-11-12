@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-whether-my-subfloor-needs-leveling-before-new-flooring-goes-in",
+  "name": "How can I tell whether my subfloor needs leveling before new flooring goes in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell whether my subfloor needs leveling before new flooring goes in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A level-looking floor and a structurally sound floor are not the same thing. A substrate may need patching, grinding, leveling, fastening, or partial replacement before the new flooring can be installed correctly.\n\nFloating floors and many rigid products can telegraph bumps or fail when the base is outside the product’s tolerances. A contractor should identify the high and low areas, explain the proposed correction, and state whether the correction is included in the price.\n\nKey factors:\n- Look for rocking furniture, visible dips, cracked grout, or recurring seam separation.\n- Check whether the issue is localized or spread across the room.\n- Compare the preparation method with the installation requirements of the selected product.\n\nDo not accept a vague “floor prep” allowance without asking what work it covers. Photograph uneven areas and request a written assumption for concealed conditions.\n\nElite Remodeling & Design can coordinate floor preparation with layout and finish decisions when an uneven surface affects a larger remodeling project.",
+        "@type": "Answer",
+        "description": "Look for dips, humps, rocking furniture, cracked grout, squeaks, or recurring seam separation, but rely on an installation assessment for the final decision. Ask how uneven areas will be measured, what correction is proposed, and whether leveling, grinding, fastening, or replacement is included."
+      }
+    }
+  ],
+  "description": "Look for dips, humps, rocking furniture, cracked grout, squeaks, or recurring seam separation, but rely on an installation assessment for the final decision. As"
+}

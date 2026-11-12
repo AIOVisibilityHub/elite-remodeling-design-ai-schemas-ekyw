@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-for-a-bedroom-addition-in-san-diego-county",
+  "name": "Do I need a permit for a bedroom addition in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a bedroom addition in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually, yes. A new bedroom addition changes the building footprint and commonly requires building plans and permit review; the responsible agency depends on whether the property is in San Diego, Chula Vista, Coronado, National City, Imperial Beach, or another jurisdiction.\n\nCity of San Diego guidance states that permits are required before constructing or expanding a residential structure, and submitted plans may need zoning, safety, energy, and site information.\n\nKey factors:\n- City or county jurisdiction\n- Addition size and location\n- Setbacks, height, and floor-area limits\n- Coastal, historic, HOA, or site conditions\n\nDo not start demolition or foundation work until the project team confirms the applicable approvals. Elite Remodeling & Design includes permit coordination within its design-to-construction process, while final requirements depend on the property.",
+        "@type": "Answer",
+        "description": "A bedroom addition generally requires building-plan review and permits because it expands the home. Requirements vary by jurisdiction and site, so confirm the responsible city or county agency, zoning limits, setbacks, and any coastal or HOA review before construction begins."
+      }
+    }
+  ],
+  "description": "A bedroom addition generally requires building-plan review and permits because it expands the home. Requirements vary by jurisdiction and site, so confirm the r"
+}

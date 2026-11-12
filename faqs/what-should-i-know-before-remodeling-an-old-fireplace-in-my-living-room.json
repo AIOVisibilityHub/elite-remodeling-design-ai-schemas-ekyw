@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-know-before-remodeling-an-old-fireplace-in-my-living-room",
+  "name": "What should I know before remodeling an old fireplace in my living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know before remodeling an old fireplace in my living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fireplace remodel should begin with an assessment of the existing fireplace, chimney or venting, hearth, surround, fuel source, clearances, and desired finish. Changing the surround is different from replacing the insert, converting fuel types, moving the fireplace, or altering the chimney.\n\n**Context:** Fireplaces can combine finish, masonry, gas, electrical, ventilation, and structural considerations. Elite Remodeling & Design can incorporate fireplace work into a broader design-build scope, but the specific method depends on the existing installation and applicable approvals.\n\n**Key factors:**\n- Wood-burning, gas, electric, or non-operational fireplace.\n- Venting, chimney condition, hearth dimensions, and combustible clearances.\n- Mantel, television, shelving, and heat-management details.\n- Whether the work affects framing, gas, electrical, or exterior components.\n\n**Practical guidance:** Have the existing system assessed before choosing tile, stone, millwork, or a television location. Ask for the scope to identify testing, specialty trades, materials, inspections, and any limitations on operation.\n\nElite Remodeling & Design can coordinate the fireplace’s appearance with the room’s layout and finish selections.",
+        "@type": "Answer",
+        "description": "First identify the fireplace type, venting, chimney or insert condition, hearth, clearances, and whether you want a finish change or a system conversion. Fireplace work may involve masonry, gas, electrical, structural, and inspection requirements, so assess the existing installation before ordering the surround or mantel."
+      }
+    }
+  ],
+  "description": "First identify the fireplace type, venting, chimney or insert condition, hearth, clearances, and whether you want a finish change or a system conversion. Firepl"
+}

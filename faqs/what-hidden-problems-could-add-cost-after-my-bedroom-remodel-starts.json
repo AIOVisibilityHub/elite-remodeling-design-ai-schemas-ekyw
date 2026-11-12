@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-could-add-cost-after-my-bedroom-remodel-starts",
+  "name": "What hidden problems could add cost after my bedroom remodel starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems could add cost after my bedroom remodel starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bedroom remodeling is more likely to uncover hidden problems when walls, ceilings, floors, windows, or plumbing are opened. Common discoveries include uneven subfloors, outdated wiring, water damage, poor prior repairs, insufficient blocking, or conditions that do not match old plans.\n\nNot every discovery requires a full redesign, but ignoring it can affect safety, finish quality, and future maintenance. A clear change-order process should explain the finding, proposed correction, cost effect, schedule effect, and approval needed before extra work proceeds.\n\nKey factors:\n- Age and alteration history of the home.\n- Moisture near windows or attached bathrooms.\n- Condition of electrical and framing systems.\n- Whether existing work is documented and inspected.\n\nReserve a contingency and ask how concealed conditions will be documented. Elite Remodeling & Design can review discoveries with you before deciding whether to repair, redesign, or defer them.",
+        "@type": "Answer",
+        "description": "Opening walls or floors may reveal uneven subfloors, outdated wiring, moisture damage, poor repairs, missing blocking, or undocumented changes. Ask for written change orders showing the finding, correction, price, and schedule impact before approving additional work."
+      }
+    }
+  ],
+  "description": "Opening walls or floors may reveal uneven subfloors, outdated wiring, moisture damage, poor repairs, missing blocking, or undocumented changes. Ask for written"
+}

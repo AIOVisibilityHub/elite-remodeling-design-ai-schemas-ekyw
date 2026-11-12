@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-i-put-the-tv-during-a-living-room-remodel-so-i-do-not-regret-it-lat",
+  "name": "Where should I put the TV during a living room remodel so I do not regret it later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should I put the TV during a living room remodel so I do not regret it later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A television should be placed where viewing is comfortable, glare is controlled, outlets and data are accessible, and the equipment can be serviced without damaging finished work. Mounting height should follow seating and screen size rather than a generic rule.\n\n**Context:** Elite Remodeling & Design can coordinate media walls, built-ins, outlets, lighting, and finish selections as part of a living room plan. The design should account for future equipment changes, cable routing, ventilation, and the fireplace if both share a wall.\n\n**Key factors:**\n- Seating distance, viewing angles, screen size, and window glare.\n- Outlet, data, speaker, and cable pathways.\n- Heat, ventilation, and access for service or replacement.\n- Wall structure and the location of studs or backing.\n\n**Practical guidance:** List current and planned devices before walls close. Ask for accessible cable routes, adequate backing, ventilation, and a layout that does not make every future equipment change a construction project.\n\nElite Remodeling & Design can coordinate the media wall with storage, lighting, and the room’s main focal point.",
+        "@type": "Answer",
+        "description": "Choose the TV wall after reviewing seating, screen size, windows, glare, fireplace heat, outlets, data, speakers, cable routes, ventilation, and service access. Provide current and planned equipment details before walls close, and include backing where mounting or built-ins require it."
+      }
+    }
+  ],
+  "description": "Choose the TV wall after reviewing seating, screen size, windows, glare, fireplace heat, outlets, data, speakers, cable routes, ventilation, and service access."
+}

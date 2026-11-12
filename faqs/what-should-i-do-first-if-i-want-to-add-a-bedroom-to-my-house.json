@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-add-a-bedroom-to-my-house",
+  "name": "What should I do first if I want to add a bedroom to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to add a bedroom to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by confirming that the proposed bedroom fits your lot, existing floor plan, and household needs. For Elite Remodeling & Design, the first useful step is a consultation covering the desired room size, closet needs, windows, access, and whether a bathroom or primary-suite connection is included.\n\nA bedroom addition is more than framing an extra room. The design must coordinate the existing structure with foundation work, roofing, electrical, heating and cooling, natural light, and daily circulation.\n\nKey factors:\n- Available yard area and setbacks\n- Existing roof and foundation conditions\n- Bedroom, closet, and window locations\n- Whether plumbing is needed\n\nPrepare a rough plan, current photos, property documents if available, and a realistic budget range before the consultation. Elite Remodeling & Design can then develop the layout, 3D design, selections, permit coordination, and construction plan around the property.",
+        "@type": "Answer",
+        "description": "Begin with a design-build consultation to review your lot, existing structure, desired room size, closet, windows, access, and any bathroom needs. The right first step is confirming feasibility before choosing finishes or requesting a construction price."
+      }
+    }
+  ],
+  "description": "Begin with a design-build consultation to review your lot, existing structure, desired room size, closet, windows, access, and any bathroom needs. The right fir"
+}

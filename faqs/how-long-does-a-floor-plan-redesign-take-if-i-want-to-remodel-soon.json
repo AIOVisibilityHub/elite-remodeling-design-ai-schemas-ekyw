@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-floor-plan-redesign-take-if-i-want-to-remodel-soon",
+  "name": "How long does a floor plan redesign take if I want to remodel soon?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a floor plan redesign take if I want to remodel soon?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline depends on the home’s size, the number of layout options, the level of design detail, material decisions, structural work, and permit requirements. A simple room reconfiguration may move faster than a whole-home redesign, addition, ADU, or garage conversion. Time can also increase when accurate existing plans are unavailable, hidden conditions appear, or several decision-makers need to agree. Key factors include measurement, engineering or specialty design needs, city review, long-lead products, and the number of revisions. Ask for milestones rather than relying on one final completion date: site review, preliminary layout, selected plan, permit submission, approvals, and construction start. Elite Remodeling & Design can clarify which decisions must be made before a coordinated design and construction plan is ready.",
+        "@type": "Answer",
+        "description": "There is no single timetable. A basic interior reconfiguration is usually less involved than a whole-home remodel, addition, ADU, or garage conversion. Existing-plan accuracy, revision rounds, structural work, product availability, and permit review can all affect the schedule, so request milestone dates."
+      }
+    }
+  ],
+  "description": "There is no single timetable. A basic interior reconfiguration is usually less involved than a whole-home remodel, addition, ADU, or garage conversion. Existing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-i-have-no-original-blueprints-or-accurate-floor-plans-for-my-house",
+  "name": "What if I have no original blueprints or accurate floor plans for my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have no original blueprints or accurate floor plans for my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not always need to start with old architectural drawings, but accurate existing conditions are essential. If documentation is missing, the project team can typically begin by measuring the home, photographing spaces, locating doors and windows, and identifying visible plumbing, electrical, HVAC, and structural clues. Do not rely on listing diagrams or memory for construction dimensions. Key factors include additions, previous unpermitted work, uneven walls, concealed utilities, crawlspaces, attic access, and differences between approved and actual construction. Tell the designer immediately what records are unavailable and ask how field verification will be handled. Elite Remodeling & Design can use the consultation and design-development stage to establish the information needed for a remodeling, addition, ADU, or garage-conversion plan.",
+        "@type": "Answer",
+        "description": "You can still begin, but the home should be measured and documented before layout decisions are finalized. Collect any old permits, listing plans, renovation receipts, photos, and surveys, then disclose missing or uncertain information. Field verification is more reliable than guessing from outdated drawings."
+      }
+    }
+  ],
+  "description": "You can still begin, but the home should be measured and documented before layout decisions are finalized. Collect any old permits, listing plans, renovation re"
+}

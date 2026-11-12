@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-dining-room-remodel-include-better-lighting-and-more-outlets-without-openi",
+  "name": "Can a dining room remodel include better lighting and more outlets without opening every wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a dining room remodel include better lighting and more outlets without opening every wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the new electrical plan is designed for the room’s actual use and complies with the applicable jurisdiction. Dining rooms may need better ambient lighting, dimming, task or display lighting, and conveniently placed receptacles, especially when furniture or built-ins change.\n\nContext: City of San Diego guidance says many electrical changes require a permit, while some like-for-like replacements may not. Electrical requirements can also differ by work type and location, so a fixture swap should not be treated the same as adding circuits or relocating devices.\n\nKey factors:\n- Chandelier location relative to the table.\n- Dimmers and separate controls for different lighting layers.\n- Outlet access behind furniture and near serving areas.\n- Existing panel capacity and wiring conditions.\n\nPractical guidance: Mark table positions, artwork, cabinets, and likely appliance or device locations before the electrical layout is finalized. Ask Elite Remodeling & Design to identify which electrical items are included and which require separate approval.\n\nLighting works best when planned with furniture and ceiling conditions together.",
+        "@type": "Answer",
+        "description": "Often, but the method depends on existing wiring, ceiling and wall access, attic or crawlspace conditions, and the desired circuit changes. Plan fixture locations, dimmers, and outlets with the furniture layout, then confirm permit and inspection needs for the property."
+      }
+    }
+  ],
+  "description": "Often, but the method depends on existing wiring, ceiling and wall access, attic or crawlspace conditions, and the desired circuit changes. Plan fixture locatio"
+}

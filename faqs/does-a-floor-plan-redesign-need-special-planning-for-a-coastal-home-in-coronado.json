@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-a-floor-plan-redesign-need-special-planning-for-a-coastal-home-in-coronado",
+  "name": "Does a floor plan redesign need special planning for a coastal home in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a floor plan redesign need special planning for a coastal home in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal homes in Coronado, Imperial Beach, and nearby San Diego communities may require extra attention to moisture exposure, corrosion-prone materials, ventilation, drainage, and the condition of older construction. Those factors do not automatically determine the floor plan, but they can influence where wet rooms, storage, exterior openings, and mechanical equipment belong. Key factors include the property’s exposure, existing leaks or deterioration, flood or drainage concerns, and the condition of windows and exterior assemblies. Have the existing envelope and affected systems reviewed before opening walls or choosing finishes. Elite Remodeling & Design can incorporate site and home conditions into a coordinated remodeling plan rather than treating the layout separately from construction needs.",
+        "@type": "Answer",
+        "description": "Often, the layout should be reviewed alongside moisture, drainage, ventilation, corrosion, window, and exterior-condition concerns. These issues may affect wet-room placement, storage, mechanical equipment, and opening locations. Review the building envelope and affected systems before finalizing the interior plan."
+      }
+    }
+  ],
+  "description": "Often, the layout should be reviewed alongside moisture, drainage, ventilation, corrosion, window, and exterior-condition concerns. These issues may affect wet-"
+}

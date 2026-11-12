@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-lighting-upgrades-different-in-an-older-or-historic-san-diego-home",
+  "name": "Are lighting upgrades different in an older or historic San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are lighting upgrades different in an older or historic San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic or architecturally distinctive homes may require extra care with fixture style, ceiling conditions, wiring access, and local review requirements. The best upgrade often preserves the room’s character while improving light quality and control discreetly.\n\n**Context:** In the City of San Diego, historically designated or potentially historically designated properties may require electrical plans unless an applicable exemption exists. Property-specific review should occur before altering visible fixtures or historic fabric.\n\n**Key factors:**\n- Designated status and local review requirements\n- Existing plaster, lath, beams, or fragile finishes\n- Visible fixture style and mounting methods\n- Reversibility and access for future maintenance\n\n**Practical guidance:** Document existing conditions with photographs and identify which surfaces or fixtures must remain. Ask for low-impact options, such as compatible retrofit products or carefully placed sconces, before opening ceilings.\n\nElite Remodeling & Design can incorporate property constraints into the design and construction discussion.",
+        "@type": "Answer",
+        "description": "They can be. Older homes may have fragile finishes, limited wiring access, distinctive fixtures, or property-specific review requirements. In San Diego, potentially historic properties can require additional electrical planning. Document existing conditions and compare low-impact retrofit, sconce, and concealed-wiring options."
+      }
+    }
+  ],
+  "description": "They can be. Older homes may have fragile finishes, limited wiring access, distinctive fixtures, or property-specific review requirements. In San Diego, potenti"
+}

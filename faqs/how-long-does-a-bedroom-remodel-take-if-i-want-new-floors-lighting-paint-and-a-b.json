@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-bedroom-remodel-take-if-i-want-new-floors-lighting-paint-and-a-b",
+  "name": "How long does a bedroom remodel take if I want new floors, lighting, paint, and a bigger closet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bedroom remodel take if I want new floors, lighting, paint, and a bigger closet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple finish refresh is usually faster than a remodel involving walls, wiring, windows, closets, or an attached bathroom. The full schedule depends on design decisions, material availability, permit review, inspections, demolition conditions, and the number of trades involved.\n\nPlanning often takes longer when the project includes custom storage, relocated lighting, new electrical circuits, or coordinated bathroom work. Delayed selections can interrupt ordering and construction, while hidden damage behind walls can add work after demolition.\n\nKey factors:\n- Scope and room size.\n- Permit and inspection requirements.\n- Availability of flooring, cabinetry, lighting, and doors.\n- Whether the bedroom remains occupied during construction.\n\nAsk for a written sequence covering design, approvals, ordering, demolition, installation, and final inspection. Elite Remodeling & Design coordinates these stages so schedule assumptions can be discussed before work begins.",
+        "@type": "Answer",
+        "description": "A cosmetic update is generally quicker than a project involving new wiring, walls, windows, or custom storage. The schedule depends on design decisions, approvals, material availability, demolition findings, and inspections. Request a written project sequence before committing to a start date."
+      }
+    }
+  ],
+  "description": "A cosmetic update is generally quicker than a project involving new wiring, walls, windows, or custom storage. The schedule depends on design decisions, approva"
+}

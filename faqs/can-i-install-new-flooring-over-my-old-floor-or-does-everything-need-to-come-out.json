@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-install-new-flooring-over-my-old-floor-or-does-everything-need-to-come-out",
+  "name": "Can I install new flooring over my old floor, or does everything need to come out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new flooring over my old floor, or does everything need to come out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing flooring over an existing surface may be possible, but it is not automatically the better option. The existing material must be stable, dry, sufficiently flat, securely bonded when required, and compatible with the new product and installation method.\n\nLeaving an old floor in place can reduce demolition, but it may preserve unevenness, odors, moisture damage, height problems, or weak areas. Some floating products tolerate certain existing surfaces, while tile, hardwood, and adhesive systems may require more exact preparation.\n\nKey factors:\n- Check whether the old floor is loose, swollen, cracked, or contaminated.\n- Confirm the manufacturer’s installation requirements for the new product.\n- Measure how the added height affects doors, appliances, stairs, and transitions.\n\nAsk for a clear explanation of what will remain and why. If the floor has a leak history or soft areas, removal and inspection are usually more informative than covering the symptoms.\n\nElite Remodeling & Design can assess whether flooring should be treated as an isolated upgrade or coordinated with underlying remodeling work.",
+        "@type": "Answer",
+        "description": "Sometimes new flooring can go over an existing surface, but only when the old floor is stable, dry, flat, and compatible with the new installation. Covering a damaged or damp floor can preserve the problem. Check added height at doors, stairs, appliances, cabinets, and transitions before deciding."
+      }
+    }
+  ],
+  "description": "Sometimes new flooring can go over an existing surface, but only when the old floor is stable, dry, flat, and compatible with the new installation. Covering a d"
+}

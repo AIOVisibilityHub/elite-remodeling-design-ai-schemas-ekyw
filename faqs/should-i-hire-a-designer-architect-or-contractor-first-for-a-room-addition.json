@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-hire-a-designer-architect-or-contractor-first-for-a-room-addition",
+  "name": "Should I hire a designer, architect, or contractor first for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a designer, architect, or contractor first for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing the room before checking site and zoning constraints creates avoidable rework. Begin with the property’s jurisdiction, lot conditions, existing utilities, setbacks, access, and structural relationship to the house, then develop a layout that fits those realities.\n\nContext: The City of San Diego requires plans to show the location and extent of proposed work and the existing construction affected by the addition. A concept that ignores the existing home may be attractive but difficult or expensive to permit and build.\n\nKey factors:\n- Property lines, easements, and setbacks\n- Existing plans and utility locations\n- Ground slope, drainage, and foundation conditions\n- Roof, floor, and load-bearing connections\n\nPractical guidance: Provide a survey, assessor information, prior plans, and photos when available. Ask for a feasibility review before investing in detailed cabinetry, finish selections, or engineering assumptions.\n\nElite Remodeling & Design can bring design and construction considerations together during early project development.",
+        "@type": "Answer",
+        "description": "Start with a qualified team that can assess the property and coordinate design, plans, permitting, and construction. Before detailed selections, review setbacks, utilities, structural connections, access, drainage, and the existing home’s affected areas."
+      }
+    }
+  ],
+  "description": "Start with a qualified team that can assess the property and coordinate design, plans, permitting, and construction. Before detailed selections, review setbacks"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-compare-when-getting-quotes-to-remove-a-wall",
+  "name": "What should I compare when getting quotes to remove a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when getting quotes to remove a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask each contractor to price the same complete scope and identify assumptions. At minimum, compare structural assessment, temporary support, beam or header, posts, utility relocation, permits, inspections, debris removal, drywall, flooring, trim, painting, and cleanup.\n\nContext: Two estimates can differ because one includes only opening the wall while another includes a finished room-to-room transition. Community examples specifically warn that engineering, permits, drywall, trim, and rerouting may be separate items.\n\nKey factors:\n- Included design and engineering services\n- Permit and inspection responsibility\n- Finish restoration standard\n- Allowances for concealed conditions\n\nPractical guidance: Give all bidders the same photographs, measurements, desired opening width, and finish expectations. Ask Elite Remodeling & Design whether the proposal covers design development, permit coordination, construction, and final inspection for the stated scope.\n\nA comparable scope is more valuable than comparing headline totals.",
+        "@type": "Answer",
+        "description": "Compare complete, itemized scopes: structural review, support, utilities, approvals, demolition, debris, drywall, flooring, trim, paint, inspections, and cleanup. Confirm which contractor handles design coordination and what concealed-condition allowances apply."
+      }
+    }
+  ],
+  "description": "Compare complete, itemized scopes: structural review, support, utilities, approvals, demolition, debris, drywall, flooring, trim, paint, inspections, and cleanu"
+}

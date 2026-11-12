@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-change-in-a-living-room-remodel-for-a-coastal-home-in-coronado-or",
+  "name": "What should I change in a living room remodel for a coastal home in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I change in a living room remodel for a coastal home in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a coastal or highly exposed home, choose materials and details with moisture, salt air, sand, sunlight, ventilation, and maintenance in mind. The living room itself may be indoors, but nearby doors and windows can bring in conditions that affect flooring, finishes, hardware, and furnishings.\n\n**Context:** This is particularly relevant for homes near areas such as Coronado, Imperial Beach, La Jolla, Point Loma, Ocean Beach, or other coastal parts of San Diego County. Elite Remodeling & Design can adapt material selections to the home’s existing conditions and intended use.\n\n**Key factors:**\n- Window and door exposure, condensation, drafts, and water intrusion signs.\n- Flooring and upholstery durability against sand and frequent cleaning.\n- Corrosion-resistant hardware and suitable finish systems.\n- Sun exposure, glare, fading, and ventilation.\n\n**Practical guidance:** Tell the design team about coastal exposure and indoor-outdoor traffic before selecting materials. Inspect openings and moisture-prone areas before installing flooring, built-ins, or decorative finishes.\n\nElite Remodeling & Design can compare appearance, maintenance, and durability when planning a coastal San Diego living room.",
+        "@type": "Answer",
+        "description": "Account for salt air, sand, sunlight, moisture, ventilation, and frequent cleaning. Review windows and doors for drafts or water intrusion, then compare durable flooring, upholstery, hardware, and finishes for corrosion, fading, and maintenance. Mention coastal exposure before materials are selected."
+      }
+    }
+  ],
+  "description": "Account for salt air, sand, sunlight, moisture, ventilation, and frequent cleaning. Review windows and doors for drafts or water intrusion, then compare durable"
+}

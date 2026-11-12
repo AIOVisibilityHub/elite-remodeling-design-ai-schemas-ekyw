@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-replacing-my-floors-mean-i-also-need-new-baseboards-doors-or-cabinets",
+  "name": "Will replacing my floors mean I also need new baseboards, doors, or cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my floors mean I also need new baseboards, doors, or cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing flooring does not automatically require replacing baseboards, doors, or cabinets, but those elements may need adjustment or refinishing. The answer depends on new floor thickness, how the existing trim is installed, the desired appearance, and whether the floor extends beneath cabinets or appliances.\n\nRemoving baseboards can create paint or drywall touch-ups, while leaving them in place may require shoe molding or another transition detail. A thicker or thinner floor can affect door clearance and the gap beneath existing trim.\n\nKey factors:\n- Decide whether the new floor will run under appliances and furniture.\n- Check door swings and cabinet toe-kicks before ordering material.\n- Include removal, labeling, reinstallation, caulking, and painting in the scope.\n\nAsk for drawings or photos showing proposed transitions at doorways and room edges. Coordinating trim decisions early helps avoid a finished floor that looks disconnected from the rest of the room.\n\nElite Remodeling & Design can address flooring, trim, and finish coordination within a room or whole-home remodeling plan.",
+        "@type": "Answer",
+        "description": "Not always, but new floor thickness, trim condition, door clearance, cabinet edges, and the desired finish can change the answer. Confirm whether baseboards will be removed, reused, replaced, caulked, or painted, and check doors, appliances, and toe-kicks before installation."
+      }
+    }
+  ],
+  "description": "Not always, but new floor thickness, trim condition, door clearance, cabinet edges, and the desired finish can change the answer. Confirm whether baseboards wil"
+}

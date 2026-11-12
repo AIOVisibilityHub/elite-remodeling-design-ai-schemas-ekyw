@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-when-removing-walls-during-a-floor-plan-redesign",
+  "name": "What can go wrong when removing walls during a floor plan redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong when removing walls during a floor plan redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not assume a wall is safe to remove because it looks like a simple partition. It may support roof or floor loads, conceal plumbing or wiring, separate conditioned spaces, or contribute to required safety features. A professional should review the structure and systems before a layout is approved. Key factors include walls aligned across floors, beams, posts, attic framing, foundation conditions, utility routes, and openings near stairs or exterior walls. Keep a contingency for concealed conditions, and avoid ordering cabinets or fixtures until critical dimensions and service locations are confirmed. Elite Remodeling & Design can coordinate design and construction planning so a preferred layout is checked against the work needed to build it.",
+        "@type": "Answer",
+        "description": "A wall may support loads or conceal plumbing, wiring, ducts, or other systems. Removing it can also affect ventilation, safety features, flooring, and ceiling finishes. Have the structure and utilities reviewed before approval, and keep contingency funds for conditions hidden behind walls."
+      }
+    }
+  ],
+  "description": "A wall may support loads or conceal plumbing, wiring, ducts, or other systems. Removing it can also affect ventilation, safety features, flooring, and ceiling f"
+}

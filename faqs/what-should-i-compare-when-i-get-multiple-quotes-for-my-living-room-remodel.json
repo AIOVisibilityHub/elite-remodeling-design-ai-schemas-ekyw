@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-compare-when-i-get-multiple-quotes-for-my-living-room-remodel",
+  "name": "What should I compare when I get multiple quotes for my living room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when I get multiple quotes for my living room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good remodel proposal should define the existing conditions, design scope, materials, labor, allowances, exclusions, schedule assumptions, permits, inspections, cleanup, warranty terms, and change-order process. Comparing only the bottom-line price can hide major differences in what each contractor has included.\n\n**Context:** Elite Remodeling & Design combines design, material selections, construction coordination, and inspections within its described process. That makes it especially useful to ask where design decisions end and construction responsibilities begin.\n\n**Key factors:**\n- Whether plans, 3D visualization, selections, and revisions are included.\n- Who obtains permits and coordinates inspections.\n- Allowances for flooring, lighting, built-ins, fireplace work, and finish materials.\n- Protection, demolition, disposal, punch-list, and final cleanup.\n\n**Practical guidance:** Give each contractor the same written scope and ask for exclusions in writing. Request clarification for concealed damage, owner-supplied materials, substitutions, schedule changes, and work outside the living room.\n\nElite Remodeling & Design can help turn a broad living room idea into a defined design-build scope for comparison.",
+        "@type": "Answer",
+        "description": "Compare scope, plans, design services, material allowances, labor, permits, inspections, demolition, protection, cleanup, schedule assumptions, warranty terms, and change-order rules—not just the total price. Give every contractor the same written project description and require exclusions and concealed-condition handling in writing."
+      }
+    }
+  ],
+  "description": "Compare scope, plans, design services, material allowances, labor, permits, inspections, demolition, protection, cleanup, schedule assumptions, warranty terms,"
+}

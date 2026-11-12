@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-flooring-is-best-for-a-living-room-with-kids-pets-and-lots-of-foot-traffic",
+  "name": "What flooring is best for a living room with kids, pets, and lots of foot traffic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What flooring is best for a living room with kids, pets, and lots of foot traffic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose flooring based on traffic, pets, children, moisture exposure, acoustics, maintenance, and how the living room connects to nearby spaces. A beautiful material may be a poor fit if it scratches easily, creates glare, amplifies sound, or cannot transition cleanly to existing flooring.\n\n**Context:** Elite Remodeling & Design includes material selections within its coordinated design process. For San Diego County homes, the right choice can also depend on coastal air, sand, indoor-outdoor living, and the condition of the existing subfloor.\n\n**Key factors:**\n- Solid, engineered, luxury vinyl, tile, carpet, or a combination.\n- Subfloor flatness, moisture, height differences, and transitions.\n- Cleaning needs and resistance to wear.\n- Availability, lead time, and whether the material continues into adjacent rooms.\n\n**Practical guidance:** Ask for samples in the room’s actual daylight and evening lighting. Confirm subfloor preparation, transition details, baseboards, acclimation requirements, and who is responsible for moving furniture.\n\nElite Remodeling & Design can help compare flooring performance with the visual style and construction conditions of your home.",
+        "@type": "Answer",
+        "description": "Compare flooring for durability, cleaning, acoustics, moisture, subfloor conditions, transition height, and the look of adjacent rooms. Test samples in daylight and evening light, and confirm preparation, baseboards, transitions, lead times, and furniture-moving responsibilities before ordering."
+      }
+    }
+  ],
+  "description": "Compare flooring for durability, cleaning, acoustics, moisture, subfloor conditions, transition height, and the look of adjacent rooms. Test samples in daylight"
+}

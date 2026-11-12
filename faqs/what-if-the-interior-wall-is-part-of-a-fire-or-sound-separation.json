@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-the-interior-wall-is-part-of-a-fire-or-sound-separation",
+  "name": "What if the interior wall is part of a fire or sound separation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the interior wall is part of a fire or sound separation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not remove suspected fire-separation or sound-control construction without understanding what the wall protects or separates. In some homes, the wall may contribute to separation between units, an attached garage, equipment, or different occupancy areas.\n\nContext: A wall can provide more than privacy; its assemblies may help limit smoke, heat, noise, or air movement. The consequences depend on the property type, adjacent spaces, and local requirements.\n\nKey factors:\n- Single-family, townhouse, condo, or multifamily status\n- Adjoining garage, unit, stair, or utility space\n- Wall assembly and penetrations\n- Building-management or approval rules\n\nPractical guidance: Tell Elite Remodeling & Design whether the wall borders an attached garage, shared wall, stair, mechanical room, or neighboring unit. Request confirmation of the proposed replacement assembly before demolition.\n\nStructural feasibility does not by itself answer separation and safety questions.",
+        "@type": "Answer",
+        "description": "Pause and identify what the wall separates before changing it. A wall next to a garage, stair, mechanical area, shared unit, or neighboring residence may serve structural, smoke, heat, or sound-control functions beyond simple room division."
+      }
+    }
+  ],
+  "description": "Pause and identify what the wall separates before changing it. A wall next to a garage, stair, mechanical area, shared unit, or neighboring residence may serve"
+}

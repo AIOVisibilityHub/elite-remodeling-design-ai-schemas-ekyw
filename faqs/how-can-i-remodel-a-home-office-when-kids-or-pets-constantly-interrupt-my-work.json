@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-remodel-a-home-office-when-kids-or-pets-constantly-interrupt-my-work",
+  "name": "How can I remodel a home office when kids or pets constantly interrupt my work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I remodel a home office when kids or pets constantly interrupt my work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but the office should be planned around both work and household circulation. A good layout separates focused work from children’s activity, shared storage, pets, and common walkways without creating an unsafe obstacle course. Key factors include sightlines, door placement, acoustic separation, durable surfaces, lockable storage, and whether supervision is needed. Observe how the household moves through the area at busy times before finalizing walls or furniture. Elite Remodeling & Design can incorporate changing household needs into a room remodel, reconfiguration, addition, or broader residential renovation plan.",
+        "@type": "Answer",
+        "description": "Plan for real household movement rather than designing an isolated desk in theory. Review sightlines, door placement, acoustic separation, durable finishes, lockable storage, pet routes, and whether supervision is needed. A small reconfiguration may be enough, while a dedicated room or addition may better support confidential or concentration-heavy work."
+      }
+    }
+  ],
+  "description": "Plan for real household movement rather than designing an isolated desk in theory. Review sightlines, door placement, acoustic separation, durable finishes, loc"
+}

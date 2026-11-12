@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-contingency-should-i-keep-aside-for-surprises-in-a-bedroom-remodel",
+  "name": "How much contingency should I keep aside for surprises in a bedroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much contingency should I keep aside for surprises in a bedroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom remodel should include an allowance for decisions that cannot be confirmed until surfaces are opened, especially in older homes or rooms with prior leaks. The allowance should not be a vague extra charge; it should be tied to clearly described assumptions and a documented approval process.\n\nA responsible proposal distinguishes known work from uncertain conditions such as subfloor repair, concealed wiring, wall damage, or trim replacement. You should know who records the condition, what options exist, and whether declining the repair affects the finished result.\n\nKey factors:\n- Areas that will be opened during demolition.\n- Existing moisture or unevenness.\n- Materials that must be matched after removal.\n- Change-order pricing and schedule effects.\n\nAsk Elite Remodeling & Design to identify assumptions before signing. Keeping those items visible makes the final cost easier to manage and reduces surprise decisions during construction.",
+        "@type": "Answer",
+        "description": "Keep a project-specific reserve for concealed wiring, moisture, subfloor damage, uneven walls, and prior repairs, especially in older homes. Ask for assumptions and change-order procedures in writing so any additional work is explained and approved before it proceeds."
+      }
+    }
+  ],
+  "description": "Keep a project-specific reserve for concealed wiring, moisture, subfloor damage, uneven walls, and prior repairs, especially in older homes. Ask for assumptions"
+}

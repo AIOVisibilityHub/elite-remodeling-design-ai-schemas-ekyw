@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-i-redesign-my-property-layout-if-i-want-an-adu",
+  "name": "How should I redesign my property layout if I want an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I redesign my property layout if I want an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU floor plan should begin with the intended occupants and daily functions, not merely the maximum number of rooms. Define sleeping, cooking, bathing, laundry, storage, entry, outdoor connection, and privacy needs, then test the plan against the available site, existing utilities, and primary home. Key factors include whether the ADU is attached, detached, or within a garage; access routes; setbacks and site constraints; utility capacity; and how construction affects the occupied property. Separate must-have functions from optional features so the design remains manageable. Elite Remodeling & Design provides ADU planning and construction coordination as part of its residential service offering.",
+        "@type": "Answer",
+        "description": "Define the ADU’s occupants and required functions first, including sleeping, cooking, bathing, laundry, storage, entry, and privacy. Then review site access, utilities, setbacks, the relationship to the primary home, and whether the unit is attached, detached, or part of a garage conversion. Local requirements should be confirmed early."
+      }
+    }
+  ],
+  "description": "Define the ADU’s occupants and required functions first, including sleeping, cooking, bathing, laundry, storage, entry, and privacy. Then review site access, ut"
+}

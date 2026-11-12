@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-use-for-laundry-room-walls-and-backsplash",
+  "name": "What should I use for laundry room walls and backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I use for laundry room walls and backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose washable, moisture-tolerant materials for walls and backsplashes near the sink, washer, and utility areas. Tile, durable paint systems, and other cleanable finishes may work, but the right selection depends on splash exposure, substrate condition, design preference, and maintenance expectations.\n\nElite Remodeling & Design can coordinate wall finishes with counters, cabinets, flooring transitions, and plumbing fixtures. Decorative material should not be used to conceal damaged drywall, leaks, or an unstable substrate.\n\nKey factors:\n- Splash and stain exposure.\n- Existing drywall or wall damage.\n- Grout, seams, and cleaning requirements.\n- Transition details at counters and cabinets.\n\nIdentify the messiest tasks performed in the room before choosing a backsplash. Use samples under the planned lighting and confirm that outlets, shutoffs, and service panels remain accessible.",
+        "@type": "Answer",
+        "description": "Use cleanable, moisture-tolerant finishes near the washer, sink, and folding areas. Tile or durable paint may work depending on splash exposure and substrate condition. Repair leaks or damaged drywall before covering the wall."
+      }
+    }
+  ],
+  "description": "Use cleanable, moisture-tolerant finishes near the washer, sink, and folding areas. Tile or durable paint may work depending on splash exposure and substrate co"
+}

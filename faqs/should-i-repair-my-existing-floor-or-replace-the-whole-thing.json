@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-repair-my-existing-floor-or-replace-the-whole-thing",
+  "name": "Should I repair my existing floor or replace the whole thing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my existing floor or replace the whole thing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is usually justified when the flooring has widespread damage, repeated failures, unsafe movement, persistent odor, extensive staining, or a finish that no longer suits the room’s use. Repair may be more sensible when damage is localized and matching material is available.\n\nThe decision should consider the condition beneath the finish, not just appearance. Refinishing, spot repair, reinstallation, or partial replacement may preserve a sound floor, while covering a deteriorating base can create a larger future problem.\n\nKey factors:\n- Measure how much of the floor is affected and whether the pattern repeats.\n- Check moisture, structural movement, and product availability.\n- Compare repair appearance and expected service life with full replacement.\n\nAsk for at least one repair-versus-replace explanation when the damage is limited. If a larger kitchen, bathroom, or whole-home remodel is planned, coordinate the decision with the new layout and finish schedule.\n\nElite Remodeling & Design can evaluate flooring as part of a broader update rather than treating appearance in isolation.",
+        "@type": "Answer",
+        "description": "Repair can make sense when damage is localized, the substrate is sound, and matching material is available. Replace when damage is widespread, moisture-related, structurally unstable, repeatedly failing, or no longer appropriate for the room. Compare repair appearance, longevity, and availability before deciding."
+      }
+    }
+  ],
+  "description": "Repair can make sense when damage is localized, the substrate is sound, and matching material is available. Replace when damage is widespread, moisture-related,"
+}

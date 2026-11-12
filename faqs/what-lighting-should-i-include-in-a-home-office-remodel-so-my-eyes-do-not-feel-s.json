@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-lighting-should-i-include-in-a-home-office-remodel-so-my-eyes-do-not-feel-s",
+  "name": "What lighting should I include in a home office remodel so my eyes do not feel strained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What lighting should I include in a home office remodel so my eyes do not feel strained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan lighting in layers: general room light, focused task light, and controlled daylight. A single ceiling fixture can leave the desk shadowed or create screen glare, while poorly placed recessed lights may reflect on monitors. Key factors include screen orientation, dimming, color appearance, ceiling height, under-cabinet lighting, and window shade control. Choose fixture locations after the desk and storage layout are established, not before. Elite Remodeling & Design can coordinate lighting, electrical placement, material selections, and the overall office plan within a broader remodel.",
+        "@type": "Answer",
+        "description": "Use layered lighting: ambient room light, focused task light, and controlled daylight. Place fixtures after deciding desk and monitor positions so reflections and shadows are minimized. Review dimming, window shades, ceiling height, and under-cabinet lighting, then coordinate wiring before walls are closed."
+      }
+    }
+  ],
+  "description": "Use layered lighting: ambient room light, focused task light, and controlled daylight. Place fixtures after deciding desk and monitor positions so reflections a"
+}

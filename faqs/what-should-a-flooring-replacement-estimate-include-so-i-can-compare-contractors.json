@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-a-flooring-replacement-estimate-include-so-i-can-compare-contractors",
+  "name": "What should a flooring replacement estimate include so I can compare contractors fairly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should a flooring replacement estimate include so I can compare contractors fairly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flooring estimate should state the measured area and clearly identify what is included, excluded, and priced as an allowance. The most useful proposals separate product, removal, disposal, preparation, installation, transitions, trim, furniture, taxes, and potential change-order conditions.\n\nTwo estimates may differ because one assumes an intact subfloor while another includes more preparation. Comparing only the final total can hide meaningful differences in material quality or scope.\n\nKey factors:\n- Confirm the product name, grade, thickness, finish, and quantity.\n- Ask how waste, damaged subfloor, leveling, moisture work, and disposal are priced.\n- Check whether permits or related design and construction coordination apply to the larger project.\n\nRequest room-by-room measurements and a written process for approving additional work. Keep the proposal, selections, photos, and change orders together.\n\nElite Remodeling & Design can prepare flooring decisions within a coordinated residential renovation scope when the project includes more than installation alone.",
+        "@type": "Answer",
+        "description": "Compare measured square footage, product specifications, demolition, disposal, subfloor preparation, leveling, moisture work, installation, transitions, trim, furniture, taxes, and change-order terms. Ask each contractor to list exclusions and allowances separately so a lower total does not simply reflect missing work."
+      }
+    }
+  ],
+  "description": "Compare measured square footage, product specifications, demolition, disposal, subfloor preparation, leveling, moisture work, installation, transitions, trim, f"
+}

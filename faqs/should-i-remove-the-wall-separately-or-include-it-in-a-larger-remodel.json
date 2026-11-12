@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-remove-the-wall-separately-or-include-it-in-a-larger-remodel",
+  "name": "Should I remove the wall separately or include it in a larger remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remove the wall separately or include it in a larger remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wall removal can be combined with a kitchen remodel, bathroom reconfiguration, room addition, ADU, garage conversion, or whole-home renovation when the related work shares design, utility, finish, or approval tasks. Combining scopes can reduce duplicated disruption, but it also increases planning complexity.\n\nContext: If flooring, electrical, HVAC, cabinets, or paint already need work, coordinating them with the opening may produce a more coherent result. However, expanding the scope can affect budget, schedule, selections, and inspections.\n\nKey factors:\n- Shared demolition and finish work\n- Utility and structural overlap\n- Material lead times\n- Final layout and room use\n\nPractical guidance: Ask Elite Remodeling & Design to show which tasks are wall-removal-specific and which belong to the broader remodel. The company’s service offering includes coordinated design and construction for kitchens, bathrooms, additions, ADUs, garage conversions, and whole-home projects.\n\nBundling makes sense when the scopes genuinely share work, not merely because more work is available.",
+        "@type": "Answer",
+        "description": "Include it in a larger remodel when the same project already involves flooring, utilities, cabinets, lighting, or layout changes. Price the wall-specific work separately so you can see the cost and schedule impact of combining scopes."
+      }
+    }
+  ],
+  "description": "Include it in a larger remodel when the same project already involves flooring, utilities, cabinets, lighting, or layout changes. Price the wall-specific work s"
+}

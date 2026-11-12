@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-a-dining-room-remodel-make-the-space-easier-to-use-for-someone-with-mobility",
+  "name": "Can a dining room remodel make the space easier to use for someone with mobility issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a dining room remodel make the space easier to use for someone with mobility issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the design accounts for accessibility from the entry through the dining area and provides enough room for the people who will use it. Accessibility is not only about a wider doorway; table approach, turning space, flooring, lighting, and controls also matter.\n\nContext: Elite Remodeling & Design adapts projects to household needs and intended use. A dining room plan should consider current mobility needs as well as likely future changes, particularly when the remodel is part of a larger home update.\n\nKey factors:\n- Door and route clearance.\n- Stable, low-transition flooring.\n- Space to approach and use the table comfortably.\n- Reachable lighting controls and storage.\n\nPractical guidance: Describe mobility aids, caregivers, children, or anticipated changes during the consultation. Ask for the proposed clearances and how transitions between the dining room and adjoining spaces will be handled.\n\nPlanning for movement early is easier than correcting tight circulation later.",
+        "@type": "Answer",
+        "description": "Yes. Plan the route, door clearance, table approach, flooring transitions, lighting controls, and storage around the user’s actual needs. Share mobility requirements early so the layout is designed for comfortable movement rather than adjusted after construction."
+      }
+    }
+  ],
+  "description": "Yes. Plan the route, door clearance, table approach, flooring transitions, lighting controls, and storage around the user’s actual needs. Share mobility require"
+}

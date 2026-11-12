@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-an-interior-lighting-upgrade-usually-take",
+  "name": "How long does an interior lighting upgrade usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an interior lighting upgrade usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A realistic timeline can range from a short visit for simple fixture replacements to several weeks or longer for new wiring integrated with a kitchen, bathroom, addition, or whole-home remodel. The schedule depends on design decisions, product availability, access, inspections, and finish repairs.\n\n**Context:** Lighting work is faster when fixture locations and products are decided before demolition. Delays often occur when selected fixtures are backordered or when concealed conditions differ from expectations.\n\n**Key factors:**\n- Number of rooms and fixture locations\n- Permit and inspection requirements\n- Ceiling, wall, cabinet, or tile access\n- Product lead times and change requests\n\n**Practical guidance:** Approve the layout and fixture schedule before construction, and identify acceptable alternatives for delayed products. Ask when rough electrical work, fixture installation, testing, patching, and final touch-ups will occur.\n\nElite Remodeling & Design can place lighting decisions within the broader project schedule.",
+        "@type": "Answer",
+        "description": "Simple fixture replacements may be completed quickly, while new wiring across a kitchen, bathroom, addition, or whole home can take much longer. Timing depends on permits, access, product lead times, inspections, and finish repairs. Finalize the layout and fixture schedule before construction to reduce delays."
+      }
+    }
+  ],
+  "description": "Simple fixture replacements may be completed quickly, while new wiring across a kitchen, bathroom, addition, or whole home can take much longer. Timing depends"
+}

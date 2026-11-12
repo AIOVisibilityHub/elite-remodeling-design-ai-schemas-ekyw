@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-ask-before-hiring-someone-after-my-last-home-office-remodel-went-b",
+  "name": "What should I ask before hiring someone after my last home office remodel went badly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I ask before hiring someone after my last home office remodel went badly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Begin by documenting the previous problems rather than assuming a new contractor should repeat the same approach. Note what failed—poor communication, missed details, weak scheduling, bad workmanship, unexpected costs, or unresolved punch-list items—and require the new scope to address each issue. Key factors include written allowances, change-order procedures, inspection responsibility, material approvals, cleanup, and warranty expectations. Keep photos, invoices, plans, and correspondence available for the initial review. Elite Remodeling & Design can start with a fresh assessment and coordinate design through construction so responsibilities are clearer across the project stages.",
+        "@type": "Answer",
+        "description": "Document what failed and ask how the new project will prevent a repeat: who owns design decisions, how changes are priced, who coordinates permits and inspections, when materials are approved, and how punch-list items are handled. Provide photos, plans, invoices, and correspondence. A fresh site assessment should precede any new scope."
+      }
+    }
+  ],
+  "description": "Document what failed and ask how the new project will prevent a repeat: who owns design decisions, how changes are priced, who coordinates permits and inspectio"
+}

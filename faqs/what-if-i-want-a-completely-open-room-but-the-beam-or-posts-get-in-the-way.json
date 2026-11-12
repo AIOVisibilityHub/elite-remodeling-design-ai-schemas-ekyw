@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-i-want-a-completely-open-room-but-the-beam-or-posts-get-in-the-way",
+  "name": "What if I want a completely open room but the beam or posts get in the way?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I want a completely open room but the beam or posts get in the way?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wall may be removable in principle but still unsuitable for the opening you want. The beam depth, posts, duct routes, cabinets, ceiling framing, and foundation support can reduce the practical width or require a different design.\n\nContext: Homeowners often picture one uninterrupted span, but support points may be necessary. A partial opening, offset post, or beam detail may achieve most of the desired sightline while controlling complexity.\n\nKey factors:\n- Desired clear width and ceiling height\n- Load-bearing span and support locations\n- Ducts, plumbing, and electrical routes\n- Cabinets, appliances, and furniture\n\nPractical guidance: Mark the target opening on photos or a sketch and identify what must remain visible or accessible. Elite Remodeling & Design can use layout development and 3D visualization to test alternatives before construction.\n\nThe best design balances openness with support, services, and everyday function.",
+        "@type": "Answer",
+        "description": "A completely open span may not be practical if loads, ducts, utilities, or foundation conditions require support. Consider a partial opening, beam detail, or strategically placed post, and test the layout before demolition."
+      }
+    }
+  ],
+  "description": "A completely open span may not be practical if loads, ducts, utilities, or foundation conditions require support. Consider a partial opening, beam detail, or st"
+}

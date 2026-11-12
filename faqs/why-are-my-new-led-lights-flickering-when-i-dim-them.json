@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-are-my-new-led-lights-flickering-when-i-dim-them",
+  "name": "Why are my new LED lights flickering when I dim them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are my new LED lights flickering when I dim them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flicker can come from an incompatible dimmer, loose connection, overloaded circuit, defective fixture, poor-quality driver, or unstable electrical conditions. The cause should be diagnosed rather than solved by repeatedly changing bulbs.\n\n**Context:** LED products can expose compatibility problems that older incandescent lamps did not show. Flicker may occur only at low dimming levels, when another appliance starts, or after the fixtures warm up.\n\n**Key factors:**\n- Fixture, lamp, and dimmer compatibility\n- Whether all fixtures behave the same way\n- Timing and conditions when flicker occurs\n- Breaker, wiring, and connection history\n\n**Practical guidance:** Record which lights flicker, at what setting, and whether noise, heat, or breaker trips accompany the problem. Stop using a fixture that smells hot, sparks, or shows visible damage and request qualified inspection.\n\nElite Remodeling & Design can include control and wiring diagnosis when lighting problems arise during a remodeling project.",
+        "@type": "Answer",
+        "description": "Common causes include dimmer incompatibility, a defective driver, loose connections, circuit issues, or poor low-level performance. Note when the flicker occurs and whether breakers trip or fixtures become hot. Do not keep using visibly damaged or sparking equipment; have the system checked."
+      }
+    }
+  ],
+  "description": "Common causes include dimmer incompatibility, a defective driver, loose connections, circuit issues, or poor low-level performance. Note when the flicker occurs"
+}

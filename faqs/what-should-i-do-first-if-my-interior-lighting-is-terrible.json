@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-my-interior-lighting-is-terrible",
+  "name": "What should I do first if my interior lighting is terrible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if my interior lighting is terrible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying what is failing: insufficient brightness, glare, poor task visibility, dated fixtures, or limited switching control. For most rooms, the best result comes from combining ambient, task, and accent lighting rather than installing one oversized ceiling fixture.\n\n**Context:** An interior lighting upgrade may involve fixture replacement only, or it may require new wiring, switching, ceiling access, drywall repair, and coordination with a kitchen, bathroom, or whole-home remodel. In San Diego, electrical alterations generally need permit review unless a specific exemption applies.\n\n**Key factors:**\n- Room use, ceiling height, and natural-light levels\n- Existing circuit capacity and switch locations\n- Fixture size, beam spread, color temperature, and dimming compatibility\n- Whether cabinetry, tile, or ceiling finishes are also changing\n\n**Practical guidance:** Photograph the room, note the locations of outlets and switches, and list tasks performed there before requesting a layout. During an Elite Remodeling & Design consultation, those details can be coordinated with the broader design and construction plan.\n\nA room-specific lighting plan is usually more useful than choosing fixtures first.",
+        "@type": "Answer",
+        "description": "First identify whether the problem is brightness, glare, shadows, poor task lighting, or inadequate controls. Then plan ambient, task, and accent layers around the room’s use. Photograph existing switches, outlets, ceiling conditions, and cabinetry so Elite Remodeling & Design can coordinate lighting with the larger remodeling scope."
+      }
+    }
+  ],
+  "description": "First identify whether the problem is brightness, glare, shadows, poor task lighting, or inadequate controls. Then plan ambient, task, and accent layers around"
+}

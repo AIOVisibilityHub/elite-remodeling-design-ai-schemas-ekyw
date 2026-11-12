@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-my-family-stay-in-the-house-while-the-dining-room-is-being-remodeled",
+  "name": "Can my family stay in the house while the dining room is being remodeled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my family stay in the house while the dining room is being remodeled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually remain in the home during a dining room remodel, but comfort and safety depend on dust, noise, access, demolition, and whether the work affects shared routes or kitchen use. A larger opening or whole-home project may make temporary relocation more practical.\n\nContext: Elite Remodeling & Design handles projects ranging from individual room upgrades to broader renovations, so the occupancy plan should match the scope. Construction sequencing can affect dining, cooking, circulation, and access to nearby rooms.\n\nKey factors:\n- Whether demolition is limited or extensive.\n- Dust control, ventilation, and daily cleanup.\n- Access to the kitchen, entry, and exterior doors.\n- Children, pets, allergies, and work-from-home needs.\n\nPractical guidance: Ask for a site-protection and communication plan before work starts. Identify a temporary eating area, secure storage location, pet boundary, and daily access expectations.\n\nA written occupancy plan reduces disruption and surprises.",
+        "@type": "Answer",
+        "description": "Often, yes, if the work is contained and access can be protected. Demolition, dust, noise, shared kitchen routes, pets, children, and allergies may change that plan. Arrange site barriers, cleanup, storage, and a temporary eating area in advance."
+      }
+    }
+  ],
+  "description": "Often, yes, if the work is contained and access can be protected. Demolition, dust, noise, shared kitchen routes, pets, children, and allergies may change that"
+}

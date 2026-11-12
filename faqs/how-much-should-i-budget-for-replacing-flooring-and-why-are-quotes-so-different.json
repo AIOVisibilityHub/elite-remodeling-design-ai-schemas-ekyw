@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-replacing-flooring-and-why-are-quotes-so-different",
+  "name": "How much should I budget for replacing flooring, and why are quotes so different?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for replacing flooring, and why are quotes so different?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends on material, labor, demolition, disposal, subfloor preparation, transitions, trim, furniture handling, and the number of rooms. A low material price does not necessarily produce a low project price if the existing floor is difficult to remove or the substrate needs repair.\n\nQuotes can differ because contractors may include different preparation assumptions. A useful estimate should distinguish visible installation from possible concealed work rather than combining every item into one unexplained allowance.\n\nKey factors:\n- Compare the same square footage and material grade.\n- Ask whether removal, disposal, leveling, moisture correction, and transitions are included.\n- Confirm whether baseboards, appliances, and furniture are included or excluded.\n\nRequest a room-by-room scope and ask how change orders will be handled if damaged subfloor appears. In San Diego County, the selected product and home conditions can vary substantially between older homes, coastal areas, and newer construction.\n\nElite Remodeling & Design can evaluate flooring within a larger remodeling estimate when related finish or layout work is planned.",
+        "@type": "Answer",
+        "description": "Budget depends on material, square footage, demolition, disposal, subfloor repairs, transitions, trim, furniture, and room complexity. Compare written estimates line by line and ask about exclusions. The most useful quote separates installation from possible concealed repairs instead of hiding preparation costs in one allowance."
+      }
+    }
+  ],
+  "description": "Budget depends on material, square footage, demolition, disposal, subfloor repairs, transitions, trim, furniture, and room complexity. Compare written estimates"
+}

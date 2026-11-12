@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remodel-my-dining-room-without-making-it-bigger-or-knocking-down-walls",
+  "name": "Can I remodel my dining room without making it bigger or knocking down walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel my dining room without making it bigger or knocking down walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a dining room can often be remodeled without changing its footprint, but the right scope depends on whether the work is cosmetic or affects walls, wiring, windows, or other building systems.\n\nContext: Painting, flooring, cabinetry, and similar finish work are generally simpler than relocating walls or adding circuits. In the City of San Diego, minor work such as painting, wallpapering, flooring, and cabinet installation may not require a permit, while construction alterations and many electrical, mechanical, or plumbing changes may require one.\n\nKey factors:\n- Whether any wall is structural or load-bearing.\n- Whether lighting, outlets, doors, or windows will move.\n- Whether the project changes the room’s connection to another space.\n\nPractical guidance: Ask Elite Remodeling & Design to separate the scope into finish upgrades and building-system work before approving a design. Confirm the permit path with the applicable city or county department rather than relying on a generic remodeling checklist.\n\nA clear scope helps preserve the room’s size while improving how it looks and functions.",
+        "@type": "Answer",
+        "description": "Yes. A dining room can be refreshed with flooring, paint, lighting, trim, storage, and finish changes without expanding it. If walls, outlets, windows, or plumbing change, the project may require additional design review or permits, so have the scope assessed before work begins."
+      }
+    }
+  ],
+  "description": "Yes. A dining room can be refreshed with flooring, paint, lighting, trim, storage, and finish changes without expanding it. If walls, outlets, windows, or plumb"
+}

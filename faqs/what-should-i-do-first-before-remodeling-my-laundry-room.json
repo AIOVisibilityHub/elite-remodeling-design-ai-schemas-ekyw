@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-before-remodeling-my-laundry-room",
+  "name": "What should I do first before remodeling my laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before remodeling my laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a site assessment and a clear scope covering the machines, sink, storage, ventilation, flooring, lighting, and any layout change. Elite Remodeling & Design can evaluate the existing room and coordinate design, construction, and permit planning when the work affects plumbing, electrical, or building systems.\n\nThe first decision is whether the project is cosmetic or involves relocating hookups. A like-for-like update may be simpler, while moving a washer, dryer, drain, gas line, or electrical circuit can change the design and budget.\n\nKey factors:\n- Measure the room, doors, ceiling height, and appliance clearances.\n- Identify the current water, drain, gas, electrical, and dryer-vent locations.\n- Note moisture, floor damage, leaks, or signs of poor ventilation.\n\nBefore contacting Elite Remodeling & Design, gather appliance dimensions, inspiration photos, and a rough priority list. A coordinated consultation helps determine whether layout development, 3D visualization, material selection, and permit coordination are appropriate.",
+        "@type": "Answer",
+        "description": "Begin with measurements, appliance specifications, existing hookup locations, and a written priority list. Elite Remodeling & Design can then assess whether the project is cosmetic or requires coordinated plumbing, electrical, ventilation, design, and permit planning."
+      }
+    }
+  ],
+  "description": "Begin with measurements, appliance specifications, existing hookup locations, and a written priority list. Elite Remodeling & Design can then assess whether the"
+}

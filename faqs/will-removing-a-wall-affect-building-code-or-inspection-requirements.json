@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-removing-a-wall-affect-building-code-or-inspection-requirements",
+  "name": "Will removing a wall affect building-code or inspection requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing a wall affect building-code or inspection requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually, removing the wall does not automatically make a kitchen or living room code-compliant. The finished project may still need appropriate ventilation, electrical work, lighting, plumbing, egress, guards, or other requirements depending on what changes.\n\nContext: Opening a room can expose or alter systems that were previously arranged around the wall. A kitchen remodel may also involve cabinets, appliances, circuits, ducting, and finish requirements beyond the opening itself.\n\nKey factors:\n- Existing room use and appliances\n- Electrical and mechanical changes\n- Windows, doors, and emergency escape conditions\n- Local review and inspection requirements\n\nPractical guidance: Describe the intended final use—not only the demolition—to Elite Remodeling & Design during consultation. That helps the team coordinate layout, design, construction, permit applications, and final inspection where applicable.\n\nApproval should be based on the completed condition, not just the demolition step.",
+        "@type": "Answer",
+        "description": "It can. The final condition may involve structural, electrical, mechanical, plumbing, ventilation, lighting, or room-use requirements. Describe the completed layout so the project can be reviewed as a whole rather than as demolition alone."
+      }
+    }
+  ],
+  "description": "It can. The final condition may involve structural, electrical, mechanical, plumbing, ventilation, lighting, or room-use requirements. Describe the completed la"
+}

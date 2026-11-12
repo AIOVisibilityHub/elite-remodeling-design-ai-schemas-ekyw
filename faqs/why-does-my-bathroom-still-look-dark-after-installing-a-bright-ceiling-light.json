@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-bathroom-still-look-dark-after-installing-a-bright-ceiling-light",
+  "name": "Why does my bathroom still look dark after installing a bright ceiling light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom still look dark after installing a bright ceiling light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed bathroom lighting plan normally combines general illumination with focused light at the mirror or vanity. A single ceiling fixture can leave the face shadowed, even when the room appears bright.\n\n**Context:** Bathrooms require careful fixture selection because moisture exposure and cleaning conditions vary by location. Mirror size, medicine cabinets, ceiling height, tile reflectivity, and ventilation equipment can all affect fixture placement.\n\n**Key factors:**\n- Light at the face from suitable side or front positions\n- Fixture ratings for the installation location\n- Glare from mirrors and glossy tile\n- Separate controls for general and mirror lighting\n\n**Practical guidance:** Measure the mirror and vanity before choosing fixtures, and mark the locations of plumbing, framing, and existing electrical boxes. Discuss the layout before tile installation so changes do not require rework.\n\nElite Remodeling & Design can coordinate bathroom lighting with fixtures, tile, plumbing, and electrical scope.",
+        "@type": "Answer",
+        "description": "A bright ceiling fixture can still leave faces in shadow. Add dedicated mirror or vanity lighting, control glare from mirrors and tile, and select fixtures appropriate for the installation location. Finalize placement before tile work, while plumbing, framing, and electrical conditions are still accessible."
+      }
+    }
+  ],
+  "description": "A bright ceiling fixture can still leave faces in shadow. Add dedicated mirror or vanity lighting, control glare from mirrors and tile, and select fixtures appr"
+}

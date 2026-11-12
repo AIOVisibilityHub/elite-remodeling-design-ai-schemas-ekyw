@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-if-there-are-electrical-wires-plumbing-or-hvac-ducts-inside-the-wall",
+  "name": "What if there are electrical wires, plumbing, or HVAC ducts inside the wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if there are electrical wires, plumbing, or HVAC ducts inside the wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not proceed until the electrical, plumbing, HVAC, and gas conditions are identified. A remodeler may need to shut down circuits or services, reroute lines, add junctions or fixtures, and coordinate inspections before the wall can be closed.\n\nContext: Wall removal can affect outlets, switches, lighting, return-air paths, supply ducts, water lines, drain lines, or gas piping. Moving a wall can also change where appliances, cabinets, or fixtures can be installed.\n\nKey factors:\n- Outlet and switch locations\n- Vents, returns, and duct routes\n- Water, drain, and gas lines\n- Access for rerouting and future service\n\nPractical guidance: Photograph every visible outlet, vent, fixture, and nearby appliance before work begins. Tell Elite Remodeling & Design what must remain operational and whether the wall separates a kitchen, bathroom, laundry, or addition so the layout can account for those systems.\n\nUtility coordination should happen before demolition, not after a line is discovered.",
+        "@type": "Answer",
+        "description": "Pause demolition and have all concealed services identified. The project may require shutoffs, rerouting, new junctions, duct changes, inspections, and finish repairs, especially when the wall borders a kitchen, bathroom, laundry, or addition."
+      }
+    }
+  ],
+  "description": "Pause demolition and have all concealed services identified. The project may require shutoffs, rerouting, new junctions, duct changes, inspections, and finish r"
+}

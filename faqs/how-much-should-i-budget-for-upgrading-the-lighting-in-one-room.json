@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-should-i-budget-for-upgrading-the-lighting-in-one-room",
+  "name": "How much should I budget for upgrading the lighting in one room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for upgrading the lighting in one room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost depends less on the fixture count alone than on whether the work uses existing locations or requires new wiring, circuits, ceiling access, controls, drywall repair, and finish coordination. A fixture swap is a different project from relocating lights throughout a room.\n\n**Context:** Design-build pricing may also reflect consultations, layout development, product selection, permit coordination, inspection requirements, and repairs to affected finishes. Kitchens, bathrooms, and whole-home projects can involve more coordination than a single-room upgrade.\n\n**Key factors:**\n- Number and type of fixtures\n- New versus existing wiring and switch locations\n- Ceiling, cabinet, tile, or drywall access\n- Product quality, controls, and required repairs\n\n**Practical guidance:** Request an itemized scope that separates fixtures, electrical labor, controls, patching, painting, permits, and contingencies. Provide photos and ceiling plans early so the estimate reflects actual site conditions.\n\nElite Remodeling & Design can evaluate lighting as a standalone room improvement or as part of a larger remodel.",
+        "@type": "Answer",
+        "description": "Budget depends on fixture quantity, new wiring, switch changes, ceiling access, drywall repair, product quality, and permit coordination. Ask for separate line items for fixtures, electrical work, controls, patching, painting, and contingencies. Photos and a clear room scope help produce a more useful estimate."
+      }
+    }
+  ],
+  "description": "Budget depends on fixture quantity, new wiring, switch changes, ceiling access, drywall repair, product quality, and permit coordination. Ask for separate line"
+}

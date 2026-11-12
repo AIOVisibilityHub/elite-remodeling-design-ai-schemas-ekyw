@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-does-layered-lighting-mean-and-do-i-really-need-it",
+  "name": "What does layered lighting mean, and do I really need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does layered lighting mean, and do I really need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Layered lighting means using more than one type of light for different purposes: general room illumination, task light where detailed work occurs, and accent light for architectural or decorative emphasis. It usually produces a more comfortable result than relying on one bright source.\n\n**Context:** Layers can be created with ceiling fixtures, recessed lights, sconces, under-cabinet systems, pendants, lamps, or indirect light. Not every room needs every layer, and the controls should match how the room is used.\n\n**Key factors:**\n- Room activities and furniture arrangement\n- Ceiling height and architectural features\n- Natural light changes throughout the day\n- Independent switching or dimming\n\n**Practical guidance:** Sketch the room and label areas for reading, cooking, grooming, circulation, and display. Assign each function to a controllable lighting group before choosing decorative fixtures.\n\nElite Remodeling & Design can incorporate layered lighting into room, kitchen, bathroom, and whole-home remodeling plans.",
+        "@type": "Answer",
+        "description": "Layered lighting combines general, task, and accent sources so a room can support different activities without one harsh, oversized fixture. It is useful when the room serves multiple purposes. Sketch activity zones first, then assign separate lighting groups and controls to each need."
+      }
+    }
+  ],
+  "description": "Layered lighting combines general, task, and accent sources so a room can support different activities without one harsh, oversized fixture. It is useful when t"
+}

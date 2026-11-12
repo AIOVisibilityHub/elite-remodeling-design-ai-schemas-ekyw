@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-problems-should-i-expect-when-remodeling-a-laundry-room-in-an-older-san-die",
+  "name": "What problems should I expect when remodeling a laundry room in an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What problems should I expect when remodeling a laundry room in an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes in San Diego, National City, Chula Vista, and surrounding communities may contain outdated wiring, plumbing, venting, or uneven floors that affect the remodel. The age of the home does not automatically determine the scope, so existing conditions should be evaluated before finishes are selected.\n\nElite Remodeling & Design can coordinate the design and construction review when a laundry update exposes concealed systems. A room that appears cosmetic may need additional work if circuits lack capacity, drain connections are unsuitable, or previous alterations were poorly completed.\n\nKey factors:\n- Existing circuit type and appliance requirements.\n- Supply, drain, and shutoff condition.\n- Dryer-vent materials and route.\n- Subfloor, framing, and prior water damage.\n\nProvide the approximate construction date and any records or photos of earlier work. Include a reasonable allowance for concealed conditions rather than assuming the visible room tells the whole story.",
+        "@type": "Answer",
+        "description": "Older homes may have outdated wiring, plumbing, dryer venting, uneven floors, or previous concealed repairs. Have existing systems and water damage checked before finalizing finishes, and keep an allowance for conditions revealed after access is opened."
+      }
+    }
+  ],
+  "description": "Older homes may have outdated wiring, plumbing, dryer venting, uneven floors, or previous concealed repairs. Have existing systems and water damage checked befo"
+}

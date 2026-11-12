@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-move-my-kitchen-to-another-room-during-a-floor-plan-redesign",
+  "name": "Can I move my kitchen to another room during a floor plan redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I move my kitchen to another room during a floor plan redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen move can be practical, but it is usually more complex than changing cabinets or finishes in the existing location. The new position must accommodate water, drainage, gas or electrical service, ventilation, lighting, appliance clearances, storage, and a workable relationship with dining and living areas. Key factors include the distance from existing service lines, slab or crawlspace access, window and door conflicts, structural walls, and the location of the panel or mechanical systems. Before choosing a new kitchen zone, list required appliances, pantry storage, seating, and the preferred cooking workflow. Elite Remodeling & Design handles kitchen layout decisions as part of coordinated design and construction planning.",
+        "@type": "Answer",
+        "description": "Often, but relocating a kitchen can require new plumbing, drainage, electrical circuits, ventilation, lighting, cabinets, and flooring. Compare the desired workflow and storage with the distance from existing services, structural constraints, windows, doors, and appliance requirements before approving the move."
+      }
+    }
+  ],
+  "description": "Often, but relocating a kitchen can require new plumbing, drainage, electrical circuits, ventilation, lighting, cabinets, and flooring. Compare the desired work"
+}

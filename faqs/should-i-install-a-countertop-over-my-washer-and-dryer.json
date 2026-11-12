@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-install-a-countertop-over-my-washer-and-dryer",
+  "name": "Should I install a countertop over my washer and dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install a countertop over my washer and dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A laundry remodel can include a folding counter, but the best height and depth depend on appliance type, user comfort, available circulation, and whether the counter must cover machines or remain separate. Elite Remodeling & Design can coordinate the counter with cabinet storage, sink placement, and appliance service access.\n\nA counter over front-loaders creates efficient folding space, while a separate counter may offer easier machine removal and more flexible storage. A fixed surface above top-loaders may interfere with lid operation unless the layout is carefully planned.\n\nKey factors:\n- Front-loading or top-loading appliances.\n- Door and lid clearance.\n- Counter depth and edge durability.\n- Access to hoses, valves, and the dryer vent.\n\nMeasure the preferred working height and bring appliance dimensions to the design meeting. Ask whether the counter can be removed or serviced without dismantling surrounding cabinetry.",
+        "@type": "Answer",
+        "description": "A counter over front-loading machines can create useful folding space, but it must preserve door clearance, service access, and ventilation. Top-loaders need lid clearance. Compare a fixed bridge counter with a separate surface before ordering cabinets."
+      }
+    }
+  ],
+  "description": "A counter over front-loading machines can create useful folding space, but it must preserve door clearance, service access, and ventilation. Top-loaders need li"
+}

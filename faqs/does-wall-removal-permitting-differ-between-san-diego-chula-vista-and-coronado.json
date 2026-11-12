@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/does-wall-removal-permitting-differ-between-san-diego-chula-vista-and-coronado",
+  "name": "Does wall-removal permitting differ between San Diego, Chula Vista, and Coronado?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does wall-removal permitting differ between San Diego, Chula Vista, and Coronado?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The property’s city determines which department and procedures apply, while the wall’s structural and utility scope determines what documents may be needed. San Diego, Chula Vista, Coronado, National City, Imperial Beach, and other communities should not be treated as one approval area.\n\nContext: The City of San Diego provides separate guidance for building permits and partial demolition, but neighboring jurisdictions may have different submittal systems and review practices. An unincorporated address can add another layer of jurisdictional checking.\n\nKey factors:\n- Exact municipal or county jurisdiction\n- Structural plans and calculations\n- Electrical, plumbing, or mechanical changes\n- Historic or HOA constraints\n\nPractical guidance: Give Elite Remodeling & Design the complete address, property type, photos, and desired opening size at the start. The company’s published process includes permit coordination and final inspection as part of applicable remodeling work.\n\nAccurate jurisdiction information prevents planning around the wrong approval path.",
+        "@type": "Answer",
+        "description": "Yes, procedures can differ by jurisdiction. Confirm the exact city or county authority, property type, structural scope, utility changes, and any historic or HOA conditions before preparing the project."
+      }
+    }
+  ],
+  "description": "Yes, procedures can differ by jurisdiction. Confirm the exact city or county authority, property type, structural scope, utility changes, and any historic or HO"
+}

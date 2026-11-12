@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-stack-my-washer-and-dryer-or-keep-them-side-by-side",
+  "name": "Should I stack my washer and dryer or keep them side by side?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I stack my washer and dryer or keep them side by side?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stacked units save floor area, while side-by-side machines simplify loading, provide a folding surface, and may be easier to service. The better choice depends on household capacity, appliance dimensions, ceiling height, accessibility, and the amount of counter space desired.\n\nElite Remodeling & Design can compare both arrangements during layout development and account for door swings, hookups, ventilation, storage, and future replacement. A narrow room may benefit from stacking, but the chosen unit must be practical for everyone using it.\n\nKey factors:\n- Reach and lifting comfort.\n- Clearance for doors and controls.\n- Available folding and hanging space.\n- Replacement options if one appliance fails.\n\nBring preferred appliance models before cabinetry is designed. Do not assume every stacked set has identical dimensions or connection requirements.",
+        "@type": "Answer",
+        "description": "Stacking saves floor space, while side-by-side machines usually offer easier loading, simpler service, and room for a folding counter. Compare appliance dimensions, user comfort, ceiling height, storage needs, and future replacement plans."
+      }
+    }
+  ],
+  "description": "Stacking saves floor space, while side-by-side machines usually offer easier loading, simpler service, and room for a folding counter. Compare appliance dimensi"
+}

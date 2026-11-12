@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-be-included-in-a-professional-lighting-plan-before-work-starts",
+  "name": "What should be included in a professional lighting plan before work starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a professional lighting plan before work starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A lighting plan is the drawing or documented layout that shows fixture locations, switches, controls, circuits, and sometimes product specifications. It helps prevent conflicts with framing, ductwork, cabinets, plumbing, artwork, and furniture.\n\n**Context:** The amount of detail should match the project. A simple replacement may need only a fixture and control list, while a kitchen, bathroom, addition, or whole-home remodel benefits from coordinated design documents.\n\n**Key factors:**\n- Number of rooms and circuits involved\n- Ceiling and wall conditions\n- Cabinet, plumbing, HVAC, and structural coordination\n- Permit and inspection requirements\n\n**Practical guidance:** Ask to review the layout before rough electrical work begins. Confirm switch locations, fixture centerlines, dimmer groups, and the exact products or performance requirements.\n\nElite Remodeling & Design can integrate lighting decisions into its design development and construction coordination process.",
+        "@type": "Answer",
+        "description": "A useful lighting plan shows fixture locations, switches, controls, and relevant circuit or product information. It should also coordinate with cabinets, plumbing, HVAC, framing, and furniture. Review it before rough electrical work and confirm centerlines, dimmer groups, and product selections."
+      }
+    }
+  ],
+  "description": "A useful lighting plan shows fixture locations, switches, controls, and relevant circuit or product information. It should also coordinate with cabinets, plumbi"
+}

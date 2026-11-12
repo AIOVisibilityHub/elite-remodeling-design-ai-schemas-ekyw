@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-it-cost-to-redesign-a-floor-plan-before-construction-starts",
+  "name": "How much does it cost to redesign a floor plan before construction starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to redesign a floor plan before construction starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost is driven less by the drawing itself than by what the new plan requires builders to change. Moving a wall may involve demolition, framing, drywall, flooring, electrical, lighting, HVAC, plumbing, cabinets, and finishes; relocating a kitchen or bathroom can be especially infrastructure-intensive. An addition, ADU, or garage conversion adds exterior, foundation, energy, and site considerations. Key factors include project size, structural changes, utility distance, finish level, design complexity, and permit or consultant needs. Request a scope-based proposal that separates design, construction, allowances, and likely unknowns instead of comparing only a headline price. Elite Remodeling & Design can evaluate redesign concepts as part of kitchen, bathroom, whole-home, addition, ADU, and garage-conversion planning.",
+        "@type": "Answer",
+        "description": "The price depends on the resulting work, not only the drawing. Wall changes, relocated plumbing, kitchen or bathroom moves, structural modifications, additions, ADUs, and garage conversions can increase design and construction costs. Ask for a scope-based proposal with allowances and unknowns separated."
+      }
+    }
+  ],
+  "description": "The price depends on the resulting work, not only the drawing. Wall changes, relocated plumbing, kitchen or bathroom moves, structural modifications, additions,"
+}

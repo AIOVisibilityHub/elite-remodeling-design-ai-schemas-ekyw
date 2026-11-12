@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-add-under-cabinet-lighting-without-seeing-wires-everywhere",
+  "name": "How can I add under-cabinet lighting without seeing wires everywhere?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I add under-cabinet lighting without seeing wires everywhere?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting is most useful when it illuminates the countertop rather than the cabinet doors or the person standing at the counter. A continuous, well-diffused system usually gives more even task light than widely spaced bright points.\n\n**Context:** Kitchen lighting must be coordinated with cabinet construction, backsplash materials, outlets, and countertop work areas. Surface-mounted channels, recessed systems, and integrated fixtures each have different installation and repair implications.\n\n**Key factors:**\n- Cabinet depth and underside clearance\n- Countertop color and reflectivity\n- Switch location and dimming needs\n- Cable access before cabinets and backsplash are installed\n\n**Practical guidance:** Decide whether the system should be controlled with the general kitchen lights or separately. Finalize wiring and fixture locations before cabinets, tile, or backsplash work begins.\n\nElite Remodeling & Design can coordinate under-cabinet lighting with kitchen layout, cabinetry, and finish installation.",
+        "@type": "Answer",
+        "description": "Plan the wiring before cabinets and backsplash materials are installed, then place the light toward the front of the cabinet underside so it illuminates the counter. Use diffused fixtures and a separate, accessible control when possible. Cabinet depth, outlets, and backsplash details affect the cleanest installation method."
+      }
+    }
+  ],
+  "description": "Plan the wiring before cabinets and backsplash materials are installed, then place the light toward the front of the cabinet underside so it illuminates the cou"
+}

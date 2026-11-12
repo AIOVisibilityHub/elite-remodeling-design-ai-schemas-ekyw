@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-add-a-room-to-my-house",
+  "name": "What should I do first if I want to add a room to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to add a room to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining the room’s purpose, approximate size, preferred location, and how it should connect to the existing home. Elite Remodeling & Design can then review the property, discuss design options, and determine whether the idea is practical before detailed planning begins.\n\nContext: A new bedroom, family room, office, or primary suite can involve foundation work, structural connections, utilities, windows, insulation, and exterior finishes. Existing site conditions often affect the best layout more than the room label does.\n\nKey factors:\n- Available yard area and required setbacks\n- Access for construction equipment\n- Existing foundation, roof, and utility locations\n- Whether plumbing or major electrical work is needed\n\nPractical guidance: Gather a rough sketch, property photos, approximate dimensions, and examples of finishes you like. Ask for a written scope that separates design, permitting, construction, and allowances.\n\nElite Remodeling & Design’s coordinated design-build process can connect early layout decisions with construction planning.",
+        "@type": "Answer",
+        "description": "Begin with the room’s purpose, approximate size, location, and connection to the existing home. A property review can then identify setbacks, utility conflicts, structural issues, and the likely design and permit path before detailed plans are prepared."
+      }
+    }
+  ],
+  "description": "Begin with the room’s purpose, approximate size, location, and connection to the existing home. A property review can then identify setbacks, utility conflicts,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-lighting-should-a-remodeled-laundry-room-have",
+  "name": "How much lighting should a remodeled laundry room have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much lighting should a remodeled laundry room have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Laundry rooms need adequate lighting for sorting, stain treatment, folding, and spotting leaks. A layered plan often works better than one ceiling fixture: general illumination, focused light over a counter, and task lighting inside or beneath cabinets where needed.\n\nElite Remodeling & Design can coordinate lighting placement with cabinets, appliance doors, shelving, and ceiling conditions. If electrical work is added, the scope should be reviewed for applicable permit requirements and circuit capacity rather than treating fixtures as an isolated finish.\n\nKey factors:\n- Shadows cast by upper cabinets.\n- Light at the folding and sink areas.\n- Switch locations near entrances.\n- Moisture exposure and fixture suitability.\n\nShare photos of dark corners and your usual laundry tasks. Place controls where the room can be lit before entering or unloading machines.",
+        "@type": "Answer",
+        "description": "Plan general lighting plus task lighting over folding, sink, and storage areas. Coordinate fixtures and switches with cabinets and appliance doors, and review added electrical work for circuit capacity and applicable permit requirements."
+      }
+    }
+  ],
+  "description": "Plan general lighting plus task lighting over folding, sink, and storage areas. Coordinate fixtures and switches with cabinets and appliance doors, and review a"
+}

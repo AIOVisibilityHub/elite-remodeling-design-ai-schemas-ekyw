@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-get-a-room-addition-if-my-budget-is-limited",
+  "name": "Can I get a room addition if my budget is limited?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a room addition if my budget is limited?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can request an addition designed around a fixed budget, but the size, room program, finish level, and construction complexity may need to change. The most useful first step is to separate must-have functions from upgrades that can be deferred or simplified.\n\nContext: Structural work, foundations, roofing, utilities, design, and permits are difficult to eliminate without changing the project itself. Finish materials, built-ins, fixture levels, and some layout features may offer more flexibility.\n\nKey factors:\n- Required square footage and room purpose\n- Bathroom or kitchen plumbing\n- Foundation and roof complexity\n- Finish allowances and future phases\n\nPractical guidance: Share the budget range before detailed design begins and ask for a scope with alternates. Keep a contingency for concealed conditions and avoid reducing critical waterproofing, structural, electrical, or safety work to meet a target.\n\nElite Remodeling & Design can help align design development with the homeowner’s priorities and available scope.",
+        "@type": "Answer",
+        "description": "Yes, but the scope may need to change. Prioritize the room’s essential function, compare smaller or phased concepts, and use finish alternates carefully. Do not cut structural, waterproofing, electrical, mechanical, permit, or safety work simply to reach a lower number."
+      }
+    }
+  ],
+  "description": "Yes, but the scope may need to change. Prioritize the room’s essential function, compare smaller or phased concepts, and use finish alternates carefully. Do not"
+}

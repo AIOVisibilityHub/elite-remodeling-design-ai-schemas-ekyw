@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-measurements-should-i-take-before-remodeling-a-home-office-for-ergonomic-wo",
+  "name": "What measurements should I take before remodeling a home office for ergonomic work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements should I take before remodeling a home office for ergonomic work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home office should support comfortable posture and screen use without forcing the room to fit the desk afterward. Plan the desk, chair, monitor height, keyboard position, walking clearance, storage reach, and lighting before selecting cabinetry or outlets. Key factors include user height, number of screens, sit-stand equipment, glare, door swings, and whether more than one person will use the room. Mark the proposed footprint with tape and test it for several work sessions. Elite Remodeling & Design can incorporate these measurements into layout development and 3D design visualization before construction begins.",
+        "@type": "Answer",
+        "description": "Measure the room, doors, windows, ceiling height, outlets, desk wall, storage areas, and every major device. Also record chair clearance, walking paths, monitor positions, and sit-stand range. Mark the proposed footprint with tape before ordering cabinets or fixtures; the layout should be tested before construction details are finalized."
+      }
+    }
+  ],
+  "description": "Measure the room, doors, windows, ceiling height, outlets, desk wall, storage areas, and every major device. Also record chair clearance, walking paths, monitor"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-check-before-turning-my-garage-into-living-space",
+  "name": "What should I check before turning my garage into living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before turning my garage into living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion can create valuable living space, but the redesign must address more than drawing bedroom walls inside the garage. Review natural light, ceiling height, insulation, moisture, floor elevation, ventilation, electrical capacity, plumbing, entry, storage, and the effect on parking and site access. Key factors include whether the proposed use is living space, an office, guest area, bathroom, or ADU, plus the existing garage condition and local review requirements. Document what stays in the garage, including utilities, water heaters, or storage, before selecting the layout. Elite Remodeling & Design offers garage conversions and can evaluate them alongside other ways to add usable space.",
+        "@type": "Answer",
+        "description": "Check ceiling height, moisture, insulation, floor elevation, windows, ventilation, electrical capacity, plumbing, entry, storage, parking effects, and existing utility equipment. The intended use—office, guest space, living area, bathroom, or ADU—changes the design scope. Review local requirements before construction."
+      }
+    }
+  ],
+  "description": "Check ceiling height, moisture, insulation, floor elevation, windows, ventilation, electrical capacity, plumbing, entry, storage, parking effects, and existing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-about-an-old-popcorn-ceiling-before-remodeling-my-bedroom",
+  "name": "What should I do about an old popcorn ceiling before remodeling my bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do about an old popcorn ceiling before remodeling my bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not disturb a textured ceiling until its material and condition have been assessed, particularly in an older home. Removal can create dust and may reveal uneven substrate, staining, damaged drywall, or additional preparation before priming and painting.\n\nThe appropriate response depends on the ceiling’s age, composition, prior repairs, and planned finish. If testing or specialized handling is needed, use properly qualified professionals rather than sanding or scraping blindly.\n\nKey factors:\n- Age and condition of the ceiling.\n- Whether the texture is being removed, encapsulated, or repaired.\n- Dust containment and occupant protection.\n- Extra skim-coating, sanding, priming, and painting.\n\nAsk for ceiling preparation to be listed separately in the scope. Elite Remodeling & Design can assess the desired finish and coordinate the required preparation before the ceiling is opened up.",
+        "@type": "Answer",
+        "description": "Have an older textured ceiling assessed before scraping, sanding, or cutting into it. Removal may require specialized handling and can expose damaged or uneven drywall that needs skim coating, sanding, priming, and painting. Include ceiling preparation explicitly in the remodel scope."
+      }
+    }
+  ],
+  "description": "Have an older textured ceiling assessed before scraping, sanding, or cutting into it. Removal may require specialized handling and can expose damaged or uneven"
+}

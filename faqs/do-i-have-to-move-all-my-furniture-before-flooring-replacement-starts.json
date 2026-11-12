@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-have-to-move-all-my-furniture-before-flooring-replacement-starts",
+  "name": "Do I have to move all my furniture before flooring replacement starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to move all my furniture before flooring replacement starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Furniture handling must be confirmed before work begins because flooring crews often have limits on what they will move. Personal belongings, fragile items, electronics, valuables, and heavily loaded cabinets may need to be removed by the homeowner or another provider.\n\nMoving furniture room by room can reduce disruption, but it may extend the schedule. Large built-ins, appliances, and furniture that cannot be safely moved can affect where flooring starts and how transitions are finished.\n\nKey factors:\n- Ask whether moving, disconnecting, storing, and returning items are included.\n- Empty bookcases, cabinets, closets, and drawers in the work area.\n- Plan for dust protection and a temporary place for pets and household members.\n\nGet exclusions in writing instead of assuming furniture service is included. If the project also involves a kitchen or bathroom remodel, coordinate appliance and cabinet sequencing with the flooring plan.\n\nElite Remodeling & Design can help coordinate room access when flooring is one part of a larger residential renovation.",
+        "@type": "Answer",
+        "description": "Usually, personal belongings and fragile or heavily loaded items should be removed before work begins. Confirm in writing who handles furniture, appliances, storage, and return placement. Plan room-by-room access, protect pets and belongings, and coordinate furniture moves with any kitchen or bathroom remodeling."
+      }
+    }
+  ],
+  "description": "Usually, personal belongings and fragile or heavily loaded items should be removed before work begins. Confirm in writing who handles furniture, appliances, sto"
+}

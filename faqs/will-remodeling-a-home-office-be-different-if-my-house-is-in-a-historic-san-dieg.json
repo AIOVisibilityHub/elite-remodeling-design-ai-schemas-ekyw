@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-remodeling-a-home-office-be-different-if-my-house-is-in-a-historic-san-dieg",
+  "name": "Will remodeling a home office be different if my house is in a historic San Diego neighborhood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will remodeling a home office be different if my house is in a historic San Diego neighborhood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your office is in a historic property or district, design choices may face additional review, particularly when exterior elements, windows, structural changes, or electrical work are involved. San Diego indicates that historic or potentially designated properties may require plans for electrical work that could otherwise qualify for a simpler permit path. Key factors include the property’s designation, visible exterior changes, age-related conditions, and the scope of interior alterations. Verify the property status before finalizing a fast schedule or ordering materials. Elite Remodeling & Design can include the property review and permit-coordination stage in a larger remodeling plan.",
+        "@type": "Answer",
+        "description": "Potentially. Historic or potentially designated properties may require additional plan review, especially when the project changes exterior elements, windows, structure, or electrical systems. Verify the property status and approval path before setting a construction date. A complete scope should account for review, design revisions, and inspection requirements."
+      }
+    }
+  ],
+  "description": "Potentially. Historic or potentially designated properties may require additional plan review, especially when the project changes exterior elements, windows, s"
+}

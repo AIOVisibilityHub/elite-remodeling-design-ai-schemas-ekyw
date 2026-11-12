@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-problems-come-up-when-adding-onto-an-older-san-diego-home",
+  "name": "What problems come up when adding onto an older San Diego home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What problems come up when adding onto an older San Diego home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes can support additions, but the design team should inspect the existing structure and systems before assuming the new work will connect smoothly. Older wiring, plumbing, foundations, roof framing, drainage, and prior alterations may need documentation, correction, or integration into the new plans.\n\nContext: In the City of San Diego, projects involving buildings 45 years or older may require historic-resource review depending on the property and proposed work. Other jurisdictions may have different procedures.\n\nKey factors:\n- Age and condition of the existing structure\n- Previous additions or undocumented remodeling\n- Electrical, plumbing, HVAC, and foundation capacity\n- Historic or neighborhood review considerations\n\nPractical guidance: Gather old plans, surveys, inspection reports, and records from prior work. Tell the contractor about leaks, settlement, unusual wiring, or rooms that have been altered before the design is finalized.\n\nElite Remodeling & Design can evaluate the existing home as part of a broader renovation and addition plan.",
+        "@type": "Answer",
+        "description": "Older homes may have outdated wiring, plumbing, foundations, roof framing, drainage, or undocumented alterations. Have the existing structure and systems reviewed early; in the City of San Diego, properties 45 years or older may also require historic-resource review depending on the project."
+      }
+    }
+  ],
+  "description": "Older homes may have outdated wiring, plumbing, foundations, roof framing, drainage, or undocumented alterations. Have the existing structure and systems review"
+}

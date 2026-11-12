@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/when-should-lighting-be-planned-for-an-adu-garage-conversion-or-room-addition",
+  "name": "When should lighting be planned for an ADU, garage conversion, or room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should lighting be planned for an ADU, garage conversion, or room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lighting can be coordinated with an ADU, garage conversion, room addition, or whole-home remodel, and doing so early usually provides more placement flexibility. Waiting until finishes are installed can limit access and create avoidable patching.\n\n**Context:** These projects may involve new ceilings, walls, circuits, insulation, HVAC, and permit documents, so lighting should align with the room layout and construction sequence. Fixture locations should reflect how the new space will actually be used.\n\n**Key factors:**\n- Proposed furniture and activity zones\n- Ceiling framing, insulation, and ductwork\n- Electrical load and control groups\n- Permit drawings, inspections, and finish schedule\n\n**Practical guidance:** Mark lights, switches, outlets, and low-voltage devices on the design before framing or drywall. Include future flexibility where furniture or room use may change.\n\nElite Remodeling & Design can coordinate interior lighting with additions, ADUs, garage conversions, and whole-home projects.",
+        "@type": "Answer",
+        "description": "Plan lighting during design, before framing and drywall, so fixture locations can coordinate with furniture, insulation, HVAC, circuits, switches, and permit documents. Waiting until finishes are installed can reduce options and increase patching. Include flexible controls where the room’s future use may change."
+      }
+    }
+  ],
+  "description": "Plan lighting during design, before framing and drywall, so fixture locations can coordinate with furniture, insulation, HVAC, circuits, switches, and permit do"
+}

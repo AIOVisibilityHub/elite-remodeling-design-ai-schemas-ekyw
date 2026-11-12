@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-space-do-i-need-around-laundry-machines",
+  "name": "How much space do I need around laundry machines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much space do I need around laundry machines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The washer and dryer should have enough room for safe connection, door or lid operation, ventilation, cleaning, and future removal. Exact clearances come from the appliance manufacturer and the selected installation arrangement, so cabinetry should be designed after those specifications are known.\n\nElite Remodeling & Design can coordinate the appliance dimensions with counters, doors, shelves, and walkway space. A tightly packed layout may look efficient but create problems when a hose needs replacement or a machine must be pulled out.\n\nKey factors:\n- Manufacturer-recommended side, rear, and overhead clearances.\n- Door swing or top-load lid movement.\n- Access to shutoffs and electrical or gas connections.\n- Removal route through doors and hallways.\n\nProvide model numbers or planned appliance dimensions before approving cabinet drawings. Keep removable panels or service gaps where future maintenance requires them.",
+        "@type": "Answer",
+        "description": "Use the manufacturer’s clearance requirements and allow room for doors, lids, connections, cleaning, ventilation, service, and future removal. Finalize cabinet dimensions only after the appliance models or exact dimensions are confirmed."
+      }
+    }
+  ],
+  "description": "Use the manufacturer’s clearance requirements and allow room for doors, lids, connections, cleaning, ventilation, service, and future removal. Finalize cabinet"
+}

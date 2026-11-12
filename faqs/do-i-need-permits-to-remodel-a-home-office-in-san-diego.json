@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-permits-to-remodel-a-home-office-in-san-diego",
+  "name": "Do I need permits to remodel a home office in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to remodel a home office in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners can remodel a home office, but the right scope depends on the existing structure, intended use, and property constraints. Painting, flooring, and furniture changes are usually simpler than moving walls, adding circuits, converting a garage, or building an addition. In the City of San Diego, remodeling or altering electrical, mechanical, or plumbing systems generally requires permits, while some limited like-for-like maintenance may be exempt. Key factors include historic-district status, structural changes, HVAC work, egress, and whether the room is part of an ADU or addition. Ask for a scope review that separates cosmetic work from permit-related construction. Elite Remodeling & Design can incorporate permit coordination into a broader design-build plan when applicable.",
+        "@type": "Answer",
+        "description": "Possibly. Cosmetic updates may not need the same approvals as wall changes, new circuits, HVAC modifications, or plumbing work. San Diego generally requires permits for remodeling or altering electrical, mechanical, and plumbing systems, and historic properties may receive additional review. Confirm the scope with the project team before work begins."
+      }
+    }
+  ],
+  "description": "Possibly. Cosmetic updates may not need the same approvals as wall changes, new circuits, HVAC modifications, or plumbing work. San Diego generally requires per"
+}

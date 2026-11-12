@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-remodel-one-room-to-work-as-both-a-home-office-and-a-guest-room",
+  "name": "How can I remodel one room to work as both a home office and a guest room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I remodel one room to work as both a home office and a guest room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home office can often share space with a guest room, but the design should establish which use has priority and how the room changes between them. A wall bed, fold-down desk, concealed storage, or movable divider may preserve floor area, while a permanent desk and extensive cabinetry may limit guest flexibility. Key factors include mattress clearance, video-call background, privacy, lighting, outlets, and storage access. Test both room arrangements on paper before construction. Elite Remodeling & Design can develop a combined layout and use 3D visualization to help compare alternatives before materials are selected.",
+        "@type": "Answer",
+        "description": "Decide which use is primary, then test a layout that preserves bed clearance, desk access, privacy, lighting, and storage. Wall beds, fold-down desks, concealed cabinets, and movable furnishings can save space, but permanent cabinetry may reduce flexibility. Review both room configurations before construction and finish selections."
+      }
+    }
+  ],
+  "description": "Decide which use is primary, then test a layout that preserves bed clearance, desk access, privacy, lighting, and storage. Wall beds, fold-down desks, concealed"
+}

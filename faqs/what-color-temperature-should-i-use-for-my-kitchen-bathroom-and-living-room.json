@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-color-temperature-should-i-use-for-my-kitchen-bathroom-and-living-room",
+  "name": "What color temperature should I use for my kitchen, bathroom, and living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What color temperature should I use for my kitchen, bathroom, and living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal color temperature depends on the room, finishes, daylight, and personal preference. Many homeowners prefer warmer light in living and sleeping areas, while kitchens, bathrooms, and work areas may need a clearer appearance for detailed tasks.\n\n**Context:** Color temperature is only one part of visual comfort; glare, color rendering, beam angle, and dimming also affect how a room feels. Mixing noticeably different temperatures in one connected area can make the lighting look inconsistent.\n\n**Key factors:**\n- Existing daylight and window orientation\n- Cabinet, flooring, paint, and countertop colors\n- Whether the room is for relaxing, grooming, cooking, or work\n- Compatibility with adjacent spaces\n\n**Practical guidance:** Compare sample lamps or fixtures in the room during both daytime and evening. Record the selected specification for every connected area so replacement fixtures do not create mismatched light.\n\nElite Remodeling & Design can coordinate lighting selections with the surrounding finishes during design development.",
+        "@type": "Answer",
+        "description": "Choose color temperature according to room use, daylight, finishes, and the adjoining spaces. Warmer light often suits relaxing areas, while kitchens and bathrooms may benefit from a clearer appearance. Test samples at day and night, and keep one consistent specification across connected rooms."
+      }
+    }
+  ],
+  "description": "Choose color temperature according to room use, daylight, finishes, and the adjoining spaces. Warmer light often suits relaxing areas, while kitchens and bathro"
+}

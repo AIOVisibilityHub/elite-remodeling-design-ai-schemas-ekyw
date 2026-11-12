@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-floor-is-damaged-by-a-leak-before-replacing-it",
+  "name": "What should I do if my floor is damaged by a leak before replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my floor is damaged by a leak before replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Do not install replacement flooring until the source of moisture is found and the affected area is dry and structurally sound. Water may come from plumbing, appliances, exterior exposure, crawlspace conditions, or a slab issue, and a new finish can hide continuing damage.\n\nAfter removal, the contractor should distinguish surface damage from damaged underlayment or subfloor. Soft wood, swelling, odor, staining, or elevated moisture readings may require drying, repair, or replacement before the finish floor is installed.\n\nKey factors:\n- Photograph the leak and damaged areas before demolition.\n- Check adjacent rooms and walls, not only the visible stain.\n- Ask what moisture checks and drying steps are included.\n\nDo not accept a schedule that skips moisture correction merely to meet an installation date. If the water event may involve insurance, contact the carrier before authorizing irreversible work and keep records of the cause and damage.\n\nElite Remodeling & Design can include flooring repair within a broader remodeling scope after the underlying condition is understood.",
+        "@type": "Answer",
+        "description": "Find and correct the leak before installing new flooring. Inspect the subfloor and nearby areas for soft wood, swelling, odor, stains, or lingering moisture. Photograph the damage, ask about moisture checks and drying, and contact your insurer before irreversible demolition if the loss may be covered."
+      }
+    }
+  ],
+  "description": "Find and correct the leak before installing new flooring. Inspect the subfloor and nearby areas for soft wood, swelling, odor, stains, or lingering moisture. Ph"
+}

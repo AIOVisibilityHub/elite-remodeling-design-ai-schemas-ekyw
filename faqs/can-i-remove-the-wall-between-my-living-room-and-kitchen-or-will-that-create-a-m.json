@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remove-the-wall-between-my-living-room-and-kitchen-or-will-that-create-a-m",
+  "name": "Can I remove the wall between my living room and kitchen, or will that create a major problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove the wall between my living room and kitchen, or will that create a major problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living room wall should not be removed based only on appearance or a contractor’s quick opinion. First determine whether it carries roof, floor, ceiling, or lateral loads and whether it contains electrical, plumbing, HVAC, or other services.\n\n**Context:** Removing or altering a wall can turn a finish remodel into a structural project requiring plans, engineering input, permits, temporary support, and inspections. Elite Remodeling & Design can evaluate the proposed layout as part of design and construction planning, but the final approach depends on the home’s existing conditions.\n\n**Key factors:**\n- Floor and ceiling framing direction.\n- Posts, beams, attic conditions, and foundation support.\n- Utilities inside the wall.\n- Whether the opening changes fire, energy, egress, or safety conditions.\n\n**Practical guidance:** Provide existing plans if available and ask for the wall’s proposed removal method, support details, utility relocation, approvals, and finish-repair scope. Avoid demolition until the design and required review are complete.\n\nElite Remodeling & Design can compare an open-plan concept with lower-impact layout alternatives.",
+        "@type": "Answer",
+        "description": "Do not assume a wall is nonstructural. Determine whether it supports the home or contains utilities, then address beams, posts, temporary support, electrical or HVAC relocation, plans, permits, and inspections as needed. A design review can compare full removal with a wider opening or partial alteration."
+      }
+    }
+  ],
+  "description": "Do not assume a wall is nonstructural. Determine whether it supports the home or contains utilities, then address beams, posts, temporary support, electrical or"
+}

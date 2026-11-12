@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-compare-when-two-bedroom-remodeling-bids-are-thousands-of-dollars",
+  "name": "What should I compare when two bedroom remodeling bids are thousands of dollars apart?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I compare when two bedroom remodeling bids are thousands of dollars apart?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most useful information for comparing bedroom remodeling bids is a detailed scope, finish schedule, allowance list, exclusions, payment schedule, and change-order process. A lower total may omit preparation, disposal, trim replacement, electrical work, permit coordination, or final touch-ups.\n\nAsk each contractor to price the same room dimensions and identical performance requirements. Compare who handles design, material ordering, inspections, protection of adjacent areas, cleanup, and correction of discovered conditions.\n\nKey factors:\n- Labor and material quantities.\n- Product brands, grades, and installation methods.\n- Permit and inspection responsibilities.\n- Warranty and post-completion service.\n\nGive Elite Remodeling & Design the same priorities and reference materials provided to other bidders. A coordinated design-build proposal can reduce gaps between design intent and construction responsibility.",
+        "@type": "Answer",
+        "description": "Compare the written scope, materials, allowances, exclusions, permits, preparation, cleanup, schedule, change-order terms, and warranty—not just the bottom line. Ask every bidder to price identical requirements so an unusually low proposal does not hide omitted work."
+      }
+    }
+  ],
+  "description": "Compare the written scope, materials, allowances, exclusions, permits, preparation, cleanup, schedule, change-order terms, and warranty—not just the bottom line"
+}

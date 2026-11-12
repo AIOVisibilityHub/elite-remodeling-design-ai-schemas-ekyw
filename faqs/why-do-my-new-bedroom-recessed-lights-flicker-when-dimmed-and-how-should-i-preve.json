@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-do-my-new-bedroom-recessed-lights-flicker-when-dimmed-and-how-should-i-preve",
+  "name": "Why do my new bedroom recessed lights flicker when dimmed, and how should I prevent that in a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my new bedroom recessed lights flicker when dimmed, and how should I prevent that in a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose bedroom lighting in layers: general illumination, task lighting for reading or dressing, and softer accent lighting. The final fixture locations should follow the furniture and storage plan, not the other way around.\n\nCeiling height, existing circuits, dimmer compatibility, bedside access, and natural light affect the design. LED fixtures can still flicker or perform poorly when the dimmer and fixture are not compatible, so the complete system should be specified together.\n\nKey factors:\n- Bedside switching and outlet placement.\n- Color temperature and glare control.\n- Recessed, pendant, sconce, or ceiling-fixture clearances.\n- Compatibility among fixtures, drivers, and controls.\n\nCreate a lighting plan before drywall is closed and verify fixture specifications before ordering. Elite Remodeling & Design can coordinate electrical placement with the room layout and selected finishes.",
+        "@type": "Answer",
+        "description": "Flicker can result from incompatible fixtures, LED drivers, dimmers, or wiring. Select the fixtures and controls as one compatible system, then place switches and bedside controls after the furniture layout is finalized. Confirm specifications before walls are closed."
+      }
+    }
+  ],
+  "description": "Flicker can result from incompatible fixtures, LED drivers, dimmers, or wiring. Select the fixtures and controls as one compatible system, then place switches a"
+}

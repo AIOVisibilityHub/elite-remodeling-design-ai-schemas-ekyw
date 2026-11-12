@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-makes-a-room-addition-count-as-a-legal-bedroom",
+  "name": "What makes a room addition count as a legal bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a room addition count as a legal bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An addition designed as a bedroom should be planned around sleeping privacy, natural light, emergency escape, storage, heating and cooling, and a practical connection to the rest of the home. Whether it can legally function as a bedroom depends on applicable local and building requirements, so the plans should be reviewed for those conditions.\n\nContext: Calling a space a bedroom does not automatically make it suitable for sleeping or for future property documentation. Window placement, door location, ceiling conditions, smoke and carbon-monoxide protection, and circulation may all matter.\n\nKey factors:\n- Egress and window configuration\n- Closet and storage expectations\n- HVAC distribution and temperature control\n- Bathroom access and household privacy\n\nPractical guidance: State whether the room is for a child, guest, aging parent, or rental use. Ask the design team to identify bedroom-specific plan items before selecting windows or furniture layouts.\n\nElite Remodeling & Design can coordinate the room’s design intent with the construction requirements identified during planning.",
+        "@type": "Answer",
+        "description": "Plan the space for privacy, light, ventilation, emergency escape, storage, temperature control, and safe circulation. Whether it qualifies as a bedroom depends on applicable local and building requirements, so have those conditions addressed in the plans before construction."
+      }
+    }
+  ],
+  "description": "Plan the space for privacy, light, ventilation, emergency escape, storage, temperature control, and safe circulation. Whether it qualifies as a bedroom depends"
+}

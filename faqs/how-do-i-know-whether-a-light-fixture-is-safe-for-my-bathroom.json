@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-know-whether-a-light-fixture-is-safe-for-my-bathroom",
+  "name": "How do I know whether a light fixture is safe for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know whether a light fixture is safe for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose fixtures according to the location, exposure, cleaning needs, and intended task—not appearance alone. Bathrooms, covered exterior-adjacent areas, kitchens, and utility spaces may have different moisture or maintenance conditions than bedrooms and living rooms.\n\n**Context:** Product labels and manufacturer instructions define where a fixture may be installed. A fixture suitable for a dry ceiling may not be appropriate near a shower or other damp area.\n\n**Key factors:**\n- Dry, damp, or wet exposure\n- Ceiling height and cleaning access\n- Heat, steam, and ventilation conditions\n- Required brightness, glare control, and dimming\n\n**Practical guidance:** Keep the installation instructions with the project file and confirm the selected fixture’s rating before ordering. Coordinate bathroom locations with mirrors, shower enclosures, ventilation, and tile layouts.\n\nElite Remodeling & Design can coordinate fixture selection with the room’s construction conditions.",
+        "@type": "Answer",
+        "description": "Check the fixture’s manufacturer rating for the exact location and consider moisture, steam, heat, cleaning access, and ventilation. A dry-location fixture may not suit an area exposed to damp conditions. Coordinate the choice with mirror, shower, tile, and electrical layouts before installation."
+      }
+    }
+  ],
+  "description": "Check the fixture’s manufacturer rating for the exact location and consider moisture, steam, heat, cleaning access, and ventilation. A dry-location fixture may"
+}

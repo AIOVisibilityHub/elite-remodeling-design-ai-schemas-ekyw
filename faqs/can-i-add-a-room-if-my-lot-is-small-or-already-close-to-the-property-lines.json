@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-add-a-room-if-my-lot-is-small-or-already-close-to-the-property-lines",
+  "name": "Can I add a room if my lot is small or already close to the property lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a room if my lot is small or already close to the property lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small yard does not automatically rule out an addition, but the usable building area may be limited by setbacks, lot coverage, easements, access, utilities, and the existing home’s shape. A site-specific layout study is more useful than judging feasibility from lot size alone.\n\nContext: In dense areas such as Coronado, National City, Imperial Beach, or older San Diego neighborhoods, side yards, alleys, coastal conditions, and neighboring structures may create unusual constraints. A second-story option can preserve yard space but may introduce structural, design, privacy, and zoning considerations.\n\nKey factors:\n- Buildable envelope after setbacks and easements\n- Existing sewer, water, gas, and electrical routes\n- Foundation and framing capacity\n- Privacy, daylight, and outdoor-space goals\n\nPractical guidance: Provide a survey or site plan if available, plus photos of property lines and access points. Compare ground-floor expansion, reconfiguration, garage conversion, and second-story concepts before choosing one.\n\nElite Remodeling & Design can evaluate room additions alongside other ways to create usable space.",
+        "@type": "Answer",
+        "description": "Possibly, but setbacks, lot coverage, easements, utilities, access, and existing structural conditions determine feasibility. Compare a smaller ground-floor addition with a second-story, garage-conversion, or interior-reconfiguration concept after a site-specific review."
+      }
+    }
+  ],
+  "description": "Possibly, but setbacks, lot coverage, easements, utilities, access, and existing structural conditions determine feasibility. Compare a smaller ground-floor add"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-an-electrical-permit-for-new-interior-lights-in-san-diego",
+  "name": "Do I need an electrical permit for new interior lights in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an electrical permit for new interior lights in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possibly. In the City of San Diego, electrical alterations generally require a permit, while certain like-for-like replacements may be exempt; the exact requirement depends on the work scope and property conditions. Other San Diego County jurisdictions may have different procedures.\n\n**Context:** Adding circuits, altering wiring, relocating devices, or making broader remodel changes should be reviewed before work begins. Permitted work may also be checked against the current California Electrical Code during inspection.\n\n**Key factors:**\n- Fixture replacement versus new or relocated wiring\n- Added circuits, switches, or controls\n- Property location and historic designation\n- Whether the lighting is part of a permitted remodel\n\n**Practical guidance:** Describe the exact work to the contractor or local building department instead of relying on a fixture label or online assumption. Keep permit and inspection records with the remodeling documents.\n\nElite Remodeling & Design’s design-build process can include permit coordination when the project scope calls for it.",
+        "@type": "Answer",
+        "description": "Maybe. In the City of San Diego, broader electrical alterations generally require permits, while some like-for-like replacements may be exempt. New wiring, relocated fixtures, added circuits, or changed controls should be reviewed before work starts, and requirements can differ in Chula Vista, Coronado, National City, or Imperial Beach."
+      }
+    }
+  ],
+  "description": "Maybe. In the City of San Diego, broader electrical alterations generally require permits, while some like-for-like replacements may be exempt. New wiring, relo"
+}

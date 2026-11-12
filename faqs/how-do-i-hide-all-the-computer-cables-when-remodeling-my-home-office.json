@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-hide-all-the-computer-cables-when-remodeling-my-home-office",
+  "name": "How do I hide all the computer cables when remodeling my home office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I hide all the computer cables when remodeling my home office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodel can improve cable management by deciding where outlets, data connections, charging points, and equipment storage belong before drywall and cabinetry are installed. Wireless devices reduce visible cords but do not remove the need for power, reliable connectivity, and accessible maintenance. Key factors include monitor arms, printers, routers, floor outlets, conduit paths, backup power, and future equipment. Draw a simple connection map and label devices that may move. Elite Remodeling & Design can coordinate outlet placement with cabinetry and the work surface as part of the design plan.",
+        "@type": "Answer",
+        "description": "Start with an equipment and connection map, then place outlets, data points, charging locations, and cable paths around the actual desk and storage plan. Include access for repairs and future devices. Concealed conduits, grommets, cabinet channels, and carefully located outlets work better when planned before drywall and cabinetry are installed."
+      }
+    }
+  ],
+  "description": "Start with an equipment and connection map, then place outlets, data points, charging locations, and cable paths around the actual desk and storage plan. Includ"
+}

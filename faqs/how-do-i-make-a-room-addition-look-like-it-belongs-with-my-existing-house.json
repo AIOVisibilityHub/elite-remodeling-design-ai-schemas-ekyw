@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-do-i-make-a-room-addition-look-like-it-belongs-with-my-existing-house",
+  "name": "How do I make a room addition look like it belongs with my existing house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I make a room addition look like it belongs with my existing house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition can remain visually separate, but most homeowners get a better result when its roofline, siding or stucco, windows, trim, flooring, and transitions relate to the existing house. Matching does not mean copying every detail; it means making the connection intentional.\n\nContext: A poorly aligned addition can look like an afterthought and may create leaks or awkward interior transitions. A carefully designed contrast can work when the proportions, materials, and connection details are deliberate.\n\nKey factors:\n- Existing roof pitch and drainage paths\n- Exterior materials, colors, and window proportions\n- Ceiling heights and floor elevations\n- Interior circulation and sightlines\n\nPractical guidance: Take photos of every side of the home and identify features you want preserved. Request exterior elevations or 3D views before approving a design that changes the roof or street-facing façade.\n\nElite Remodeling & Design offers design visualization that can help review the addition’s relationship to the existing home.",
+        "@type": "Answer",
+        "description": "Coordinate the addition’s roofline, exterior materials, windows, trim, floor levels, ceiling heights, and interior circulation with the existing home. Use elevations or 3D views to review proportions and transitions before construction details are finalized."
+      }
+    }
+  ],
+  "description": "Coordinate the addition’s roofline, exterior materials, windows, trim, floor levels, ceiling heights, and interior circulation with the existing home. Use eleva"
+}

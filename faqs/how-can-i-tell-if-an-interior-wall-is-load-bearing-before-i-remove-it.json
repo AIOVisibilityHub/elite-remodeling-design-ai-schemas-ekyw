@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-tell-if-an-interior-wall-is-load-bearing-before-i-remove-it",
+  "name": "How can I tell if an interior wall is load-bearing before I remove it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if an interior wall is load-bearing before I remove it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not reliably. Drywall thickness, wall location, ceiling direction, and visible framing can provide clues, but they do not prove that a wall is non-load-bearing. Loads may transfer through beams, posts, joists, or walls that are not obvious from one room.\n\nContext: A mistaken assumption can cause movement, cracking, utility damage, or an unsafe opening. In San Diego County, the answer may also change when the home has additions, altered roof framing, or previous renovations.\n\nKey factors:\n- Framing above and below the wall\n- Roof and floor joist direction\n- Beams, posts, and bearing points\n- Changes made during earlier remodeling\n\nPractical guidance: Do not rely on a stud finder or online floor-plan rule alone. Provide Elite Remodeling & Design with photos, attic or crawlspace access details, and any original plans for a more useful project review.\n\nThe right decision depends on the building’s actual load path, not the wall’s appearance.",
+        "@type": "Answer",
+        "description": "You cannot confirm that from appearance alone. The wall’s relationship to joists, roof framing, beams, posts, and foundation support must be reviewed before removal."
+      }
+    }
+  ],
+  "description": "You cannot confirm that from appearance alone. The wall’s relationship to joists, roof framing, beams, posts, and foundation support must be reviewed before rem"
+}

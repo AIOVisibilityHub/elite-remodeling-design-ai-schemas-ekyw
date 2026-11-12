@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-stay-in-my-house-while-the-floors-are-being-replaced",
+  "name": "Can I stay in my house while the floors are being replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my house while the floors are being replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement can be completed while a home is occupied, but household routines must be planned around demolition, dust, noise, room closures, and curing or setting periods. Moving through unfinished areas can damage the installation or create safety problems.\n\nA room-by-room sequence may keep part of the home usable, though it can lengthen the project and create more transitions between work areas. Kitchen or bathroom renovations may require additional temporary arrangements for cooking, bathing, or storage.\n\nKey factors:\n- Establish which rooms will be inaccessible each day.\n- Protect HVAC openings, belongings, pets, and finished surfaces.\n- Plan meals, sleeping arrangements, and alternate paths through the house.\n\nAsk for a phasing plan and daily cleanup expectations before work begins. Remove valuables and disclose any mobility, pet, or access needs so the sequence can be adjusted early.\n\nElite Remodeling & Design can coordinate flooring phasing with kitchen, bathroom, and whole-home remodeling schedules.",
+        "@type": "Answer",
+        "description": "Often, but expect noise, dust, room closures, furniture movement, and temporary access changes. A room-by-room sequence may preserve part of the home but can extend the schedule. Ask for a phasing plan, protection measures, cleanup expectations, and any no-entry periods."
+      }
+    }
+  ],
+  "description": "Often, but expect noise, dust, room closures, furniture movement, and temporary access changes. A room-by-room sequence may preserve part of the home but can ex"
+}

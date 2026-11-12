@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-should-a-dryer-vent-be-handled-during-a-laundry-room-remodel",
+  "name": "How should a dryer vent be handled during a laundry room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should a dryer vent be handled during a laundry room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dryer vent should generally take the shortest practical route to the exterior, use smooth rigid ducting where appropriate, and avoid unnecessary bends. Long or twisting runs can trap lint, reduce drying performance, and increase fire risk; one published guide notes that bends reduce the allowable effective run length.\n\nElite Remodeling & Design can review the vent route during layout planning, especially when the laundry room is interior or far from an exterior wall. The best solution may involve a different appliance arrangement, a shorter route, or evaluating an approved ventless dryer option.\n\nKey factors:\n- Total route length and number of bends.\n- Exterior termination location.\n- Access for cleaning and future service.\n- Dryer manufacturer instructions and local requirements.\n\nDo not finalize cabinetry or close walls until the vent path is confirmed. Tell the design team if the existing dryer takes too long to dry clothes or if lint accumulates around the room.",
+        "@type": "Answer",
+        "description": "Plan the dryer vent before cabinets and walls are finalized. A short, direct route with suitable ducting is generally preferable because long or twisting runs can trap lint, reduce performance, and increase fire risk."
+      }
+    }
+  ],
+  "description": "Plan the dryer vent before cabinets and walls are finalized. A short, direct route with suitable ducting is generally preferable because long or twisting runs c"
+}

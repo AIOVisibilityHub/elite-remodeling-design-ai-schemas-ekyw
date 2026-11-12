@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/where-should-lights-go-in-a-kitchen-so-i-stop-working-in-my-own-shadow",
+  "name": "Where should lights go in a kitchen so I stop working in my own shadow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where should lights go in a kitchen so I stop working in my own shadow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with the activities that need accurate light, then add general illumination and visual accents. In a kitchen, that often means countertop and sink task lighting, balanced room lighting, and optional island or cabinet accents; the exact arrangement depends on the layout.\n\n**Context:** A visually attractive fixture can still perform poorly if it is behind the user, creates reflected glare, or does not cover the work surface. Cabinets, appliances, windows, and ceiling structure affect placement.\n\n**Key factors:**\n- Work zones and walking paths\n- Counter depth, island size, and cabinet layout\n- Glare on polished stone or appliances\n- Separate controls for different activities\n\n**Practical guidance:** Mark the center of each work zone on the plan before selecting pendants or recessed fixtures. Coordinate electrical boxes with cabinet elevations and appliance locations.\n\nElite Remodeling & Design can develop the lighting plan alongside kitchen layout and cabinetry decisions.",
+        "@type": "Answer",
+        "description": "Plan kitchen lighting around work zones first, especially counters, sinks, islands, and food-preparation areas. Use task lighting near the front of cabinets and avoid placing fixtures where your body blocks the work surface. Coordinate fixture boxes with cabinet and appliance drawings before installation."
+      }
+    }
+  ],
+  "description": "Plan kitchen lighting around work zones first, especially counters, sinks, islands, and food-preparation areas. Use task lighting near the front of cabinets and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-removing-a-wall-require-new-posts-or-foundation-work",
+  "name": "Will removing a wall require new posts or foundation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing a wall require new posts or foundation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possibly, but only after the wall’s load path and the proposed opening are evaluated. If the wall supports another floor, roof, beam, or concentrated load, new support may need to extend through lower levels or connect to adequate foundation support.\n\nContext: A post placed on an unsuitable floor or framing member can create settlement, deflection, cracking, or other damage. A beam solution that looks correct from one room may not work structurally below.\n\nKey factors:\n- Number of stories and roof configuration\n- Existing beams and posts\n- Crawlspace or slab conditions\n- Proposed post locations and reactions\n\nPractical guidance: Provide access details for the attic, basement or crawlspace, and foundation area where available. Ask Elite Remodeling & Design to identify whether the opening affects nearby rooms, flooring, cabinets, or circulation before construction begins.\n\nThe support below a new post matters as much as the beam above it.",
+        "@type": "Answer",
+        "description": "It might. New posts must transfer loads to adequate support, which can require checking floor framing, slab or crawlspace conditions, lower-level walls, and foundation capacity. Post placement can also affect cabinets, flooring, and circulation."
+      }
+    }
+  ],
+  "description": "It might. New posts must transfer loads to adequate support, which can require checking floor framing, slab or crawlspace conditions, lower-level walls, and fou"
+}

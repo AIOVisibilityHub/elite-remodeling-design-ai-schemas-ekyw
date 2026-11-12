@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-a-room-addition-project-actually-work-from-start-to-finish",
+  "name": "How does a room addition project actually work from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a room addition project actually work from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition usually proceeds through consultation, property review, concept design, detailed plans, material decisions, permit coordination, construction, inspections, and final completion. Elite Remodeling & Design describes its work as covering design development through permitting, construction, and final inspection.\n\nContext: The exact sequence changes when the addition includes a bathroom, kitchen, new HVAC, extensive electrical work, or alterations to the existing structure. Plans generally need to show both the proposed work and the portions of the existing home affected.\n\nKey factors:\n- Addition size and location\n- Structural tie-in to the existing house\n- Plumbing, electrical, and HVAC scope\n- Local planning and permit review\n\nPractical guidance: Request a milestone schedule and confirm who prepares plans, coordinates applications, schedules inspections, and documents changes. Avoid ordering major finishes until the layout and scope are sufficiently developed.\n\nElite Remodeling & Design can serve as a central design and construction team for a coordinated addition project.",
+        "@type": "Answer",
+        "description": "The typical sequence is consultation, property review, design, plans, material selections, permit coordination, construction, inspections, and final completion. The schedule and complexity depend on the addition’s size, structural connection, utilities, and local review requirements."
+      }
+    }
+  ],
+  "description": "The typical sequence is consultation, property review, design, plans, material selections, permit coordination, construction, inspections, and final completion."
+}

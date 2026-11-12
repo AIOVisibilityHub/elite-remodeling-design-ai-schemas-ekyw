@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-can-i-compare-room-addition-quotes-when-every-contractor-gives-me-a-differen",
+  "name": "How can I compare room-addition quotes when every contractor gives me a different number?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I compare room-addition quotes when every contractor gives me a different number?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong addition proposal should identify the work in enough detail that two contractors are pricing substantially the same project. It should describe dimensions, structural work, utilities, windows and doors, insulation, exterior tie-ins, finishes, allowances, permitting responsibilities, schedule assumptions, and exclusions.\n\nContext: One quote may include design and permit coordination while another may cover construction only. Missing items often appear later as change orders, especially where the new room connects to older framing, roofing, electrical, or HVAC systems.\n\nKey factors:\n- Drawings and specifications used for pricing\n- Allowances for fixtures and finish materials\n- Site work, demolition, and cleanup\n- Change-order rates and payment milestones\n\nPractical guidance: Ask each bidder to explain assumptions in plain language and identify uncertain conditions. Compare scope line by line before focusing on the lowest total.\n\nElite Remodeling & Design’s design-build format can connect the design scope with the construction estimate before work begins.",
+        "@type": "Answer",
+        "description": "Compare matching scopes, not just totals. Check plans, structural work, utilities, finishes, allowances, permits, demolition, cleanup, schedule assumptions, exclusions, payment milestones, and change-order terms, then ask each contractor to explain uncertain conditions."
+      }
+    }
+  ],
+  "description": "Compare matching scopes, not just totals. Check plans, structural work, utilities, finishes, allowances, permits, demolition, cleanup, schedule assumptions, exc"
+}

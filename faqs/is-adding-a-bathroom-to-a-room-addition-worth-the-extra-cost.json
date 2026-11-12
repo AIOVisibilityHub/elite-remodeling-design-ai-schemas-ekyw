@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-adding-a-bathroom-to-a-room-addition-worth-the-extra-cost",
+  "name": "Is adding a bathroom to a room addition worth the extra cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is adding a bathroom to a room addition worth the extra cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom can make an addition more useful, but it typically increases design, plumbing, ventilation, waterproofing, electrical, and inspection coordination. The best location often depends on the distance to existing drain and water lines, floor elevations, and access to the main service systems.\n\nContext: A new fixture may also affect local submittal requirements. The City of San Diego’s addition guidance identifies a water-meter data card when new plumbing fixtures are added.\n\nKey factors:\n- Distance to existing plumbing lines\n- Drain slope and possible slab or crawlspace work\n- Venting, electrical, and mechanical requirements\n- Fixture layout and accessibility goals\n\nPractical guidance: Decide early whether the room truly needs a full bath, half bath, or no plumbing. Ask for the plumbing route, floor-transition plan, ventilation approach, and allowance for fixtures before approving the layout.\n\nElite Remodeling & Design handles bathroom remodeling as well as additions, which can help coordinate the wet-room details within the broader design.",
+        "@type": "Answer",
+        "description": "It can improve the room’s function, but it adds plumbing, ventilation, waterproofing, electrical, and inspection work. Decide early between a full bath, half bath, or no bathroom, and review the proposed plumbing route and fixture allowances before finalizing the layout."
+      }
+    }
+  ],
+  "description": "It can improve the room’s function, but it adds plumbing, ventilation, waterproofing, electrical, and inspection work. Decide early between a full bath, half ba"
+}

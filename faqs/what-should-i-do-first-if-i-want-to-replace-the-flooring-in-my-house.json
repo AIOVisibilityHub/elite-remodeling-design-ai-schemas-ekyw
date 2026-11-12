@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-replace-the-flooring-in-my-house",
+  "name": "What should I do first if I want to replace the flooring in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to replace the flooring in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying why the floor needs replacement and inspecting the finish, subfloor, moisture conditions, transitions, and nearby trim. Elite Remodeling & Design can review the flooring as part of a broader residential remodeling plan, especially when the replacement connects with a kitchen, bathroom, or whole-home update.\n\nThe right material depends on traffic, pets, spills, design goals, room use, and the existing floor height. A surface problem may require only removal and installation, while movement, soft areas, or water damage can require subfloor work first.\n\nKey factors:\n- Check for leaks, odors, soft spots, uneven areas, and loose materials.\n- Confirm whether doors, baseboards, cabinets, and appliances will be affected.\n- Decide whether visual continuity matters across adjoining rooms.\n\nBefore requesting an estimate, gather room measurements, photos, preferred materials, and information about previous leaks or repairs. A coordinated design and construction review helps define the actual scope before materials are ordered.\n\nElite Remodeling & Design can help connect flooring decisions with the larger layout, finish, and construction plan when the work extends beyond a single surface.",
+        "@type": "Answer",
+        "description": "First identify the cause of the replacement, then inspect the flooring, subfloor, moisture conditions, room transitions, trim, doors, and cabinets. Gather measurements and photos before requesting an estimate. If the floor is part of a kitchen, bathroom, or whole-home remodel, coordinate the material and installation plan with the wider project."
+      }
+    }
+  ],
+  "description": "First identify the cause of the replacement, then inspect the flooring, subfloor, moisture conditions, room transitions, trim, doors, and cabinets. Gather measu"
+}

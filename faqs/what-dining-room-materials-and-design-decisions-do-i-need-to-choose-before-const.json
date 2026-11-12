@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-dining-room-materials-and-design-decisions-do-i-need-to-choose-before-const",
+  "name": "What dining room materials and design decisions do I need to choose before construction starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What dining room materials and design decisions do I need to choose before construction starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Make selections in an order that protects layout and rough-in decisions: function and dimensions first, then lighting and electrical locations, followed by major materials, millwork, fixtures, hardware, and decorative details. Changing an early decision later can affect several downstream items.\n\nContext: Elite Remodeling & Design may coordinate design development, 3D visualization, material selections, permitting, and construction. Selections should therefore be connected to drawings and the construction sequence rather than made independently.\n\nKey factors:\n- Table and furniture dimensions.\n- Lighting, outlet, and switch locations.\n- Flooring thickness and transition conditions.\n- Built-in dimensions, hardware, paint, and trim profiles.\n\nPractical guidance: Keep a written selection schedule with product names, sizes, colors, quantities, alternates, and approval dates. Ask which decisions are needed before permit submission or ordering.\n\nEarly clarity protects both the design and the schedule.",
+        "@type": "Answer",
+        "description": "Decide the layout and furniture clearances first, then electrical and lighting locations, flooring, millwork, fixtures, hardware, paint, and trim. Keep a selection schedule with exact products, quantities, alternates, and approval dates."
+      }
+    }
+  ],
+  "description": "Decide the layout and furniture clearances first, then electrical and lighting locations, flooring, millwork, fixtures, hardware, paint, and trim. Keep a select"
+}

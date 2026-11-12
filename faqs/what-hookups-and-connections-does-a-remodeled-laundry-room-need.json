@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hookups-and-connections-does-a-remodeled-laundry-room-need",
+  "name": "What hookups and connections does a remodeled laundry room need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hookups and connections does a remodeled laundry room need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A washer needs reliable hot and cold supplies, a properly sized drain arrangement, accessible shutoffs, and a stable, level surface. A dryer needs the correct power or gas connection and a safe exhaust solution when it is a vented model; the final requirements depend on the appliance and local construction conditions.\n\nElite Remodeling & Design can assess whether existing hookups are reusable or whether the layout needs new plumbing, electrical, or ventilation coordination. Improvised extensions and inaccessible valves can make maintenance and future leak response harder.\n\nKey factors:\n- Manufacturer connection requirements.\n- Drain location and standpipe configuration.\n- Dedicated electrical circuit or gas supply.\n- Shutoff access and clearance around each machine.\n\nBring the exact appliance model numbers before design decisions are finalized. This helps the team plan clearances, connections, door swings, and service access instead of relying on standard appliance assumptions.",
+        "@type": "Answer",
+        "description": "Plan for washer water supplies, a suitable drain and accessible shutoffs, plus the dryer’s required electrical or gas connection. A vented dryer also needs an appropriate exterior exhaust route. Confirm requirements from the appliance manuals before construction."
+      }
+    }
+  ],
+  "description": "Plan for washer water supplies, a suitable drain and accessible shutoffs, plus the dryer’s required electrical or gas connection. A vented dryer also needs an a"
+}

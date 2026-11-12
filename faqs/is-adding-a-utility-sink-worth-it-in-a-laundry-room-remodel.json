@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-adding-a-utility-sink-worth-it-in-a-laundry-room-remodel",
+  "name": "Is adding a utility sink worth it in a laundry room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is adding a utility sink worth it in a laundry room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A utility sink is worthwhile when you frequently hand-wash items, soak stained clothing, clean tools, or need a nearby water source. It adds useful function, but it also requires space, supply lines, drainage, a faucet, counter planning, and potentially additional construction work.\n\nElite Remodeling & Design can test the sink against the room’s circulation and appliance clearances before including it. In a compact laundry room, a deep sink may provide more utility than a second counter, while a shallow or undermount option may preserve workspace.\n\nKey factors:\n- Distance from the existing drain and water lines.\n- Basin depth and faucet reach.\n- Splash-resistant wall and countertop materials.\n- Storage below and access to plumbing.\n\nList the tasks you expect the sink to handle instead of choosing by appearance alone. Keep the plumbing accessible and avoid locating the basin where an open washer or dryer door blocks it.",
+        "@type": "Answer",
+        "description": "A utility sink is valuable for soaking, hand-washing, cleaning, and stain treatment, but it needs space and new or modified plumbing. Decide based on actual household tasks, then check circulation, drain access, basin depth, and counter needs."
+      }
+    }
+  ],
+  "description": "A utility sink is valuable for soaking, hand-washing, cleaning, and stain treatment, but it needs space and new or modified plumbing. Decide based on actual hou"
+}

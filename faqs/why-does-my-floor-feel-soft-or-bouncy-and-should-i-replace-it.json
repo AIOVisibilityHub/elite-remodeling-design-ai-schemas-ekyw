@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/why-does-my-floor-feel-soft-or-bouncy-and-should-i-replace-it",
+  "name": "Why does my floor feel soft or bouncy, and should I replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my floor feel soft or bouncy, and should I replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A soft or bouncy floor is a condition to investigate before choosing a finish material. The cause may involve damaged subflooring, loose fasteners, joist movement, moisture, an uneven transition, or an installation problem below the visible surface.\n\nInstalling a rigid or floating floor over movement can lead to noise, cracked joints, separated seams, or premature failure. A proper assessment should identify whether the repair is limited to a panel or requires access to framing or moisture correction.\n\nKey factors:\n- Mark every soft, squeaking, or uneven location.\n- Note whether symptoms worsen near bathrooms, kitchens, exterior walls, or appliances.\n- Ask whether the quote includes opening and repairing affected areas.\n\nDo not select a finish solely because it is marketed as durable. The supporting structure and substrate must be suitable for the selected installation method.\n\nElite Remodeling & Design can coordinate subfloor investigation with other renovation work when the floor issue is connected to a room remodel.",
+        "@type": "Answer",
+        "description": "A soft or bouncy floor may indicate damaged subflooring, loose fasteners, joist movement, moisture, or an uneven base. Identify and repair the cause before installing a new finish. Mark problem areas and ask whether the estimate includes opening, inspecting, and repairing concealed damage."
+      }
+    }
+  ],
+  "description": "A soft or bouncy floor may indicate damaged subflooring, loose fasteners, joist movement, moisture, or an uneven base. Identify and repair the cause before inst"
+}

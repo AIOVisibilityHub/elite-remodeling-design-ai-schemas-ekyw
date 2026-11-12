@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-choose-carpet-hardwood-or-luxury-vinyl-for-a-bedroom-remodel-near-the-c",
+  "name": "Should I choose carpet, hardwood, or luxury vinyl for a bedroom remodel near the coast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose carpet, hardwood, or luxury vinyl for a bedroom remodel near the coast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start flooring selection with moisture exposure, subfloor condition, sound transmission, durability, installation height, and the transition to adjacent rooms. Appearance matters, but an attractive material can perform poorly if it conflicts with doors, baseboards, or an uneven subfloor.\n\nCarpet may provide warmth and sound absorption, while hard flooring can be easier to clean and may connect visually with nearby spaces. In coastal areas such as Coronado and Imperial Beach, humidity, sand, and salt tracked indoors can influence maintenance and finish choices.\n\nKey factors:\n- Existing subfloor flatness and damage.\n- Door clearance and baseboard removal.\n- Noise control for rooms above or beside living areas.\n- Product warranty and installation requirements.\n\nHave the subfloor inspected before final pricing. Elite Remodeling & Design can coordinate flooring, trim, transitions, and furniture clearances as part of the room’s broader design.",
+        "@type": "Answer",
+        "description": "Compare warmth, sound control, cleaning, subfloor condition, door clearance, transitions, and coastal sand or humidity exposure. Carpet is softer and quieter; hard surfaces are often easier to clean. Inspect the subfloor before choosing a material or accepting a price."
+      }
+    }
+  ],
+  "description": "Compare warmth, sound control, cleaning, subfloor condition, door clearance, transitions, and coastal sand or humidity exposure. Carpet is softer and quieter; h"
+}

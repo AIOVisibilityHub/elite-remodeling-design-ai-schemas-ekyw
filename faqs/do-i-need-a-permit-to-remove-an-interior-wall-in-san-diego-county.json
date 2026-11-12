@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-i-need-a-permit-to-remove-an-interior-wall-in-san-diego-county",
+  "name": "Do I need a permit to remove an interior wall in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remove an interior wall in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possibly, especially when removal changes framing, creates a large opening, affects electrical or plumbing systems, or requires new structural support. Requirements vary by jurisdiction and project scope, so the local building department and project professional should confirm the needed approvals.\n\nContext: The City of San Diego states that a permit is generally required before altering or renovating a residential building, and partial structural demolition may require a building permit with plans. Other cities in the county may use different procedures.\n\nKey factors:\n- Your city and property type\n- Whether the wall supports loads\n- New beams, posts, or footings\n- Electrical, plumbing, HVAC, or gas changes\n\nPractical guidance: Identify the municipality before pricing the work and ask who will prepare, submit, and close out required documents. Elite Remodeling & Design’s stated process can include design development, permit coordination, construction, and final inspection.\n\nDo not assume a small-looking wall removal is exempt from approval.",
+        "@type": "Answer",
+        "description": "Often, yes, when wall removal alters the building, affects structure, or changes electrical, plumbing, or HVAC systems. San Diego’s guidance generally requires permits for residential alterations, while other county cities may differ."
+      }
+    }
+  ],
+  "description": "Often, yes, when wall removal alters the building, affects structure, or changes electrical, plumbing, or HVAC systems. San Diego’s guidance generally requires"
+}

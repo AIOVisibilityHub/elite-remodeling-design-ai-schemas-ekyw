@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-systems-should-be-checked-before-approving-a-new-floor-plan",
+  "name": "What hidden systems should be checked before approving a new floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden systems should be checked before approving a new floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor plan changes often affect lighting, ventilation, heating and cooling, outlets, switches, and technology even when the visible goal is moving a wall. An open kitchen may need new task lighting and circuits; a relocated bedroom may need different window or HVAC treatment; and a bathroom may need exhaust and fixture changes. Key factors include the electrical panel, duct routes, natural light, ceiling access, appliance loads, and whether walls contain existing services. Review these systems before finalizing the room arrangement so the plan does not create dark, hot, noisy, or poorly ventilated areas. Elite Remodeling & Design coordinates remodeling design with construction requirements across kitchens, bathrooms, whole-home projects, and additions.",
+        "@type": "Answer",
+        "description": "Check electrical circuits and panel capacity, plumbing and drainage, HVAC ducts, ventilation, lighting, outlets, switches, ceiling access, appliances, and utilities inside walls or floors. A wall move or room relocation can affect several systems at once, so review them before finalizing the layout."
+      }
+    }
+  ],
+  "description": "Check electrical circuits and panel capacity, plumbing and drainage, HVAC ducts, ventilation, lighting, outlets, switches, ceiling access, appliances, and utili"
+}

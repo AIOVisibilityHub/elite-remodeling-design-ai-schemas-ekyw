@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-actually-happens-during-an-interior-wall-removal-project",
+  "name": "What actually happens during an interior wall removal project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What actually happens during an interior wall removal project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional process usually starts with a site review, then layout and structural planning, utility coordination, approvals when required, controlled demolition, framing or beam installation, rough inspections, and finish work. The exact sequence depends on whether the wall is structural and what is hidden inside it.\n\nContext: Removing the partition is only one part of the job. Flooring, drywall, trim, lighting, outlets, ductwork, cabinets, and paint may need to be connected across the former wall line.\n\nKey factors:\n- Structural support and temporary shoring\n- Utility rerouting\n- Beam or post appearance\n- Matching adjacent finishes\n\nPractical guidance: Ask for a written scope that separates demolition, structural work, MEP changes, inspections, drywall, flooring, trim, and painting. Elite Remodeling & Design can combine layout development, 3D visualization, material selections, and construction coordination when the opening is part of a broader remodel.\n\nA complete scope prevents a low demolition quote from hiding unfinished restoration work.",
+        "@type": "Answer",
+        "description": "The work typically includes an assessment, layout and structural planning, utility checks, approvals if required, controlled demolition, support installation, inspections, and repairs to drywall, flooring, trim, lighting, or other affected finishes."
+      }
+    }
+  ],
+  "description": "The work typically includes an assessment, layout and structural planning, utility checks, approvals if required, controlled demolition, support installation, i"
+}

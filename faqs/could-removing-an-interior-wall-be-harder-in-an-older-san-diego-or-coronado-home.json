@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/could-removing-an-interior-wall-be-harder-in-an-older-san-diego-or-coronado-home",
+  "name": "Could removing an interior wall be harder in an older San Diego or Coronado home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Could removing an interior wall be harder in an older San Diego or Coronado home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sometimes. Historic designation, neighborhood controls, multifamily rules, HOA requirements, or local review procedures may affect what can be changed and which documents are needed. The property’s actual jurisdiction and designation should be checked before planning demolition.\n\nContext: The City of San Diego notes that historic resources and historic districts can change how otherwise simpler work is handled. Similar considerations may arise in older homes in neighborhoods such as Coronado Village, older central San Diego areas, or National City, but the property must be verified individually.\n\nKey factors:\n- City or unincorporated jurisdiction\n- Historic status or district designation\n- HOA or building-management rules\n- Structural and exterior impacts\n\nPractical guidance: Share the property address and any available designation or HOA documents during the initial review. Elite Remodeling & Design can account for location and project scope when coordinating design and approval steps.\n\nLocal context matters most when it changes review, documentation, or design constraints.",
+        "@type": "Answer",
+        "description": "It can be. Older framing, prior alterations, historic controls, HOA rules, and concealed utilities may add review or construction complexity. Confirm the property’s jurisdiction and any designation before finalizing the scope."
+      }
+    }
+  ],
+  "description": "It can be. Older framing, prior alterations, historic controls, HOA rules, and concealed utilities may add review or construction complexity. Confirm the proper"
+}

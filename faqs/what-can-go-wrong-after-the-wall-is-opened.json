@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-can-go-wrong-after-the-wall-is-opened",
+  "name": "What can go wrong after the wall is opened?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can go wrong after the wall is opened?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process may reveal concealed damage, unpermitted alterations, outdated wiring, moisture, pests, or framing that differs from available plans. These conditions can change the scope, cost, sequence, or approval needs.\n\nContext: Wall removal exposes areas that were previously inaccessible, so a responsible proposal should allow for investigation and documented changes. Concealed conditions are particularly relevant in older homes and houses with multiple previous remodels.\n\nKey factors:\n- Age and remodeling history\n- Moisture or pest evidence\n- Existing wiring and plumbing quality\n- Differences between plans and field conditions\n\nPractical guidance: Ask how unexpected findings will be documented, priced, approved, and scheduled before work starts. Elite Remodeling & Design can coordinate design and construction decisions when field conditions require a revised layout or finish plan.\n\nA change process protects the project better than pretending hidden conditions do not exist.",
+        "@type": "Answer",
+        "description": "Demolition may uncover damaged framing, moisture, pests, outdated utilities, or differences from old plans. Agree in advance how findings will be documented, priced, approved, and scheduled before the wall is fully removed."
+      }
+    }
+  ],
+  "description": "Demolition may uncover damaged framing, moisture, pests, outdated utilities, or differences from old plans. Agree in advance how findings will be documented, pr"
+}

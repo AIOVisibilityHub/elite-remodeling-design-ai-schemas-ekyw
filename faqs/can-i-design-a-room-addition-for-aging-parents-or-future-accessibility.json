@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-design-a-room-addition-for-aging-parents-or-future-accessibility",
+  "name": "Can I design a room addition for aging parents or future accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I design a room addition for aging parents or future accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition can be designed for aging in place, but accessibility should be considered before the floor plan is fixed. A convenient layout may include a bedroom and bathroom on one level, wider circulation, low-threshold entries, adequate turning space, good lighting, and controls placed where occupants can reach them.\n\nContext: The right features depend on the resident’s current abilities, likely future needs, mobility equipment, and the site’s grade. Adding accessibility later can be more disruptive than reserving space during initial design.\n\nKey factors:\n- Step-free route from parking or the sidewalk\n- Door widths and bathroom clearances\n- Shower, toilet, and grab-bar blocking locations\n- Lighting, switches, and flooring transitions\n\nPractical guidance: Describe current and anticipated mobility needs without waiting for a crisis. Ask for an accessible concept and identify which features are essential now versus provisions that can support future modifications.\n\nElite Remodeling & Design can coordinate room-addition layouts with bathroom and whole-home remodeling decisions.",
+        "@type": "Answer",
+        "description": "Yes. Plan accessibility before the layout is fixed by considering a step-free route, convenient bedroom and bathroom placement, wider doors, safe flooring, lighting, shower access, and future grab-bar support. Match the design to current and anticipated mobility needs."
+      }
+    }
+  ],
+  "description": "Yes. Plan accessibility before the layout is fixed by considering a step-free route, convenient bedroom and bathroom placement, wider doors, safe flooring, ligh"
+}

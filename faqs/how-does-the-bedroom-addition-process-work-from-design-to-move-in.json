@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-does-the-bedroom-addition-process-work-from-design-to-move-in",
+  "name": "How does the bedroom addition process work from design to move-in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the bedroom addition process work from design to move-in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition typically moves through consultation, measured site review, layout development, design decisions, plan preparation, permit coordination, construction, inspections, and closeout. Elite Remodeling & Design describes a coordinated process that can include 3D visualization and material selections before work starts.\n\nThe sequence matters because structural, electrical, HVAC, and finish decisions affect both the plans and the construction price. San Diego’s permit guidance also emphasizes complete construction plans and supporting documents for review.\n\nKey factors:\n- Whether the addition is ground-level or second-story\n- Foundation and roof tie-in complexity\n- Plumbing, HVAC, and electrical connections\n- Speed of selections and plan revisions\n\nBring inspiration photos and rank your must-haves before design begins. Keeping one team responsible for design and construction can reduce handoff confusion, although the scope should still be documented clearly.",
+        "@type": "Answer",
+        "description": "The process usually includes consultation, site measurements, layout and 3D design, selections, construction plans, permit coordination, construction, inspections, and final completion. Structural connections, utility work, and how quickly selections are made can change the sequence and duration."
+      }
+    }
+  ],
+  "description": "The process usually includes consultation, site measurements, layout and 3D design, selections, construction plans, permit coordination, construction, inspectio"
+}

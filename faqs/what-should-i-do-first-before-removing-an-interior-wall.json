@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-before-removing-an-interior-wall",
+  "name": "What should I do first before removing an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first before removing an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, stop demolition and determine whether the wall supports framing, a roof, another floor, or concentrated loads. A qualified remodeling team should inspect the wall, attic or crawlspace, and nearby utilities before recommending removal.\n\nContext: A wall that looks like a simple divider may carry vertical loads or conceal electrical, plumbing, HVAC, or gas lines. Removing it can require temporary support, engineered framing, plan review, and finish repairs.\n\nKey factors:\n- Wall direction and framing alignment\n- Stories, roof loads, and beams above\n- Utility locations and outlet circuits\n- Existing plans, prior remodels, and foundation conditions\n\nPractical guidance: Photograph both sides, the ceiling, attic access, and any visible vents or plumbing before requesting an evaluation. Elite Remodeling & Design can review the desired layout as part of a coordinated design and construction plan.\n\nA careful assessment before demolition is usually the fastest way to avoid structural and utility surprises.",
+        "@type": "Answer",
+        "description": "Stop before opening or removing the wall. Have its structural role and hidden electrical, plumbing, HVAC, or gas services checked first; then determine whether temporary support, engineering, permits, and finish repairs are needed."
+      }
+    }
+  ],
+  "description": "Stop before opening or removing the wall. Have its structural role and hidden electrical, plumbing, HVAC, or gas services checked first; then determine whether"
+}

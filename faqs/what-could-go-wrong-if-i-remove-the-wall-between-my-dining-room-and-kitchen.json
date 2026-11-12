@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-could-go-wrong-if-i-remove-the-wall-between-my-dining-room-and-kitchen",
+  "name": "What could go wrong if I remove the wall between my dining room and kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What could go wrong if I remove the wall between my dining room and kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a wall can create a more connected dining area, but it may also affect structure, electrical routes, heating or cooling, lighting, flooring continuity, and permit requirements. It should be evaluated as a construction change, not just a design preference.\n\nContext: Residential remodel plans in San Diego must clearly show existing and proposed conditions, and applicable work must meet current building and energy requirements. Elite Remodeling & Design can coordinate design development with construction planning so the opening is assessed in relation to adjoining spaces.\n\nKey factors:\n- Whether the wall carries roof, floor, or ceiling loads.\n- Where utilities and ductwork run through the wall.\n- How the opening changes furniture placement and circulation.\n- How new beams, posts, flooring, and trim will be finished.\n\nPractical guidance: Do not begin demolition based on appearance alone. Ask for an evaluation, drawings where needed, a permit determination, and a written description of structural and finish restoration work.\n\nThe best opening balances openness with the home’s structural and mechanical realities.",
+        "@type": "Answer",
+        "description": "The wall may contain structural support, wiring, ductwork, or other utilities. Removing it can also require beams, posts, flooring repairs, revised lighting, and permits. Have the wall assessed and the full opening—including restoration and inspections—priced before demolition."
+      }
+    }
+  ],
+  "description": "The wall may contain structural support, wiring, ductwork, or other utilities. Removing it can also require beams, posts, flooring repairs, revised lighting, an"
+}

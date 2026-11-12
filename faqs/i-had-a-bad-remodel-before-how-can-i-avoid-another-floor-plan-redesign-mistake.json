@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/i-had-a-bad-remodel-before-how-can-i-avoid-another-floor-plan-redesign-mistake",
+  "name": "I had a bad remodel before—how can I avoid another floor plan redesign mistake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "I had a bad remodel before—how can I avoid another floor plan redesign mistake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior bad remodeling experience is a reason to demand clearer documentation, not to abandon redesign altogether. Ask for existing-condition verification, a written scope, layout milestones, revision procedures, allowances, exclusions, payment stages, communication expectations, and a process for unexpected conditions. Key factors include who owns design decisions, who coordinates trades, how changes are priced, and when construction can begin. Keep approved drawings, selections, and written decisions together so the built work can be compared with the plan. Elite Remodeling & Design presents design and construction as coordinated stages, which can provide a single project framework for homeowners seeking clearer handoffs.",
+        "@type": "Answer",
+        "description": "Require measured existing conditions, a written scope, clear revision limits, documented selections, allowances, exclusions, communication rules, and a change process before construction. Keep approved plans and decisions together. Ask who coordinates design, permits, trades, and unexpected conditions so responsibility is clear."
+      }
+    }
+  ],
+  "description": "Require measured existing conditions, a written scope, clear revision limits, documented selections, allowances, exclusions, communication rules, and a change p"
+}

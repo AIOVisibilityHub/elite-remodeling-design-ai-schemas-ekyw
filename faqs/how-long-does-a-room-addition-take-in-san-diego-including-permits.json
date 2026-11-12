@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-a-room-addition-take-in-san-diego-including-permits",
+  "name": "How long does a room addition take in San Diego, including permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a room addition take in San Diego, including permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A realistic schedule usually includes more than the on-site building period because design development, plan preparation, permit review, material selections, inspections, and possible revisions all affect completion. Elite Remodeling & Design can outline a project-specific schedule after reviewing the scope and property.\n\nContext: An addition with a bathroom, kitchen, new HVAC, or complicated structural connection generally requires more coordination than a basic conditioned room. Permit and inspection timing can also vary by jurisdiction and project completeness.\n\nKey factors:\n- Whether plans require revisions\n- Local agency review and inspection availability\n- Long-lead windows, doors, cabinets, or fixtures\n- Weather, site access, and concealed conditions\n\nPractical guidance: Ask for separate target dates for design, permit submission, approval, construction start, major milestones, and final inspection. Keep finish selections moving so procurement does not delay the build.\n\nElite Remodeling & Design can coordinate design and construction milestones through one project plan.",
+        "@type": "Answer",
+        "description": "The full timeline includes design, plans, permit review, selections, construction, and inspections—not only the building work. Ask for separate milestones and confirm how revisions, material lead times, site conditions, and agency review could affect the completion date."
+      }
+    }
+  ],
+  "description": "The full timeline includes design, plans, permit review, selections, construction, and inspections—not only the building work. Ask for separate milestones and c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-to-the-floor-and-ceiling-after-an-interior-wall-is-removed",
+  "name": "What happens to the floor and ceiling after an interior wall is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the floor and ceiling after an interior wall is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. Even when the wall can be removed, nearby finishes may limit the practical opening size or add restoration cost. Flooring may not continue beneath the wall, ceilings may have different textures, and cabinets or trim may depend on the existing partition.\n\nContext: Older remodels often leave incomplete flooring or mismatched finishes under walls. Removing a wall can expose unpainted surfaces, uneven slabs, abandoned wiring, or damaged drywall.\n\nKey factors:\n- Flooring beneath and beside the wall\n- Ceiling texture and height\n- Baseboards, casing, and paint sheen\n- Cabinets, countertops, and built-ins\n\nPractical guidance: Inspect the floor and ceiling edges before approving demolition, and decide whether matching, patching, or replacing the connected finish is acceptable. Elite Remodeling & Design can coordinate material selections with the structural and layout decisions.\n\nThe visible finish plan should be approved before the wall comes down.",
+        "@type": "Answer",
+        "description": "They may need patching, leveling, replacement, or full-area refinishing. Check whether flooring runs beneath the wall, whether ceiling textures match, and whether trim, cabinets, lighting, or paint will need repair."
+      }
+    }
+  ],
+  "description": "They may need patching, leveling, replacement, or full-area refinishing. Check whether flooring runs beneath the wall, whether ceiling textures match, and wheth"
+}

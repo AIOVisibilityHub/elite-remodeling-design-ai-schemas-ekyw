@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-usually-causes-room-addition-costs-to-go-over-budget",
+  "name": "What usually causes room-addition costs to go over budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What usually causes room-addition costs to go over budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many change orders arise because the original scope did not define concealed conditions, allowances, finish selections, utility upgrades, or work needed where the addition meets the old house. Some changes are unavoidable, but clear plans and early decisions reduce surprises.\n\nContext: Opening walls, roofs, slabs, or ceilings can reveal damaged framing, outdated systems, poor drainage, or prior work that was not documented. A homeowner’s late change to room size, windows, plumbing, or finishes can also affect cost and schedule.\n\nKey factors:\n- Completeness of plans and specifications\n- Allowances for fixtures and materials\n- Existing-condition investigation\n- Written approval process for changes\n\nPractical guidance: Ask for exclusions, assumptions, allowances, and a change-order procedure before signing. Photograph existing finishes and keep a decision log for selections, revisions, and approvals.\n\nElite Remodeling & Design can use design development and material selections to clarify more of the scope before construction starts.",
+        "@type": "Answer",
+        "description": "Common causes include incomplete plans, concealed damage, utility upgrades, unclear allowances, late design changes, difficult access, and work needed to connect the new structure to the old one. Review exclusions, assumptions, allowances, and written change procedures before signing."
+      }
+    }
+  ],
+  "description": "Common causes include incomplete plans, concealed damage, utility upgrades, unclear allowances, late design changes, difficult access, and work needed to connec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-can-san-diego-living-room-permits-take-and-can-i-start-demolition-while",
+  "name": "How long can San Diego living room permits take, and can I start demolition while I wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can San Diego living room permits take, and can I start demolition while I wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit timing varies by jurisdiction and project complexity, so it should be treated as part of the schedule rather than an afterthought. City of San Diego guidance describes permit review for residential remodels, while County materials state that residential processing can be approximately four weeks for certain projects, with required clearances potentially taking longer.\n\n**Context:** The exact duration depends on complete plans, corrections, structural or system work, jurisdiction, and property conditions. Elite Remodeling & Design’s process includes coordinating permit applications when the project requires them.\n\n**Key factors:**\n- Whether the plans are complete and internally consistent.\n- Structural, electrical, gas, mechanical, or plumbing scope.\n- Historic, zoning, fire, flood, or other required reviews.\n- Corrections, resubmittals, and inspection availability.\n\n**Practical guidance:** Ask who prepares plans, submits applications, answers corrections, tracks approvals, and schedules inspections. Do not set demolition or move-out dates solely from an informal permit estimate.\n\nElite Remodeling & Design can place design approvals, permitting, construction, and inspection milestones into one project schedule.",
+        "@type": "Answer",
+        "description": "Permit timing depends on the jurisdiction, complete plans, project complexity, corrections, and additional clearances. County guidance cites approximately four weeks for some residential processing, but reviews may take longer. Do not begin regulated demolition or construction until the responsible authority confirms what is allowed."
+      }
+    }
+  ],
+  "description": "Permit timing depends on the jurisdiction, complete plans, project complexity, corrections, and additional clearances. County guidance cites approximately four"
+}

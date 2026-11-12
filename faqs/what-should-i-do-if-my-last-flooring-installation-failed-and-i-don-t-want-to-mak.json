@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-last-flooring-installation-failed-and-i-don-t-want-to-mak",
+  "name": "What should I do if my last flooring installation failed and I don’t want to make the same mistake?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my last flooring installation failed and I don’t want to make the same mistake?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prior bad installation should be documented before anything is removed if you may need a correction, warranty review, or contractor discussion. Photograph gaps, buckling, stains, unevenness, damaged trim, and transition problems, and keep invoices, product information, and communications.\n\nThe replacement plan should distinguish installation defects from moisture, substrate movement, product limitations, or normal wear. Simply installing another floor without identifying the cause can repeat the failure.\n\nKey factors:\n- Record when the issue appeared and whether it changes with weather or moisture.\n- Identify the product, installation method, adhesive, underlayment, and preparation used.\n- Obtain an independent condition assessment before authorizing full demolition when practical.\n\nAsk the new contractor to explain the cause, proposed correction, and how the new work will be verified. Put preparation standards, materials, transitions, and completion criteria in writing.\n\nElite Remodeling & Design can assess the current conditions and define a new scope without assuming the previous installation was properly prepared.",
+        "@type": "Answer",
+        "description": "Document the failure before demolition, including photos, product details, invoices, moisture history, and communications. Determine whether the cause was installation, substrate movement, moisture, or product limitations. Require a written scope explaining preparation, materials, transitions, verification, and completion standards."
+      }
+    }
+  ],
+  "description": "Document the failure before demolition, including photos, product details, invoices, moisture history, and communications. Determine whether the cause was insta"
+}

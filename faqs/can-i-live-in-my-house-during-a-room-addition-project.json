@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-live-in-my-house-during-a-room-addition-project",
+  "name": "Can I live in my house during a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may be able to remain in the home, but the answer depends on whether the addition is separated from living areas and how much work affects the existing kitchen, bathrooms, utilities, roof, or main circulation. Dust, noise, outages, temporary openings, and restricted access can make occupancy difficult even when the addition is outside.\n\nContext: A bedroom or bathroom addition may be less disruptive than a project that requires opening the existing roof or relocating the main electrical panel. Households with young children, older adults, pets, or remote-work needs may need a temporary plan.\n\nKey factors:\n- Whether utilities must be shut off\n- Weather protection while walls or roofs are open\n- Dust containment and daily site security\n- Temporary access to bedrooms, bathrooms, and cooking areas\n\nPractical guidance: Ask for a disruption plan, work-hour expectations, temporary-service plan, and site-separation method. Remove valuables and confirm how pets and children should be kept away from the work area.\n\nElite Remodeling & Design can identify construction phases that affect the occupied portion of the home during planning.",
+        "@type": "Answer",
+        "description": "Often, but not always. Occupancy depends on utility shutdowns, roof and wall openings, dust, noise, access, and whether kitchens or bathrooms are affected. Request a phase-by-phase disruption plan before deciding whether your household can remain safely and comfortably at home."
+      }
+    }
+  ],
+  "description": "Often, but not always. Occupancy depends on utility shutdowns, roof and wall openings, dust, noise, access, and whether kitchens or bathrooms are affected. Requ"
+}

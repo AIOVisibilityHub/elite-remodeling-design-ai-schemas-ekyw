@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-remodel-my-dining-room-if-i-have-no-original-plans-or-documentation-for-th",
+  "name": "Can I remodel my dining room if I have no original plans or documentation for the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel my dining room if I have no original plans or documentation for the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can request a dining room remodel even if you do not have architectural drawings, but the project team will need reliable information about the existing space before finalizing the design. Missing documentation may mean additional measuring, investigation, or verification.\n\nContext: San Diego residential remodel submittals require plans that clearly show existing and proposed work when a permit is involved. Elite Remodeling & Design can use consultation, existing conditions, layout development, and design visualization to help build the information needed for planning.\n\nKey factors:\n- Accurate room dimensions and ceiling height.\n- Wall, window, door, and utility locations.\n- Prior additions, alterations, or known defects.\n- Photos of adjoining spaces and the exterior.\n\nPractical guidance: Gather any old listings, permits, inspection reports, surveys, or builder plans you can find, but do not assume they are current. Tell the team what is unknown so verification can be included before construction pricing is locked.\n\nGood field information can compensate for missing original drawings.",
+        "@type": "Answer",
+        "description": "Yes, but the existing room must be measured and assessed before the design is finalized. Gather old plans, permits, inspection reports, and photos if available, and disclose unknown walls, additions, leaks, or wiring so verification can be planned."
+      }
+    }
+  ],
+  "description": "Yes, but the existing room must be measured and assessed before the design is finalized. Gather old plans, permits, inspection reports, and photos if available,"
+}

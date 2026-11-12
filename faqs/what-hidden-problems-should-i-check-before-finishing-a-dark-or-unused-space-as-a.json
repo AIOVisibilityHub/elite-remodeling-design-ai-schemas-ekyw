@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-hidden-problems-should-i-check-before-finishing-a-dark-or-unused-space-as-a",
+  "name": "What hidden problems should I check before finishing a dark or unused space as a home office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What hidden problems should I check before finishing a dark or unused space as a home office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basement-style or lower-level office should be checked for moisture, drainage, ventilation, natural light, ceiling height, and electrical conditions before finishes are selected. In many San Diego homes, the bigger issue may be a garage, enclosed patio, or room with limited air movement rather than a traditional basement. Key factors include water staining, musty odors, slab conditions, window egress, insulation, and equipment placement. Photograph problem areas and note when moisture or temperature changes occur. Elite Remodeling & Design can evaluate existing conditions and determine whether the space needs a basic remodel, conversion work, or a more extensive construction plan.",
+        "@type": "Answer",
+        "description": "Check moisture, drainage, odors, ventilation, ceiling height, slab or floor conditions, natural light, windows, insulation, electrical capacity, and signs of prior leaks. Photograph stains and record when problems appear. Resolve underlying conditions before installing drywall, flooring, or cabinetry so finishes do not conceal a larger issue."
+      }
+    }
+  ],
+  "description": "Check moisture, drainage, odors, ventilation, ceiling height, slab or floor conditions, natural light, windows, insulation, electrical capacity, and signs of pr"
+}

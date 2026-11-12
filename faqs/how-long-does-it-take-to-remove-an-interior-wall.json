@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-take-to-remove-an-interior-wall",
+  "name": "How long does it take to remove an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no dependable universal timeline. A simple nonstructural partition may be quicker, while a load-bearing wall with a beam, utility rerouting, plans, inspections, and finish matching takes longer. Existing site conditions and approval timing can add uncertainty.\n\nContext: Demolition may be brief, but design, material ordering, temporary support, rough work, inspections, and final repairs determine the full schedule. A wall between a kitchen and living area often involves more coordination than a blank bedroom partition.\n\nKey factors:\n- Structural design and beam availability\n- Permit or plan-review timing\n- Hidden services in the wall\n- Flooring and finish restoration\n\nPractical guidance: Request a phase-by-phase schedule rather than one promised completion date. Elite Remodeling & Design can assess the wall removal alongside a kitchen, bathroom, addition, ADU, or whole-home remodeling plan so related work is sequenced together.\n\nThe fastest safe schedule is usually the one that accounts for hidden work upfront.",
+        "@type": "Answer",
+        "description": "A basic partition can be relatively quick, but a structural wall may require design, support, utility rerouting, approvals, inspections, and finish repairs. Ask for separate time allowances for planning, construction, and restoration."
+      }
+    }
+  ],
+  "description": "A basic partition can be relatively quick, but a structural wall may require design, support, utility rerouting, approvals, inspections, and finish repairs. Ask"
+}

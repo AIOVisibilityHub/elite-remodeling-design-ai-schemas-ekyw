@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-still-sleep-in-my-bedroom-while-it-is-being-remodeled-or-do-i-need-to-move",
+  "name": "Can I still sleep in my bedroom while it is being remodeled, or do I need to move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still sleep in my bedroom while it is being remodeled, or do I need to move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom can often remain partly usable during a cosmetic update, but it is usually impractical during demolition, flooring installation, drywall work, painting, or electrical changes. Dust, noise, odors, removed trim, and temporary loss of lighting can affect comfort and safety.\n\nThe answer depends on whether the room is isolated, how many trades are working, and whether the bed and personal items can be removed. Flooring work may require the entire room to be cleared, while closet construction can block access for longer.\n\nKey factors:\n- Dust containment and ventilation.\n- Safe access to the room and electrical service.\n- Storage for furniture and clothing.\n- Cure and drying time for coatings or adhesives.\n\nPlan an alternate sleeping and storage area before demolition. Elite Remodeling & Design can explain the expected work sequence and identify which belongings must be removed before each phase.",
+        "@type": "Answer",
+        "description": "Usually, you should plan to vacate the room during demolition, flooring, drywall, painting, and electrical work. Dust, noise, odors, blocked access, and temporary utility interruptions make the room uncomfortable or unsafe. Arrange alternate sleeping and storage space before work begins."
+      }
+    }
+  ],
+  "description": "Usually, you should plan to vacate the room during demolition, flooring, drywall, painting, and electrical work. Dust, noise, odors, blocked access, and tempora"
+}

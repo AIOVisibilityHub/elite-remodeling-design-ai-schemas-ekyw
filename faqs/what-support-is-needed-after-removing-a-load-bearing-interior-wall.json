@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-support-is-needed-after-removing-a-load-bearing-interior-wall",
+  "name": "What support is needed after removing a load-bearing interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What support is needed after removing a load-bearing interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A structural opening commonly needs a designed beam or header and may require posts, bearing supports, or foundation work. The correct solution depends on the loads above, span, framing arrangement, available depth, and whether the beam can be concealed.\n\nContext: A flush beam may preserve ceiling lines but require more framing work, while a dropped beam may be simpler but visually change the room. Posts can affect furniture placement, cabinets, circulation, and flooring.\n\nKey factors:\n- Opening width and loads above\n- Beam material and depth\n- Post locations and bearing conditions\n- Ceiling, duct, and lighting conflicts\n\nPractical guidance: Decide whether the priority is a completely open opening, a defined transition, or a particular ceiling appearance before finalizing plans. Elite Remodeling & Design can incorporate the opening into a broader layout and 3D design discussion.\n\nStructural support and visual design should be solved together.",
+        "@type": "Answer",
+        "description": "Support may include a beam or header, posts, temporary shoring, and sometimes new bearing or foundation work. The design depends on loads, span, framing, ceiling depth, ducts, and where supports can safely land."
+      }
+    }
+  ],
+  "description": "Support may include a beam or header, posts, temporary shoring, and sometimes new bearing or foundation work. The design depends on loads, span, framing, ceilin"
+}

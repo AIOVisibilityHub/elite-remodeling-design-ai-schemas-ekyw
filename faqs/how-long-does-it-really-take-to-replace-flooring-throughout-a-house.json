@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-long-does-it-really-take-to-replace-flooring-throughout-a-house",
+  "name": "How long does it really take to replace flooring throughout a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it really take to replace flooring throughout a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable single timeline because the duration depends on square footage, material, furniture, demolition difficulty, subfloor condition, and whether other remodeling work is happening first. A simple, open room may move faster than a multi-room project with repairs and detailed transitions.\n\nPlanning can take longer when you need design visualization, multiple material selections, or coordination with a kitchen, bathroom, addition, ADU, or garage conversion. Delays can also occur when the chosen product is unavailable or the subfloor requires correction.\n\nKey factors:\n- Tile and detailed patterns generally require more layout and setting time than floating products.\n- Hidden moisture or damaged plywood can add work after removal.\n- Baseboards, doors, cabinets, and appliances may affect sequencing.\n\nRequest a written schedule showing selection deadlines, demolition, preparation, installation, and final completion. Keep an allowance for concealed conditions rather than planning around an unrealistically tight finish date.\n\nElite Remodeling & Design can place flooring within a broader design-build schedule when several rooms are being renovated together.",
+        "@type": "Answer",
+        "description": "The timeline depends on room size, material, demolition, subfloor repairs, furniture, and other remodeling work. A multi-room project can take longer when cabinets, plumbing, doors, or trim are involved. Ask for a written schedule that separates selections, removal, preparation, installation, and final touch-ups."
+      }
+    }
+  ],
+  "description": "The timeline depends on room size, material, demolition, subfloor repairs, furniture, and other remodeling work. A multi-room project can take longer when cabin"
+}

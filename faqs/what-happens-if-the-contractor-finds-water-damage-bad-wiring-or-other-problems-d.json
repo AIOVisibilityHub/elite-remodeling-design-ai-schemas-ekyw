@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-happens-if-the-contractor-finds-water-damage-bad-wiring-or-other-problems-d",
+  "name": "What happens if the contractor finds water damage, bad wiring, or other problems during my living room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the contractor finds water damage, bad wiring, or other problems during my living room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Existing water, mold, termite, electrical, framing, or flooring problems should be addressed before cosmetic finishes hide them. The correct response depends on the source, extent, safety implications, and whether the condition is active or historical.\n\n**Context:** Older or heavily altered homes can contain surprises behind walls, under floors, or around windows and fireplaces. Elite Remodeling & Design can document visible conditions during planning, but concealed conditions may only become clear after selective demolition.\n\n**Key factors:**\n- Signs of active moisture, staining, odor, movement, pests, or overheating.\n- Whether the issue affects structure, wiring, plumbing, HVAC, or indoor finishes.\n- Required specialty inspections or trade expertise.\n- The effect on scope, materials, schedule, and contingency.\n\n**Practical guidance:** Photograph and disclose known problems before pricing. Ask how unexpected conditions will be documented, priced, approved, and sequenced before finish work continues.\n\nElite Remodeling & Design can incorporate approved corrective work into the overall construction plan when discoveries change the original scope.",
+        "@type": "Answer",
+        "description": "Stop and identify the source before covering the problem with new finishes. Document the condition, determine whether it affects structure or building systems, obtain specialty input when needed, and approve a written scope and price change before proceeding. Keep contingency for concealed conditions."
+      }
+    }
+  ],
+  "description": "Stop and identify the source before covering the problem with new finishes. Document the condition, determine whether it affects structure or building systems,"
+}

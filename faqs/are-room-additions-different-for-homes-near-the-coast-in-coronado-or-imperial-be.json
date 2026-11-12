@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/are-room-additions-different-for-homes-near-the-coast-in-coronado-or-imperial-be",
+  "name": "Are room additions different for homes near the coast in Coronado or Imperial Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are room additions different for homes near the coast in Coronado or Imperial Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal properties require early attention to weather exposure, corrosion, drainage, moisture control, and the visual relationship between the new work and the existing home. These issues can matter in Coronado, Imperial Beach, coastal San Diego, and nearby communities, but the exact requirements depend on the site and jurisdiction.\n\nContext: Salt air, wind-driven moisture, limited lots, older homes, and drainage conditions can influence material selections and construction details. A coastal location does not automatically dictate one design, but it makes site review especially valuable.\n\nKey factors:\n- Exterior materials and metal-component protection\n- Roof, flashing, window, and waterproofing details\n- Stormwater flow and finished-floor elevations\n- Setbacks, neighborhood context, and possible special review\n\nPractical guidance: Tell the designer about prior leaks, corrosion, flooding, or drainage problems. Ask how the proposed addition will shed water and match the existing exterior before approving finishes.\n\nElite Remodeling & Design can incorporate existing-condition findings into the addition’s design and construction scope.",
+        "@type": "Answer",
+        "description": "Coastal projects deserve extra attention to moisture, drainage, corrosion, wind exposure, waterproofing, and exterior materials. A site review should also consider the property’s jurisdiction, setbacks, existing leaks, finished-floor levels, and how the new work will connect to the older home."
+      }
+    }
+  ],
+  "description": "Coastal projects deserve extra attention to moisture, drainage, corrosion, wind exposure, waterproofing, and exterior materials. A site review should also consi"
+}

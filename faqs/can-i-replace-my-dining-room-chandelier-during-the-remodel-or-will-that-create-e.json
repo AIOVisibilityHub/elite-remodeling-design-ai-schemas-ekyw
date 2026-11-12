@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/can-i-replace-my-dining-room-chandelier-during-the-remodel-or-will-that-create-e",
+  "name": "Can I replace my dining room chandelier during the remodel, or will that create extra electrical work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my dining room chandelier during the remodel, or will that create extra electrical work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, yes, but timing and cost depend on whether the ceiling can be opened, how the wiring is routed, and whether the new fixture requires a box, support, switch, or circuit changes. A heavier fixture may need additional support beyond a simple replacement.\n\nContext: City of San Diego guidance distinguishes minor like-for-like fixture replacements from electrical work that adds circuits or alters systems. The applicable requirements may differ outside the city, including in Chula Vista, Coronado, National City, or Imperial Beach.\n\nKey factors:\n- Existing ceiling access and wiring location.\n- Fixture weight and mounting method.\n- Switch, dimmer, and circuit configuration.\n- Ceiling height and table position.\n\nPractical guidance: Select the fixture after confirming its dimensions, weight, canopy, and mounting requirements. Ask whether patching, painting, electrical approvals, and final testing are included.\n\nFixture style should be coordinated with the ceiling and electrical plan.",
+        "@type": "Answer",
+        "description": "Often, but the fixture’s weight, mounting, wiring route, switch location, ceiling access, and circuit may affect the work. Provide the exact fixture specifications early and confirm whether installation, patching, painting, and any required electrical approvals are included."
+      }
+    }
+  ],
+  "description": "Often, but the fixture’s weight, mounting, wiring route, switch location, ceiling access, and circuit may affect the work. Provide the exact fixture specificati"
+}

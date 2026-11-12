@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/how-much-does-a-room-addition-cost-in-san-diego-county-and-why-are-quotes-so-dif",
+  "name": "How much does a room addition cost in San Diego County, and why are quotes so different?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition cost in San Diego County, and why are quotes so different?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is no reliable single price for a room addition without a site review and defined scope. The total can change substantially based on square footage, foundation conditions, roof work, windows, finishes, plumbing, electrical, HVAC, design, permits, and required corrections to the existing home.\n\nContext: A simple living-space addition is priced differently from a bedroom suite or bathroom addition because wet areas and new mechanical systems add design and construction work. A difficult lot or limited access can also increase labor and logistics.\n\nKey factors:\n- Finished square footage and room use\n- Foundation and structural requirements\n- Number of plumbing fixtures\n- Finish level and custom details\n\nPractical guidance: Compare detailed scopes rather than headline totals. Ask whether each proposal includes design, plans, permit coordination, inspections, demolition, utility upgrades, finish allowances, cleanup, and contingency planning.\n\nElite Remodeling & Design can help translate the intended use and design preferences into a more defined project scope before pricing is finalized.",
+        "@type": "Answer",
+        "description": "Room-addition pricing depends on size, foundation, structure, utilities, finishes, access, design, and permits. Compare itemized scopes—not just totals—and verify whether plans, permit coordination, inspections, allowances, cleanup, and work affecting the existing house are included."
+      }
+    }
+  ],
+  "description": "Room-addition pricing depends on size, foundation, structure, utilities, finishes, access, design, and permits. Compare itemized scopes—not just totals—and veri"
+}

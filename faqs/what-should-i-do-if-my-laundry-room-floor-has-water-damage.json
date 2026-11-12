@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-if-my-laundry-room-floor-has-water-damage",
+  "name": "What should I do if my laundry room floor has water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my laundry room floor has water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the washer has leaked, stop using it until the source is addressed and the surrounding area is inspected. The remodel should identify whether damage affects flooring, subfloor, drywall, framing, insulation, or nearby cabinets before new finishes conceal the problem.\n\nElite Remodeling & Design can include demolition and condition review in the project scope, but the correct repair depends on what is found after access is opened. A new floor alone will not resolve an active supply hose, drain, valve, or appliance problem.\n\nKey factors:\n- Whether the leak is ongoing or historical.\n- Swelling, staining, odor, or soft flooring.\n- Hidden moisture behind walls or cabinets.\n- Appliance, hose, drain, and shutoff condition.\n\nPhotograph the damage, note when it occurred, and keep records of repairs. Ask for damaged-material replacement and leak-source correction to be treated as separate scope items.",
+        "@type": "Answer",
+        "description": "Stop the leak and avoid covering the area until the floor, subfloor, walls, and nearby framing are checked. A remodel should correct the source, remove damaged materials where necessary, and restore the room with finishes suited to moisture exposure."
+      }
+    }
+  ],
+  "description": "Stop the leak and avoid covering the area until the floor, subfloor, walls, and nearby framing are checked. A remodel should correct the source, remove damaged"
+}

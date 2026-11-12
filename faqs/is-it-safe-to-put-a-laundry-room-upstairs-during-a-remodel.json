@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/is-it-safe-to-put-a-laundry-room-upstairs-during-a-remodel",
+  "name": "Is it safe to put a laundry room upstairs during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to put a laundry room upstairs during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A laundry room can work well on an upper floor, but the remodel should address vibration, water containment, drainage, access, and sound. Elite Remodeling & Design can evaluate the existing floor, machine placement, shutoffs, and the path for plumbing and ventilation before design approval.\n\nThe washer should sit level on a stable surface, and the room should include a way to limit damage if a hose, valve, or drain connection fails. A second-floor location may also need more attention to noise and service access than a ground-floor room.\n\nKey factors:\n- Floor stiffness and machine vibration.\n- Leak detection or shutoff strategy.\n- Pan or containment approach where suitable.\n- Drain and vent access for maintenance.\n\nDiscuss whether the machines will be stacked, side by side, or placed on a platform. Avoid building permanent cabinetry so tightly around the appliances that future replacement or repair becomes difficult.",
+        "@type": "Answer",
+        "description": "Yes, but upstairs laundry requires careful planning for vibration, leak containment, drainage, service access, and sound. Confirm floor conditions, appliance clearances, shutoff access, and the replacement path before cabinetry is built."
+      }
+    }
+  ],
+  "description": "Yes, but upstairs laundry requires careful planning for vibration, leak containment, drainage, service access, and sound. Confirm floor conditions, appliance cl"
+}

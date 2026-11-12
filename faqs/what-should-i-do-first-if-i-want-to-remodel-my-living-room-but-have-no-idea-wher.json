@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-should-i-do-first-if-i-want-to-remodel-my-living-room-but-have-no-idea-wher",
+  "name": "What should I do first if I want to remodel my living room but have no idea where to start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I want to remodel my living room but have no idea where to start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by defining how the room must function, then document its dimensions, openings, furniture, storage problems, lighting, and must-keep features. A living room remodel can range from finishes and built-ins to wall changes, fireplace work, electrical updates, or a larger reconfiguration, so the first step is identifying the actual scope.\n\n**Context:** Elite Remodeling & Design can coordinate design development, 3D visualization, material selections, permitting, construction, and final inspection for residential remodeling projects in San Diego County. Early decisions help prevent a design that looks attractive but does not fit the room or construction budget.\n\n**Key factors:**\n- Measure ceiling height, wall lengths, windows, doors, outlets, vents, and fireplace dimensions.\n- Record furniture you will keep and its exact size.\n- Separate essential improvements from optional upgrades.\n- Note whether plumbing, electrical, structural, or permit-related work may be involved.\n\n**Practical guidance:** Bring photos, inspiration images, approximate measurements, and a prioritized wish list to the consultation. Ask for the proposed scope to distinguish design, materials, construction, inspections, and owner-supplied items.\n\nElite Remodeling & Design can use the initial consultation to connect your preferred look with the room’s existing conditions and intended use.",
+        "@type": "Answer",
+        "description": "Start with the room’s function, measurements, existing conditions, furniture, and must-have improvements. List essential work separately from optional upgrades, then discuss whether the project involves finishes only or also electrical, fireplace, wall, layout, or permit-related work. Photos, dimensions, and inspiration images make the first design discussion more productive."
+      }
+    }
+  ],
+  "description": "Start with the room’s function, measurements, existing conditions, furniture, and must-have improvements. List essential work separately from optional upgrades,"
+}

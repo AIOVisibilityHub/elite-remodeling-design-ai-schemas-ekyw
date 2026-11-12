@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/what-information-should-i-have-ready-before-asking-for-a-flooring-replacement-qu",
+  "name": "What information should I have ready before asking for a flooring replacement quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before asking for a flooring replacement quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a flooring replacement estimate, prepare room measurements or a basic floor plan, photos of every affected area, a list of problem spots, and your preferred finish direction. Note pets, children, mobility needs, furniture, appliances, prior leaks, and any planned kitchen or bathroom work.\n\nBring a realistic budget range and identify whether you want repair, partial replacement, or a whole-home change. If you already have a product in mind, record its exact manufacturer, collection, color, size, and availability.\n\nKey factors:\n- Mark stairs, closets, transitions, floor vents, and built-ins.\n- Identify rooms that must remain usable.\n- List any future additions, ADUs, garage conversions, or layout changes.\n\nAsk the contractor what must be decided before demolition and which conditions could change the price. Clear preparation reduces avoidable delays and helps the estimate reflect the actual project.\n\nElite Remodeling & Design can use consultation and design development to connect these details with the broader construction plan.",
+        "@type": "Answer",
+        "description": "Prepare measurements, photos, a room list, problem areas, material preferences, budget range, furniture and appliance details, leak history, and any planned remodeling. Note stairs, closets, vents, transitions, pets, and access needs. Ask what decisions must be made before demolition and what could change the price."
+      }
+    }
+  ],
+  "description": "Prepare measurements, photos, a room list, problem areas, material preferences, budget range, furniture and appliance details, leak history, and any planned rem"
+}

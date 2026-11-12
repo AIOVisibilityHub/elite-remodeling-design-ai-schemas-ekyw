@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/do-homes-near-coronado-or-imperial-beach-need-special-interior-lighting-fixtures",
+  "name": "Do homes near Coronado or Imperial Beach need special interior lighting fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do homes near Coronado or Imperial Beach need special interior lighting fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coastal conditions do not automatically determine an indoor fixture choice, but homes near the coast may have greater exposure to humidity, salt-laden air, sand, and frequent cleaning needs. Fixture materials, finishes, ventilation, and maintenance should be considered alongside appearance.\n\n**Context:** Indoor rooms still need products rated for their actual installation location, and coastal proximity may make durable finishes especially valuable in areas near open windows or exterior doors. The building’s existing condition matters more than the city name alone.\n\n**Key factors:**\n- Distance from open coastal exposure\n- Humidity, ventilation, and condensation patterns\n- Finish durability and cleaning requirements\n- Location-specific fixture rating\n\n**Practical guidance:** Tell the designer whether the home is near the shoreline, frequently exposed to open air, or experiencing corrosion or moisture issues. Inspect existing boxes and connections if there is visible rust, staining, or deterioration.\n\nElite Remodeling & Design can account for the home’s actual environment when selecting and placing interior fixtures.",
+        "@type": "Answer",
+        "description": "Not automatically, but coastal humidity, salt-laden air, sand, open windows, and moisture can influence finish durability and maintenance. Select fixtures for the actual location rating and inspect existing hardware for corrosion or deterioration. Share the home’s exposure conditions before products are chosen."
+      }
+    }
+  ],
+  "description": "Not automatically, but coastal humidity, salt-laden air, sand, open windows, and moisture can influence finish durability and maintenance. Select fixtures for t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/will-my-redesigned-floor-plan-need-permits-in-san-diego-county",
+  "name": "Will my redesigned floor plan need permits in San Diego County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my redesigned floor plan need permits in San Diego County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The preferred layout should show both the existing condition and the proposed changes, with room uses, dimensions, doors, windows, plumbing fixtures, and affected construction clearly identified. The City of San Diego’s residential addition and remodel guidance lists these items among plan information and requires plans to be drawn clearly and to scale. Key factors include the project’s city, whether it is an addition or interior remodel, structural changes, site work, energy upgrades, and any ADU or garage-conversion elements. Confirm the applicable submittal path before construction begins because permit needs depend on scope and jurisdiction. Elite Remodeling & Design includes permit coordination within its described design-build process when the project requires it.",
+        "@type": "Answer",
+        "description": "It may. Permit needs depend on the scope and jurisdiction, especially when the project changes structure, plumbing, electrical, exterior walls, room count, additions, ADUs, or garage use. San Diego plan submittals generally need clear, scaled existing and proposed information, so verify requirements before construction."
+      }
+    }
+  ],
+  "description": "It may. Permit needs depend on the scope and jurisdiction, especially when the project changes structure, plumbing, electrical, exterior walls, room count, addi"
+}

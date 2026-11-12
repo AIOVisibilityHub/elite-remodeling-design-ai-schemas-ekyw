@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-hire-a-general-remodeler-designer-or-structural-professional-for-wall-r",
+  "name": "Should I hire a general remodeler, designer, or structural professional for wall removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general remodeler, designer, or structural professional for wall removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a small opening, a qualified remodeler may be able to develop the layout and coordinate construction directly; larger or uncertain structural changes may require additional design or structural professionals. The key is defining responsibility for plans, calculations, approvals, and site decisions.\n\nContext: A design-build company can help connect the homeowner’s desired layout to construction details, but structural design requirements depend on the building and jurisdiction. Elite Remodeling & Design describes a process that can include layout development, 3D visualization, permit coordination, construction, and final inspection.\n\nKey factors:\n- Structural complexity and span\n- Need for calculations or specialty plans\n- Desired ceiling and finish details\n- Whether the wall removal is part of a larger remodel\n\nPractical guidance: Ask who measures the existing conditions, prepares structural information, coordinates approvals, and resolves field changes. This is especially useful when wall removal is combined with a kitchen, addition, ADU, or whole-home renovation.\n\nClear responsibility matters more than the title of the professional hired.",
+        "@type": "Answer",
+        "description": "The right team depends on complexity. A remodeler may coordinate a simple opening, while uncertain or load-bearing work may require structural design. Confirm who handles measurements, plans, approvals, construction, inspections, and field changes."
+      }
+    }
+  ],
+  "description": "The right team depends on complexity. A remodeler may coordinate a simple opening, while uncertain or load-bearing work may require structural design. Confirm w"
+}

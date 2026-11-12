@@ -1,0 +1,27 @@
+{
+  "url": "eliteremodelingsd.com/faq/should-i-build-out-or-build-up-for-a-room-addition",
+  "name": "Should I build out or build up for a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build out or build up for a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right choice depends on privacy, access, household use, budget, structural feasibility, and how much outdoor space you want to retain. A first-floor addition is often more convenient, while a second-story solution can preserve the yard but may require more extensive structural and design work.\n\nContext: Adding upward can affect stairs, roof removal, framing, views, privacy, and the appearance of neighboring homes. Adding outward can involve foundation work, setbacks, drainage, landscaping removal, and longer connections to utilities.\n\nKey factors:\n- Existing foundation and framing capacity\n- Buildable yard area and setbacks\n- Need for accessible living space\n- Construction disruption and household logistics\n\nPractical guidance: Ask for concept-level comparisons showing usable square footage, circulation, exterior appearance, estimated scope, and major tradeoffs. Do not select an option based only on the lower preliminary price.\n\nElite Remodeling & Design can incorporate layout development and 3D visualization into the design discussion.",
+        "@type": "Answer",
+        "description": "Build out when yard space, access, and setbacks allow a convenient first-floor layout. Build up when preserving outdoor area matters and the home can support the added structure. Compare feasibility, stairs, roof work, privacy, disruption, and total scope—not just area."
+      }
+    }
+  ],
+  "description": "Build out when yard space, access, and setbacks allow a convenient first-floor layout. Build up when preserving outdoor area matters and the home can support th"
+}
