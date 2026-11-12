@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-11T18:36:17.707Z",
+  "generatedAt": "2026-11-12T22:37:42.730Z",
   "client": {
     "name": "Elite Remodeling & Design",
     "canonicalUrl": "https://eliteremodelingsd.aiovisibility.net",
@@ -154,14 +154,14 @@
     ]
   },
   "package": {
-    "totalFiles": 1166,
-    "totalBytes": 5644286,
+    "totalFiles": 1601,
+    "totalBytes": 7477297,
     "stats": {
-      "faqs": 775,
+      "faqs": 1250,
       "helpArticles": 206,
       "services": 113,
       "webpages": 0,
-      "personnel": 42,
+      "personnel": 1,
       "products": 0,
       "locations": 1,
       "awards": 0,
@@ -169,9 +169,9 @@
       "organization": 1,
       "press": 0,
       "reviews": 0,
-      "qna": 0,
+      "qna": 28,
       "research": 0,
-      "total": 1138
+      "total": 1600
     }
   },
   "entrypoints": {
@@ -755,212 +755,7 @@
     "team": [
       {
         "path": "team/avraham-avi-alon-profile.json",
-        "bytes": 3336,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-an-diego.json",
-        "bytes": 2791,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-chula-vista.json",
-        "bytes": 2794,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-coronado.json",
-        "bytes": 2791,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-national-city.json",
-        "bytes": 2796,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-imperial-beach.json",
-        "bytes": 2797,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-la-mesa.json",
-        "bytes": 2790,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-lemon-grove.json",
-        "bytes": 2794,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-el-cajon.json",
-        "bytes": 2791,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-santee.json",
-        "bytes": 2789,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-poway.json",
-        "bytes": 2788,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-del-mar.json",
-        "bytes": 2790,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-solana-beach.json",
-        "bytes": 2795,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-encinitas.json",
-        "bytes": 2792,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-carlsbad.json",
-        "bytes": 2791,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-san-marcos.json",
-        "bytes": 2793,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-escondido.json",
-        "bytes": 2792,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-kitchen-remodeling-an-diego-faq.json",
-        "bytes": 2725,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-kitchen-remodeling-chula-vista-faq.json",
-        "bytes": 2737,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-kitchen-remodeling-coronado-faq.json",
-        "bytes": 2725,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-kitchen-remodeling-national-city-faq.json",
-        "bytes": 2745,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-kitchen-remodeling-imperial-beach-faq.json",
-        "bytes": 2749,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-bathroom-remodeling-an-diego-faq.json",
-        "bytes": 2729,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-bathroom-remodeling-chula-vista-faq.json",
-        "bytes": 2741,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-bathroom-remodeling-coronado-faq.json",
-        "bytes": 2729,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-bathroom-remodeling-national-city-faq.json",
-        "bytes": 2749,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-bathroom-remodeling-imperial-beach-faq.json",
-        "bytes": 2753,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-whole-home-remodeling-an-diego-faq.json",
-        "bytes": 2737,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-whole-home-remodeling-chula-vista-faq.json",
-        "bytes": 2749,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-whole-home-remodeling-coronado-faq.json",
-        "bytes": 2737,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-whole-home-remodeling-national-city-faq.json",
-        "bytes": 2757,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-whole-home-remodeling-imperial-beach-faq.json",
-        "bytes": 2761,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-residential-renovations-an-diego-faq.json",
-        "bytes": 2745,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-residential-renovations-chula-vista-faq.json",
-        "bytes": 2757,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-residential-renovations-coronado-faq.json",
-        "bytes": 2745,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-residential-renovations-national-city-faq.json",
-        "bytes": 2765,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-residential-renovations-imperial-beach-faq.json",
-        "bytes": 2769,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-room-additions-an-diego-faq.json",
-        "bytes": 2709,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-room-additions-chula-vista-faq.json",
-        "bytes": 2721,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-room-additions-coronado-faq.json",
-        "bytes": 2709,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-room-additions-national-city-faq.json",
-        "bytes": 2729,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/avraham-avi-alon-room-additions-imperial-beach-faq.json",
-        "bytes": 2733,
+        "bytes": 2890,
         "purpose": "schema"
       }
     ],
@@ -974,7 +769,7 @@
     "organization": [
       {
         "path": "organization/elite-remodeling-design-organization.json",
-        "bytes": 16664,
+        "bytes": 18360,
         "purpose": "schema"
       }
     ],
@@ -5885,77 +5680,2457 @@
         "path": "faqs/what-should-i-inspect-after-bathroom-wall-tile-installation-is-finished.json",
         "bytes": 1919,
         "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-a-shower-niche-installed.json",
+        "bytes": 2104,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-shower-niche-to-my-existing-bathroom-without-moving-walls.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-prefabricated-shower-niche-better-than-a-custom-one.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-big-should-my-shower-niche-be-for-shampoo-soap-and-family-size-bottles.json",
+        "bytes": 1922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-a-shower-niche-go-so-i-can-actually-reach-it.json",
+        "bytes": 1925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-the-bottom-shelf-of-a-shower-niche-need-to-slope.json",
+        "bytes": 1900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-a-shower-niche-will-not-leak-behind-the-tile.json",
+        "bytes": 1871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-install-a-shower-niche-during-a-bathroom-remodel.json",
+        "bytes": 2005,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-installing-a-shower-niche-cost-more-than-i-expected.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-install-a-shower-niche-myself-or-should-i-hire-a-professional.json",
+        "bytes": 1929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-a-bad-idea-to-put-a-shower-niche-on-an-exterior-wall.json",
+        "bytes": 1885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-add-a-shower-niche-in-san-diego-county.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-sure-my-shower-niche-lines-up-with-the-tile.json",
+        "bytes": 1926,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-long-horizontal-shower-niche-better-than-a-standard-square-niche.json",
+        "bytes": 1839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-shower-niche-be-installed-near-the-shower-valve-or-plumbing.json",
+        "bytes": 1818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-material-for-a-shower-niche-shelf.json",
+        "bytes": 1840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-a-shower-niche-from-becoming-a-dirty-moldy-mess.json",
+        "bytes": 1781,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-there-is-a-pipe-or-wire-where-i-want-my-shower-niche.json",
+        "bytes": 1832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-shower-niche-be-designed-for-kids-tall-adults-or-someone-using-a-shower-se.json",
+        "bytes": 1866,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-shower-niche-when-converting-my-bathtub-to-a-shower.json",
+        "bytes": 1848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-leaking-or-cracked-shower-niche-be-repaired-without-removing-the-whole-sho.json",
+        "bytes": 1905,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-a-contractor-need-before-designing-my-shower-niche.json",
+        "bytes": 1968,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-shower-niche-worth-it-in-a-small-bathroom.json",
+        "bytes": 1778,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-the-latest-i-can-decide-to-add-a-shower-niche.json",
+        "bytes": 1795,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-shower-niche-need-special-planning-in-an-older-or-coastal-san-diego-home.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-my-bathroom-layout-makes-no-sense.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-make-my-tiny-bathroom-feel-bigger-without-adding-square-footage.json",
+        "bytes": 1697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-toilet-and-shower-be-moved-or-are-they-stuck-where-they-are.json",
+        "bytes": 1719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bathroom-layout-redesign-usually-take-from-idea-to-finished-room.json",
+        "bytes": 1746,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-changing-a-bathroom-layout-cost-so-much-more-than-replacing-tile.json",
+        "bytes": 1757,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-a-double-vanity-or-keep-a-single-vanity-with-more-open-floor-spa.json",
+        "bytes": 1719,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-wet-room-a-bad-idea-for-a-small-bathroom.json",
+        "bytes": 1612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-a-curbless-shower-if-my-bathroom-floor-is-already-too-high.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-put-the-shower-next-to-the-bathroom-window-without-causing-problems.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-bathroom-stay-damp-even-with-a-window-and-can-the-redesign-fix-it.json",
+        "bytes": 1766,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-fix-a-bathroom-door-that-blocks-the-vanity-or-hits-the-toilet.json",
+        "bytes": 1610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-i-add-storage-if-my-bathroom-has-no-room-for-another-cabinet.json",
+        "bytes": 1648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-layout-changes-help-if-i-want-to-age-in-place.json",
+        "bytes": 1611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remove-the-tub-if-this-is-the-only-bathroom-my-kids-use.json",
+        "bytes": 1594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-keeping-the-same-bathroom-layout-always-the-cheapest-option.json",
+        "bytes": 1585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-redesign-my-bathroom-layout-myself-or-do-i-need-a-design-build-company.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-bathroom-3d-renderings-accurate-enough-to-trust-before-construction.json",
+        "bytes": 1664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-demolition-reveals-mold-rot-or-water-damage-behind-the-bathroom.json",
+        "bytes": 1712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-to-redesign-a-bathroom-in-san-diego-or-chula-vista.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-living-near-the-coast-in-coronado-or-imperial-beach-change-my-bathroom-layo.json",
+        "bytes": 1750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-send-a-bathroom-designer-before-asking-for-a-new-layout.json",
+        "bytes": 1647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-house-while-the-only-bathroom-is-being-redesigned.json",
+        "bytes": 1704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-redesigning-a-bathroom-in-an-older-san-diego-home-so-unpredictable.json",
+        "bytes": 1704,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-new-bathroom-still-feel-dark-if-i-add-more-decorative-lights.json",
+        "bytes": 1657,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-large-tile-to-make-my-small-bathroom-look-bigger.json",
+        "bytes": 1653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-my-bathroom-is-becoming-hard-to-use-safely.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-small-bathroom-be-remodeled-for-wheelchair-or-walker-use.json",
+        "bytes": 1839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-an-accessible-bathroom-remodel-actually-work-from-start-to-finish.json",
+        "bytes": 2034,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-will-an-accessible-bathroom-remodel-take-and-what-usually-causes-delays.json",
+        "bytes": 1991,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-accessible-bathroom-remodeling-cost-in-san-diego-county.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-does-a-remodeler-need-to-design-the-right-accessible-bathroom.json",
+        "bytes": 1935,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-with-an-accessible-bathroom-remodel.json",
+        "bytes": 1947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-an-accessible-bathroom-remodel-will-really-improve-daily-l.json",
+        "bytes": 1907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-a-low-threshold-shower-or-a-true-roll-in-shower.json",
+        "bytes": 1803,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-converting-my-bathtub-to-an-accessible-shower-worth-it.json",
+        "bytes": 1886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-grab-bars-go-in-an-accessible-bathroom-and-can-i-add-them-later.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-built-in-shower-seat-fold-down-seat-or-movable-bench.json",
+        "bytes": 1842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-accessible-bathroom-remodel-improve-lighting-and-controls-too-or-is-it-on.json",
+        "bytes": 1939,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-accessible-bathroom-make-my-home-look-like-a-hospital.json",
+        "bytes": 1879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-an-accessible-bathroom-remodel-in-san-diego-chula-vista-or.json",
+        "bytes": 2018,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-living-near-the-coast-in-coronado-or-imperial-beach-change-an-accessible-ba.json",
+        "bytes": 2036,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-bathroom-more-accessible-if-i-cannot-afford-a-full-remodel.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-diy-accessible-bathroom-changes-or-hire-a-remodeling-company.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-an-accessible-bathroom-remodeler-if-i-had-a-bad-experience-bef.json",
+        "bytes": 1845,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-accessible-bathroom-be-remodeled-quickly-if-someone-needs-it-urgently.json",
+        "bytes": 1831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-permits-or-inspections-delay-my-accessible-bathroom-remodel.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-tell-a-remodeler-about-a-wheelchair-walker-or-caregiver-before-des.json",
+        "bytes": 1896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-an-accessible-bathroom-easier-to-clean-and-maintain.json",
+        "bytes": 1805,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-prepare-before-meeting-an-accessible-bathroom-remodeling-company.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-move-the-toilet-or-plumbing-to-make-my-bathroom-accessible.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-renovate-my-entire-house-but-have-no-idea-wh.json",
+        "bytes": 1710,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-whole-house-renovation-actually-work-from-the-first-meeting-to-the-fi.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-whole-house-renovation-cost-in-san-diego-if-i-want-to-update-eve.json",
+        "bytes": 1677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-whole-house-remodel-take-when-i-still-need-to-live-there.json",
+        "bytes": 1673,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-a-whole-house-renovation-in-san-diego-chula-vista-or-coron.json",
+        "bytes": 1784,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-renovate-my-house-in-phases-if-i-cannot-afford-the-whole-project-at-once.json",
+        "bytes": 1640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-family-stay-in-the-house-during-a-whole-home-remodel-or-do-we-need-to-mov.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-problems-can-derail-a-whole-house-renovation-in-an-older-san-diego-h.json",
+        "bytes": 1614,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-contractors-for-a-whole-house-remodel-without-getting-burned-by.json",
+        "bytes": 1745,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-design-build-better-than-hiring-an-architect-and-contractor-separately-for-a.json",
+        "bytes": 1760,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-bring-to-a-whole-house-renovation-consultation.json",
+        "bytes": 1564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-3d-renderings-worth-paying-for-before-a-whole-house-remodel.json",
+        "bytes": 1562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-cut-first-when-my-whole-house-renovation-budget-is-too-high.json",
+        "bytes": 1572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-extra-money-should-i-keep-aside-for-unexpected-whole-house-renovation-c.json",
+        "bytes": 1613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-do-i-need-to-choose-cabinets-flooring-appliances-and-fixtures-for-a-whole-h.json",
+        "bytes": 1678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-sure-a-whole-house-renovation-improves-how-my-family-actually-liv.json",
+        "bytes": 1649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-think-about-before-combining-a-kitchen-remodel-with-the-rest-of-my.json",
+        "bytes": 1708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-bathroom-changes-cause-so-many-delays-in-a-whole-house-remodel.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-include-an-adu-or-garage-conversion-in-my-whole-house-renovation-plan.json",
+        "bytes": 1658,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-room-addition-better-than-reworking-the-existing-rooms-in-my-san-diego-home.json",
+        "bytes": 1642,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-living-near-the-coast-in-coronado-or-imperial-beach-change-how-a-whole-hous.json",
+        "bytes": 1724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-different-about-renovating-an-older-home-in-coronado-national-city-or-ce.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-last-contractor-did-bad-work-and-i-want-to-restart-the-whole-house-r.json",
+        "bytes": 1647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-renovate-a-house-if-i-have-no-original-plans-permits-or-drawings.json",
+        "bytes": 1638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-control-of-decisions-and-communication-during-a-whole-home-renovat.json",
+        "bytes": 1622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-before-renovating-an-older-home.json",
+        "bytes": 1765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-older-house-handle-a-major-remodel-or-room-addition.json",
+        "bytes": 1710,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-an-older-home-renovation-work-from-start-to-finish.json",
+        "bytes": 1702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-renovate-an-older-home-in-san-diego-county.json",
+        "bytes": 1760,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-renovating-an-older-home-cost-more-than-i-expected.json",
+        "bytes": 1734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-gather-before-getting-an-older-home-renovation-estimat.json",
+        "bytes": 1841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-problems-are-common-when-renovating-an-older-house.json",
+        "bytes": 1726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-renovate-a-pre-1978-home-without-creating-lead-paint-dust.json",
+        "bytes": 1702,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-need-permits-to-remodel-an-older-home-in-san-diego.json",
+        "bytes": 1818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-modernize-an-older-home-without-losing-its-original-character.json",
+        "bytes": 1788,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-different-about-renovating-an-older-coastal-home-in-coronado-or-imperial.json",
+        "bytes": 1824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-older-home-during-a-renovation.json",
+        "bytes": 1627,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-prioritize-when-remodeling-an-old-kitchen.json",
+        "bytes": 1677,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-before-remodeling-a-bathroom-in-an-old-house.json",
+        "bytes": 1676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-converting-an-old-garage-into-living-space-worth-it.json",
+        "bytes": 1616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-an-adu-or-add-onto-my-older-house.json",
+        "bytes": 1657,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-have-no-plans-or-permits-for-my-older-house.json",
+        "bytes": 1693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-compare-remodeling-contractors-for-an-older-home.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-a-previous-remodel-in-my-old-house-was-done-badly.json",
+        "bytes": 1668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-an-older-home-renovation-from-going-over-budget.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-does-a-whole-home-renovation-make-more-sense-than-remodeling-one-room-at-a.json",
+        "bytes": 1722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-renovating-an-older-home-make-it-more-comfortable-and-energy-efficient.json",
+        "bytes": 1670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-renovate-an-older-house-myself-to-save-money.json",
+        "bytes": 1675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-there-a-best-time-of-year-to-renovate-an-older-home-in-san-diego.json",
+        "bytes": 1752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-be-included-in-an-older-home-renovation-contract-or-proposal.json",
+        "bytes": 1836,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-remove-a-wall-between-my-kitchen-and-living.json",
+        "bytes": 2111,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-fully-open-floor-plan-actually-better-than-removing-only-part-of-the-wall.json",
+        "bytes": 1932,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-open-up-a-kitchen-and-living-room-in-san-diego.json",
+        "bytes": 2118,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-an-open-concept-kitchen-remodel-usually-take-if-a-wall-has-to-come.json",
+        "bytes": 2078,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-whether-the-wall-i-want-removed-is-load-bearing.json",
+        "bytes": 1915,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remodel-an-older-san-diego-house-into-an-open-floor-plan-if-there-are-no-o.json",
+        "bytes": 1981,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-do-if-i-want-an-open-concept-look-but-cannot-afford-to-remove-the-who.json",
+        "bytes": 1963,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-design-an-open-kitchen-so-people-are-not-constantly-blocking-the-cookin.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-an-open-concept-house-from-becoming-unbearably-loud.json",
+        "bytes": 1939,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-an-open-concept-kitchen-make-the-whole-house-smell-like-food.json",
+        "bytes": 1925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-biggest-disadvantages-of-an-open-floor-plan-that-remodeling-compani.json",
+        "bytes": 1886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remove-a-wall-for-an-open-concept-remodel-in-san-diego-cou.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-open-concept-remodels-different-in-coronado-or-imperial-beach-than-in-inland.json",
+        "bytes": 2057,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-buy-cabinets-and-appliances-before-hiring-someone-to-open-up-the-floor.json",
+        "bytes": 1947,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-to-the-flooring-where-the-wall-used-to-be.json",
+        "bytes": 1743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-opening-up-my-kitchen-and-living-room-increase-my-home-s-value.json",
+        "bytes": 1943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-an-open-concept-remodel-work-when-my-budget-is-tight.json",
+        "bytes": 1957,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-house-during-an-open-concept-kitchen-remodel.json",
+        "bytes": 1858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-open-up-the-main-house-now-if-i-may-add-an-adu-or-convert-the-garage-la.json",
+        "bytes": 1941,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-an-open-floor-plan-make-my-san-diego-home-more-accessible-for-aging-parents.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-plan-an-open-concept-remodel-for-san-diego-s-sun-and-coastal-climat.json",
+        "bytes": 1940,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-getting-bids-for-an-open-concept-remodel.json",
+        "bytes": 2003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-trust-a-3d-design-to-show-whether-my-open-floor-plan-will-really-work.json",
+        "bytes": 1904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-expect-if-the-wall-removal-requires-a-beam-and-posts.json",
+        "bytes": 1924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-avoid-losing-all-my-storage-when-i-open-up-the-kitchen.json",
+        "bytes": 1822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-my-house-layout-makes-no-sense-anymore.json",
+        "bytes": 1904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-existing-floor-plan-be-redesigned-without-adding-square-footage.json",
+        "bytes": 1954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-professional-floor-plan-redesign-actually-work-from-start-to-finish.json",
+        "bytes": 2061,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-floor-plan-redesign-take-if-i-want-to-remodel-soon.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-redesign-a-floor-plan-before-construction-starts.json",
+        "bytes": 1868,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-redesigning-my-floor-plan-worth-it-or-should-i-just-remodel-the-rooms-as-they.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-removing-walls-during-a-floor-plan-redesign.json",
+        "bytes": 1755,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-a-redesigned-floor-plan-will-work-in-real-life.json",
+        "bytes": 1849,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-have-no-original-blueprints-or-accurate-floor-plans-for-my-house.json",
+        "bytes": 1903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-open-floor-plan-really-better-for-a-san-diego-home.json",
+        "bytes": 1669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-move-my-kitchen-to-another-room-during-a-floor-plan-redesign.json",
+        "bytes": 1764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-relocate-a-bathroom-to-improve-the-floor-plan-or-is-plumbing-too-difficult.json",
+        "bytes": 1758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-fit-more-bedrooms-or-an-office-without-making-the-house-feel-cramped.json",
+        "bytes": 1811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-my-redesigned-floor-plan-need-permits-in-san-diego-county.json",
+        "bytes": 1805,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-smartest-floor-plan-redesign-if-my-remodeling-budget-is-limited.json",
+        "bytes": 1777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-redesign-my-floor-plan-quickly-when-i-need-the-remodel-started-soon.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-floor-plan-redesign-companies-when-everyone-shows-attractive-3d.json",
+        "bytes": 1882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-3d-floor-plan-renderings-accurate-enough-to-make-remodeling-decisions.json",
+        "bytes": 1829,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-before-turning-my-garage-into-living-space.json",
+        "bytes": 1733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-redesign-my-property-layout-if-i-want-an-adu.json",
+        "bytes": 1734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-floor-plan-redesign-need-special-planning-for-a-coastal-home-in-coronado.json",
+        "bytes": 1913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-floor-plan-redesign-make-my-home-easier-to-use-as-i-get-older.json",
+        "bytes": 1807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-a-bad-remodel-before-how-can-i-avoid-another-floor-plan-redesign-mistake.json",
+        "bytes": 1815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-new-floor-plan-look-spacious-on-paper-but-feel-too-small-with-furnit.json",
+        "bytes": 1752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-systems-should-be-checked-before-approving-a-new-floor-plan.json",
+        "bytes": 1789,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-before-removing-an-interior-wall.json",
+        "bytes": 1937,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-if-an-interior-wall-is-load-bearing-before-i-remove-it.json",
+        "bytes": 1856,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remove-an-interior-wall-in-san-diego-county.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-actually-happens-during-an-interior-wall-removal-project.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-remove-an-interior-wall.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-remove-an-interior-wall.json",
+        "bytes": 1961,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-getting-quotes-to-remove-a-wall.json",
+        "bytes": 1995,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remove-an-interior-wall-myself-or-should-i-hire-a-professional.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-there-are-electrical-wires-plumbing-or-hvac-ducts-inside-the-wall.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-support-is-needed-after-removing-a-load-bearing-interior-wall.json",
+        "bytes": 1891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-removing-a-wall-require-new-posts-or-foundation-work.json",
+        "bytes": 1894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-messy-and-disruptive-is-interior-wall-removal.json",
+        "bytes": 1815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remove-the-whole-wall-or-create-a-wider-opening-instead.json",
+        "bytes": 1911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-interior-wall-in-a-one-story-house-automatically-safe-to-remove.json",
+        "bytes": 1850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-removing-an-interior-wall-worth-the-money.json",
+        "bytes": 1938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/could-removing-an-interior-wall-be-harder-in-an-older-san-diego-or-coronado-home.json",
+        "bytes": 2092,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-wall-removal-permitting-differ-between-san-diego-chula-vista-and-coronado.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-engineer-to-remove-an-interior-wall.json",
+        "bytes": 1954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-to-the-floor-and-ceiling-after-an-interior-wall-is-removed.json",
+        "bytes": 1912,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-removing-a-wall-affect-building-code-or-inspection-requirements.json",
+        "bytes": 1968,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-interior-wall-is-part-of-a-fire-or-sound-separation.json",
+        "bytes": 1922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-a-general-remodeler-designer-or-structural-professional-for-wall-r.json",
+        "bytes": 2194,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-want-a-completely-open-room-but-the-beam-or-posts-get-in-the-way.json",
+        "bytes": 1911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-after-the-wall-is-opened.json",
+        "bytes": 1865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remove-the-wall-separately-or-include-it-in-a-larger-remodel.json",
+        "bytes": 2054,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-remodel-my-living-room-but-have-no-idea-wher.json",
+        "bytes": 2548,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-remodeling-my-living-room-actually-worth-it-or-should-i-just-repaint-and-buy.json",
+        "bytes": 2356,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-living-room-remodel-cost-in-san-diego-and-what-makes-the-price-j.json",
+        "bytes": 2315,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-living-room-remodel-really-take-if-i-need-it-finished-before-gue.json",
+        "bytes": 2385,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remodel-my-living-room-in-san-diego-chula-vista-or-coronad.json",
+        "bytes": 2424,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remove-the-wall-between-my-living-room-and-kitchen-or-will-that-create-a-m.json",
+        "bytes": 2258,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-plan-my-living-room-layout-so-the-new-furniture-and-built-ins-do-not-ma.json",
+        "bytes": 2218,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-is-best-for-a-living-room-with-kids-pets-and-lots-of-foot-traffic.json",
+        "bytes": 2244,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-know-before-remodeling-an-old-fireplace-in-my-living-room.json",
+        "bytes": 2301,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-living-room-brighter-without-making-it-feel-harsh-or-full-of-r.json",
+        "bytes": 2203,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-living-room-built-ins-worth-it-and-how-do-i-avoid-ending-up-with-unusable-sh.json",
+        "bytes": 2271,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-family-stay-home-during-a-living-room-remodel-or-will-we-need-to-move-out.json",
+        "bytes": 2246,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-insulation-better-windows-or-hvac-changes-during-my-living-room-rem.json",
+        "bytes": 2324,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-i-get-multiple-quotes-for-my-living-room-remodel.json",
+        "bytes": 2314,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-the-contractor-finds-water-damage-bad-wiring-or-other-problems-d.json",
+        "bytes": 2289,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-change-in-a-living-room-remodel-for-a-coastal-home-in-coronado-or.json",
+        "bytes": 2309,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-only-the-living-room-or-renovate-the-connected-kitchen-and-hall.json",
+        "bytes": 2288,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-living-room-has-a-terrible-layout-what-can-a-remodel-actually-fix-without-reb.json",
+        "bytes": 2197,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-i-put-the-tv-during-a-living-room-remodel-so-i-do-not-regret-it-lat.json",
+        "bytes": 2181,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-remodel-my-living-room-on-a-limited-budget-without-wasting-money.json",
+        "bytes": 2192,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-remodeled-living-room-safer-and-easier-to-use-as-i-get-older.json",
+        "bytes": 2215,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-can-san-diego-living-room-permits-take-and-can-i-start-demolition-while.json",
+        "bytes": 2354,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-trustworthy-living-room-remodeling-contractor-after-a-bad-expe.json",
+        "bytes": 2432,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-an-old-living-room-need-a-full-gut-remodel-or-can-i-update-it-in-smaller-st.json",
+        "bytes": 2207,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-the-living-room-remodeling-process-differ-between-san-diego-chula-vista-cor.json",
+        "bytes": 2367,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-remodel-my-dining-room-but-have-no-idea-wher.json",
+        "bytes": 2318,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remodel-my-dining-room-without-making-it-bigger-or-knocking-down-walls.json",
+        "bytes": 2144,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-dining-room-remodeling-cost-when-i-have-a-limited-budget.json",
+        "bytes": 2157,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-will-my-dining-room-remodel-take-if-i-need-it-finished-before-the-holid.json",
+        "bytes": 2122,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remodel-a-dining-room-in-san-diego-or-chula-vista.json",
+        "bytes": 2121,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-dining-room-upgrades-are-actually-worth-the-money-if-i-want-better-everyday.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-could-go-wrong-if-i-remove-the-wall-between-my-dining-room-and-kitchen.json",
+        "bytes": 2168,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-open-up-my-dining-room-to-the-kitchen-or-keep-the-rooms-separate.json",
+        "bytes": 1999,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-special-dining-room-remodeling-concerns-for-a-coastal-home-in-coronado.json",
+        "bytes": 2190,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-dining-room-remodel-include-better-lighting-and-more-outlets-without-openi.json",
+        "bytes": 2206,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-is-best-for-a-dining-room-that-connects-to-my-kitchen.json",
+        "bytes": 1997,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-built-in-cabinets-in-a-dining-room-worth-the-cost-or-should-i-buy-furniture.json",
+        "bytes": 2047,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remodel-my-dining-room-if-i-have-no-original-plans-or-documentation-for-th.json",
+        "bytes": 2132,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-a-remodeling-company-for-a-dining-room-or-can-i-manage-the-trad.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-dining-room-has-a-water-stain-or-musty-smell-before-remod.json",
+        "bytes": 2036,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-family-stay-in-the-house-while-the-dining-room-is-being-remodeled.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-dining-room-materials-and-design-decisions-do-i-need-to-choose-before-const.json",
+        "bytes": 2040,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-a-small-dining-room-feel-bigger-without-adding-an-addition.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-dining-room-addition-better-than-remodeling-the-room-i-already-have.json",
+        "bytes": 2066,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-dining-room-remodeling-quotes-when-every-contractor-describes-t.json",
+        "bytes": 2072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-check-before-remodeling-a-dining-room-in-an-older-san-diego-home.json",
+        "bytes": 2067,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-dining-room-remodel-make-the-space-easier-to-use-for-someone-with-mobility.json",
+        "bytes": 2038,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-replace-my-dining-room-chandelier-during-the-remodel-or-will-that-create-e.json",
+        "bytes": 2089,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-the-dining-room-alone-or-update-the-nearby-living-room-and-kitc.json",
+        "bytes": 2029,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-do-if-my-dining-room-remodel-is-running-late-and-i-need-the-room-for.json",
+        "bytes": 2152,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-remodel-my-bedroom-but-have-no-idea-where-to.json",
+        "bytes": 2049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remodel-a-bedroom-in-san-diego-or-can-i-just-start-the-wor.json",
+        "bytes": 2045,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-figure-out-the-best-layout-for-a-bedroom-remodel-when-the-room-is-awkwa.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-bedroom-remodel-take-if-i-want-new-floors-lighting-paint-and-a-b.json",
+        "bytes": 2059,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-for-a-bedroom-remodel-in-san-diego-when-online-prices-a.json",
+        "bytes": 2109,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-when-two-bedroom-remodeling-bids-are-thousands-of-dollars.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-still-sleep-in-my-bedroom-while-it-is-being-remodeled-or-do-i-need-to-move.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-my-new-bedroom-recessed-lights-flicker-when-dimmed-and-how-should-i-preve.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-choose-carpet-hardwood-or-luxury-vinyl-for-a-bedroom-remodel-near-the-c.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-get-more-closet-storage-without-making-my-bedroom-feel-smaller.json",
+        "bytes": 1879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-actually-helps-block-traffic-and-neighbor-noise-during-a-bedroom-remodel.json",
+        "bytes": 1934,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-replacing-my-bedroom-windows-worth-it-or-should-i-just-add-better-blinds-and.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-my-bedroom-and-attached-bathroom-together-or-do-them-as-separat.json",
+        "bytes": 1968,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-about-an-old-popcorn-ceiling-before-remodeling-my-bedroom.json",
+        "bytes": 1927,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-remodel-my-existing-bedroom-or-build-a-bedroom-addition.json",
+        "bytes": 2044,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-problems-could-add-cost-after-my-bedroom-remodel-starts.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-finish-a-bedroom-remodel-before-guests-arrive-if-the-deadline-is-only.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-i-cut-from-a-bedroom-remodel-budget-without-regretting-it-later.json",
+        "bytes": 2003,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-diy-part-of-my-bedroom-remodel-and-hire-a-contractor-only-for-the-difficul.json",
+        "bytes": 1983,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-remodeling-my-bedroom-increase-my-home-s-value-or-am-i-just-spending-money.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-remodel-a-bedroom-so-it-will-still-work-as-i-get-older.json",
+        "bytes": 1920,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-change-in-a-bedroom-remodel-if-i-live-near-the-water-in-coronado-o.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-remodeling-an-older-bedroom-in-north-park-la-mesa-or-national-city-different.json",
+        "bytes": 2093,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-contingency-should-i-keep-aside-for-surprises-in-a-bedroom-remodel.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-my-small-bedroom-feel-bigger-without-knocking-down-walls.json",
+        "bytes": 1925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-remodel-a-home-office-but-have-no-idea-where.json",
+        "bytes": 1910,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-to-remodel-a-home-office-in-san-diego.json",
+        "bytes": 1828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-home-office-remodel-usually-take-if-i-need-it-finished-soon.json",
+        "bytes": 1882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-remodel-a-home-office-in-san-diego-county.json",
+        "bytes": 1803,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-a-dedicated-electrical-circuit-during-my-home-office-remodel.json",
+        "bytes": 1828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-remodel-make-my-home-office-quiet-enough-for-confidential-video-calls.json",
+        "bytes": 1717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-plan-a-home-office-remodel-for-glare-and-heat-near-the-coast-in-cor.json",
+        "bytes": 1764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-install-built-in-home-office-cabinets-or-buy-freestanding-furniture.json",
+        "bytes": 1786,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-remodel-one-room-to-work-as-both-a-home-office-and-a-guest-room.json",
+        "bytes": 1691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-converting-my-garage-into-a-home-office-worth-it-or-is-it-too-complicated.json",
+        "bytes": 1880,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-a-new-room-for-my-home-office-instead-of-remodeling-an-existing-bed.json",
+        "bytes": 1839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-measurements-should-i-take-before-remodeling-a-home-office-for-ergonomic-wo.json",
+        "bytes": 1718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-lighting-should-i-include-in-a-home-office-remodel-so-my-eyes-do-not-feel-s.json",
+        "bytes": 1672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-better-ventilation-or-hvac-for-a-home-office-i-use-all-day.json",
+        "bytes": 1681,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-hide-all-the-computer-cables-when-remodeling-my-home-office.json",
+        "bytes": 1668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-remodeling-my-home-office-worth-it-if-i-might-stop-working-from-home-later.json",
+        "bytes": 1777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-before-hiring-someone-after-my-last-home-office-remodel-went-b.json",
+        "bytes": 1794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-cut-first-if-my-home-office-remodeling-budget-is-tight.json",
+        "bytes": 1748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-remodel-a-home-office-when-kids-or-pets-constantly-interrupt-my-work.json",
+        "bytes": 1732,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hidden-problems-should-i-check-before-finishing-a-dark-or-unused-space-as-a.json",
+        "bytes": 1813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-remodeling-a-home-office-be-different-if-my-house-is-in-a-historic-san-dieg.json",
+        "bytes": 1846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-remodel-my-home-office-for-better-zoom-backgrounds-and-video-calls.json",
+        "bytes": 1720,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-best-way-to-soundproof-a-home-office-next-to-a-bedroom.json",
+        "bytes": 1771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-existing-home-office-was-converted-without-permits-and-i-have-no-pape.json",
+        "bytes": 1854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-remodel-my-home-office-separately-or-include-it-in-a-whole-home-renovat.json",
+        "bytes": 1900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-before-remodeling-my-laundry-room.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-move-my-washer-and-dryer-to-another-room-during-a-remodel.json",
+        "bytes": 1954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-remodel-a-laundry-room-in-san-diego-county.json",
+        "bytes": 2048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-laundry-room-remodel-cost-in-san-diego.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-laundry-room-remodel-usually-take.json",
+        "bytes": 1955,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-hookups-and-connections-does-a-remodeled-laundry-room-need.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-a-dryer-vent-be-handled-during-a-laundry-room-remodel.json",
+        "bytes": 1915,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-safe-to-put-a-laundry-room-upstairs-during-a-remodel.json",
+        "bytes": 1865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-storage-works-best-in-a-small-laundry-room.json",
+        "bytes": 1816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-stack-my-washer-and-dryer-or-keep-them-side-by-side.json",
+        "bytes": 1801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-adding-a-utility-sink-worth-it-in-a-laundry-room-remodel.json",
+        "bytes": 1878,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-is-best-for-a-laundry-room.json",
+        "bytes": 1743,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-lighting-should-a-remodeled-laundry-room-have.json",
+        "bytes": 1790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-space-do-i-need-around-laundry-machines.json",
+        "bytes": 1834,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-combine-my-laundry-room-and-mudroom.json",
+        "bytes": 1749,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-remodel-my-laundry-room-myself-to-save-money.json",
+        "bytes": 1925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-keep-a-laundry-room-remodel-within-budget.json",
+        "bytes": 1891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-laundry-room-floor-has-water-damage.json",
+        "bytes": 1852,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-stop-a-laundry-room-from-smelling-damp-or-musty.json",
+        "bytes": 1881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-living-near-the-coast-change-how-i-should-remodel-my-laundry-room.json",
+        "bytes": 1929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-problems-should-i-expect-when-remodeling-a-laundry-room-in-an-older-san-die.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-a-remodeled-laundry-room-easier-for-someone-with-limited-mobility.json",
+        "bytes": 1870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-laundry-room-need-an-exhaust-fan-as-well-as-a-dryer-vent.json",
+        "bytes": 1916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-install-a-countertop-over-my-washer-and-dryer.json",
+        "bytes": 1873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-use-for-laundry-room-walls-and-backsplash.json",
+        "bytes": 1806,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-replace-the-flooring-in-my-house.json",
+        "bytes": 2291,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-full-flooring-replacement-actually-work-from-start-to-finish.json",
+        "bytes": 2255,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-replace-flooring-throughout-a-house.json",
+        "bytes": 2221,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-for-replacing-flooring-and-why-are-quotes-so-different.json",
+        "bytes": 2244,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-flooring-is-best-for-my-home-lvp-laminate-hardwood-tile-or-carpet.json",
+        "bytes": 2237,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-install-new-flooring-over-my-old-floor-or-does-everything-need-to-come-out.json",
+        "bytes": 2185,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-floor-is-damaged-by-a-leak-before-replacing-it.json",
+        "bytes": 2121,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-floor-feel-soft-or-bouncy-and-should-i-replace-it.json",
+        "bytes": 2034,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-replacing-my-floors-mean-i-also-need-new-baseboards-doors-or-cabinets.json",
+        "bytes": 2128,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-have-to-move-all-my-furniture-before-flooring-replacement-starts.json",
+        "bytes": 2109,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-use-the-same-flooring-throughout-the-house-or-mix-materials-by-room.json",
+        "bytes": 2090,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-whether-my-subfloor-needs-leveling-before-new-flooring-goes-in.json",
+        "bytes": 2116,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-compare-before-choosing-a-flooring-product-from-samples.json",
+        "bytes": 2086,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-a-flooring-replacement-estimate-include-so-i-can-compare-contractors.json",
+        "bytes": 2178,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-repair-my-existing-floor-or-replace-the-whole-thing.json",
+        "bytes": 2125,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-the-same-flooring-be-used-on-stairs-and-what-extra-work-does-that-involve.json",
+        "bytes": 2075,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-house-while-the-floors-are-being-replaced.json",
+        "bytes": 2001,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-holds-up-best-with-dogs-cats-kids-and-frequent-spills.json",
+        "bytes": 2085,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-flooring-works-well-in-coastal-san-diego-homes-like-coronado-or-imperial-be.json",
+        "bytes": 2122,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-to-replace-flooring-in-san-diego-chula-vista-or-coronado.json",
+        "bytes": 2412,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-expensive-flooring-actually-worth-it-or-should-i-choose-the-cheapest-option.json",
+        "bytes": 2079,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-replace-the-flooring-one-room-at-a-time-to-spread-out-the-cost.json",
+        "bytes": 2101,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-my-last-flooring-installation-failed-and-i-don-t-want-to-mak.json",
+        "bytes": 2276,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-replacing-my-floors-increase-my-home-s-value-enough-to-justify-the-cost.json",
+        "bytes": 2205,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-have-ready-before-asking-for-a-flooring-replacement-qu.json",
+        "bytes": 2148,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-my-interior-lighting-is-terrible.json",
+        "bytes": 2260,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-recessed-lights-really-better-than-flush-mounts-or-pendants.json",
+        "bytes": 2166,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-replacing-my-old-lights-with-led-fixtures-actually-worth-the-money.json",
+        "bytes": 2108,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-color-temperature-should-i-use-for-my-kitchen-bathroom-and-living-room.json",
+        "bytes": 2099,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-dimmer-switches-when-upgrading-the-lights.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-add-under-cabinet-lighting-without-seeing-wires-everywhere.json",
+        "bytes": 2081,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-bathroom-still-look-dark-after-installing-a-bright-ceiling-light.json",
+        "bytes": 2086,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-should-i-budget-for-upgrading-the-lighting-in-one-room.json",
+        "bytes": 2139,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-electrical-permit-for-new-interior-lights-in-san-diego.json",
+        "bytes": 2143,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-an-interior-lighting-upgrade-usually-take.json",
+        "bytes": 2037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-lights-go-in-a-kitchen-so-i-stop-working-in-my-own-shadow.json",
+        "bytes": 2031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-layered-lighting-mean-and-do-i-really-need-it.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-be-included-in-a-professional-lighting-plan-before-work-starts.json",
+        "bytes": 2023,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-install-new-interior-lights-myself-or-should-i-hire-a-professional.json",
+        "bytes": 2176,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-are-my-new-led-lights-flickering-when-i-dim-them.json",
+        "bytes": 1979,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-whether-a-light-fixture-is-safe-for-my-bathroom.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-lighting-upgrades-make-the-biggest-difference-if-i-have-a-small-budget.json",
+        "bytes": 2126,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-upgrade-the-lighting-now-or-wait-until-i-remodel-the-whole-room.json",
+        "bytes": 2061,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-lighting-upgrades-different-in-an-older-or-historic-san-diego-home.json",
+        "bytes": 2169,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-homes-near-coronado-or-imperial-beach-need-special-interior-lighting-fixtures.json",
+        "bytes": 2216,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-smart-switches-worth-adding-during-an-interior-lighting-remodel.json",
+        "bytes": 2085,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-upgrading-all-my-interior-lights-require-a-new-electrical-panel.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-lighting-be-planned-for-an-adu-garage-conversion-or-room-addition.json",
+        "bytes": 2093,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-my-remodeled-room-feel-glaring-even-though-the-lights-are-attractive.json",
+        "bytes": 2105,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-upgrade-old-recessed-lights-without-cutting-new-holes-in-the-ceiling.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-add-a-room-to-my-house.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-room-addition-project-actually-work-from-start-to-finish.json",
+        "bytes": 2115,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-room-addition-cost-in-san-diego-county-and-why-are-quotes-so-dif.json",
+        "bytes": 2177,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-room-addition-take-in-san-diego-including-permits.json",
+        "bytes": 2091,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-a-room-addition-in-san-diego-chula-vista-or-another-local.json",
+        "bytes": 2243,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-room-if-my-lot-is-small-or-already-close-to-the-property-lines.json",
+        "bytes": 2151,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-adding-a-bathroom-to-a-room-addition-worth-the-extra-cost.json",
+        "bytes": 2052,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-room-addition-increase-my-home-s-value-enough-to-justify-the-cost.json",
+        "bytes": 2137,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-out-or-build-up-for-a-room-addition.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-converting-my-garage-better-than-building-a-new-room-addition.json",
+        "bytes": 2085,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-room-addition-count-as-a-legal-bedroom.json",
+        "bytes": 2049,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-the-room-addition-i-inherited-was-built-without-permits.json",
+        "bytes": 2081,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-compare-room-addition-quotes-when-every-contractor-gives-me-a-differen.json",
+        "bytes": 2131,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-live-in-my-house-during-a-room-addition-project.json",
+        "bytes": 2107,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-room-additions-different-for-homes-near-the-coast-in-coronado-or-imperial-be.json",
+        "bytes": 2221,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-problems-come-up-when-adding-onto-an-older-san-diego-home.json",
+        "bytes": 2072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-design-a-room-addition-for-aging-parents-or-future-accessibility.json",
+        "bytes": 2106,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-my-existing-hvac-system-handle-a-new-room-addition.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-make-a-room-addition-look-like-it-belongs-with-my-existing-house.json",
+        "bytes": 2048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-a-room-addition-if-my-budget-is-limited.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-hire-a-designer-architect-or-contractor-first-for-a-room-addition.json",
+        "bytes": 2069,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-usually-causes-room-addition-costs-to-go-over-budget.json",
+        "bytes": 2029,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-design-build-better-than-hiring-a-designer-and-contractor-separately-for-an-a.json",
+        "bytes": 2192,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-should-i-have-ready-before-getting-a-room-addition-consultation.json",
+        "bytes": 2244,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-include-in-a-room-addition-that-will-be-used-as-a-home-office.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-add-a-bedroom-to-my-house.json",
+        "bytes": 1897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-permit-for-a-bedroom-addition-in-san-diego-county.json",
+        "bytes": 1860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-bedroom-addition-process-work-from-design-to-move-in.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-really-take-to-build-a-bedroom-addition-in-san-diego.json",
+        "bytes": 1913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-adding-one-bedroom-to-a-house-in-san-diego-cost.json",
+        "bytes": 1827,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-if-i-do-not-have-the-original-plans-for-my-house.json",
+        "bytes": 1942,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-add-a-bedroom-out-back-build-up-or-rework-the-existing-floor-pla.json",
+        "bytes": 1904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-primary-bedroom-walk-in-closet-and-bathroom-at-the-same-time.json",
+        "bytes": 1887,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-new-room-count-as-a-legal-bedroom-instead-of-just-extra-space.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bedroom-if-my-san-diego-lot-is-small-or-already-crowded.json",
+        "bytes": 1826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-convert-my-garage-or-build-a-separate-bedroom-addition.json",
+        "bytes": 1910,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-an-attached-bedroom-addition-better-than-a-detached-bedroom-in-the-backyard.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-family-stay-in-the-house-while-a-bedroom-addition-is-being-built.json",
+        "bytes": 1951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-an-architect-or-can-a-design-build-company-handle-my-bedroom-addition.json",
+        "bytes": 2071,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-be-included-in-a-quote-for-a-bedroom-addition-so-i-can-compare-contr.json",
+        "bytes": 1935,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-a-bedroom-addition-more-affordable-without-regretting-it-later.json",
+        "bytes": 1888,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-with-a-bedroom-addition-and-how-do-i-protect-myself.json",
+        "bytes": 1962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-bedroom-additions-different-for-homes-near-the-coast-in-coronado-or-imperial.json",
+        "bytes": 2021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-my-hoa-says-i-cannot-add-a-bedroom-or-changes-the-design.json",
+        "bytes": 1830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-the-city-rejects-my-bedroom-addition-plans.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-adding-a-bedroom-increase-my-home-s-value-enough-to-justify-the-cost.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bedroom-on-a-sloped-or-difficult-lot-in-la-mesa-poway-or-escondido.json",
+        "bytes": 1971,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-a-bedroom-above-my-garage-or-existing-one-story-space.json",
+        "bytes": 1928,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-design-a-bedroom-addition-for-aging-parents-or-adult-children.json",
+        "bytes": 1997,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-a-new-bedroom-comfortable-without-making-my-energy-bills-worse.json",
+        "bytes": 1949,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-add-a-bathroom-to-my-house.json",
+        "bytes": 2309,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-to-add-a-bathroom-in-san-diego-county.json",
+        "bytes": 2165,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-adding-a-bathroom-actually-work-from-start-to-finish.json",
+        "bytes": 2039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-add-a-bathroom-if-i-need-it-finished-quickly.json",
+        "bytes": 2116,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-does-adding-a-bathroom-cost-so-much-more-than-remodeling-one.json",
+        "bytes": 2104,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-is-the-smartest-place-to-add-a-bathroom-in-my-house.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bathroom-in-a-closet-or-under-the-stairs.json",
+        "bytes": 2025,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-harder-or-more-expensive-to-add-a-bathroom-upstairs.json",
+        "bytes": 2064,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bathroom-as-part-of-a-garage-conversion.json",
+        "bytes": 2087,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-add-a-bathroom-to-an-adu-or-put-it-in-the-main-house.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-half-bath-or-full-bathroom-better-for-my-addition.json",
+        "bytes": 2011,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-existing-plumbing-handle-one-more-bathroom.json",
+        "bytes": 1967,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-new-bathroom-need-a-window-or-is-an-exhaust-fan-enough.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-adding-a-bathroom-increase-my-home-s-value-enough-to-justify-the-cost.json",
+        "bytes": 2085,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-add-a-bathroom-for-an-aging-parent-or-someone-with-mobility-issues.json",
+        "bytes": 2096,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bathroom-myself-or-should-i-hire-a-remodeling-company.json",
+        "bytes": 2097,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-if-the-last-contractor-started-my-bathroom-addition-and-left-it.json",
+        "bytes": 2103,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-bathroom-if-my-san-diego-lot-is-small-or-tightly-built.json",
+        "bytes": 2205,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-stay-in-my-home-while-a-new-bathroom-is-being-added.json",
+        "bytes": 2070,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-contractors-for-a-bathroom-addition-without-choosing-the-cheape.json",
+        "bytes": 2297,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-bathroom-materials-should-i-choose-before-construction-starts.json",
+        "bytes": 2100,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-when-adding-a-bathroom-that-i-cannot-see-at-first.json",
+        "bytes": 2057,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-new-bathroom-connect-to-my-existing-sewer-line.json",
+        "bytes": 1985,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-adding-a-bathroom-require-upgrading-my-electrical-panel.json",
+        "bytes": 2036,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prevent-leaks-in-a-newly-added-bathroom-shower.json",
+        "bytes": 1960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-first-if-i-want-to-add-a-primary-suite-to-my-house.json",
+        "bytes": 2221,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-san-diego-county-property-legally-fit-a-primary-suite-addition.json",
+        "bytes": 2171,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-primary-suite-addition-actually-work-from-design-to-construction.json",
+        "bytes": 2236,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-primary-suite-addition-take-in-san-diego.json",
+        "bytes": 2147,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-it-cost-to-add-a-primary-bedroom-suite-in-san-diego-county.json",
+        "bytes": 2258,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-add-just-a-primary-bedroom-or-a-full-primary-suite.json",
+        "bytes": 2102,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-primary-suite-addition-worth-the-money.json",
+        "bytes": 2111,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-do-i-need-before-meeting-a-primary-suite-addition-contractor.json",
+        "bytes": 2188,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-3d-design-help-me-avoid-mistakes-in-a-primary-suite-addition.json",
+        "bytes": 2192,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-go-wrong-with-a-primary-suite-addition.json",
+        "bytes": 2182,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-a-primary-suite-addition-in-san-diego-chula-vista-or-coron.json",
+        "bytes": 2324,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-add-a-primary-suite-if-my-side-yard-is-very-narrow.json",
+        "bytes": 2187,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/where-should-the-new-primary-bathroom-go-to-keep-the-addition-affordable.json",
+        "bytes": 2171,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-we-stay-in-our-house-while-a-primary-suite-addition-is-being-built.json",
+        "bytes": 2158,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-build-a-one-story-or-second-story-primary-suite-addition.json",
+        "bytes": 2148,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-converting-my-garage-better-than-building-a-primary-suite-addition.json",
+        "bytes": 2210,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-prioritize-when-adding-a-bathroom-to-a-primary-suite.json",
+        "bytes": 2125,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-compare-quotes-for-a-primary-suite-addition.json",
+        "bytes": 2079,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-make-a-primary-suite-addition-more-affordable-without-making-it-cheap.json",
+        "bytes": 2229,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-primary-suite-addition-be-finished-quickly-if-we-have-an-urgent-deadline.json",
+        "bytes": 2204,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-ask-if-i-had-a-bad-experience-with-my-last-remodeling-contractor.json",
+        "bytes": 2173,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-adding-a-primary-suite-near-the-coast-in-coronado-or-imperial-beach-change.json",
+        "bytes": 2280,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-older-san-diego-homes-harder-to-add-a-primary-suite-to.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-design-a-primary-suite-addition-for-aging-in-place.json",
+        "bytes": 2113,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-i-change-my-mind-during-a-primary-suite-addition.json",
+        "bytes": 2082,
+        "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 16987,
+        "bytes": 22263,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 175353,
+        "bytes": 60341,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 108676,
+        "bytes": 113677,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15856,
+        "bytes": 20698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1090306,
+        "bytes": 1598006,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 18811,
+        "bytes": 23662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 106893,
+        "bytes": 24803,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "qnas.html",
+        "bytes": 130784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 28902,
+        "bytes": 33823,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 11858,
+        "bytes": 16849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 342348,
+        "bytes": 347310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 80822,
+        "bytes": 85820,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 115317,
+        "bytes": 120209,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 32401,
+        "bytes": 37401,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 9397,
+        "bytes": 14262,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -5967,7 +8142,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4458,
+        "bytes": 7376,
         "purpose": "LLM hint"
       },
       {
@@ -5987,42 +8162,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1758,
+        "bytes": 7717,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 562735,
+        "bytes": 791297,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 157969,
+        "bytes": 221866,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 157969,
+        "bytes": 221866,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4421,
+        "bytes": 7352,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 198950,
+        "bytes": 282908,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 166327,
+        "bytes": 232063,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1642,
+        "bytes": 1720,
         "purpose": "Standard sitemap"
       }
     ]

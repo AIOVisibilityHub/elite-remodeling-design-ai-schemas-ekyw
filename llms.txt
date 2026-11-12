@@ -17,6 +17,27 @@ Elite Remodeling & Design publishes structured AI-readable data for discovery an
 - [ai-data-hub] Elite Remodeling & Design — AI Data Hub — https://eliteremodelingsd.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/ai-data.html
+- [same-as] Elite Remodeling & Design on bbb.org — https://www.bbb.org/us/ca/san-diego/profile/construction/elite-remodeling-design-inc-1126-1000110385
+- [same-as] Elite Remodeling & Design on yelp.com — https://www.yelp.com/biz/elite-remodeling-and-design-san-diego
+- [same-as] Elite Remodeling & Design on houzz.com — https://www.houzz.com/professionals/kitchen-and-bath-remodelers/elite-remodeling-sd-pfvwus-pf~1638629583
+- [same-as] Elite Remodeling & Design on buildzoom.com — https://www.buildzoom.com/contractor/elite-remodeling-and-design
+- [same-as] Elite Remodeling & Design on nextdoor.com — https://nextdoor.com/pages/elite-remodeling-and-design-poway-ca
+- [same-as] Elite Remodeling & Design on chamberofcommerce.com — https://www.chamberofcommerce.com/business-directory/california/san-diego/bathroom-remodeler/2023404464-elite-remodeling
+- [same-as] Elite Remodeling & Design on mapquest.com — https://www.mapquest.com/us/california/elite-remodeling-design-387924423
+- [same-as] Elite Remodeling & Design on reviews.birdeye.com — https://reviews.birdeye.com/elite-remodeling-design-167032753943028
+- [same-as] Elite Remodeling & Design on showmelocal.com — https://www.showmelocal.com/38229890-elite-remodeling-design-san-diego
+- [same-as] Elite Remodeling & Design on homeadvisor.com — https://www.homeadvisor.com/rated.EliteRemodeling.31845389.html
+- [same-as] Elite Remodeling & Design on verifiednode.com — https://www.verifiednode.com/audit/california/san-diego/elite-remodeling-design-inc
+- [same-as] Elite Remodeling & Design on corporationwiki.com — https://www.corporationwiki.com/p/2lfq55/avraham-alon
+- [same-as] Elite Remodeling & Design on bizapedia.com — https://www.bizapedia.com/ca/elite-remodeling-and-design-inc.html
+- [same-as] Elite Remodeling & Design on bizprofile.net — https://www.bizprofile.net/ca/san-diego/elite-remodeling-design-inc
+- [same-as] Elite Remodeling & Design on bizprofile.net — https://www.bizprofile.net/authorized-person/avraham-alon
+- [same-as] Elite Remodeling & Design on homebuilderdigest.com — https://www.homebuilderdigest.com/best-bathroom-remodeling-contractors-san-diego-2024
+- [same-as] Elite Remodeling & Design on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/elite-remodeling-design-ai-schemas
+- [same-as] Elite Remodeling & Design on aiovisibilityhub-elite-remodeling-design-ai-schemas.static.hf.space — https://aiovisibilityhub-elite-remodeling-design-ai-schemas.static.hf.space/index.html
+- [same-as] Elite Remodeling & Design on aiovisibilityhub.srht.site — https://aiovisibilityhub.srht.site/elite-remodeling-design-ai-schemas/
+- [same-as] Elite Remodeling & Design on zenodo.org — https://zenodo.org/records/24178638
+- [same-as] Elite Remodeling & Design on elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io — https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

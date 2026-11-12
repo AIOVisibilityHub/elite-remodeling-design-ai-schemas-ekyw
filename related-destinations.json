@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-11T18:36:17.692Z",
+  "generatedAt": "2026-11-12T22:37:42.710Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -14,7 +14,31 @@
     "canonicalUrl": "https://eliteremodelingsd.aiovisibility.net",
     "primaryWebsiteUrl": "eliteremodelingsd.com",
     "aiDataHub": "https://eliteremodelingsd.aiovisibility.net/ai-data.html",
-    "sameAs": []
+    "sameAs": [
+      "https://www.bbb.org/us/ca/san-diego/profile/construction/elite-remodeling-design-inc-1126-1000110385",
+      "https://www.yelp.com/biz/elite-remodeling-and-design-san-diego",
+      "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/elite-remodeling-sd-pfvwus-pf~1638629583",
+      "https://www.buildzoom.com/contractor/elite-remodeling-and-design",
+      "https://nextdoor.com/pages/elite-remodeling-and-design-poway-ca",
+      "https://www.chamberofcommerce.com/business-directory/california/san-diego/bathroom-remodeler/2023404464-elite-remodeling",
+      "https://www.mapquest.com/us/california/elite-remodeling-design-387924423",
+      "https://reviews.birdeye.com/elite-remodeling-design-167032753943028",
+      "https://www.showmelocal.com/38229890-elite-remodeling-design-san-diego",
+      "https://www.homeadvisor.com/rated.EliteRemodeling.31845389.html",
+      "https://www.verifiednode.com/audit/california/san-diego/elite-remodeling-design-inc",
+      "https://www.corporationwiki.com/p/2lfq55/avraham-alon",
+      "https://www.bizapedia.com/ca/elite-remodeling-and-design-inc.html",
+      "https://www.bizprofile.net/ca/san-diego/elite-remodeling-design-inc",
+      "https://www.bizprofile.net/authorized-person/avraham-alon",
+      "https://www.homebuilderdigest.com/best-bathroom-remodeling-contractors-san-diego-2024",
+      "https://eliteremodelingsd.aiovisibility.net",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/elite-remodeling-design-ai-schemas",
+      "https://aiovisibilityhub-elite-remodeling-design-ai-schemas.static.hf.space/index.html",
+      "https://aiovisibilityhub.srht.site/elite-remodeling-design-ai-schemas/",
+      "https://zenodo.org/records/24178638",
+      "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw",
+      "https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/"
+    ]
   },
   "related": [
     {
@@ -38,6 +62,111 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on bbb.org",
+      "url": "https://www.bbb.org/us/ca/san-diego/profile/construction/elite-remodeling-design-inc-1126-1000110385"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on yelp.com",
+      "url": "https://www.yelp.com/biz/elite-remodeling-and-design-san-diego"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on houzz.com",
+      "url": "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/elite-remodeling-sd-pfvwus-pf~1638629583"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on buildzoom.com",
+      "url": "https://www.buildzoom.com/contractor/elite-remodeling-and-design"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on nextdoor.com",
+      "url": "https://nextdoor.com/pages/elite-remodeling-and-design-poway-ca"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on chamberofcommerce.com",
+      "url": "https://www.chamberofcommerce.com/business-directory/california/san-diego/bathroom-remodeler/2023404464-elite-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/elite-remodeling-design-387924423"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on reviews.birdeye.com",
+      "url": "https://reviews.birdeye.com/elite-remodeling-design-167032753943028"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on showmelocal.com",
+      "url": "https://www.showmelocal.com/38229890-elite-remodeling-design-san-diego"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on homeadvisor.com",
+      "url": "https://www.homeadvisor.com/rated.EliteRemodeling.31845389.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on verifiednode.com",
+      "url": "https://www.verifiednode.com/audit/california/san-diego/elite-remodeling-design-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on corporationwiki.com",
+      "url": "https://www.corporationwiki.com/p/2lfq55/avraham-alon"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on bizapedia.com",
+      "url": "https://www.bizapedia.com/ca/elite-remodeling-and-design-inc.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on bizprofile.net",
+      "url": "https://www.bizprofile.net/ca/san-diego/elite-remodeling-design-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on bizprofile.net",
+      "url": "https://www.bizprofile.net/authorized-person/avraham-alon"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on homebuilderdigest.com",
+      "url": "https://www.homebuilderdigest.com/best-bathroom-remodeling-contractors-san-diego-2024"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/elite-remodeling-design-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on aiovisibilityhub-elite-remodeling-design-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-elite-remodeling-design-ai-schemas.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on aiovisibilityhub.srht.site",
+      "url": "https://aiovisibilityhub.srht.site/elite-remodeling-design-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on zenodo.org",
+      "url": "https://zenodo.org/records/24178638"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io",
+      "url": "https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/"
     }
   ],
   "destinations": {
