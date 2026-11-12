@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-12T22:39:52.258Z",
+  "generatedAt": "2026-11-12T22:46:51.284Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,7 +37,8 @@
       "https://aiovisibilityhub.srht.site/elite-remodeling-design-ai-schemas/",
       "https://zenodo.org/records/24178638",
       "https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw",
-      "https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/"
+      "https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/",
+      "https://www.aibizprofile.com/profiles/elite-remodeling-design"
     ]
   },
   "related": [
@@ -167,6 +168,11 @@
       "role": "same-as",
       "label": "Elite Remodeling & Design on elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io",
       "url": "https://elite-remodeling-design-ai-schemas-7q3l-ca5ef4.gitlab.io/"
+    },
+    {
+      "role": "same-as",
+      "label": "Elite Remodeling & Design on aibizprofile.com",
+      "url": "https://www.aibizprofile.com/profiles/elite-remodeling-design"
     }
   ],
   "destinations": {
