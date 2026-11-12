@@ -19,7 +19,7 @@ Elite Remodeling & Design publishes a structured AI Data Package designed for hi
 - [canonical] Elite Remodeling & Design — canonical website — https://eliteremodelingsd.aiovisibility.net
 - [ai-data-hub] Elite Remodeling & Design — AI Data Hub — https://eliteremodelingsd.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/elite-remodeling-design-ai-schemas-ekyw
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/elite-remodeling-design-ai-schemas-ekyw/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://eliteremodelingsd.aiovisibility.net/ai-data.html
 - [same-as] Elite Remodeling & Design on bbb.org — https://www.bbb.org/us/ca/san-diego/profile/construction/elite-remodeling-design-inc-1126-1000110385
 - [same-as] Elite Remodeling & Design on yelp.com — https://www.yelp.com/biz/elite-remodeling-and-design-san-diego
 - [same-as] Elite Remodeling & Design on houzz.com — https://www.houzz.com/professionals/kitchen-and-bath-remodelers/elite-remodeling-sd-pfvwus-pf~1638629583
